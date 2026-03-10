@@ -1,0 +1,199 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "type"
+    ]
+  },
+  "data": [
+    {
+      "type": "ProduceCardGrowEffectType_LessonAdd",
+      "name": "打分增加",
+      "produceCardCustomizeTemplate": "打分+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonReduce",
+      "name": "打分值減少",
+      "produceCardCustomizeTemplate": "打分-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountAdd",
+      "name": "打分上升次數增加",
+      "produceCardCustomizeTemplate": "打分上升次數+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonCountReduce",
+      "name": "打分上升次數減少",
+      "produceCardCustomizeTemplate": "打分上升次數-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockAdd",
+      "name": "元氣值增加",
+      "produceCardCustomizeTemplate": "元氣+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_BlockReduce",
+      "name": "元氣值減少",
+      "produceCardCustomizeTemplate": "元氣-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
+      "name": "全力值值增加",
+      "produceCardCustomizeTemplate": "全力值+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
+      "name": "全力值值減少",
+      "produceCardCustomizeTemplate": "全力值-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffReduce",
+      "name": "強化狀態消耗減少",
+      "produceCardCustomizeTemplate": "強化狀態消耗-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostBuffAdd",
+      "name": "強化狀態消耗增加",
+      "produceCardCustomizeTemplate": "強化狀態消耗+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostReduce",
+      "name": "消耗減少",
+      "produceCardCustomizeTemplate": "消耗-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostAdd",
+      "name": "成本值增加",
+      "produceCardCustomizeTemplate": "消耗+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
+      "name": "體力消耗消耗減少",
+      "produceCardCustomizeTemplate": "體力消耗消耗-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
+      "name": "體力消耗消耗增加",
+      "produceCardCustomizeTemplate": "體力消耗消耗+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+      "name": "好調值增加",
+      "produceCardCustomizeTemplate": "好調+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
+      "name": "好調值減少",
+      "produceCardCustomizeTemplate": "好調-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffAdd",
+      "name": "集中值增加",
+      "produceCardCustomizeTemplate": "集中+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_LessonBuffReduce",
+      "name": "集中值減少",
+      "produceCardCustomizeTemplate": "集中-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewAdd",
+      "name": "好印象值增加",
+      "produceCardCustomizeTemplate": "好印象+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ReviewReduce",
+      "name": "好印象值減少",
+      "produceCardCustomizeTemplate": "好印象-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveAdd",
+      "name": "幹勁值增加",
+      "produceCardCustomizeTemplate": "幹勁+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_AggressiveReduce",
+      "name": "幹勁值減少",
+      "produceCardCustomizeTemplate": "幹勁-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawAdd",
+      "name": "抽牌張數增加",
+      "produceCardCustomizeTemplate": "抽卡+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardDrawReduce",
+      "name": "抽牌張數減少",
+      "produceCardCustomizeTemplate": "抽卡-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
+      "name": "絕好調值增加",
+      "produceCardCustomizeTemplate": "絕好調+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
+      "name": "絕好調值減少",
+      "produceCardCustomizeTemplate": "絕好調-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
+      "name": "體耗減半值增加",
+      "produceCardCustomizeTemplate": "體耗減半+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
+      "name": "體耗減半值減少",
+      "produceCardCustomizeTemplate": "體耗減半-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
+      "name": "體耗翻倍值減少",
+      "produceCardCustomizeTemplate": "體耗翻倍+"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
+      "name": "體耗翻倍值增加",
+      "produceCardCustomizeTemplate": "體耗翻倍-"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectAdd",
+      "name": "效果追加",
+      "produceCardCustomizeTemplate": "效果追加"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectDelete",
+      "name": "效果刪除",
+      "produceCardCustomizeTemplate": "效果刪除"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_EffectChange",
+      "name": "效果置換",
+      "produceCardCustomizeTemplate": "效果更改"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+      "name": "成長效果置換",
+      "produceCardCustomizeTemplate": "成長更改"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayTriggerChange",
+      "name": "置換使用條件",
+      "produceCardCustomizeTemplate": "條件變更"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
+      "name": "置換效果發動條件",
+      "produceCardCustomizeTemplate": "條件變更"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
+      "name": "使用後移動終點變更",
+      "produceCardCustomizeTemplate": "移動終點變更"
+    },
+    {
+      "type": "ProduceCardGrowEffectType_InitialAdd",
+      "name": "開始時賦予手牌效果",
+      "produceCardCustomizeTemplate": "開始時進入手牌"
+    }
+  ]
+}

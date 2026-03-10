@@ -1,0 +1,61 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "tower_001-amao",
+      "title": "有村麻央的偶像之路"
+    },
+    {
+      "id": "tower_001-atbm",
+      "title": "雨夜燕的偶像之路"
+    },
+    {
+      "id": "tower_001-fktn",
+      "title": "藤田琴音的偶像之路"
+    },
+    {
+      "id": "tower_001-hmsz",
+      "title": "秦谷美鈴的偶像之路"
+    },
+    {
+      "id": "tower_001-hrnm",
+      "title": "姬崎莉波的偶像之路"
+    },
+    {
+      "id": "tower_001-hski",
+      "title": "花海咲季的偶像之路"
+    },
+    {
+      "id": "tower_001-hume",
+      "title": "花海佑芽的偶像之路"
+    },
+    {
+      "id": "tower_001-jsna",
+      "title": "十王星南的偶像之路"
+    },
+    {
+      "id": "tower_001-kcna",
+      "title": "倉本千奈的偶像之路"
+    },
+    {
+      "id": "tower_001-kllj",
+      "title": "葛城莉莉婭的偶像之路"
+    },
+    {
+      "id": "tower_001-shro",
+      "title": "筱澤廣的偶像之路"
+    },
+    {
+      "id": "tower_001-ssmk",
+      "title": "紫雲清夏的偶像之路"
+    },
+    {
+      "id": "tower_001-ttmr",
+      "title": "月村手毬的偶像之路"
+    }
+  ]
+}

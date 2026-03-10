@@ -1,0 +1,1625 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "characterId",
+      "dearnessLevel"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中歌唱能力450以上"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「不僅僅是帥氣」"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中歌唱能力1000以上"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至有村麻央的親密度TOP"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "amao",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中歌唱能力450以上"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「學園No.2的實力」"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中舞蹈能力800以上"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "atbm",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中視覺能力450以上"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「偶像適應性S」"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中舞蹈能力800以上"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至藤田琴音的親密度TOP"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "fktn",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中視覺能力450以上"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「今天是陰天」"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中歌唱能力1000以上"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中舞蹈能力450以上"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「滿溢的思念」"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中視覺能力800以上"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至姬崎莉波的親密度TOP"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hrnm",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中歌唱能力450以上"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「合格是理所當然」"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中視覺能力1000以上"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中舞蹈能力450以上"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「向姐姐的挑戰」"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中歌唱能力1000以上"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "hume",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中歌唱能力450以上"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「積累的成果」"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中視覺能力900以上"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至十王星南的親密度TOP"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "jsna",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中視覺能力450以上"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「元氣一點突破」"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中舞蹈能力1000以上"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至倉本千奈的親密度TOP"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kcna",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中歌唱能力450以上"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「笑容練習」"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中視覺能力1000以上"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至葛城莉莉婭的親密度TOP"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中舞蹈能力450以上"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "在獲得了成就「即使沒有才能也能做到的事」的狀態下，培育中的期中考試合格"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中歌唱能力1000以上"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至筱澤廣的親密度TOP"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "shro",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中視覺能力450以上"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「若全力以赴」"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中舞蹈能力1000以上"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至紫雲清夏的親密度TOP"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中舞蹈能力450以上"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「絕不妥協」"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中歌唱能力1000以上"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "培育以A+的評價結束"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 11,
+      "produceConditionDescription": "N.I.A的培育開始"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 12,
+      "produceConditionDescription": "N.I.A的培育更進一步"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 13,
+      "produceConditionDescription": "N.I.A的1次試鏡突破"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 14,
+      "produceConditionDescription": "N.I.A的1次試鏡透過以後，N.I.A的2次試鏡突破"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 15,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 16,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 17,
+      "produceConditionDescription": "最終試鏡選擇「QUARTET」後透過"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 18,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 19,
+      "produceConditionDescription": "最終試鏡選擇「FINALE」後透過"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 20,
+      "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至月村手毬的親密度TOP"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ttmr",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    }
+  ]
+}

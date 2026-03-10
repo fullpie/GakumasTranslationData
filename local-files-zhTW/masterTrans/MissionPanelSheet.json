@@ -1,0 +1,140 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "missionPanelSheetGroupId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_amao_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_fktn_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_hrnm_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_jsna_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_kcna_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_kllj_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_relaunch_fktn_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_relaunch_shro_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_relaunch_ssmk_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_shro_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_ssmk_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "dearness_panel-mission_ttmr_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-002",
+      "number": 1,
+      "name": "第1片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-002",
+      "number": 2,
+      "name": "第2片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-003",
+      "number": 1,
+      "name": "第1片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-004",
+      "number": 1,
+      "name": "第1片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-004",
+      "number": 2,
+      "name": "第2片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-006",
+      "number": 1,
+      "name": "第1片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-006",
+      "number": 2,
+      "name": "第2片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-007",
+      "number": 1,
+      "name": "第1片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-007",
+      "number": 2,
+      "name": "第2片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-008",
+      "number": 1,
+      "name": "第1片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-008",
+      "number": 2,
+      "name": "第2片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel_mission-event-niv",
+      "number": 1,
+      "name": "第1片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel-mission-01",
+      "number": 1,
+      "name": "第1片"
+    },
+    {
+      "missionPanelSheetGroupId": "panel-mission-01",
+      "number": 2,
+      "name": "第2片"
+    }
+  ]
+}

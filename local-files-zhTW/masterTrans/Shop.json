@@ -1,0 +1,29 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "shop_costume",
+      "name": "服裝"
+    },
+    {
+      "id": "shop_jewel",
+      "name": "寶石"
+    },
+    {
+      "id": "shop_pack",
+      "name": "禮包"
+    },
+    {
+      "id": "shop_pass",
+      "name": "通行證"
+    },
+    {
+      "id": "shop_webstore",
+      "name": "外部結算"
+    }
+  ]
+}

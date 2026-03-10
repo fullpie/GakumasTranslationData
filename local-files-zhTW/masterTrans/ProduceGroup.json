@@ -1,0 +1,19 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "produce_group-001",
+      "name": "定期公演『初』",
+      "description": "定期公演『初』——那是隻有初星學園偶像科的\n成績優異者才能站上的舞臺\n磨礪自身，此刻，她們開始綻放光芒——"
+    },
+    {
+      "id": "produce_group-002",
+      "name": "NEXT IDOL AUDITION",
+      "description": "『NEXT IDOL AUDITION』——通稱『N.I.A』\n決定次時代偶像頂點的戰鬥開幕！\n集結粉絲，此刻，向著光榮的舞臺進發——"
+    }
+  ]
+}

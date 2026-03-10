@@ -1,0 +1,159 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "tips-out-help-0001",
+      "title": "媒體",
+      "description": "可以在這裡觀看影片、單格漫畫等各種內容"
+    },
+    {
+      "id": "tips-out-help-0002",
+      "title": "製作人Lv",
+      "description": "提升製作人Lv不僅可以獲得報酬，還可以解鎖各種要素"
+    },
+    {
+      "id": "tips-out-help-0003",
+      "title": "金幣兌換所",
+      "description": "在金幣兌換所，每天庫存都會重置。有想要的素材的時候請務必去確認吧"
+    },
+    {
+      "id": "tips-out-help-0004",
+      "title": "任務通行證",
+      "description": "透過每日任務和每週任務可以獲得任務通行證Pt。積累Pt可以獲得各種各樣的報酬"
+    },
+    {
+      "id": "tips-out-help-0005",
+      "title": "AP兌換所",
+      "description": "透過使用AP，可以兌換提升培育報酬等的道具"
+    },
+    {
+      "id": "tips-out-world-0001",
+      "title": "初星學園",
+      "description": "在定期公演中，偶像科成績優秀者可以進行演唱會演出"
+    },
+    {
+      "id": "tips-pro-help-0001",
+      "title": "方案",
+      "description": "不同方案中出現的技能卡和P道具種類各不相同。理解方案的特性，更有利地推進遊戲吧"
+    },
+    {
+      "id": "comic_0001",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0002",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0003",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0004",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0005",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0006",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0007",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0008",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0009",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0010",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0011",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0012",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0013",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0014",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0015",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0016",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0017",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0018",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0019",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0020",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0021",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0023",
+      "title": "",
+      "description": ""
+    },
+    {
+      "id": "comic_0024",
+      "title": "",
+      "description": ""
+    }
+  ]
+}

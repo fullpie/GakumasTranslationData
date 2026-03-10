@@ -1,0 +1,224 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id",
+      "order"
+    ]
+  },
+  "data": [
+    {
+      "id": "help-achievement",
+      "order": 17,
+      "name": "成就",
+      "texts": [
+        "成就可以透過滿足各種條件來獲得。透過獲取製作人等級提升所需的經驗值等多種獎勵，請積極收整合就吧。",
+        "當獲得成就時取得的星星達到指定數量後，即可獲得大師成就。大師成就將根據已獲得星星的數量進行等級提升，並能領取相應獎勵。",
+        "True End成就在達成True End時即可獲得。取得True End成就後，偶像的能力值將會提升。"
+      ]
+    },
+    {
+      "id": "help-box-gasha-event",
+      "order": 24,
+      "name": "巡演活動",
+      "texts": []
+    },
+    {
+      "id": "help-circle-battle-event",
+      "order": 26,
+      "name": "地方巡演活動",
+      "texts": []
+    },
+    {
+      "id": "help-competition",
+      "order": 12,
+      "name": "聯合競技",
+      "texts": []
+    },
+    {
+      "id": "help-contest",
+      "order": 12,
+      "name": "競技場",
+      "texts": [
+        "您可以與全國的製作人展開對戰。\n在競技場中，可使用透過培育獲得的\n與回憶關聯的能力值、技能卡、\n以及P道具進行對戰。",
+        "每個舞臺都將進行演出比拼，\n透過累計得分一決勝負。\n舞臺勝利次數更多的製作人\n將獲得最終勝利。",
+        "競技場設有不同段位等級。\n排名靠前即可晉升更高段位。\n段位越高可獲得的獎勵越豐厚。",
+        "收集競技場獎章後\n可在道具兌換所\n兌換豐厚獎勵。"
+      ]
+    },
+    {
+      "id": "help-dearness-doost-campaign",
+      "order": 11,
+      "name": "親密度強化活動",
+      "texts": []
+    },
+    {
+      "id": "help-dearness-map",
+      "order": 10,
+      "name": "親密度地圖",
+      "texts": []
+    },
+    {
+      "id": "help-dearness-top",
+      "order": 9,
+      "name": "親密度TOP",
+      "texts": []
+    },
+    {
+      "id": "help-event_mission",
+      "order": 25,
+      "name": "活動任務",
+      "texts": []
+    },
+    {
+      "id": "help-event-mission",
+      "order": 22,
+      "name": "特別任務",
+      "texts": []
+    },
+    {
+      "id": "help-gasha",
+      "order": 14,
+      "name": "扭蛋",
+      "texts": []
+    },
+    {
+      "id": "help-guild",
+      "order": 16,
+      "name": "社團",
+      "texts": [
+        "在社團中，您可以與全國的製作人組建社團並進行交流。",
+        "社團內可向成員募集特訓道具，\n接收其他成員捐贈的道具。\n捐贈道具時還可獲得好友硬幣。"
+      ]
+    },
+    {
+      "id": "help-highscore",
+      "order": 24,
+      "name": "十王邦夫的偶像強化月",
+      "texts": []
+    },
+    {
+      "id": "help-highscorerush",
+      "order": 23,
+      "name": "十王邦夫的偶像強化月",
+      "texts": []
+    },
+    {
+      "id": "help-home",
+      "order": 1,
+      "name": "主頁",
+      "texts": []
+    },
+    {
+      "id": "help-idol",
+      "order": 2,
+      "name": "偶像",
+      "texts": []
+    },
+    {
+      "id": "help-lesson",
+      "order": 6,
+      "name": "訓練/考試",
+      "texts": []
+    },
+    {
+      "id": "help-livetour-event",
+      "order": 23,
+      "name": "巡演活動",
+      "texts": []
+    },
+    {
+      "id": "help-main-story-event",
+      "order": 23,
+      "name": "初星交流活動",
+      "texts": []
+    },
+    {
+      "id": "help-memory",
+      "order": 4,
+      "name": "回憶",
+      "texts": []
+    },
+    {
+      "id": "help-menu",
+      "order": 19,
+      "name": "選單",
+      "texts": []
+    },
+    {
+      "id": "help-mission",
+      "order": 15,
+      "name": "任務",
+      "texts": []
+    },
+    {
+      "id": "help-panel-mission",
+      "order": 21,
+      "name": "拼圖任務活動",
+      "texts": []
+    },
+    {
+      "id": "help-photography-prepare-top",
+      "order": 23,
+      "name": "偶像攝影",
+      "texts": []
+    },
+    {
+      "id": "help-produce",
+      "order": 5,
+      "name": "培育",
+      "texts": [
+        "努力透過考試，爭取登上演唱會舞臺吧！\n要參加演唱會演出，\n需先透過期中考試與最終考試。",
+        "考試透過的關鍵在於偶像的能力值。\n請針對考試目標提升能力值吧！",
+        "每場考試都有特定評審標準。\n根據評審標準重點提升對應能力值，\n將大幅提高合格機率。"
+      ]
+    },
+    {
+      "id": "help-producer-ranking",
+      "order": 24,
+      "name": "製作人排行榜",
+      "texts": []
+    },
+    {
+      "id": "help-research-event",
+      "order": 28,
+      "name": "亞紗里老師的培育研討會",
+      "texts": []
+    },
+    {
+      "id": "help-shop",
+      "order": 18,
+      "name": "商店",
+      "texts": []
+    },
+    {
+      "id": "help-story",
+      "order": 8,
+      "name": "交流",
+      "texts": []
+    },
+    {
+      "id": "help-story-event",
+      "order": 20,
+      "name": "故事活動",
+      "texts": []
+    },
+    {
+      "id": "help-story-event-guild-mission",
+      "order": 25,
+      "name": "連攜任務",
+      "texts": []
+    },
+    {
+      "id": "help-support",
+      "order": 3,
+      "name": "支援卡",
+      "texts": []
+    },
+    {
+      "id": "help-tower",
+      "order": 13,
+      "name": "偶像之路",
+      "texts": []
+    }
+  ]
+}

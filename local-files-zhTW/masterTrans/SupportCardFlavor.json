@@ -1,0 +1,2430 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "supportCardId",
+      "number"
+    ]
+  },
+  "data": [
+    {
+      "supportCardId": "s_card-2-0000",
+      "number": 1,
+      "text": "發現姐——姐——！！"
+    },
+    {
+      "supportCardId": "s_card-2-0000",
+      "number": 2,
+      "text": "哇啊！！\n等……很危險啊佑芽！！"
+    },
+    {
+      "supportCardId": "s_card-2-0000",
+      "number": 3,
+      "text": "誒嘿嘿，愛的擁抱嘛～！"
+    },
+    {
+      "supportCardId": "s_card-2-0001",
+      "number": 1,
+      "text": "…………"
+    },
+    {
+      "supportCardId": "s_card-2-0001",
+      "number": 2,
+      "text": "…………"
+    },
+    {
+      "supportCardId": "s_card-2-0002",
+      "number": 1,
+      "text": "琴音，今天一定要……"
+    },
+    {
+      "supportCardId": "s_card-2-0002",
+      "number": 2,
+      "text": "呃……我先告辭啦！"
+    },
+    {
+      "supportCardId": "s_card-2-0002",
+      "number": 3,
+      "text": "啊！\n……真是讓人困擾的後輩啊。"
+    },
+    {
+      "supportCardId": "s_card-2-0003",
+      "number": 1,
+      "text": "抱歉，硬拉著你陪我學習。"
+    },
+    {
+      "supportCardId": "s_card-2-0003",
+      "number": 2,
+      "text": "沒有，有困難不就應該互相幫助嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0003",
+      "number": 3,
+      "text": "呵呵，總是依賴著你。"
+    },
+    {
+      "supportCardId": "s_card-2-0004",
+      "number": 1,
+      "text": "左手要這樣……咔嚓，的哦。"
+    },
+    {
+      "supportCardId": "s_card-2-0004",
+      "number": 2,
+      "text": "咔、咔嚓！ 這樣嗎！？"
+    },
+    {
+      "supportCardId": "s_card-2-0004",
+      "number": 3,
+      "text": "對，咔嚓！\n呵呵，做到了做到了。"
+    },
+    {
+      "supportCardId": "s_card-2-0005",
+      "number": 1,
+      "text": "嘿嘿，又中招了～♪"
+    },
+    {
+      "supportCardId": "s_card-2-0005",
+      "number": 2,
+      "text": "清、清夏……！"
+    },
+    {
+      "supportCardId": "s_card-2-0005",
+      "number": 3,
+      "text": "……真是的！老是惡作劇……"
+    },
+    {
+      "supportCardId": "s_card-2-0006",
+      "number": 1,
+      "text": "好棒的肌肉啊！\n你平時都做些什麼訓練呢？"
+    },
+    {
+      "supportCardId": "s_card-2-0006",
+      "number": 2,
+      "text": "我會把我的訓練選單告訴你，\n所以清夏你也要——"
+    },
+    {
+      "supportCardId": "s_card-2-0006",
+      "number": 3,
+      "text": "啊，我平時也不鍛鍊，\n這種事還是算了吧～。"
+    },
+    {
+      "supportCardId": "s_card-2-0007",
+      "number": 1,
+      "text": "呼～。"
+    },
+    {
+      "supportCardId": "s_card-2-0007",
+      "number": 2,
+      "text": "哇～！好漂亮！\n筱澤同學，好厲害哇！"
+    },
+    {
+      "supportCardId": "s_card-2-0007",
+      "number": 3,
+      "text": "……呵呵，千奈也來試試嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0008",
+      "number": 1,
+      "text": "啊啦，你好像用力過猛了呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0008",
+      "number": 2,
+      "text": "哇哇哇！星、星南姐姐大人\n難道說，您都看到了……！？"
+    },
+    {
+      "supportCardId": "s_card-2-0008",
+      "number": 3,
+      "text": "（嗚～……\n又開心又害羞了哇～！）"
+    },
+    {
+      "supportCardId": "s_card-2-0009",
+      "number": 1,
+      "text": "咕嚕，咕嚕……噗哈——！！"
+    },
+    {
+      "supportCardId": "s_card-2-0009",
+      "number": 2,
+      "text": "（啊，一口氣喝完……？\n這種東西怎麼喝得下啊！？）"
+    },
+    {
+      "supportCardId": "s_card-2-0009",
+      "number": 3,
+      "text": "（難以置信……！）"
+    },
+    {
+      "supportCardId": "s_card-2-0010",
+      "number": 1,
+      "text": "暖洋洋的，真是絕佳的午睡場所呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0010",
+      "number": 2,
+      "text": "嗯、唔……呼……"
+    },
+    {
+      "supportCardId": "s_card-2-0010",
+      "number": 3,
+      "text": "……呵呵。那麼，我也睡了。"
+    },
+    {
+      "supportCardId": "s_card-2-0011",
+      "number": 1,
+      "text": "不愧是琴音呢。\n很懂得如何展現自己的魅力呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0011",
+      "number": 2,
+      "text": "果然，你就應該成為我的人。"
+    },
+    {
+      "supportCardId": "s_card-2-0011",
+      "number": 3,
+      "text": "啊哈哈……深感榮幸。"
+    },
+    {
+      "supportCardId": "s_card-2-0012",
+      "number": 1,
+      "text": "請喝點水。"
+    },
+    {
+      "supportCardId": "s_card-2-0012",
+      "number": 2,
+      "text": "得救了……救命恩人。"
+    },
+    {
+      "supportCardId": "s_card-2-0012",
+      "number": 3,
+      "text": "彆著急，我們慢慢走吧。"
+    },
+    {
+      "supportCardId": "s_card-2-0013",
+      "number": 1,
+      "text": "好，花瓣摘下來了。"
+    },
+    {
+      "supportCardId": "s_card-2-0013",
+      "number": 2,
+      "text": "……嗯？啊，謝謝。"
+    },
+    {
+      "supportCardId": "s_card-2-0013",
+      "number": 3,
+      "text": "……像這樣的交流，也只剩一年了嗎。"
+    },
+    {
+      "supportCardId": "s_card-2-0014",
+      "number": 1,
+      "text": "好了，到這裡都明白了嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0014",
+      "number": 2,
+      "text": "有什麼問題的話，\n請儘管說出來。"
+    },
+    {
+      "supportCardId": "s_card-2-0014",
+      "number": 3,
+      "text": "不用跟老師客氣的哦。"
+    },
+    {
+      "supportCardId": "s_card-2-0015",
+      "number": 1,
+      "text": "在聽什麼呢？ 小手毬。"
+    },
+    {
+      "supportCardId": "s_card-2-0015",
+      "number": 2,
+      "text": "啊，別……！\n別擅自碰我！"
+    },
+    {
+      "supportCardId": "s_card-2-0016",
+      "number": 1,
+      "text": "看招！"
+    },
+    {
+      "supportCardId": "s_card-2-0016",
+      "number": 2,
+      "text": "呀！！"
+    },
+    {
+      "supportCardId": "s_card-2-0018",
+      "number": 1,
+      "text": "誒，已經不行了嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0018",
+      "number": 2,
+      "text": "嗚……！"
+    },
+    {
+      "supportCardId": "s_card-2-0018",
+      "number": 3,
+      "text": "還早著呢！"
+    },
+    {
+      "supportCardId": "s_card-2-0019",
+      "number": 1,
+      "text": "來，擺造型！"
+    },
+    {
+      "supportCardId": "s_card-2-0019",
+      "number": 2,
+      "text": "誒？"
+    },
+    {
+      "supportCardId": "s_card-2-0019",
+      "number": 3,
+      "text": "啊，哇！"
+    },
+    {
+      "supportCardId": "s_card-2-0020",
+      "number": 1,
+      "text": "呵呵，穿著泳裝就冷靜不下來了？"
+    },
+    {
+      "supportCardId": "s_card-2-0020",
+      "number": 2,
+      "text": "我穿泳裝，不會很奇怪嗎……"
+    },
+    {
+      "supportCardId": "s_card-2-0020",
+      "number": 3,
+      "text": "非常可愛哦！"
+    },
+    {
+      "supportCardId": "s_card-2-0021",
+      "number": 1,
+      "text": "啊……啊啊——"
+    },
+    {
+      "supportCardId": "s_card-2-0021",
+      "number": 2,
+      "text": "怎麼樣？ 外星人的聲音。"
+    },
+    {
+      "supportCardId": "s_card-2-0021",
+      "number": 3,
+      "text": "你是笨蛋嗎。"
+    },
+    {
+      "supportCardId": "s_card-2-0022",
+      "number": 1,
+      "text": "來接受由我親自指導的游泳課吧！"
+    },
+    {
+      "supportCardId": "s_card-2-0022",
+      "number": 2,
+      "text": "我今天只是來旁聽的。"
+    },
+    {
+      "supportCardId": "s_card-2-0022",
+      "number": 3,
+      "text": "……這、這樣啊。"
+    },
+    {
+      "supportCardId": "s_card-2-0023",
+      "number": 1,
+      "text": "——來，到我背上來。"
+    },
+    {
+      "supportCardId": "s_card-2-0023",
+      "number": 2,
+      "text": "不用擔心沒事的。"
+    },
+    {
+      "supportCardId": "s_card-2-0023",
+      "number": 3,
+      "text": "嗚……。\n麻央學姐的後背，好溫暖……。"
+    },
+    {
+      "supportCardId": "s_card-2-0024",
+      "number": 1,
+      "text": "先像這樣，然後！完成了哇！"
+    },
+    {
+      "supportCardId": "s_card-2-0024",
+      "number": 2,
+      "text": "真不愧是千奈親！"
+    },
+    {
+      "supportCardId": "s_card-2-0024",
+      "number": 3,
+      "text": "關鍵不只是在於腰帶，\n更是要把紐帶繫緊呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0025",
+      "number": 1,
+      "text": "總覺得感受到了琴音的氣息。"
+    },
+    {
+      "supportCardId": "s_card-2-0025",
+      "number": 2,
+      "text": "用棉花糖遮住臉，就不會被發現了！"
+    },
+    {
+      "supportCardId": "s_card-2-0025",
+      "number": 3,
+      "text": "呵呵——我看見你了哦"
+    },
+    {
+      "supportCardId": "s_card-2-0026",
+      "number": 1,
+      "text": "小美鈴你經常做做料理嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0026",
+      "number": 2,
+      "text": "只是和食的話，\n我在老家也經常做。"
+    },
+    {
+      "supportCardId": "s_card-2-0026",
+      "number": 3,
+      "text": "那下次拜託你教我做和食吧。"
+    },
+    {
+      "supportCardId": "s_card-2-0027",
+      "number": 1,
+      "text": "今年的新生怎麼樣？"
+    },
+    {
+      "supportCardId": "s_card-2-0027",
+      "number": 2,
+      "text": "呵呵，全都是鑽石原石呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0027",
+      "number": 3,
+      "text": "那真是令人期待呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0028",
+      "number": 1,
+      "text": "小琴音的芒草，\n真是太棒了！"
+    },
+    {
+      "supportCardId": "s_card-2-0028",
+      "number": 2,
+      "text": "哇～～～～謝謝！"
+    },
+    {
+      "supportCardId": "s_card-2-0028",
+      "number": 3,
+      "text": "…………那，一起去玩吧！！"
+    },
+    {
+      "supportCardId": "s_card-2-0029",
+      "number": 1,
+      "text": "角色塑造……真難啊……"
+    },
+    {
+      "supportCardId": "s_card-2-0029",
+      "number": 2,
+      "text": "月村同學扮演的角色，\n是個性格非常彆扭的人。"
+    },
+    {
+      "supportCardId": "s_card-2-0029",
+      "number": 3,
+      "text": "請詳細地告訴我！"
+    },
+    {
+      "supportCardId": "s_card-2-0030",
+      "number": 1,
+      "text": "看起來很有趣的飲料。"
+    },
+    {
+      "supportCardId": "s_card-2-0030",
+      "number": 2,
+      "text": "哼哼～，你眼光真好。"
+    },
+    {
+      "supportCardId": "s_card-2-0030",
+      "number": 3,
+      "text": "到底混合了什麼東西，\n才會變成這種顏色呢，真不可思議。"
+    },
+    {
+      "supportCardId": "s_card-2-0031",
+      "number": 1,
+      "text": "前段時間，我看到了……"
+    },
+    {
+      "supportCardId": "s_card-2-0031",
+      "number": 2,
+      "text": "姐姐的特製飲料的配方。咕噥咕噥咕噥……"
+    },
+    {
+      "supportCardId": "s_card-2-0031",
+      "number": 3,
+      "text": "誒誒誒～！？"
+    },
+    {
+      "supportCardId": "s_card-2-0032",
+      "number": 1,
+      "text": "像這樣用團扇扇風的話，\n就能烤的更均勻了哇……！"
+    },
+    {
+      "supportCardId": "s_card-2-0032",
+      "number": 2,
+      "text": "原來如此……為了讓火候\n更均勻就要這樣做啊"
+    },
+    {
+      "supportCardId": "s_card-2-0032",
+      "number": 3,
+      "text": "這樣做就不會沾上煙味，\n香氣也會更好呢！"
+    },
+    {
+      "supportCardId": "s_card-2-0033",
+      "number": 1,
+      "text": "麻央前輩，表情太僵硬啦！\n再放鬆點！ 要微笑！"
+    },
+    {
+      "supportCardId": "s_card-2-0033",
+      "number": 2,
+      "text": "這、這樣嗎？\n我不太擅長這種事呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0033",
+      "number": 3,
+      "text": "嗯——但是，麻央前輩困惑的表情也很可愛，所以沒關係啦！"
+    },
+    {
+      "supportCardId": "s_card-2-0034",
+      "number": 1,
+      "text": "看，有蜻蜓哇！\n總覺得好懷念呀。"
+    },
+    {
+      "supportCardId": "s_card-2-0034",
+      "number": 2,
+      "text": "來比賽看誰抓得多吧，佑芽！"
+    },
+    {
+      "supportCardId": "s_card-2-0034",
+      "number": 3,
+      "text": "好——嘞！\n我不會輸的，姐姐！"
+    },
+    {
+      "supportCardId": "s_card-2-0035",
+      "number": 1,
+      "text": "哼哼哼～。"
+    },
+    {
+      "supportCardId": "s_card-2-0035",
+      "number": 2,
+      "text": "要去給好孩子們送禮物了哦～"
+    },
+    {
+      "supportCardId": "s_card-2-0035",
+      "number": 3,
+      "text": "呵呵♪\n交給佑芽馴鹿吧！"
+    },
+    {
+      "supportCardId": "s_card-2-0036",
+      "number": 1,
+      "text": "手託著下巴～\n嘴角要翹起來！"
+    },
+    {
+      "supportCardId": "s_card-2-0036",
+      "number": 2,
+      "text": "這、這樣……嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0036",
+      "number": 3,
+      "text": "對對！\n不錯嘛不錯嘛♪"
+    },
+    {
+      "supportCardId": "s_card-2-0037",
+      "number": 1,
+      "text": "不介意的話，喏。\n我們一人一半吧！"
+    },
+    {
+      "supportCardId": "s_card-2-0037",
+      "number": 2,
+      "text": "你都這麼說了那就沒辦法了，——啊嗚。"
+    },
+    {
+      "supportCardId": "s_card-2-0037",
+      "number": 3,
+      "text": "眼睛變得閃閃發光了呢～。\n真是個可愛的傢伙啊～♪"
+    },
+    {
+      "supportCardId": "s_card-2-0038",
+      "number": 1,
+      "text": "就差一點了，堅持到最後別鬆懈！"
+    },
+    {
+      "supportCardId": "s_card-2-0038",
+      "number": 2,
+      "text": "是、是的！ 1、2、3、4——"
+    },
+    {
+      "supportCardId": "s_card-2-0038",
+      "number": 3,
+      "text": "越是累的時候，\n越要連指尖都要注意到！"
+    },
+    {
+      "supportCardId": "s_card-2-0039",
+      "number": 1,
+      "text": "真不愧是咲季。完美哦。"
+    },
+    {
+      "supportCardId": "s_card-2-0039",
+      "number": 2,
+      "text": "非常感謝！\n多虧了訓練員小姐的幫助！"
+    },
+    {
+      "supportCardId": "s_card-2-0039",
+      "number": 3,
+      "text": "真會說好話呢。\n再來一組怎麼樣？"
+    },
+    {
+      "supportCardId": "s_card-2-0040",
+      "number": 1,
+      "text": "感受腹部，\n慢慢地吸氣——，呼氣——"
+    },
+    {
+      "supportCardId": "s_card-2-0040",
+      "number": 2,
+      "text": "……其實，\n我不太希望別人摸我的肚子。"
+    },
+    {
+      "supportCardId": "s_card-2-0040",
+      "number": 3,
+      "text": "這也是訓練的一部分。\n基礎很重要的哦？"
+    },
+    {
+      "supportCardId": "s_card-2-0041",
+      "number": 1,
+      "text": "哼哼。秘密調味料是——這個喲！"
+    },
+    {
+      "supportCardId": "s_card-2-0041",
+      "number": 2,
+      "text": "好、好厲害！\n巧克力開始發出彩虹色的光了——"
+    },
+    {
+      "supportCardId": "s_card-2-0041",
+      "number": 3,
+      "text": "這就是化學反應……！"
+    },
+    {
+      "supportCardId": "s_card-2-0042",
+      "number": 1,
+      "text": "我覺得把這裡打亮一點，\n臉頰看起來會顯得更柔和。"
+    },
+    {
+      "supportCardId": "s_card-2-0042",
+      "number": 2,
+      "text": "原來如此……是這樣嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0042",
+      "number": 3,
+      "text": "是的。\n變得非常可愛了呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0043",
+      "number": 1,
+      "text": "衝了哦～～～！"
+    },
+    {
+      "supportCardId": "s_card-2-0043",
+      "number": 2,
+      "text": "等等等等！\n太快了吧！？"
+    },
+    {
+      "supportCardId": "s_card-2-0043",
+      "number": 3,
+      "text": "啊哈哈！\n真是太開心了呢！"
+    },
+    {
+      "supportCardId": "s_card-2-0044",
+      "number": 1,
+      "text": "哇！　非常美麗的音色♪"
+    },
+    {
+      "supportCardId": "s_card-2-0044",
+      "number": 2,
+      "text": "葉子要繃緊。\n秘訣是不要咬得太用力。"
+    },
+    {
+      "supportCardId": "s_card-2-0044",
+      "number": 3,
+      "text": "要吹好……\n好、好難哇～～～！"
+    },
+    {
+      "supportCardId": "s_card-2-0045",
+      "number": 1,
+      "text": "有村前輩，那個，\n快把它放出去！"
+    },
+    {
+      "supportCardId": "s_card-2-0045",
+      "number": 2,
+      "text": "不用那麼害怕啦……\n你看，明明這麼可愛。"
+    },
+    {
+      "supportCardId": "s_card-2-0045",
+      "number": 3,
+      "text": "哇啊！？\n不用給我看也可以的！"
+    },
+    {
+      "supportCardId": "s_card-2-0046",
+      "number": 1,
+      "text": "砰，——啊。"
+    },
+    {
+      "supportCardId": "s_card-2-0046",
+      "number": 2,
+      "text": "啊！　小廣好像要被錘子的\n反作用力打飛了！？"
+    },
+    {
+      "supportCardId": "s_card-2-0046",
+      "number": 3,
+      "text": "敲擊一方反而被打飛了。\n不愧是佑芽。"
+    },
+    {
+      "supportCardId": "s_card-2-0047",
+      "number": 1,
+      "text": "莉莉婭！\n你還能跳吧！？"
+    },
+    {
+      "supportCardId": "s_card-2-0047",
+      "number": 2,
+      "text": "是、是的……！ 我會努力的！"
+    },
+    {
+      "supportCardId": "s_card-2-0047",
+      "number": 3,
+      "text": "就是這股勁！\n不過，我可不會輸給你哇！"
+    },
+    {
+      "supportCardId": "s_card-2-0048",
+      "number": 1,
+      "text": "吶吶，這個不可愛嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0048",
+      "number": 2,
+      "text": "我去，超可愛的好嗎！"
+    },
+    {
+      "supportCardId": "s_card-2-0048",
+      "number": 3,
+      "text": "對吧～，我果然和清夏興趣相投呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0049",
+      "number": 1,
+      "text": "咕唔唔……我又排第二啊。"
+    },
+    {
+      "supportCardId": "s_card-2-0049",
+      "number": 2,
+      "text": "我可還不能輸給燕啊。"
+    },
+    {
+      "supportCardId": "s_card-2-0049",
+      "number": 3,
+      "text": "給我等著瞧！\n我一定會超過你的！"
+    },
+    {
+      "supportCardId": "s_card-2-0050",
+      "number": 1,
+      "text": "喂——。\n胡蘿蔔也要好好吃下去哦～？"
+    },
+    {
+      "supportCardId": "s_card-2-0050",
+      "number": 2,
+      "text": "……嘖。還以為不會被發現呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0050",
+      "number": 3,
+      "text": "真是的。因為你那表情跟\n我家那群小崽子一個樣，一看就知道了。"
+    },
+    {
+      "supportCardId": "s_card-2-0051",
+      "number": 1,
+      "text": "秦谷同學的舉止真是優雅哇！"
+    },
+    {
+      "supportCardId": "s_card-2-0051",
+      "number": 2,
+      "text": "呵呵。感謝你的誇獎。"
+    },
+    {
+      "supportCardId": "s_card-2-0051",
+      "number": 3,
+      "text": "我也希望有一天，\n能像秦谷同學那樣——！"
+    },
+    {
+      "supportCardId": "s_card-2-0052",
+      "number": 1,
+      "text": "這、這樣對吧！"
+    },
+    {
+      "supportCardId": "s_card-2-0052",
+      "number": 2,
+      "text": "呵呵。不是挺好的嘛？"
+    },
+    {
+      "supportCardId": "s_card-2-0052",
+      "number": 3,
+      "text": "請、請先別放開我。\n我還在發抖呢……"
+    },
+    {
+      "supportCardId": "s_card-2-0053",
+      "number": 1,
+      "text": "筱澤同學，沒事吧！？"
+    },
+    {
+      "supportCardId": "s_card-2-0053",
+      "number": 2,
+      "text": "呵呵。\n跟上莉莉婭的節奏了，好開心。"
+    },
+    {
+      "supportCardId": "s_card-2-0053",
+      "number": 3,
+      "text": "……不，不要勉強自己哦！"
+    },
+    {
+      "supportCardId": "s_card-2-0054",
+      "number": 1,
+      "text": "麻央親前輩。\n這次試試這件衣服怎麼樣～？"
+    },
+    {
+      "supportCardId": "s_card-2-0054",
+      "number": 2,
+      "text": "這個，我覺得高個子的清夏穿會更合適。"
+    },
+    {
+      "supportCardId": "s_card-2-0054",
+      "number": 3,
+      "text": "稍微試穿一下吧。\n這個……還有這個和這個也試試。"
+    },
+    {
+      "supportCardId": "s_card-2-0056",
+      "number": 1,
+      "text": "已經落後一圈了！\n注意跑步的姿勢！"
+    },
+    {
+      "supportCardId": "s_card-2-0056",
+      "number": 2,
+      "text": "嗚，咻～～……"
+    },
+    {
+      "supportCardId": "s_card-2-0056",
+      "number": 3,
+      "text": "你怎麼了！　筱澤！"
+    },
+    {
+      "supportCardId": "s_card-2-0058",
+      "number": 1,
+      "text": "前陣子啊——，宿舍那邊出現了蟲子……\n要把它消滅可費了老勁啦——！"
+    },
+    {
+      "supportCardId": "s_card-2-0058",
+      "number": 2,
+      "text": "誒！　我都不知道……！\n那、那蟲子……很大嗎……？"
+    },
+    {
+      "supportCardId": "s_card-2-0058",
+      "number": 3,
+      "text": "就是啊～！\n還為誰來消滅它吵了一番呢～。"
+    },
+    {
+      "supportCardId": "s_card-2-0059",
+      "number": 1,
+      "text": "哈！　看招！"
+    },
+    {
+      "supportCardId": "s_card-2-0059",
+      "number": 2,
+      "text": "廣，你這招式究竟是……？"
+    },
+    {
+      "supportCardId": "s_card-2-0059",
+      "number": 3,
+      "text": "哼哼，是我原創的，偶像拳法。"
+    },
+    {
+      "supportCardId": "s_card-2-0060",
+      "number": 1,
+      "text": "只撿裡面的…… 只撿果實…… 好嘞。"
+    },
+    {
+      "supportCardId": "s_card-2-0060",
+      "number": 2,
+      "text": "……摸著感覺刺刺的"
+    },
+    {
+      "supportCardId": "s_card-2-0060",
+      "number": 3,
+      "text": "啊！　沒事吧！？\n用夾子就好了哦。"
+    },
+    {
+      "supportCardId": "s_card-2-0061",
+      "number": 1,
+      "text": "鍛鍊核心肌群的話，這樣也能——"
+    },
+    {
+      "supportCardId": "s_card-2-0061",
+      "number": 2,
+      "text": "這樣拉伸真不錯呢！\n雖然強度很高，但身體負擔卻很小！"
+    },
+    {
+      "supportCardId": "s_card-2-0061",
+      "number": 3,
+      "text": "務必也教教我\n姬崎前輩您的拉伸方法吧！"
+    },
+    {
+      "supportCardId": "s_card-2-0062",
+      "number": 1,
+      "text": "哇～～～～～～～～！\n誒嘿嘿……麻央前輩，你被嚇到了嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0062",
+      "number": 2,
+      "text": "呵呵，原來是琴音啊。嚇了我一跳呢。\n你很適合吸血鬼呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0062",
+      "number": 3,
+      "text": "你絕對沒有被嚇到吧～！？"
+    },
+    {
+      "supportCardId": "s_card-2-0063",
+      "number": 1,
+      "text": "這邊！　按這附近就好哦。"
+    },
+    {
+      "supportCardId": "s_card-2-0063",
+      "number": 2,
+      "text": "啊，等一下 —— 嘶！？"
+    },
+    {
+      "supportCardId": "s_card-2-0063",
+      "number": 3,
+      "text": "這裡疼的話，\n說不定是積累了疲勞哦～！"
+    },
+    {
+      "supportCardId": "s_card-2-0064",
+      "number": 1,
+      "text": "放鬆肩部力量的同時，\n還要將注意力集中到指尖――"
+    },
+    {
+      "supportCardId": "s_card-2-0064",
+      "number": 2,
+      "text": "特別好看呢――這、這樣可以嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0064",
+      "number": 3,
+      "text": "我覺得非常好哦！\n不愧是葛城同學哇♪"
+    },
+    {
+      "supportCardId": "s_card-2-0065",
+      "number": 1,
+      "text": "……哎呀。\n怎麼會在這種地方呢？"
+    },
+    {
+      "supportCardId": "s_card-2-0065",
+      "number": 2,
+      "text": "一定是因為\n舍長的工作太辛苦了吧。"
+    },
+    {
+      "supportCardId": "s_card-2-0065",
+      "number": 3,
+      "text": "……哈啊……嗯？美鈴……？"
+    },
+    {
+      "supportCardId": "s_card-2-0066",
+      "number": 1,
+      "text": "有村，剛剛的電影怎麼樣？"
+    },
+    {
+      "supportCardId": "s_card-2-0066",
+      "number": 2,
+      "text": "嗯，非常好看。\n燕推薦的電影都很有趣呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0066",
+      "number": 3,
+      "text": "哼，我和你這傢伙，\n在電影和書籍的趣味上倒是合得來。"
+    },
+    {
+      "supportCardId": "s_card-2-0067",
+      "number": 1,
+      "text": "你好呀～！　好可愛呀～！\n願意陪我一起玩嗎～？　好開心～♪"
+    },
+    {
+      "supportCardId": "s_card-2-0067",
+      "number": 2,
+      "text": "哇啊！　好、好大啊……！"
+    },
+    {
+      "supportCardId": "s_card-2-0067",
+      "number": 3,
+      "text": "不怕不怕哦～小手球！\n有我在呢，肯定沒事的啦！"
+    },
+    {
+      "supportCardId": "s_card-2-0068",
+      "number": 1,
+      "text": "哼。"
+    },
+    {
+      "supportCardId": "s_card-2-0068",
+      "number": 2,
+      "text": "哼～哼，的哦！"
+    },
+    {
+      "supportCardId": "s_card-2-0068",
+      "number": 3,
+      "text": "朋友之間的吵架，\n就是這種感覺了吧？"
+    },
+    {
+      "supportCardId": "s_card-2-0069",
+      "number": 1,
+      "text": "哇，好多啊。真不愧是『啟明星』。"
+    },
+    {
+      "supportCardId": "s_card-2-0069",
+      "number": 2,
+      "text": "麻央你才是吧。\n是粉絲俱樂部他們送的？"
+    },
+    {
+      "supportCardId": "s_card-2-0069",
+      "number": 3,
+      "text": "是的。\n飽含心意的巧克力真讓人開心呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0070",
+      "number": 1,
+      "text": "一次搬這麼多，\n真沒問題嗎？"
+    },
+    {
+      "supportCardId": "s_card-2-0070",
+      "number": 2,
+      "text": "呼呼～♪ 　來啦！"
+    },
+    {
+      "supportCardId": "s_card-2-0070",
+      "number": 3,
+      "text": "哦～～～沒倒！　太厲害了～！"
+    },
+    {
+      "supportCardId": "s_card-2-0071",
+      "number": 1,
+      "text": "月村同學，真巧呢。"
+    },
+    {
+      "supportCardId": "s_card-2-0071",
+      "number": 2,
+      "text": "要是不介意的話，\n一起來吃漢堡吧。"
+    },
+    {
+      "supportCardId": "s_card-2-0071",
+      "number": 3,
+      "text": "漢、漢堡……？\n我就不用了！！"
+    },
+    {
+      "supportCardId": "s_card-3-0000",
+      "number": 1,
+      "text": "來，給你吃一口！"
+    },
+    {
+      "supportCardId": "s_card-3-0000",
+      "number": 2,
+      "text": "（……這東西，能吃？）"
+    },
+    {
+      "supportCardId": "s_card-3-0000",
+      "number": 3,
+      "text": "……不要。"
+    },
+    {
+      "supportCardId": "s_card-3-0001",
+      "number": 1,
+      "text": "（雖然下意識躲起來了……\n但我這是在幹嘛啊……）"
+    },
+    {
+      "supportCardId": "s_card-3-0001",
+      "number": 2,
+      "text": "（……總覺得……\n感受到了一絲懷念的氣息……）"
+    },
+    {
+      "supportCardId": "s_card-3-0001",
+      "number": 3,
+      "text": "（……向溫暖的一方，\n前進吧）"
+    },
+    {
+      "supportCardId": "s_card-3-0002",
+      "number": 1,
+      "text": "絕對，不會原諒你的！！"
+    },
+    {
+      "supportCardId": "s_card-3-0002",
+      "number": 2,
+      "text": "根本沒必要生那麼大的氣吧！！"
+    },
+    {
+      "supportCardId": "s_card-3-0002",
+      "number": 3,
+      "text": "這些傢伙真麻煩……"
+    },
+    {
+      "supportCardId": "s_card-3-0003",
+      "number": 1,
+      "text": "好！ 妝容完美！\n就這樣出去玩吧！"
+    },
+    {
+      "supportCardId": "s_card-3-0003",
+      "number": 2,
+      "text": "不——行！根本沒弄好！\n給我坐在那裡！"
+    },
+    {
+      "supportCardId": "s_card-3-0003",
+      "number": 3,
+      "text": "果然不行嗎，可惡～～～！"
+    },
+    {
+      "supportCardId": "s_card-3-0004",
+      "number": 1,
+      "text": "嗚哇哇～……姐～姐～，"
+    },
+    {
+      "supportCardId": "s_card-3-0004",
+      "number": 2,
+      "text": "你居然，我絕對……"
+    },
+    {
+      "supportCardId": "s_card-3-0004",
+      "number": 3,
+      "text": "絕～對、不會認輸的～……"
+    },
+    {
+      "supportCardId": "s_card-3-0005",
+      "number": 1,
+      "text": "我們，已經三年級了呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0005",
+      "number": 2,
+      "text": "……是啊。\n為了不讓朝氣蓬勃的新生們看扁，"
+    },
+    {
+      "supportCardId": "s_card-3-0005",
+      "number": 3,
+      "text": "我們也必須更加努力呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0006",
+      "number": 1,
+      "text": "嗚誒誒……根本做不完哇～！"
+    },
+    {
+      "supportCardId": "s_card-3-0006",
+      "number": 2,
+      "text": "沒關係，只剩一點點了哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0006",
+      "number": 3,
+      "text": "一起努力到最後吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0007",
+      "number": 1,
+      "text": "你，飲料還夠嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0007",
+      "number": 2,
+      "text": "非、非常感謝您！"
+    },
+    {
+      "supportCardId": "s_card-3-0007",
+      "number": 3,
+      "text": "（簡直就像王子殿下一樣……）"
+    },
+    {
+      "supportCardId": "s_card-3-0008",
+      "number": 1,
+      "text": "糟糕，莉莉婭快看那個！"
+    },
+    {
+      "supportCardId": "s_card-3-0008",
+      "number": 2,
+      "text": "怎麼了，小清——"
+    },
+    {
+      "supportCardId": "s_card-3-0008",
+      "number": 3,
+      "text": "來，茄子！"
+    },
+    {
+      "supportCardId": "s_card-3-0009",
+      "number": 1,
+      "text": "今天是最後的機會了。"
+    },
+    {
+      "supportCardId": "s_card-3-0009",
+      "number": 2,
+      "text": "無、無論如何都要成功哇～！"
+    },
+    {
+      "supportCardId": "s_card-3-0009",
+      "number": 3,
+      "text": "嗯咕……好，加油吧——！"
+    },
+    {
+      "supportCardId": "s_card-3-0010",
+      "number": 1,
+      "text": "這個小傢伙是？"
+    },
+    {
+      "supportCardId": "s_card-3-0010",
+      "number": 2,
+      "text": "是我的寶物哇！\n可、可愛吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0010",
+      "number": 3,
+      "text": "小熊和小千奈都可愛！"
+    },
+    {
+      "supportCardId": "s_card-3-0011",
+      "number": 1,
+      "text": "會長、小美鈴！ 我來玩啦！"
+    },
+    {
+      "supportCardId": "s_card-3-0011",
+      "number": 2,
+      "text": "哎呀。呵呵，今天也很有精神呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0011",
+      "number": 3,
+      "text": "真是的……\n學生會室可不是遊樂場哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0012",
+      "number": 1,
+      "text": "（呼……\n差不多該稍微休息一下了——）"
+    },
+    {
+      "supportCardId": "s_card-3-0012",
+      "number": 2,
+      "text": "哈啊……！還、還不夠……！"
+    },
+    {
+      "supportCardId": "s_card-3-0012",
+      "number": 3,
+      "text": "……真是的。"
+    },
+    {
+      "supportCardId": "s_card-3-0013",
+      "number": 1,
+      "text": "歡迎光——呃啊！"
+    },
+    {
+      "supportCardId": "s_card-3-0013",
+      "number": 2,
+      "text": "真巧啊，琴音。"
+    },
+    {
+      "supportCardId": "s_card-3-0013",
+      "number": 3,
+      "text": "（這人居然追到這裡來了！！）"
+    },
+    {
+      "supportCardId": "s_card-3-0014",
+      "number": 1,
+      "text": "這還只是開胃菜，好戲還在後頭！"
+    },
+    {
+      "supportCardId": "s_card-3-0014",
+      "number": 2,
+      "text": "給我嗨到連我的聲音都聽不見吧！"
+    },
+    {
+      "supportCardId": "s_card-3-0014",
+      "number": 3,
+      "text": "……這就是，啟明星……"
+    },
+    {
+      "supportCardId": "s_card-3-0015",
+      "number": 1,
+      "text": "來吧，\n拍一張適合新學生會的照片吧！"
+    },
+    {
+      "supportCardId": "s_card-3-0015",
+      "number": 2,
+      "text": "心理準備還、還還沒做好～～！！"
+    },
+    {
+      "supportCardId": "s_card-3-0015",
+      "number": 3,
+      "text": "……呼啊。"
+    },
+    {
+      "supportCardId": "s_card-3-0016",
+      "number": 1,
+      "text": "抓到小廣啦～！"
+    },
+    {
+      "supportCardId": "s_card-3-0016",
+      "number": 2,
+      "text": "被逮住了。"
+    },
+    {
+      "supportCardId": "s_card-3-0016",
+      "number": 3,
+      "text": "秦谷同學也請好好跟上來！"
+    },
+    {
+      "supportCardId": "s_card-3-0016",
+      "number": 4,
+      "text": "……好的，我認命了。"
+    },
+    {
+      "supportCardId": "s_card-3-0017",
+      "number": 1,
+      "text": "最後一箱，出發嘍♪"
+    },
+    {
+      "supportCardId": "s_card-3-0017",
+      "number": 2,
+      "text": "等、等一下……！\n很重的，要小心點……"
+    },
+    {
+      "supportCardId": "s_card-3-0017",
+      "number": 3,
+      "text": "沒問題，沒問題！"
+    },
+    {
+      "supportCardId": "s_card-3-0018",
+      "number": 1,
+      "text": "手毬親～，\n你完全沒吃什麼零食吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0018",
+      "number": 2,
+      "text": "難道說，在減肥～？"
+    },
+    {
+      "supportCardId": "s_card-3-0018",
+      "number": 3,
+      "text": "唔……吵死了。"
+    },
+    {
+      "supportCardId": "s_card-3-0019",
+      "number": 1,
+      "text": "呵呵，這點小事不算什麼。"
+    },
+    {
+      "supportCardId": "s_card-3-0019",
+      "number": 2,
+      "text": "請儘管來依靠老師吧。"
+    },
+    {
+      "supportCardId": "s_card-3-0019",
+      "number": 3,
+      "text": "因為你可是我的學生啊。"
+    },
+    {
+      "supportCardId": "s_card-3-0020",
+      "number": 1,
+      "text": "啊，是秋季美食節呢！ \n正好肚子也餓了。"
+    },
+    {
+      "supportCardId": "s_card-3-0020",
+      "number": 2,
+      "text": "栗子飯便當、飯糰、然後是……\n甜點也來點吧！"
+    },
+    {
+      "supportCardId": "s_card-3-0020",
+      "number": 3,
+      "text": "呵呵……這樣的午餐，\n偶爾也不錯吧！"
+    },
+    {
+      "supportCardId": "s_card-3-0021",
+      "number": 1,
+      "text": "小毬，會感冒的哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0021",
+      "number": 2,
+      "text": "我、我知道的……！"
+    },
+    {
+      "supportCardId": "s_card-3-0021",
+      "number": 3,
+      "text": "別打破節奏啊……真是的……"
+    },
+    {
+      "supportCardId": "s_card-3-0022",
+      "number": 1,
+      "text": "啊！ 麻央前輩，是彩虹哦～"
+    },
+    {
+      "supportCardId": "s_card-3-0022",
+      "number": 2,
+      "text": "啊啊，是真的。"
+    },
+    {
+      "supportCardId": "s_card-3-0022",
+      "number": 3,
+      "text": "呵呵，這是打掃的獎勵……吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0023",
+      "number": 1,
+      "text": "啊，發現水窪了！"
+    },
+    {
+      "supportCardId": "s_card-3-0023",
+      "number": 2,
+      "text": "等等，佑芽！"
+    },
+    {
+      "supportCardId": "s_card-3-0023",
+      "number": 3,
+      "text": "給我住手——！"
+    },
+    {
+      "supportCardId": "s_card-3-0024",
+      "number": 1,
+      "text": "啊——……\n完全、搞不懂啦～"
+    },
+    {
+      "supportCardId": "s_card-3-0024",
+      "number": 2,
+      "text": "喂琴音！\n不是說了不是那樣做的嗎！？"
+    },
+    {
+      "supportCardId": "s_card-3-0024",
+      "number": 3,
+      "text": "獎勵……炸豬排……啊嗚……"
+    },
+    {
+      "supportCardId": "s_card-3-0025",
+      "number": 1,
+      "text": "我們，居然\n能來到這種地方了呢……！"
+    },
+    {
+      "supportCardId": "s_card-3-0025",
+      "number": 2,
+      "text": "呼呼……累了……"
+    },
+    {
+      "supportCardId": "s_card-3-0025",
+      "number": 3,
+      "text": "這是登頂紀念餐——！\n我開動啦——！"
+    },
+    {
+      "supportCardId": "s_card-3-0026",
+      "number": 1,
+      "text": "雖然覺得打掃泳池什麼的會很累的。"
+    },
+    {
+      "supportCardId": "s_card-3-0026",
+      "number": 2,
+      "text": "但是和莉莉婭一起的話就很開心！"
+    },
+    {
+      "supportCardId": "s_card-3-0026",
+      "number": 3,
+      "text": "……嗯。我也很開心♪"
+    },
+    {
+      "supportCardId": "s_card-3-0027",
+      "number": 1,
+      "text": "來吧！ 各位！\n在辛苦的訓練之後是——"
+    },
+    {
+      "supportCardId": "s_card-3-0027",
+      "number": 2,
+      "text": "享受度假的時間哦～～～♪"
+    },
+    {
+      "supportCardId": "s_card-3-0027",
+      "number": 3,
+      "text": "哦～～～～～～～～～～～～！"
+    },
+    {
+      "supportCardId": "s_card-3-0028",
+      "number": 1,
+      "text": "要不要暫時休戰？"
+    },
+    {
+      "supportCardId": "s_card-3-0028",
+      "number": 2,
+      "text": "哼，你以為\n能輕易說服我嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0028",
+      "number": 3,
+      "text": "……真懷念啊，這樣的對話。"
+    },
+    {
+      "supportCardId": "s_card-3-0029",
+      "number": 1,
+      "text": "好～嘞，來個夾擊吧～！"
+    },
+    {
+      "supportCardId": "s_card-3-0029",
+      "number": 2,
+      "text": "交給我吧琴音"
+    },
+    {
+      "supportCardId": "s_card-3-0029",
+      "number": 3,
+      "text": "也就這種時候特別有默契呢！"
+    },
+    {
+      "supportCardId": "s_card-3-0030",
+      "number": 1,
+      "text": "那邊那個是什麼呀！"
+    },
+    {
+      "supportCardId": "s_card-3-0030",
+      "number": 2,
+      "text": "呵呵♪　小千奈。\n那麼急會走散的哦？"
+    },
+    {
+      "supportCardId": "s_card-3-0030",
+      "number": 3,
+      "text": "沒問題的！\n因為我和姐姐大人牽著手呢！"
+    },
+    {
+      "supportCardId": "s_card-3-0031",
+      "number": 1,
+      "text": "交給我。我幫你點火。"
+    },
+    {
+      "supportCardId": "s_card-3-0031",
+      "number": 2,
+      "text": "哇，謝謝您……！"
+    },
+    {
+      "supportCardId": "s_card-3-0031",
+      "number": 3,
+      "text": "呵呵，手持煙花棒，\n很有趣呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0032",
+      "number": 1,
+      "text": "你是在擔心小燕嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0032",
+      "number": 2,
+      "text": "才、才沒有那種事呢。\n只是在想事情而已。"
+    },
+    {
+      "supportCardId": "s_card-3-0032",
+      "number": 3,
+      "text": "就是我招募來的……\n那些問題兒童們呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0033",
+      "number": 1,
+      "text": "今晚稍微感覺有點冷呢。\n我們一起披上毯子吧。"
+    },
+    {
+      "supportCardId": "s_card-3-0033",
+      "number": 2,
+      "text": "……總覺得有點害羞。\n別把我當小孩子看。"
+    },
+    {
+      "supportCardId": "s_card-3-0033",
+      "number": 3,
+      "text": "呵呵\n僅限今晚，就先放棄吧。"
+    },
+    {
+      "supportCardId": "s_card-3-0034",
+      "number": 1,
+      "text": "離洗完衣服，\n大概還有多久呢？"
+    },
+    {
+      "supportCardId": "s_card-3-0034",
+      "number": 2,
+      "text": "應該還有好一會兒吧。"
+    },
+    {
+      "supportCardId": "s_card-3-0034",
+      "number": 3,
+      "text": "那我再去泡壺茶來呢！"
+    },
+    {
+      "supportCardId": "s_card-3-0035",
+      "number": 1,
+      "text": "那本書，有趣嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0035",
+      "number": 2,
+      "text": "看得心跳加速哦～"
+    },
+    {
+      "supportCardId": "s_card-3-0035",
+      "number": 3,
+      "text": "我也來讀讀看好了"
+    },
+    {
+      "supportCardId": "s_card-3-0036",
+      "number": 1,
+      "text": "手毬親，試試戴下這個嘛！"
+    },
+    {
+      "supportCardId": "s_card-3-0036",
+      "number": 2,
+      "text": "絕對不要。喂、別擅自——"
+    },
+    {
+      "supportCardId": "s_card-3-0036",
+      "number": 3,
+      "text": "嘿嘿～超適合的嘛！\n好可愛～！"
+    },
+    {
+      "supportCardId": "s_card-3-0037",
+      "number": 1,
+      "text": "嗯～♪ 變涼快了呢！"
+    },
+    {
+      "supportCardId": "s_card-3-0037",
+      "number": 2,
+      "text": "說到秋天就是藝術之秋、讀書之秋、食慾之秋！\n馬上去吃秋天的美食吧！"
+    },
+    {
+      "supportCardId": "s_card-3-0037",
+      "number": 3,
+      "text": "和千奈在一起，全是快樂的事情。\n呵呵。一直以來謝謝你。"
+    },
+    {
+      "supportCardId": "s_card-3-0038",
+      "number": 1,
+      "text": "彩排的準備，全部做好了。"
+    },
+    {
+      "supportCardId": "s_card-3-0038",
+      "number": 2,
+      "text": "給新生訓示，有點緊張呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0038",
+      "number": 3,
+      "text": "連會長也會緊張嗎？\n真意外。"
+    },
+    {
+      "supportCardId": "s_card-3-0039",
+      "number": 1,
+      "text": "哎呀，這不是琴音嘛。\n我先走一步咯。"
+    },
+    {
+      "supportCardId": "s_card-3-0039",
+      "number": 2,
+      "text": "……太、太快了吧～！？"
+    },
+    {
+      "supportCardId": "s_card-3-0039",
+      "number": 3,
+      "text": "呵呵。你能跟上嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0040",
+      "number": 1,
+      "text": "呵呵，火候差不多到了吧。\n時機還挺難把握的呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0040",
+      "number": 2,
+      "text": "嗅嗅……好香。\n好令人期待……。"
+    },
+    {
+      "supportCardId": "s_card-3-0040",
+      "number": 3,
+      "text": "嗯，這邊好像可以了。\n莉莉婭，請用。"
+    },
+    {
+      "supportCardId": "s_card-3-0041",
+      "number": 1,
+      "text": "美鈴！\n那邊也去看看吧！"
+    },
+    {
+      "supportCardId": "s_card-3-0041",
+      "number": 2,
+      "text": "呵呵，可以哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0041",
+      "number": 3,
+      "text": "喂喂，彆著急嘛。"
+    },
+    {
+      "supportCardId": "s_card-3-0042",
+      "number": 1,
+      "text": "開始下雪了呢～。"
+    },
+    {
+      "supportCardId": "s_card-3-0042",
+      "number": 2,
+      "text": "公交車來還要一會兒吧？\n有點冷了呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0042",
+      "number": 3,
+      "text": "來，給這樣的莉莉婭，\n分一半圍巾哦！"
+    },
+    {
+      "supportCardId": "s_card-3-0043",
+      "number": 1,
+      "text": "嘿嘿，上當了～♪\n這下，我就獨佔優勢……！"
+    },
+    {
+      "supportCardId": "s_card-3-0043",
+      "number": 2,
+      "text": "給我等～著！\n就這種程度，我可不會輸哦！"
+    },
+    {
+      "supportCardId": "s_card-3-0043",
+      "number": 3,
+      "text": "呃！？ 太快了吧！？"
+    },
+    {
+      "supportCardId": "s_card-3-0044",
+      "number": 1,
+      "text": "辛苦了手毬親～。喝運動飲料嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0044",
+      "number": 2,
+      "text": "莉莉亞說，\n下次想試這個部分。"
+    },
+    {
+      "supportCardId": "s_card-3-0044",
+      "number": 3,
+      "text": "嗚咿——！抱歉，我遲到了～！"
+    },
+    {
+      "supportCardId": "s_card-3-0045",
+      "number": 1,
+      "text": "我們總有一天一定會――"
+    },
+    {
+      "supportCardId": "s_card-3-0045",
+      "number": 2,
+      "text": "在大舞臺上，\n唱這首歌呢！"
+    },
+    {
+      "supportCardId": "s_card-3-0045",
+      "number": 3,
+      "text": "呵呵……路還長著呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0046",
+      "number": 1,
+      "text": "（這次絕對要——）"
+    },
+    {
+      "supportCardId": "s_card-3-0046",
+      "number": 2,
+      "text": "（讓它成為我的東西）"
+    },
+    {
+      "supportCardId": "s_card-3-0046",
+      "number": 3,
+      "text": "（最能駕馭這首歌的人——\n　就是我！）"
+    },
+    {
+      "supportCardId": "s_card-3-0047",
+      "number": 1,
+      "text": "姐姐型巧克力怎麼樣！"
+    },
+    {
+      "supportCardId": "s_card-3-0047",
+      "number": 2,
+      "text": "非常可愛！\n吃掉真可惜呢♪"
+    },
+    {
+      "supportCardId": "s_card-3-0047",
+      "number": 3,
+      "text": "嘿嘿～♡\n希望你會喜歡～！"
+    },
+    {
+      "supportCardId": "s_card-3-0048",
+      "number": 1,
+      "text": "嗚哇，排長隊啦～！"
+    },
+    {
+      "supportCardId": "s_card-3-0048",
+      "number": 2,
+      "text": "呵呵，能聚集這麼多人，\n真開心啊。"
+    },
+    {
+      "supportCardId": "s_card-3-0048",
+      "number": 3,
+      "text": "馬上就輪到我了……\n嗯～！ 心跳得好快呀～！"
+    },
+    {
+      "supportCardId": "s_card-3-0049",
+      "number": 1,
+      "text": "嗚、嗚……好可怕……"
+    },
+    {
+      "supportCardId": "s_card-3-0049",
+      "number": 2,
+      "text": "那個……能自己站起來嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0049",
+      "number": 3,
+      "text": "等、等等！\n別離開我身邊！"
+    },
+    {
+      "supportCardId": "s_card-3-0050",
+      "number": 1,
+      "text": "今天要玩個痛快！"
+    },
+    {
+      "supportCardId": "s_card-3-0050",
+      "number": 2,
+      "text": "太刺激了哇～～～～！？"
+    },
+    {
+      "supportCardId": "s_card-3-0050",
+      "number": 3,
+      "text": "哇哦……佑芽，也給我弄一個。"
+    },
+    {
+      "supportCardId": "s_card-3-0051",
+      "number": 1,
+      "text": "謝謝你幫忙，有村同學。\n今後也一起努力吧！"
+    },
+    {
+      "supportCardId": "s_card-3-0051",
+      "number": 2,
+      "text": "嗯。等到那櫻花再次盛開之時，"
+    },
+    {
+      "supportCardId": "s_card-3-0051",
+      "number": 3,
+      "text": "我們一定也能——"
+    },
+    {
+      "supportCardId": "s_card-3-0052",
+      "number": 1,
+      "text": "好了，要拍啦～！"
+    },
+    {
+      "supportCardId": "s_card-3-0052",
+      "number": 2,
+      "text": "恭喜合格，佑芽！"
+    },
+    {
+      "supportCardId": "s_card-3-0052",
+      "number": 3,
+      "text": "好～候補合格了！\n這樣就能和姐姐在一起啦！"
+    },
+    {
+      "supportCardId": "s_card-3-0053",
+      "number": 1,
+      "text": "下、下次絕對能贏的！"
+    },
+    {
+      "supportCardId": "s_card-3-0053",
+      "number": 2,
+      "text": "呵呵，我隨時奉陪。"
+    },
+    {
+      "supportCardId": "s_card-3-0053",
+      "number": 3,
+      "text": "你們兩個，差不多也該休息了吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0054",
+      "number": 1,
+      "text": "我要認真上了……小咲季。"
+    },
+    {
+      "supportCardId": "s_card-3-0054",
+      "number": 2,
+      "text": "放馬過來吧莉莉婭。"
+    },
+    {
+      "supportCardId": "s_card-3-0054",
+      "number": 3,
+      "text": "真是個夠格的對手！"
+    },
+    {
+      "supportCardId": "s_card-3-0055",
+      "number": 1,
+      "text": "機會難得，\n在這裡拍張照吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0055",
+      "number": 2,
+      "text": "哦，不錯啊！\n就當入學紀念！"
+    },
+    {
+      "supportCardId": "s_card-3-0055",
+      "number": 3,
+      "text": "笑一笑吧——來，茄子♪"
+    },
+    {
+      "supportCardId": "s_card-3-0056",
+      "number": 1,
+      "text": "燕，那份檔案，我來幫你做。"
+    },
+    {
+      "supportCardId": "s_card-3-0056",
+      "number": 2,
+      "text": "哼，不需要你的幫助。\n去準備你自己的事吧。"
+    },
+    {
+      "supportCardId": "s_card-3-0056",
+      "number": 3,
+      "text": "……知道了。\n一直以來謝謝你，燕。"
+    },
+    {
+      "supportCardId": "s_card-3-0057",
+      "number": 1,
+      "text": "朋友嘛，\n不就是互相利用的關係嗎。"
+    },
+    {
+      "supportCardId": "s_card-3-0057",
+      "number": 2,
+      "text": "是那樣嗎～？"
+    },
+    {
+      "supportCardId": "s_card-3-0057",
+      "number": 3,
+      "text": "也沒什麼不好吧？ \n那種也能算是朋友嘛。"
+    },
+    {
+      "supportCardId": "s_card-3-0058",
+      "number": 1,
+      "text": "我們還在吵架吧……\n能別跟我說話嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0058",
+      "number": 2,
+      "text": "是哦。\n那麼，這是我的自言自語。"
+    },
+    {
+      "supportCardId": "s_card-3-0058",
+      "number": 3,
+      "text": "突然想起以前三個人一起吃的日子，\n就想再吃一次了。"
+    },
+    {
+      "supportCardId": "s_card-3-0059",
+      "number": 1,
+      "text": "遊戲而已不用這麼認真吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0059",
+      "number": 2,
+      "text": "我們之間不一直這樣嘛～。"
+    },
+    {
+      "supportCardId": "s_card-3-0059",
+      "number": 3,
+      "text": "小手球也拿出真本事，\n放馬過來吧！"
+    },
+    {
+      "supportCardId": "s_card-3-0060",
+      "number": 1,
+      "text": "這個，讀一下。拜託。"
+    },
+    {
+      "supportCardId": "s_card-3-0060",
+      "number": 2,
+      "text": "那個……\n秦谷美鈴同學，有朋友在找你？"
+    },
+    {
+      "supportCardId": "s_card-3-0060",
+      "number": 3,
+      "text": "……嘶呼。"
+    },
+    {
+      "supportCardId": "s_card-3-0061",
+      "number": 1,
+      "text": "適合有村的髮卡？"
+    },
+    {
+      "supportCardId": "s_card-3-0061",
+      "number": 2,
+      "text": "有趣的議題呢。\n請允許我也發表下意見。"
+    },
+    {
+      "supportCardId": "s_card-3-0061",
+      "number": 3,
+      "text": "我的話，覺得貓貓髮卡不錯喲♪"
+    },
+    {
+      "supportCardId": "s_card-3-0062",
+      "number": 1,
+      "text": "嗚～～！ 不管算多少次\n都對不上哇……！"
+    },
+    {
+      "supportCardId": "s_card-3-0062",
+      "number": 2,
+      "text": "冷靜點。你行列對錯了。"
+    },
+    {
+      "supportCardId": "s_card-3-0062",
+      "number": 3,
+      "text": "嗚誒誒誒誒～～～～！\n我搞不懂哇～～～～！？"
+    },
+    {
+      "supportCardId": "s_card-3-0063",
+      "number": 1,
+      "text": "這，這孩子是\n貓頭鷹的毛絨玩具——"
+    },
+    {
+      "supportCardId": "s_card-3-0063",
+      "number": 2,
+      "text": "哎呀！ 非常可愛的哇！"
+    },
+    {
+      "supportCardId": "s_card-3-0063",
+      "number": 3,
+      "text": "最近的毛絨玩具，長得都很可愛。\n不由自主地就買了……！"
+    },
+    {
+      "supportCardId": "s_card-3-0064",
+      "number": 1,
+      "text": "沒事沒事。\n真是乖孩子呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0064",
+      "number": 2,
+      "text": "莉、莉波前輩……？"
+    },
+    {
+      "supportCardId": "s_card-3-0064",
+      "number": 3,
+      "text": "小清夏一直都很努力呢。\n我可是都知道的哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0065",
+      "number": 1,
+      "text": "這次又在打什麼主意？"
+    },
+    {
+      "supportCardId": "s_card-3-0065",
+      "number": 2,
+      "text": "這可是\n藤田琴音的有償便當服務♪"
+    },
+    {
+      "supportCardId": "s_card-3-0065",
+      "number": 3,
+      "text": "手毬的便當，來一起做吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0066",
+      "number": 1,
+      "text": "負責她的製作人，\n肯定很辛苦吧。"
+    },
+    {
+      "supportCardId": "s_card-3-0066",
+      "number": 2,
+      "text": "哼哼，我是筱澤廣"
+    },
+    {
+      "supportCardId": "s_card-3-0066",
+      "number": 3,
+      "text": "勉強在做偶像，哦"
+    },
+    {
+      "supportCardId": "s_card-3-0067",
+      "number": 1,
+      "text": "留下了美好的回憶呢，美鈴。"
+    },
+    {
+      "supportCardId": "s_card-3-0067",
+      "number": 2,
+      "text": "是的……呵呵……\n在筱澤同學面前，果然沒有秘密呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0067",
+      "number": 3,
+      "text": "（哼哼，去跟手毬炫耀下吧）"
+    },
+    {
+      "supportCardId": "s_card-3-0068",
+      "number": 1,
+      "text": "手毬，蔬菜也要均衡攝入哦！"
+    },
+    {
+      "supportCardId": "s_card-3-0068",
+      "number": 2,
+      "text": "……我知道的啦。\n等下、不要給我夾胡蘿蔔啊！"
+    },
+    {
+      "supportCardId": "s_card-3-0068",
+      "number": 3,
+      "text": "不可以挑食哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0069",
+      "number": 1,
+      "text": "真漂亮啊！"
+    },
+    {
+      "supportCardId": "s_card-3-0069",
+      "number": 2,
+      "text": "是啊。真的很漂亮……"
+    },
+    {
+      "supportCardId": "s_card-3-0069",
+      "number": 3,
+      "text": "能和這群人一起看煙花，真是太好了——"
+    },
+    {
+      "supportCardId": "s_card-3-0070",
+      "number": 1,
+      "text": "為什麼偏偏會在高峰期\n最忙的時候來啊啊～？"
+    },
+    {
+      "supportCardId": "s_card-3-0070",
+      "number": 2,
+      "text": "因為是來吃午飯的嘛。"
+    },
+    {
+      "supportCardId": "s_card-3-0070",
+      "number": 3,
+      "text": "好歹也挑個不是用餐高峰的\n時候吧————！"
+    },
+    {
+      "supportCardId": "s_card-3-0071",
+      "number": 1,
+      "text": "嗯，接下來輪到有村了。"
+    },
+    {
+      "supportCardId": "s_card-3-0071",
+      "number": 2,
+      "text": "耶——我會讓氣氛更熱烈的哦！"
+    },
+    {
+      "supportCardId": "s_card-3-0071",
+      "number": 3,
+      "text": "莉波今天的情緒真高啊……"
+    },
+    {
+      "supportCardId": "s_card-3-0072",
+      "number": 1,
+      "text": "真險呢，千奈。你沒受傷吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0072",
+      "number": 2,
+      "text": "謝謝您……！"
+    },
+    {
+      "supportCardId": "s_card-3-0072",
+      "number": 3,
+      "text": "呵呵，輕飄飄的，\n就這樣抱起來走吧。"
+    },
+    {
+      "supportCardId": "s_card-3-0073",
+      "number": 1,
+      "text": "剪刀手、剪刀手哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0073",
+      "number": 2,
+      "text": "說起辣妹，那就是穿著制服去遊樂園。\n戴著髮箍，雙手比出剪刀手。"
+    },
+    {
+      "supportCardId": "s_card-3-0073",
+      "number": 3,
+      "text": "啥呀這是～也太好笑了吧～！\n這也太刻板印象了吧～？"
+    },
+    {
+      "supportCardId": "s_card-3-0074",
+      "number": 1,
+      "text": "這本雜誌，真讓人懷念啊。"
+    },
+    {
+      "supportCardId": "s_card-3-0074",
+      "number": 2,
+      "text": "沒想到這個月的，\n居然有小旋旋的特別報道呢！"
+    },
+    {
+      "supportCardId": "s_card-3-0074",
+      "number": 3,
+      "text": "呵呵，莉莉婭，你看起來很開心呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0075",
+      "number": 1,
+      "text": "歡迎來我家做客♪"
+    },
+    {
+      "supportCardId": "s_card-3-0075",
+      "number": 2,
+      "text": "寬敞又大的房子裡還有女僕――"
+    },
+    {
+      "supportCardId": "s_card-3-0075",
+      "number": 3,
+      "text": "………………哇呀！\n就像電視劇的世界一樣～～～！"
+    },
+    {
+      "supportCardId": "s_card-3-0076",
+      "number": 1,
+      "text": "呃，那、那個…… 你懂的吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0076",
+      "number": 2,
+      "text": "呵呵。不，我不懂哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0076",
+      "number": 3,
+      "text": "（呵呵，那兩個人和好了呢。）"
+    },
+    {
+      "supportCardId": "s_card-3-0077",
+      "number": 1,
+      "text": "呼哇～……感覺好舒服哇～～♡"
+    },
+    {
+      "supportCardId": "s_card-3-0077",
+      "number": 2,
+      "text": "訓練完以後，\n可得好好放鬆一下才行哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0077",
+      "number": 3,
+      "text": "這個就是，\n超～管用的那種東西哇！"
+    },
+    {
+      "supportCardId": "s_card-3-0078",
+      "number": 1,
+      "text": "哼哼～下一個挑戰者是誰呀～？"
+    },
+    {
+      "supportCardId": "s_card-3-0078",
+      "number": 2,
+      "text": "讓我來吧。\n掰手腕我也是略懂一二的。"
+    },
+    {
+      "supportCardId": "s_card-3-0078",
+      "number": 3,
+      "text": "麻央前輩，我可是不會輸的哦～"
+    },
+    {
+      "supportCardId": "s_card-3-0079",
+      "number": 1,
+      "text": "秦谷你在這裡啊！\n還在悠閒地躺著幹什麼！？"
+    },
+    {
+      "supportCardId": "s_card-3-0079",
+      "number": 2,
+      "text": "呼啊……今天也是個適合午睡的好天氣呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0079",
+      "number": 3,
+      "text": "真是的……你竟然在這種地方。"
+    },
+    {
+      "supportCardId": "s_card-3-0080",
+      "number": 1,
+      "text": "又、又掉下來了……！\n再來一次……！"
+    },
+    {
+      "supportCardId": "s_card-3-0080",
+      "number": 2,
+      "text": "莉、莉莉婭？\n差不多該放棄了吧……"
+    },
+    {
+      "supportCardId": "s_card-3-0080",
+      "number": 3,
+      "text": "錢包裡還有錢，沒問題的！"
+    },
+    {
+      "supportCardId": "s_card-3-0081",
+      "number": 1,
+      "text": "誒嘿嘿～♪　臉頰好軟～"
+    },
+    {
+      "supportCardId": "s_card-3-0081",
+      "number": 2,
+      "text": "嗚～嗯……"
+    },
+    {
+      "supportCardId": "s_card-3-0081",
+      "number": 3,
+      "text": "不好，吵醒她了嗎！？"
+    },
+    {
+      "supportCardId": "s_card-3-0082",
+      "number": 1,
+      "text": "葛、葛城！　你怎麼會在這裡！？"
+    },
+    {
+      "supportCardId": "s_card-3-0082",
+      "number": 2,
+      "text": "我、我……那個……\n那燕前輩你呢！？"
+    },
+    {
+      "supportCardId": "s_card-3-0082",
+      "number": 3,
+      "text": "我、我是……有點事……"
+    },
+    {
+      "supportCardId": "s_card-3-0083",
+      "number": 1,
+      "text": "呼啊……\n稍微小睡一會兒吧。"
+    },
+    {
+      "supportCardId": "s_card-3-0083",
+      "number": 2,
+      "text": "秦、秦谷同學，\n你要去哪裡……？"
+    },
+    {
+      "supportCardId": "s_card-3-0083",
+      "number": 3,
+      "text": "難道說……你是不良少女嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0084",
+      "number": 1,
+      "text": "直到～夢想～實～現～♪"
+    },
+    {
+      "supportCardId": "s_card-3-0084",
+      "number": 2,
+      "text": "哇哦。不愧是、手毬"
+    },
+    {
+      "supportCardId": "s_card-3-0084",
+      "number": 3,
+      "text": "你也太厲害了吧～！"
+    },
+    {
+      "supportCardId": "s_card-3-0085",
+      "number": 1,
+      "text": "聽好了，拋開所有雜念，\n好好集中精神。"
+    },
+    {
+      "supportCardId": "s_card-3-0085",
+      "number": 2,
+      "text": "啊，腿麻了～！？"
+    },
+    {
+      "supportCardId": "s_card-3-0085",
+      "number": 3,
+      "text": "佑芽，集中精神。"
+    },
+    {
+      "supportCardId": "s_card-3-0086",
+      "number": 1,
+      "text": "如何？　完美吧？"
+    },
+    {
+      "supportCardId": "s_card-3-0086",
+      "number": 2,
+      "text": "哼，我來給你示範一下。"
+    },
+    {
+      "supportCardId": "s_card-3-0086",
+      "number": 3,
+      "text": "這、這樣是不是太過了！？"
+    },
+    {
+      "supportCardId": "s_card-3-0087",
+      "number": 1,
+      "text": "嗯——這樣的髮型如何～？\n把兩側編起來～。"
+    },
+    {
+      "supportCardId": "s_card-3-0087",
+      "number": 2,
+      "text": "不愧是琴音呢。\n我也不會輸哦——"
+    },
+    {
+      "supportCardId": "s_card-3-0087",
+      "number": 3,
+      "text": "你們，是不是在拿我開玩笑？"
+    },
+    {
+      "supportCardId": "s_card-3-0088",
+      "number": 1,
+      "text": "今天的事情，\n你會一直記住的嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0088",
+      "number": 2,
+      "text": "當然。一輩子，都不會忘記的。"
+    },
+    {
+      "supportCardId": "s_card-3-0088",
+      "number": 3,
+      "text": "我也會……\n一直一直記著的哇。"
+    },
+    {
+      "supportCardId": "s_card-3-0089",
+      "number": 1,
+      "text": "會長！　姐姐她——\n過來幫我們忙啦！"
+    },
+    {
+      "supportCardId": "s_card-3-0089",
+      "number": 2,
+      "text": "你來這裡的目的，僅此而已嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0089",
+      "number": 3,
+      "text": "我是來看看你這個\n佑芽的製作人到底靠不靠譜的！"
+    },
+    {
+      "supportCardId": "s_card-3-0090",
+      "number": 1,
+      "text": "小老虎，找到你啦"
+    },
+    {
+      "supportCardId": "s_card-3-0090",
+      "number": 2,
+      "text": "過來呀。出來呀。"
+    },
+    {
+      "supportCardId": "s_card-3-0090",
+      "number": 3,
+      "text": "……你在那裡，做什麼呢？"
+    },
+    {
+      "supportCardId": "s_card-3-0091",
+      "number": 1,
+      "text": "咦咦～？\n你們倆看起來都很難受呢～？"
+    },
+    {
+      "supportCardId": "s_card-3-0091",
+      "number": 2,
+      "text": "這、這點酸根本不算什麼！"
+    },
+    {
+      "supportCardId": "s_card-3-0091",
+      "number": 3,
+      "text": "我也是……完、完全不辣。"
+    },
+    {
+      "supportCardId": "s_card-3-0098",
+      "number": 1,
+      "text": "終於到運動會正式開始的時候了呢。"
+    },
+    {
+      "supportCardId": "s_card-3-0098",
+      "number": 2,
+      "text": "初星學園的運動會，可沒簡單到\n只靠運動神經和體力就能贏哦。"
+    },
+    {
+      "supportCardId": "s_card-3-0098",
+      "number": 3,
+      "text": "百戰百勝、專心致志、勇往直前……\n全力以赴去爭取勝利哦！"
+    }
+  ]
+}

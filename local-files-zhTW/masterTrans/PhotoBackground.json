@@ -1,0 +1,37 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "photo_background-danceroom-01",
+      "name": "舞蹈訓練室"
+    },
+    {
+      "id": "photo_background-hotspring-01",
+      "name": "初星溫泉"
+    },
+    {
+      "id": "photo_background-riverbed",
+      "name": "河岸"
+    },
+    {
+      "id": "photo_background-rooftop-01",
+      "name": "本校舍屋頂"
+    },
+    {
+      "id": "photo_background-visualroom-01",
+      "name": "視覺訓練室"
+    },
+    {
+      "id": "photo_background-vocalroom-01",
+      "name": "歌唱訓練室"
+    },
+    {
+      "id": "photo_photobooth-01",
+      "name": "Animate"
+    }
+  ]
+}

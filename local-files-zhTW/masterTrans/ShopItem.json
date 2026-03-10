@@ -1,0 +1,917 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "shop_costume_amao-cstm-0069_revival-1",
+      "name": "兒童罩衫（有村麻央）"
+    },
+    {
+      "id": "shop_costume_amao-cstm-0111",
+      "name": "水手服泳裝（有村麻央）"
+    },
+    {
+      "id": "shop_costume_amao-othr-0002-resale",
+      "name": "溫泉泳裝（有村麻央）"
+    },
+    {
+      "id": "shop_costume_amao-trng-0002",
+      "name": "初星學園體操服（有村麻央）"
+    },
+    {
+      "id": "shop_costume_amao-trng-0002-resale",
+      "name": "初星學園體操服（有村麻央）"
+    },
+    {
+      "id": "shop_costume_atbm-cstm-0069",
+      "name": "兒童罩衫（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_atbm-cstm-0111",
+      "name": "水手服泳裝（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_atbm-othr-0002",
+      "name": "溫泉泳裝（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_atbm-trng-0002",
+      "name": "初星學園體操服（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_amao-hair-0001",
+      "name": "紫陽花髮飾（有村麻央）"
+    },
+    {
+      "id": "shop_costume_costume_head_amao-hair-0003",
+      "name": "圓框眼鏡（有村麻央）"
+    },
+    {
+      "id": "shop_costume_costume_head_amao-hair-0004",
+      "name": "貓耳（有村麻央）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0001",
+      "name": "紫陽花髮飾（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0003",
+      "name": "圓框眼鏡（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0004",
+      "name": "貓耳（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0006",
+      "name": "初美☆配飾（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0007",
+      "name": "淚滴形眼鏡（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_atbm-hair-0008",
+      "name": "狗耳（雨夜燕）"
+    },
+    {
+      "id": "shop_costume_costume_head_fktn-hair-0001",
+      "name": "紫陽花髮飾（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_costume_head_fktn-hair-0003",
+      "name": "圓框眼鏡（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_costume_head_fktn-hair-0004",
+      "name": "貓耳（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_costume_head_fktn-hair-0006",
+      "name": "初美☆配飾（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_costume_head_hmsz-hair-0001",
+      "name": "紫陽花髮飾（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_costume_head_hmsz-hair-0003",
+      "name": "圓框眼鏡（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_costume_head_hmsz-hair-0004",
+      "name": "貓耳（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_costume_head_hmsz-hair-0006",
+      "name": "初美☆配飾（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_costume_head_hrnm-hair-0001",
+      "name": "紫陽花髮飾（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_costume_head_hrnm-hair-0003",
+      "name": "圓框眼鏡（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_costume_head_hrnm-hair-0004",
+      "name": "貓耳（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_costume_head_hski-hair-0001",
+      "name": "紫陽花髮飾（花海咲季）"
+    },
+    {
+      "id": "shop_costume_costume_head_hski-hair-0003",
+      "name": "圓框眼鏡（花海咲季）"
+    },
+    {
+      "id": "shop_costume_costume_head_hski-hair-0004",
+      "name": "貓耳（花海咲季）"
+    },
+    {
+      "id": "shop_costume_costume_head_hski-hair-0006",
+      "name": "初美☆配飾（花海咲季）"
+    },
+    {
+      "id": "shop_costume_costume_head_hume-hair-0001",
+      "name": "紫陽花髮飾（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_costume_head_hume-hair-0003",
+      "name": "圓框眼鏡（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_costume_head_hume-hair-0004",
+      "name": "貓耳（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_costume_head_hume-hair-0006",
+      "name": "初美☆配飾（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_costume_head_jsna-hair-0001",
+      "name": "紫陽花髮飾（十王星南）"
+    },
+    {
+      "id": "shop_costume_costume_head_jsna-hair-0003",
+      "name": "圓框眼鏡（十王星南）"
+    },
+    {
+      "id": "shop_costume_costume_head_jsna-hair-0004",
+      "name": "貓耳（十王星南）"
+    },
+    {
+      "id": "shop_costume_costume_head_jsna-hair-0006",
+      "name": "初美☆配飾（十王星南）"
+    },
+    {
+      "id": "shop_costume_costume_head_kcna-hair-0001",
+      "name": "紫陽花髮飾（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_costume_head_kcna-hair-0003",
+      "name": "圓框眼鏡（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_costume_head_kcna-hair-0004",
+      "name": "貓耳（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_costume_head_kcna-hair-0006",
+      "name": "初美☆配飾（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_costume_head_kllj-hair-0001",
+      "name": "紫陽花髮飾（葛城莉莉婭）"
+    },
+    {
+      "id": "shop_costume_costume_head_kllj-hair-0003",
+      "name": "圓框眼鏡（葛城莉莉婭）"
+    },
+    {
+      "id": "shop_costume_costume_head_kllj-hair-0004",
+      "name": "貓耳（葛城莉莉婭）"
+    },
+    {
+      "id": "shop_costume_costume_head_shro-hair-0001",
+      "name": "紫陽花髮飾（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_costume_head_shro-hair-0003",
+      "name": "圓框眼鏡（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_costume_head_shro-hair-0004",
+      "name": "貓耳（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_costume_head_shro-hair-0006",
+      "name": "初美☆配飾（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_costume_head_ssmk-hair-0001",
+      "name": "紫陽花髮飾（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_costume_head_ssmk-hair-0003",
+      "name": "圓框眼鏡（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_costume_head_ssmk-hair-0004",
+      "name": "貓耳（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_costume_head_ttmr-hair-0001",
+      "name": "紫陽花髮飾（月村手毬）"
+    },
+    {
+      "id": "shop_costume_costume_head_ttmr-hair-0003",
+      "name": "圓框眼鏡（月村手毬）"
+    },
+    {
+      "id": "shop_costume_costume_head_ttmr-hair-0004",
+      "name": "貓耳（月村手毬）"
+    },
+    {
+      "id": "shop_costume_costume_head_ttmr-hair-0006",
+      "name": "初美☆配飾（月村手毬）"
+    },
+    {
+      "id": "shop_costume_fktn-cstm-0063",
+      "name": "祭典法批（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_fktn-cstm-0069_revival-1",
+      "name": "兒童罩衫（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_fktn-cstm-0111",
+      "name": "水手服泳裝（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_fktn-othr-0002-resale",
+      "name": "溫泉泳裝（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_fktn-trng-0002",
+      "name": "初星學園體操服（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_fktn-trng-0002-resale",
+      "name": "初星學園體操服（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_hmsz-cstm-0069",
+      "name": "兒童罩衫（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_hmsz-cstm-0111",
+      "name": "水手服泳裝（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_hmsz-othr-0002",
+      "name": "溫泉泳裝（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_hmsz-othr-0002-resale",
+      "name": "溫泉泳裝（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_hmsz-trng-0002",
+      "name": "初星學園體操服（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_hmsz-trng-0002-resale",
+      "name": "初星學園體操服（秦谷美鈴）"
+    },
+    {
+      "id": "shop_costume_hrnm-cstm-0051",
+      "name": "連帽衫泳衣（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_hrnm-cstm-0069_revival-1",
+      "name": "兒童罩衫（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_hrnm-cstm-0075",
+      "name": "愛心圍裙（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_hrnm-cstm-0111",
+      "name": "水手服泳裝（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_hrnm-trng-0002",
+      "name": "初星學園體操服（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_hrnm-trng-0002-resale",
+      "name": "初星學園體操服（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_hski-cstm-0069_revival-1",
+      "name": "兒童罩衫（花海咲季）"
+    },
+    {
+      "id": "shop_costume_hski-cstm-0111",
+      "name": "水手服泳裝（花海咲季）"
+    },
+    {
+      "id": "shop_costume_hski-othr-0002-resale",
+      "name": "溫泉泳裝（花海咲季）"
+    },
+    {
+      "id": "shop_costume_hski-trng-0002",
+      "name": "初星學園體操服（花海咲季）"
+    },
+    {
+      "id": "shop_costume_hski-trng-0002-resale",
+      "name": "初星學園體操服（花海咲季）"
+    },
+    {
+      "id": "shop_costume_hume-cstm-0067",
+      "name": "聖誕斗篷（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_hume-cstm-0069",
+      "name": "兒童罩衫（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_hume-cstm-0069_revival-1",
+      "name": "兒童罩衫（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_hume-cstm-0111",
+      "name": "水手服泳裝（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_hume-trng-0002",
+      "name": "初星學園體操服（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_hume-trng-0002-resale",
+      "name": "初星學園體操服（花海佑芽）"
+    },
+    {
+      "id": "shop_costume_jsna-cstm-0069",
+      "name": "兒童罩衫（十王星南）"
+    },
+    {
+      "id": "shop_costume_jsna-cstm-0069_revival-1",
+      "name": "兒童罩衫（十王星南）"
+    },
+    {
+      "id": "shop_costume_jsna-cstm-0075",
+      "name": "愛心圍裙（十王星南）"
+    },
+    {
+      "id": "shop_costume_jsna-cstm-0111",
+      "name": "水手服泳裝（十王星南）"
+    },
+    {
+      "id": "shop_costume_jsna-othr-0002",
+      "name": "溫泉泳裝（十王星南）"
+    },
+    {
+      "id": "shop_costume_jsna-othr-0002-resale",
+      "name": "溫泉泳裝（十王星南）"
+    },
+    {
+      "id": "shop_costume_jsna-trng-0002",
+      "name": "初星學園體操服（十王星南）"
+    },
+    {
+      "id": "shop_costume_jsna-trng-0002-resale",
+      "name": "初星學園體操服（十王星南）"
+    },
+    {
+      "id": "shop_costume_kcna-cstm-0069_revival-1",
+      "name": "兒童罩衫（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_kcna-cstm-0111",
+      "name": "水手服泳裝（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_kcna-trng-0002",
+      "name": "初星學園體操服（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_kcna-trng-0002-resale",
+      "name": "初星學園體操服（倉本千奈）"
+    },
+    {
+      "id": "shop_costume_kllj-cstm-0063",
+      "name": "祭典法批（葛城莉莉亞）"
+    },
+    {
+      "id": "shop_costume_kllj-cstm-0067",
+      "name": "聖誕斗篷（葛城莉莉婭）"
+    },
+    {
+      "id": "shop_costume_kllj-cstm-0069_revival-1",
+      "name": "兒童罩衫（葛城莉莉亞）"
+    },
+    {
+      "id": "shop_costume_kllj-cstm-0111",
+      "name": "水手服泳裝（葛城莉莉婭）"
+    },
+    {
+      "id": "shop_costume_kllj-othr-0002-resale",
+      "name": "溫泉泳裝（葛城莉莉婭）"
+    },
+    {
+      "id": "shop_costume_kllj-trng-0002",
+      "name": "初星學園體操服（葛城莉莉婭）"
+    },
+    {
+      "id": "shop_costume_kllj-trng-0002-resale",
+      "name": "初星學園體操服（葛城莉莉婭）"
+    },
+    {
+      "id": "shop_costume_nasr-cstm-0069",
+      "name": "兒童罩衫（根緒亞紗裡）"
+    },
+    {
+      "id": "shop_costume_nasr-cstm-0135",
+      "name": "T恤泳裝（根緒亞紗裡）"
+    },
+    {
+      "id": "shop_costume_nasr-hair-0005",
+      "name": "方框眼鏡（根緒亞紗裡）"
+    },
+    {
+      "id": "shop_costume_shro-cstm-0065",
+      "name": "殭屍制服（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_shro-cstm-0069_revival-1",
+      "name": "兒童罩衫（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_shro-cstm-0111",
+      "name": "水手服泳裝（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_shro-othr-0002-resale",
+      "name": "溫泉泳裝（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_shro-trng-0002",
+      "name": "初星學園體操服（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_shro-trng-0002-resale",
+      "name": "初星學園體操服（筱澤廣）"
+    },
+    {
+      "id": "shop_costume_ssmk-cstm-0051",
+      "name": "連帽衫泳衣（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_ssmk-cstm-0069_revival-1",
+      "name": "兒童罩衫（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_ssmk-cstm-0111",
+      "name": "水手服泳裝（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_ssmk-othr-0002-resale",
+      "name": "溫泉泳裝（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_ssmk-trng-0002",
+      "name": "初星學園體操服（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_ssmk-trng-0002-resale",
+      "name": "初星學園體操服（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_ttmr-cstm-0065",
+      "name": "殭屍制服（月村手毬）"
+    },
+    {
+      "id": "shop_costume_ttmr-cstm-0069_revival-1",
+      "name": "兒童罩衫（月村手毬）"
+    },
+    {
+      "id": "shop_costume_ttmr-cstm-0111",
+      "name": "水手服泳裝（月村手毬）"
+    },
+    {
+      "id": "shop_costume_ttmr-othr-0002-resale",
+      "name": "溫泉泳裝（月村手毬）"
+    },
+    {
+      "id": "shop_costume_ttmr-trng-0002",
+      "name": "初星學園體操服（月村手毬）"
+    },
+    {
+      "id": "shop_costume_ttmr-trng-0002-resale",
+      "name": "初星學園體操服（月村手毬）"
+    },
+    {
+      "id": "shop_jewel_item-0001",
+      "name": "寶石80個"
+    },
+    {
+      "id": "shop_jewel_item-0002",
+      "name": "寶石360個"
+    },
+    {
+      "id": "shop_jewel_item-0003",
+      "name": "寶石600個"
+    },
+    {
+      "id": "shop_jewel_item-0004",
+      "name": "寶石1200個"
+    },
+    {
+      "id": "shop_jewel_item-0005",
+      "name": "寶石2500個"
+    },
+    {
+      "id": "shop_jewel_item-0006",
+      "name": "寶石4000個"
+    },
+    {
+      "id": "shop_jewel_item-0007",
+      "name": "寶石8200個"
+    },
+    {
+      "id": "shop_jewel_item-0008",
+      "name": "【僅限1次優惠！】寶石12300個（6/28截止）"
+    },
+    {
+      "id": "shop_jewel_item-0009",
+      "name": "【僅限1次優惠！】寶石450個（6/28截止）"
+    },
+    {
+      "id": "shop_jewel_item-0010",
+      "name": "【僅限1次優惠！】寶石6000個（6/28截止）"
+    },
+    {
+      "id": "shop_jewel_item-0011",
+      "name": "【巡迴紀念僅限1次優惠！】寶石6000個"
+    },
+    {
+      "id": "shop_jewel_item-0014",
+      "name": "【僅限2次優惠！】寶石12300個"
+    },
+    {
+      "id": "shop_jewel_item-0015",
+      "name": "【僅限2次優惠！】寶石6000個"
+    },
+    {
+      "id": "shop_jewel_item-0016",
+      "name": "【僅限2次優惠！】寶石6000個"
+    },
+    {
+      "id": "shop_jewel_item-0017",
+      "name": "【僅限2次優惠！】寶石12300個"
+    },
+    {
+      "id": "shop_jewel_item-0018",
+      "name": "【僅限2次優惠！】寶石12300個"
+    },
+    {
+      "id": "shop_jewel_item-0019",
+      "name": "【僅限2次優惠！】寶石6000個"
+    },
+    {
+      "id": "shop_jewel_item-0020",
+      "name": "【僅限1次優惠！】寶石12300個"
+    },
+    {
+      "id": "shop_jewel_item-0021",
+      "name": "【僅限1次優惠！】寶石6000個"
+    },
+    {
+      "id": "shop_jewel_item-0023",
+      "name": "【僅限1次優惠！】寶石6000個"
+    },
+    {
+      "id": "shop_jewel_item-0024",
+      "name": "【僅限1次優惠！】寶石6000個"
+    },
+    {
+      "id": "shop_jewel_item-0025",
+      "name": "【僅限2次優惠！】寶石12300個"
+    },
+    {
+      "id": "shop_jewel_item-0026",
+      "name": "【僅限2次優惠！】寶石6000個"
+    },
+    {
+      "id": "shop_pack_atbm-0001",
+      "name": "【72小時限定】培育偶像優勝禮包（燕）"
+    },
+    {
+      "id": "shop_pack_hmsz-0001",
+      "name": "【72小時限定】培育偶像優勝禮包（美鈴）"
+    },
+    {
+      "id": "shop_pack_hume-0001",
+      "name": "【72小時限定】培育偶像優勝禮包（佑芽）"
+    },
+    {
+      "id": "shop_pack_item-0001",
+      "name": "【24小時限定】入學紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-0002",
+      "name": "【14日限定】新人製作人應援禮包"
+    },
+    {
+      "id": "shop_pack_item-0003",
+      "name": "每週補給！初星禮包"
+    },
+    {
+      "id": "shop_pack_item-0004",
+      "name": "每週更新！育成禮包"
+    },
+    {
+      "id": "shop_pack_item-0005",
+      "name": "每月更新！育成禮包"
+    },
+    {
+      "id": "shop_pack_item-0006",
+      "name": "【72小時限定】培育偶像優勝禮包（咲季）"
+    },
+    {
+      "id": "shop_pack_item-0007",
+      "name": "【72小時限定】培育偶像優勝禮包（手毬）"
+    },
+    {
+      "id": "shop_pack_item-0008",
+      "name": "【72小時限定】培育偶像優勝禮包（琴音）"
+    },
+    {
+      "id": "shop_pack_item-0009",
+      "name": "【72小時限定】培育偶像優勝禮包（麻央）"
+    },
+    {
+      "id": "shop_pack_item-0010",
+      "name": "【72小時限定】培育偶像優勝禮包（莉莉婭）"
+    },
+    {
+      "id": "shop_pack_item-0011",
+      "name": "【72小時限定】培育偶像優勝禮包（千奈）"
+    },
+    {
+      "id": "shop_pack_item-0012",
+      "name": "【72小時限定】培育偶像優勝禮包（清夏）"
+    },
+    {
+      "id": "shop_pack_item-0013",
+      "name": "【72小時限定】培育偶像優勝禮包（廣）"
+    },
+    {
+      "id": "shop_pack_item-0014",
+      "name": "【72小時限定】培育偶像優勝禮包（莉波）"
+    },
+    {
+      "id": "shop_pack_item-0050",
+      "name": "初星大運動會舉辦紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-0057",
+      "name": "1.5th Anniversary紀念偶像禮包"
+    },
+    {
+      "id": "shop_pack_item-0058",
+      "name": "1.5th Anniversary紀念支援禮包"
+    },
+    {
+      "id": "shop_pack_item-0061",
+      "name": "1.5th Anniversary紀念季節禮包"
+    },
+    {
+      "id": "shop_pack_item-0062",
+      "name": "MOIW2025紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-0063",
+      "name": "TVCM放映紀念 養成優惠禮包A"
+    },
+    {
+      "id": "shop_pack_item-0064",
+      "name": "TVCM放映紀念 養成優惠禮包B"
+    },
+    {
+      "id": "shop_pack_item-100dl",
+      "name": "【100萬下載紀念】育成禮包（6/28截止）"
+    },
+    {
+      "id": "shop_pack_item-1stPeriodHarmonyStar-selection-ticket",
+      "name": "The 1st Period Harmony Star紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-1stPeriodSpotlightStar-selection-ticket",
+      "name": "The 1st Period Spotlight Star紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-300dl-selection-ticket-pack",
+      "name": "300萬DL禮包"
+    },
+    {
+      "id": "shop_pack_item-aniversary-selection-ticket",
+      "name": "1st Anniversary前夜祭禮包"
+    },
+    {
+      "id": "shop_pack_item-childsmock-01",
+      "name": "【100萬下載紀念】兒童罩衫禮包A（6/28截止）"
+    },
+    {
+      "id": "shop_pack_item-childsmock-02",
+      "name": "【100萬下載紀念】兒童罩衫禮包B（6/28截止）"
+    },
+    {
+      "id": "shop_pack_item-childsmock-03",
+      "name": "【100萬下載紀念】兒童罩衫禮包C（6/28截止）"
+    },
+    {
+      "id": "shop_pack_item-daily-AP-0001",
+      "name": "每日更新！AP禮包"
+    },
+    {
+      "id": "shop_pack_item-first-live_001",
+      "name": "初聲公演紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-first-live_002",
+      "name": "初心公演紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-first-live_003",
+      "name": "初戀公演紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-half-aniversary-selection-ticket",
+      "name": "半週年前夜祭紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-monthly-0002",
+      "name": "每月更新！育成禮包"
+    },
+    {
+      "id": "shop_pack_item-monthly-0002_re01",
+      "name": "每月更新！育成禮包"
+    },
+    {
+      "id": "shop_pack_item-newyear_2500_01",
+      "name": "福袋禮包2025銀"
+    },
+    {
+      "id": "shop_pack_item-newyear_2500_02",
+      "name": "福袋禮包2026銀"
+    },
+    {
+      "id": "shop_pack_item-newyear_5000_01",
+      "name": "福袋禮包2025金"
+    },
+    {
+      "id": "shop_pack_item-newyear_5000_02",
+      "name": "福袋禮包2026金"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-amao",
+      "name": "溫泉泳裝（有村麻央）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-fktn",
+      "name": "溫泉泳裝（藤田琴音）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-hski",
+      "name": "溫泉泳裝（花海咲季）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-kllj",
+      "name": "溫泉泳裝（葛城莉莉婭）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-shro",
+      "name": "溫泉泳裝（筱澤廣）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-ssmk",
+      "name": "溫泉泳裝（紫雲清夏）"
+    },
+    {
+      "id": "shop_pack_item-onsen-costume-ttmr",
+      "name": "溫泉泳裝（月村手毬）"
+    },
+    {
+      "id": "shop_pack_item-pre1.5anniversary-selection-ticket",
+      "name": "1.5th Anniversary前夜祭禮包"
+    },
+    {
+      "id": "shop_pack_item-weekly-0002",
+      "name": "每週更新！育成禮包"
+    },
+    {
+      "id": "shop_pack_jsna-0001",
+      "name": "【72小時限定】培育偶像優勝禮包（星南）"
+    },
+    {
+      "id": "shop_pass_item-0001",
+      "name": "高階任務通行證 2024年5月"
+    },
+    {
+      "id": "shop_pass_item-0002",
+      "name": "高階任務通行證 2024年6月"
+    },
+    {
+      "id": "shop_pass_item-0003",
+      "name": "高階任務通行證 2024年7月"
+    },
+    {
+      "id": "shop_pass_item-0004",
+      "name": "高階任務通行證 2024年8月"
+    },
+    {
+      "id": "shop_pass_item-0005",
+      "name": "高階任務通行證 2024年9月"
+    },
+    {
+      "id": "shop_pass_item-0006",
+      "name": "高階任務通行證 2024年10月"
+    },
+    {
+      "id": "shop_pass_item-0007",
+      "name": "高階任務通行證 2024年11月"
+    },
+    {
+      "id": "shop_pass_item-0008",
+      "name": "高階任務通行證 2024年12月"
+    },
+    {
+      "id": "shop_pass_item-0009",
+      "name": "高階任務通行證 2025年1月"
+    },
+    {
+      "id": "shop_pass_item-0010",
+      "name": "高階任務通行證 2025年2月"
+    },
+    {
+      "id": "shop_pass_item-0011",
+      "name": "高階任務通行證 2025年3月"
+    },
+    {
+      "id": "shop_pass_item-0012",
+      "name": "高階任務通行證 2025年4月"
+    },
+    {
+      "id": "shop_pass_item-0013",
+      "name": "高階任務通行證 2025年5月"
+    },
+    {
+      "id": "shop_pass_item-0014",
+      "name": "高階任務通行證 2025年6月"
+    },
+    {
+      "id": "shop_pass_item-0015",
+      "name": "高階任務通行證 2025年7月"
+    },
+    {
+      "id": "shop_pass_item-0016",
+      "name": "高階任務通行證 2025年8月"
+    },
+    {
+      "id": "shop_pass_item-0017",
+      "name": "高階任務通行證 2025年9月"
+    },
+    {
+      "id": "shop_pass_item-0018",
+      "name": "高階任務通行證 2025年10月"
+    },
+    {
+      "id": "shop_pass_item-0019",
+      "name": "高階任務通行證 2025年11月"
+    },
+    {
+      "id": "shop_pass_item-0020",
+      "name": "高階任務通行證 2025年12月"
+    },
+    {
+      "id": "shop_pass_item-0021",
+      "name": "高階任務通行證 2026年1月"
+    },
+    {
+      "id": "shop_pass_item-0022",
+      "name": "高階任務通行證 2026年2月"
+    },
+    {
+      "id": "shop_pass_item-0023",
+      "name": "高階任務通行證 2026年3月"
+    }
+  ]
+}
