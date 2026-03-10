@@ -11,7 +11,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "三年級生"
+      "content": "三年级生"
     },
     {
       "characterId": "amao",
@@ -47,7 +47,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "七瀨 紬"
+      "content": "七濑 䌷"
     },
     {
       "characterId": "amao",
@@ -71,19 +71,19 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "兵庫縣"
+      "content": "兵库县"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "格鬥技、手巧"
+      "content": "格斗技、手巧"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "照顧他人、觀劇"
+      "content": "照顾他人、观剧"
     },
     {
       "characterId": "amao",
@@ -95,7 +95,7 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "三年級生"
+      "content": "三年级生"
     },
     {
       "characterId": "atbm",
@@ -131,7 +131,7 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "天音 由香裡"
+      "content": "天音 由香里"
     },
     {
       "characterId": "atbm",
@@ -155,25 +155,25 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "東京都"
+      "content": "东京都"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "秘書綜合技能、數學、書道"
+      "content": "秘书综合技能、数学、书道"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "書道、歷史（日本史）、讀書"
+      "content": "书道、历史（日本史）、读书"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "fktn",
@@ -209,7 +209,7 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "飯田 光"
+      "content": "饭田 光"
     },
     {
       "characterId": "fktn",
@@ -233,19 +233,19 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "埼玉縣"
+      "content": "埼玉县"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "舞蹈、記住人的長相和名字"
+      "content": "舞蹈、记住人的长相和名字"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "賺錢"
+      "content": "赚钱"
     },
     {
       "characterId": "fktn",
@@ -257,7 +257,7 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "hmsz",
@@ -323,13 +323,13 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "料理、插花、生物鐘很準確"
+      "content": "料理、插花、生物钟很准确"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "睡午覺、散步"
+      "content": "睡午觉、散步"
     },
     {
       "characterId": "hmsz",
@@ -341,7 +341,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "三年級生"
+      "content": "三年级生"
     },
     {
       "characterId": "hrnm",
@@ -371,13 +371,13 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "雙魚座"
+      "content": "双鱼座"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "薄井 友裡"
+      "content": "薄井 友里"
     },
     {
       "characterId": "hrnm",
@@ -401,7 +401,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "福岡縣"
+      "content": "福冈县"
     },
     {
       "characterId": "hrnm",
@@ -413,7 +413,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "探訪咖啡館、收集化妝品"
+      "content": "探访咖啡馆、收集化妆品"
     },
     {
       "characterId": "hrnm",
@@ -425,7 +425,7 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "hski",
@@ -461,7 +461,7 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "長月 葵"
+      "content": "长月 葵"
     },
     {
       "characterId": "hski",
@@ -485,19 +485,19 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "愛知縣"
+      "content": "爱知县"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "全能運動、全能家務、按摩"
+      "content": "全能运动、全能家务、按摩"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "所有競爭類事物"
+      "content": "所有竞争类事物"
     },
     {
       "characterId": "hski",
@@ -509,7 +509,7 @@
       "characterId": "hume",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "hume",
@@ -569,19 +569,19 @@
       "characterId": "hume",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "愛知縣"
+      "content": "爱知县"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "全能運動、按摩"
+      "content": "全能运动、按摩"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "與姐姐的較量"
+      "content": "与姐姐的较量"
     },
     {
       "characterId": "hume",
@@ -593,7 +593,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "三年級生"
+      "content": "三年级生"
     },
     {
       "characterId": "jsna",
@@ -629,7 +629,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "陽高 真白"
+      "content": "阳高 真白"
     },
     {
       "characterId": "jsna",
@@ -647,13 +647,13 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "雙手通用"
+      "content": "双手通用"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "東京都"
+      "content": "东京都"
     },
     {
       "characterId": "jsna",
@@ -665,7 +665,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "訓練、發掘有才能的偶像"
+      "content": "训练、发掘有才能的偶像"
     },
     {
       "characterId": "jsna",
@@ -677,7 +677,7 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "kcna",
@@ -707,7 +707,7 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "獅子座"
+      "content": "狮子座"
     },
     {
       "characterId": "kcna",
@@ -737,19 +737,19 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "神奈川縣"
+      "content": "神奈川县"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "元氣問候、受動物喜愛"
+      "content": "元气问候、受动物喜爱"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "繪畫"
+      "content": "绘画"
     },
     {
       "characterId": "kcna",
@@ -761,7 +761,7 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "kllj",
@@ -791,13 +791,13 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "獅子座"
+      "content": "狮子座"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "花巖 香奈"
+      "content": "花岩 香奈"
     },
     {
       "characterId": "kllj",
@@ -827,13 +827,13 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "烘焙點心、遊戲"
+      "content": "烘焙点心、游戏"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "烘焙點心、日本動畫"
+      "content": "烘焙点心、日本动画"
     },
     {
       "characterId": "kllj",
@@ -845,7 +845,7 @@
       "characterId": "shro",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "shro",
@@ -905,19 +905,19 @@
       "characterId": "shro",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "秋田縣"
+      "content": "秋田县"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "全能學業、物理、數學、解謎"
+      "content": "全能学业、物理、数学、解谜"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "挑戰不擅長的領域、培育觀葉植物"
+      "content": "挑战不擅长的领域、培育观叶植物"
     },
     {
       "characterId": "shro",
@@ -929,7 +929,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "ssmk",
@@ -959,7 +959,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "天蠍座"
+      "content": "天蝎座"
     },
     {
       "characterId": "ssmk",
@@ -995,13 +995,13 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "身體柔軟"
+      "content": "身体柔软"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "卡拉OK、社交媒體"
+      "content": "卡拉OK、社交媒体"
     },
     {
       "characterId": "ssmk",
@@ -1013,7 +1013,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "ttmr",
@@ -1043,13 +1043,13 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "雙子座"
+      "content": "双子座"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "小鹿 奈緒"
+      "content": "小鹿 奈绪"
     },
     {
       "characterId": "ttmr",
