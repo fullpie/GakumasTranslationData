@@ -7,23 +7,23 @@
   "data": [
     {
       "id": "Convert_001",
-      "name": "训练",
+      "name": "訓練",
       "swapName": "回合"
     },
     {
       "id": "Convert_002",
-      "name": "训练",
-      "swapName": "考试·舞台"
+      "name": "訓練",
+      "swapName": "考試·舞臺"
     },
     {
       "id": "Convert_ConditionThreshold",
-      "name": "训练CLEAR在",
-      "swapName": "得分为"
+      "name": "訓練CLEAR在",
+      "swapName": "得分為"
     },
     {
       "id": "Convert_ConditionThreshold_NotClear",
-      "name": "训练未CLEAR",
-      "swapName": "得分为999以下"
+      "name": "訓練未CLEAR",
+      "swapName": "得分為999以下"
     },
     {
       "id": "Convert_ConditionThreshold_Value_100",
@@ -47,68 +47,68 @@
     },
     {
       "id": "Convert_StepLessonType_DanceLesson",
-      "name": "【舞蹈训练·舞蹈回合限定】",
+      "name": "【舞蹈訓練·舞蹈回合限定】",
       "swapName": "如果是舞蹈回合，"
     },
     {
       "id": "Convert_StepLessonType_SpLesson",
-      "name": "【SP训练限定】",
-      "swapName": "【SP训练限定】"
+      "name": "【SP訓練限定】",
+      "swapName": "【SP訓練限定】"
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
-      "name": "【视觉训练·视觉回合限定】",
-      "swapName": "如果是视觉回合，"
+      "name": "【視覺訓練·視覺回合限定】",
+      "swapName": "如果是視覺回合，"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
-      "name": "【歌唱训练·歌唱回合限定】",
+      "name": "【歌唱訓練·歌唱回合限定】",
       "swapName": "如果是歌唱回合，"
     },
     {
       "id": "Label_ActiveSkillCard",
-      "name": "主动技能卡",
+      "name": "主動技能卡",
       "swapName": ""
     },
     {
       "id": "Label_AggressiveAdd",
-      "name": "干劲值增加",
-      "swapName": "干劲值增加"
+      "name": "幹勁值增加",
+      "swapName": "幹勁值增加"
     },
     {
       "id": "Label_AggressiveReduce",
-      "name": "干劲值减少",
-      "swapName": "干劲值减少"
+      "name": "幹勁值減少",
+      "swapName": "幹勁值減少"
     },
     {
       "id": "Label_AuditionNpcEnhance",
-      "name": "对手的得分增加",
+      "name": "對手的得分增加",
       "swapName": ""
     },
     {
       "id": "Label_BlockAdd",
-      "name": "元气值增加",
-      "swapName": "元气值增加"
+      "name": "元氣值增加",
+      "swapName": "元氣值增加"
     },
     {
       "id": "Label_BlockReduce",
-      "name": "元气值减少",
-      "swapName": "元气值减少"
+      "name": "元氣值減少",
+      "swapName": "元氣值減少"
     },
     {
       "id": "Label_CardDrawAdd",
-      "name": "抽牌张数增加",
-      "swapName": "抽牌张数增加"
+      "name": "抽牌張數增加",
+      "swapName": "抽牌張數增加"
     },
     {
       "id": "Label_CardDrawReduce",
-      "name": "抽牌张数减少",
-      "swapName": "抽牌张数减少"
+      "name": "抽牌張數減少",
+      "swapName": "抽牌張數減少"
     },
     {
       "id": "Label_CardStatusEnchantChange",
-      "name": "成长效果置换",
-      "swapName": "成长效果置换"
+      "name": "成長效果置換",
+      "swapName": "成長效果置換"
     },
     {
       "id": "Label_CostAdd",
@@ -117,28 +117,28 @@
     },
     {
       "id": "Label_CostBuffAdd",
-      "name": "强化状态消耗增加",
-      "swapName": "强化状态消耗增加"
+      "name": "強化狀態消耗增加",
+      "swapName": "強化狀態消耗增加"
     },
     {
       "id": "Label_CostBuffReduce",
-      "name": "强化状态消耗减少",
-      "swapName": "强化状态消耗减少"
+      "name": "強化狀態消耗減少",
+      "swapName": "強化狀態消耗減少"
     },
     {
       "id": "Label_CostPenetrateAdd",
-      "name": "体力消耗消耗增加",
-      "swapName": "体力消耗消耗增加"
+      "name": "體力消耗消耗增加",
+      "swapName": "體力消耗消耗增加"
     },
     {
       "id": "Label_CostPenetrateReduce",
-      "name": "体力消耗消耗减少",
-      "swapName": "体力消耗消耗减少"
+      "name": "體力消耗消耗減少",
+      "swapName": "體力消耗消耗減少"
     },
     {
       "id": "Label_CostReduce",
-      "name": "消耗减少",
-      "swapName": "消耗减少"
+      "name": "消耗減少",
+      "swapName": "消耗減少"
     },
     {
       "id": "Label_EffectAdd",
@@ -147,32 +147,32 @@
     },
     {
       "id": "Label_EffectChange",
-      "name": "效果置换",
-      "swapName": "效果置换"
+      "name": "效果置換",
+      "swapName": "效果置換"
     },
     {
       "id": "Label_EffectDelete",
-      "name": "效果删除",
-      "swapName": "效果删除"
+      "name": "效果刪除",
+      "swapName": "效果刪除"
     },
     {
       "id": "Label_ExamAddGrowEffect",
-      "name": "成长效果",
+      "name": "成長效果",
       "swapName": ""
     },
     {
       "id": "Label_ExamAggressiveReduce",
-      "name": "干劲减少",
+      "name": "幹勁減少",
       "swapName": ""
     },
     {
       "id": "Label_ExamAntiDebuff",
-      "name": "状态下降无效",
+      "name": "狀態下降無效",
       "swapName": ""
     },
     {
       "id": "Label_ExamBlock",
-      "name": "元气",
+      "name": "元氣",
       "swapName": ""
     },
     {
@@ -182,17 +182,17 @@
     },
     {
       "id": "Label_ExamBlockAddDownRestriction",
-      "name": "不安无效",
+      "name": "不安無效",
       "swapName": ""
     },
     {
       "id": "Label_ExamBlockFix",
-      "name": "固定元气",
+      "name": "固定元氣",
       "swapName": ""
     },
     {
       "id": "Label_ExamBlockRestriction",
-      "name": "元气增加无效",
+      "name": "元氣增加無效",
       "swapName": ""
     },
     {
@@ -207,62 +207,62 @@
     },
     {
       "id": "Label_ExamCardDuplicate",
-      "name": "复制",
+      "name": "複製",
       "swapName": ""
     },
     {
       "id": "Label_ExamCardPlayAggressive_Exam",
-      "name": "干劲",
+      "name": "幹勁",
       "swapName": ""
     },
     {
       "id": "Label_ExamCardPlayAggressive_Produce",
-      "name": "干劲",
+      "name": "幹勁",
       "swapName": ""
     },
     {
       "id": "Label_ExamCardSearchEffectPlayCountBuff",
-      "name": "技能卡追加发动",
+      "name": "技能卡追加發動",
       "swapName": ""
     },
     {
       "id": "Label_ExamCardSearchEffectPlayCountBuff_Produce",
-      "name": "技能卡追加发动",
+      "name": "技能卡追加發動",
       "swapName": ""
     },
     {
       "id": "Label_ExamCardStaminaConsumptionChange",
-      "name": "消耗体力变化",
+      "name": "消耗體力變化",
       "swapName": ""
     },
     {
       "id": "Label_ExamCardStaminaConsumptionDownSpecify",
-      "name": "消耗体力降低",
+      "name": "消耗體力降低",
       "swapName": ""
     },
     {
       "id": "Label_ExamCardUpgrade",
-      "name": "训练中强化",
+      "name": "訓練中強化",
       "swapName": "考试・舞台中强化"
     },
     {
       "id": "Label_ExamConcentration_Exam",
-      "name": "强气",
+      "name": "強氣",
       "swapName": ""
     },
     {
       "id": "Label_ExamConcentration_Produce",
-      "name": "强气",
+      "name": "強氣",
       "swapName": ""
     },
     {
       "id": "Label_ExamDebuffRecover",
-      "name": "降低状态恢复",
+      "name": "降低狀態恢復",
       "swapName": ""
     },
     {
       "id": "Label_ExamEffectTimer",
-      "name": "发起预约",
+      "name": "發起預約",
       "swapName": ""
     },
     {
@@ -282,52 +282,52 @@
     },
     {
       "id": "Label_ExamFullPowerPointReduce",
-      "name": "全力值减少",
+      "name": "全力值減少",
       "swapName": ""
     },
     {
       "id": "Label_ExamGetCardUpgrade",
-      "name": "生成强化",
+      "name": "生成強化",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickEnthusiastic_Exam",
-      "name": "热意",
+      "name": "熱意",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickEnthusiastic_Produce",
-      "name": "热意",
+      "name": "熱意",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickLessonDebuff_Exam",
-      "name": "紧张",
+      "name": "緊張",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickLessonDebuff_Produce",
-      "name": "紧张",
+      "name": "緊張",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickParameterDebuff",
-      "name": "不调",
+      "name": "不調",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickPlayCardLimit",
-      "name": "无法使用",
+      "name": "無法使用",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickSleepy_Exam",
-      "name": "没精打采",
+      "name": "沒精打采",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickSleepy_Produce",
-      "name": "没精打采",
+      "name": "沒精打采",
       "swapName": ""
     },
     {
@@ -337,27 +337,27 @@
     },
     {
       "id": "Label_ExamGimmickStartTurnCardDrawDown_Exam",
-      "name": "手牌减少",
+      "name": "手牌減少",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickStartTurnCardDrawDown_Produce",
-      "name": "手牌减少",
+      "name": "手牌減少",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickTiredFix_Exam",
-      "name": "疲劳",
+      "name": "疲勞",
       "swapName": ""
     },
     {
       "id": "Label_ExamGimmickTiredFix_Produce",
-      "name": "疲劳",
+      "name": "疲勞",
       "swapName": ""
     },
     {
       "id": "Label_ExamHandGraveCountCardDraw",
-      "name": "更换手牌",
+      "name": "更換手牌",
       "swapName": ""
     },
     {
@@ -372,12 +372,12 @@
     },
     {
       "id": "Label_ExamLessonBuffMultiple",
-      "name": "集中强化",
+      "name": "集中強化",
       "swapName": ""
     },
     {
       "id": "Label_ExamLessonBuffReduce",
-      "name": "集中减少",
+      "name": "集中減少",
       "swapName": ""
     },
     {
@@ -392,8 +392,8 @@
     },
     {
       "id": "Label_ExamLessonChangeSpecifyLessThan",
-      "name": "得分上升值变动",
-      "swapName": "得分上升值变动"
+      "name": "得分上升值變動",
+      "swapName": "得分上升值變動"
     },
     {
       "id": "Label_ExamLessonChangeSpecifyMoreThan",
@@ -412,57 +412,57 @@
     },
     {
       "id": "Label_ExamLessonValueMultipleDown",
-      "name": "得分上升量减少",
-      "swapName": "得分上升量减少"
+      "name": "得分上升量減少",
+      "swapName": "得分上升量減少"
     },
     {
       "id": "Label_ExamPanic",
-      "name": "随意",
+      "name": "隨意",
       "swapName": ""
     },
     {
       "id": "Label_ExamParameterBuff",
-      "name": "好调",
+      "name": "好調",
       "swapName": ""
     },
     {
       "id": "Label_ExamParameterBuffMultiplePerTurn",
-      "name": "绝好调",
+      "name": "絕好調",
       "swapName": ""
     },
     {
       "id": "Label_ExamParameterBuffReduce",
-      "name": "好调减少",
+      "name": "好調減少",
       "swapName": ""
     },
     {
       "id": "Label_ExamPlayableValueAdd_Exam",
-      "name": "技能卡使用数增加",
+      "name": "技能卡使用數增加",
       "swapName": ""
     },
     {
       "id": "Label_ExamPlayableValueAdd_Produce",
-      "name": "技能卡使用数增加",
+      "name": "技能卡使用數增加",
       "swapName": ""
     },
     {
       "id": "Label_ExamPlayableValueHold",
-      "name": "使用次数结转",
+      "name": "使用次數結轉",
       "swapName": ""
     },
     {
       "id": "Label_ExamPreservation_Exam",
-      "name": "温存",
+      "name": "溫存",
       "swapName": ""
     },
     {
       "id": "Label_ExamPreservation_Produce",
-      "name": "温存",
+      "name": "溫存",
       "swapName": ""
     },
     {
       "id": "Label_ExamReviewReduce",
-      "name": "好印象减少",
+      "name": "好印象減少",
       "swapName": ""
     },
     {
@@ -477,7 +477,7 @@
     },
     {
       "id": "Label_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": "消耗体力变化",
+      "name": "消耗體力變化",
       "swapName": ""
     },
     {
@@ -487,87 +487,87 @@
     },
     {
       "id": "Label_ExamStaminaConsumptionAdd",
-      "name": "消耗体力增加",
+      "name": "消耗體力增加",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaConsumptionAddDown",
-      "name": "体耗增加效果减少",
+      "name": "體耗增加效果減少",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaConsumptionAddFix",
-      "name": "体力消耗增加",
+      "name": "體力消耗增加",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaConsumptionDown",
-      "name": "消耗体力减少",
+      "name": "消耗體力減少",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaConsumptionDownAdd",
-      "name": "体耗减少效果增加",
+      "name": "體耗減少效果增加",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaConsumptionDownFix",
-      "name": "消耗体力削减",
+      "name": "消耗體力削減",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaDamage",
-      "name": "体力减少",
-      "swapName": "体力减少"
+      "name": "體力減少",
+      "swapName": "體力減少"
     },
     {
       "id": "Label_ExamStaminaRecoverAdd",
-      "name": "体力恢复效果增加",
+      "name": "體力恢復效果增加",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaRecoverFix",
-      "name": "体力恢复",
-      "swapName": "体力恢复"
+      "name": "體力恢復",
+      "swapName": "體力恢復"
     },
     {
       "id": "Label_ExamStaminaRecoverRestriction",
-      "name": "体力恢复无效",
+      "name": "體力恢復無效",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaReduceChange",
-      "name": "体力消耗减轻",
+      "name": "體力消耗減輕",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaReduceFix",
-      "name": "消耗体力",
+      "name": "消耗體力",
       "swapName": ""
     },
     {
       "id": "Label_ExamStaminaThresholdAddRestriction",
-      "name": "体耗翻倍无效",
+      "name": "體耗翻倍無效",
       "swapName": ""
     },
     {
       "id": "Label_ExamStanceReset",
-      "name": "指针解除",
+      "name": "指標解除",
       "swapName": ""
     },
     {
       "id": "Label_ExamStatusEnchant",
-      "name": "持续效果",
+      "name": "持續效果",
       "swapName": ""
     },
     {
       "id": "Label_ExamUplifting_Exam",
-      "name": "高扬",
+      "name": "高揚",
       "swapName": ""
     },
     {
       "id": "Label_ExamUplifting_Produce",
-      "name": "高扬",
+      "name": "高揚",
       "swapName": ""
     },
     {
@@ -577,13 +577,13 @@
     },
     {
       "id": "Label_FullPowerPointReduce",
-      "name": "全力值减少",
-      "swapName": "全力值减少"
+      "name": "全力值減少",
+      "swapName": "全力值減少"
     },
     {
       "id": "Label_InitialAdd",
-      "name": "开始时手牌效果赋予",
-      "swapName": "开始时手牌效果赋予"
+      "name": "開始時手牌效果賦予",
+      "swapName": "開始時手牌效果賦予"
     },
     {
       "id": "Label_LessonAdd",
@@ -597,27 +597,27 @@
     },
     {
       "id": "Label_LessonBuffReduce",
-      "name": "集中值减少",
-      "swapName": "集中值减少"
+      "name": "集中值減少",
+      "swapName": "集中值減少"
     },
     {
       "id": "Label_LessonCountAdd",
-      "name": "得分上升次数增加",
-      "swapName": "得分上升次数增加"
+      "name": "得分上升次數增加",
+      "swapName": "得分上升次數增加"
     },
     {
       "id": "Label_LessonCountReduce",
-      "name": "得分上升次数减少",
-      "swapName": "得分上升次数减少"
+      "name": "得分上升次數減少",
+      "swapName": "得分上升次數減少"
     },
     {
       "id": "Label_LessonReduce",
-      "name": "打分值减少",
-      "swapName": "打分值减少"
+      "name": "打分值減少",
+      "swapName": "打分值減少"
     },
     {
       "id": "Label_LessonSupport",
-      "name": "临时强化",
+      "name": "臨時強化",
       "swapName": ""
     },
     {
@@ -627,67 +627,67 @@
     },
     {
       "id": "Label_MoveEffectTrigger",
-      "name": "[移动效果]",
+      "name": "[移動效果]",
       "swapName": ""
     },
     {
       "id": "Label_NoDeckDuplication",
-      "name": "不可重复",
+      "name": "不可重複",
       "swapName": ""
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnAdd",
-      "name": "绝好调值增加",
-      "swapName": "绝好调值增加"
+      "name": "絕好調值增加",
+      "swapName": "絕好調值增加"
     },
     {
       "id": "Label_ParameterBuffMultiplePerTurnReduce",
-      "name": "绝好调值减少",
-      "swapName": "绝好调值减少"
+      "name": "絕好調值減少",
+      "swapName": "絕好調值減少"
     },
     {
       "id": "Label_ParameterBuffTurnAdd",
-      "name": "好调值增加",
-      "swapName": "好调值增加"
+      "name": "好調值增加",
+      "swapName": "好調值增加"
     },
     {
       "id": "Label_ParameterBuffTurnReduce",
-      "name": "好调值减少",
-      "swapName": "好调值减少"
+      "name": "好調值減少",
+      "swapName": "好調值減少"
     },
     {
       "id": "Label_PlayEffectTriggerChange",
-      "name": "置换效果发动条件",
-      "swapName": "置换效果发动条件"
+      "name": "置換效果發動條件",
+      "swapName": "置換效果發動條件"
     },
     {
       "id": "Label_PlayMovePositionTypeChange",
-      "name": "使用后移动终点变更",
-      "swapName": "使用后移动终点变更"
+      "name": "使用後移動終點變更",
+      "swapName": "使用後移動終點變更"
     },
     {
       "id": "Label_PlayTriggerChange",
-      "name": "置换使用条件",
-      "swapName": "置换使用条件"
+      "name": "置換使用條件",
+      "swapName": "置換使用條件"
     },
     {
       "id": "Label_ProduceCardChange",
-      "name": "转换",
+      "name": "轉換",
       "swapName": ""
     },
     {
       "id": "Label_ProduceCardDelete",
-      "name": "删除",
+      "name": "刪除",
       "swapName": ""
     },
     {
       "id": "Label_ProduceCardDuplicate",
-      "name": "复制",
+      "name": "複製",
       "swapName": ""
     },
     {
       "id": "Label_ProduceCardIsPlayMovePositionTypeLost",
-      "name": "训练中1次",
+      "name": "訓練中1次",
       "swapName": "考试・舞台中1次"
     },
     {
@@ -697,12 +697,12 @@
     },
     {
       "id": "Label_ProduceCardStatusEnchant",
-      "name": "[成长]",
+      "name": "[成長]",
       "swapName": ""
     },
     {
       "id": "Label_ProduceCardUpgrade",
-      "name": "强化",
+      "name": "強化",
       "swapName": ""
     },
     {
@@ -727,17 +727,17 @@
     },
     {
       "id": "Label_ProduceSkillPlanType1",
-      "name": "【感性专用】",
+      "name": "【感性專用】",
       "swapName": ""
     },
     {
       "id": "Label_ProduceSkillPlanType2",
-      "name": "【理性专用】",
+      "name": "【理性專用】",
       "swapName": ""
     },
     {
       "id": "Label_ProduceSkillPlanType3",
-      "name": "【非凡专用】",
+      "name": "【非凡專用】",
       "swapName": ""
     },
     {
@@ -747,47 +747,47 @@
     },
     {
       "id": "Label_ReviewReduce",
-      "name": "好印象值减少",
-      "swapName": "好印象值减少"
+      "name": "好印象值減少",
+      "swapName": "好印象值減少"
     },
     {
       "id": "Label_ShopProduceCardPriceDiscountMultiple",
-      "name": "咨询的技能卡打折",
+      "name": "諮詢的技能卡打折",
       "swapName": ""
     },
     {
       "id": "Label_StaminaConsumptionAddTurnAdd",
-      "name": "体耗翻倍值减少",
-      "swapName": "体耗翻倍值减少"
+      "name": "體耗翻倍值減少",
+      "swapName": "體耗翻倍值減少"
     },
     {
       "id": "Label_StaminaConsumptionAddTurnReduce",
-      "name": "体耗翻倍值增加",
-      "swapName": "体耗翻倍值增加"
+      "name": "體耗翻倍值增加",
+      "swapName": "體耗翻倍值增加"
     },
     {
       "id": "Label_StaminaConsumptionDownTurnAdd",
-      "name": "体耗减半值增加",
-      "swapName": "体耗减半值增加"
+      "name": "體耗減半值增加",
+      "swapName": "體耗減半值增加"
     },
     {
       "id": "Label_StaminaConsumptionDownTurnReduce",
-      "name": "体耗减半值减少",
-      "swapName": "体耗减半值减少"
+      "name": "體耗減半值減少",
+      "swapName": "體耗減半值減少"
     },
     {
       "id": "Label_Stance",
-      "name": "指针",
+      "name": "指標",
       "swapName": ""
     },
     {
       "id": "Label_StanceLock",
-      "name": "指针固定",
+      "name": "指標固定",
       "swapName": ""
     },
     {
       "id": "Label_TroubleSkillCard",
-      "name": "干扰卡",
+      "name": "干擾卡",
       "swapName": ""
     }
   ]

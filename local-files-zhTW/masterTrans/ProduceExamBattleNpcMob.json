@@ -7,7 +7,7 @@
   "data": [
     {
       "id": "npc_andk",
-      "name": "蓝井抚子"
+      "name": "藍井撫子"
     },
     {
       "id": "npc_atbm",
@@ -15,11 +15,11 @@
     },
     {
       "id": "npc_krnh",
-      "name": "贺阳燐羽"
+      "name": "賀陽燐羽"
     },
     {
       "id": "npc_mob-da-1",
-      "name": "白崎爱莉"
+      "name": "白崎愛莉"
     },
     {
       "id": "npc_mob-da-2",
@@ -27,7 +27,7 @@
     },
     {
       "id": "npc_mob-da-3",
-      "name": "汐入枫香"
+      "name": "汐入楓香"
     },
     {
       "id": "npc_mob-da-4",
@@ -39,7 +39,7 @@
     },
     {
       "id": "npc_mob-vi-1",
-      "name": "赤羽香织"
+      "name": "赤羽香織"
     },
     {
       "id": "npc_mob-vi-2",
@@ -47,15 +47,15 @@
     },
     {
       "id": "npc_mob-vi-3",
-      "name": "前原麻里奈"
+      "name": "前原麻裡奈"
     },
     {
       "id": "npc_mob-vi-4",
-      "name": "高圆寺丽"
+      "name": "高圓寺麗"
     },
     {
       "id": "npc_mob-vi-5",
-      "name": "莲田奈奈"
+      "name": "蓮田奈奈"
     },
     {
       "id": "npc_mob-vo-1",
@@ -67,15 +67,15 @@
     },
     {
       "id": "npc_mob-vo-3",
-      "name": "细川雫"
+      "name": "細川雫"
     },
     {
       "id": "npc_mob-vo-4",
-      "name": "花冈雅"
+      "name": "花岡雅"
     },
     {
       "id": "npc_mob-vo-5",
-      "name": "宫地小春"
+      "name": "宮地小春"
     },
     {
       "id": "npc_nia_01",
@@ -91,15 +91,15 @@
     },
     {
       "id": "npc_nia_04",
-      "name": "鹤见丽良"
+      "name": "鶴見麗良"
     },
     {
       "id": "npc_nia_05",
-      "name": "鹰宫美咲"
+      "name": "鷹宮美咲"
     },
     {
       "id": "npc_nia_06",
-      "name": "鹭沢日葵"
+      "name": "鷺沢日葵"
     },
     {
       "id": "npc_nia_07",
@@ -107,15 +107,15 @@
     },
     {
       "id": "npc_nia_08",
-      "name": "有马莉音"
+      "name": "有馬莉音"
     },
     {
       "id": "npc_nia_09",
-      "name": "鹿岛芽衣"
+      "name": "鹿島芽衣"
     },
     {
       "id": "npc_nia_10",
-      "name": "蛟岛海有"
+      "name": "蛟島海有"
     },
     {
       "id": "npc_nia_11",
@@ -123,19 +123,19 @@
     },
     {
       "id": "npc_nia_12",
-      "name": "波野兰"
+      "name": "波野蘭"
     },
     {
       "id": "npc_nia_13",
-      "name": "绿川文"
+      "name": "綠川文"
     },
     {
       "id": "npc_nia_14",
-      "name": "红野三月"
+      "name": "紅野三月"
     },
     {
       "id": "npc_nia_15",
-      "name": "黄濑莉莉华"
+      "name": "黃瀨莉莉華"
     },
     {
       "id": "npc_nia_16",
@@ -143,27 +143,27 @@
     },
     {
       "id": "npc_nia_17",
-      "name": "寒川凉香"
+      "name": "寒川涼香"
     },
     {
       "id": "npc_nia_18",
-      "name": "鸠山友奈"
+      "name": "鳩山友奈"
     },
     {
       "id": "npc_nia_19",
-      "name": "鸟丸麻帆"
+      "name": "鳥丸麻帆"
     },
     {
       "id": "npc_nia_20",
-      "name": "猪俣凛子"
+      "name": "豬俁凜子"
     },
     {
       "id": "npc_nia_21",
-      "name": "牛岛真纪"
+      "name": "牛島真紀"
     },
     {
       "id": "npc_nia_22",
-      "name": "鲇川奈奈"
+      "name": "鯰川奈奈"
     },
     {
       "id": "npc_nia_23",
@@ -171,19 +171,19 @@
     },
     {
       "id": "npc_nia_24",
-      "name": "绀野夕夏"
+      "name": "紺野夕夏"
     },
     {
       "id": "npc_nia_25",
-      "name": "橙田风子"
+      "name": "橙田風子"
     },
     {
       "id": "npc_rare-mob-da-1",
-      "name": "晓美瑞希"
+      "name": "曉美瑞希"
     },
     {
       "id": "npc_rare-mob-da-2",
-      "name": "风间莉音"
+      "name": "風間莉音"
     },
     {
       "id": "npc_rare-mob-vi-1",
@@ -191,7 +191,7 @@
     },
     {
       "id": "npc_rare-mob-vi-2",
-      "name": "华月由里香"
+      "name": "華月由裡香"
     },
     {
       "id": "npc_rare-mob-vo-1",
@@ -199,7 +199,7 @@
     },
     {
       "id": "npc_rare-mob-vo-2",
-      "name": "鸣海光"
+      "name": "鳴海光"
     },
     {
       "id": "npc_sgka",

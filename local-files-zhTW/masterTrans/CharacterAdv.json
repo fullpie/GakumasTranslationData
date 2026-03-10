@@ -22,13 +22,13 @@
     },
     {
       "characterId": "gkgt",
-      "name": "极月学园",
-      "regexp": "极月学园"
+      "name": "極月學園",
+      "regexp": "極月學園"
     },
     {
       "characterId": "hmsz",
-      "name": "秦谷 美铃",
-      "regexp": "美铃$"
+      "name": "秦谷 美鈴",
+      "regexp": "美鈴$"
     },
     {
       "characterId": "hrnm",
@@ -57,48 +57,48 @@
     },
     {
       "characterId": "kcna",
-      "name": "仓本 千奈",
+      "name": "倉本 千奈",
       "regexp": "千奈$"
     },
     {
       "characterId": "kllj",
-      "name": "葛城 莉莉娅",
-      "regexp": "莉莉娅$"
+      "name": "葛城 莉莉婭",
+      "regexp": "莉莉婭$"
     },
     {
       "characterId": "myu0",
-      "name": "真城 优",
-      "regexp": "优"
+      "name": "真城 優",
+      "regexp": "優"
     },
     {
       "characterId": "nasr",
-      "name": "根绪亚纱里",
-      "regexp": "亚纱里老师"
+      "name": "根緒亞紗裡",
+      "regexp": "亞紗里老師"
     },
     {
       "characterId": "shro",
-      "name": "筱泽 广",
-      "regexp": "广$"
+      "name": "筱澤 廣",
+      "regexp": "廣$"
     },
     {
       "characterId": "ssmk",
-      "name": "紫云 清夏",
+      "name": "紫雲 清夏",
       "regexp": "清夏$"
     },
     {
       "characterId": "trda",
-      "name": "舞蹈训练员",
-      "regexp": "舞蹈训练员"
+      "name": "舞蹈訓練員",
+      "regexp": "舞蹈訓練員"
     },
     {
       "characterId": "trvi",
-      "name": "视觉训练员",
-      "regexp": "视觉训练员"
+      "name": "視覺訓練員",
+      "regexp": "視覺訓練員"
     },
     {
       "characterId": "trvo",
-      "name": "歌唱训练员",
-      "regexp": "歌唱训练员"
+      "name": "歌唱訓練員",
+      "regexp": "歌唱訓練員"
     },
     {
       "characterId": "ttmr",
