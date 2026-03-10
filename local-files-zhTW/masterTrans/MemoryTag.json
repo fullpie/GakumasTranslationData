@@ -15,23 +15,23 @@
     },
     {
       "id": "memory_tag_03",
-      "defaultName": "视觉"
+      "defaultName": "視覺"
     },
     {
       "id": "memory_tag_04",
-      "defaultName": "标签1"
+      "defaultName": "標籤1"
     },
     {
       "id": "memory_tag_05",
-      "defaultName": "标签2"
+      "defaultName": "標籤2"
     },
     {
       "id": "memory_tag_06",
-      "defaultName": "标签3"
+      "defaultName": "標籤3"
     },
     {
       "id": "memory_tag_07",
-      "defaultName": "标签4"
+      "defaultName": "標籤4"
     },
     {
       "id": "memory_tag_08",
@@ -43,15 +43,15 @@
     },
     {
       "id": "memory_tag_10",
-      "defaultName": "体力"
+      "defaultName": "體力"
     },
     {
       "id": "memory_tag_11",
-      "defaultName": "P点数"
+      "defaultName": "P點數"
     },
     {
       "id": "memory_tag_12",
-      "defaultName": "竞技场"
+      "defaultName": "競技場"
     },
     {
       "id": "memory_tag_13",
@@ -59,7 +59,7 @@
     },
     {
       "id": "memory_tag_14",
-      "defaultName": "好调"
+      "defaultName": "好調"
     },
     {
       "id": "memory_tag_15",
@@ -71,15 +71,15 @@
     },
     {
       "id": "memory_tag_17",
-      "defaultName": "干劲"
+      "defaultName": "幹勁"
     },
     {
       "id": "memory_tag_18",
-      "defaultName": "元气"
+      "defaultName": "元氣"
     },
     {
       "id": "memory_tag_19",
-      "defaultName": "消耗体力减少"
+      "defaultName": "消耗體力減少"
     },
     {
       "id": "memory_tag_20",
@@ -91,15 +91,15 @@
     },
     {
       "id": "memory_tag_22",
-      "defaultName": "强气"
+      "defaultName": "強氣"
     },
     {
       "id": "memory_tag_23",
-      "defaultName": "温存"
+      "defaultName": "溫存"
     },
     {
       "id": "memory_tag_24",
-      "defaultName": "成长效果"
+      "defaultName": "成長效果"
     }
   ]
 }

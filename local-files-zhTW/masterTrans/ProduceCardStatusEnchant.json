@@ -23,7 +23,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43,7 +43,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "自身使用后，"
+          "text": "自身使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -63,7 +63,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的时候，"
+          "text": "的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -103,7 +103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostFullPowerPointAdd",
-          "text": "全力值花费值增加"
+          "text": "全力值花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -113,7 +113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（4次为限）"
+          "text": "+1（4次為限）"
         }
       ]
     },
@@ -128,7 +128,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -148,7 +148,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "自身使用后，"
+          "text": "自身使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -168,7 +168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的时候，"
+          "text": "的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -208,7 +208,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostFullPowerPointAdd",
-          "text": "全力值花费值增加"
+          "text": "全力值花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -218,7 +218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（4次为限）"
+          "text": "+1（4次為限）"
         }
       ]
     },
@@ -233,7 +233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -253,7 +253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "自身使用后，"
+          "text": "自身使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -273,7 +273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的时候，"
+          "text": "的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -318,7 +318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -338,7 +338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "自身使用后，"
+          "text": "自身使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -358,7 +358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的时候，"
+          "text": "的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -403,7 +403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -423,7 +423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "主动技能卡"
+          "text": "主動技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -433,7 +433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用后，"
+          "text": "使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -478,7 +478,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -498,7 +498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MentalSkillCard",
-          "text": "辅助技能卡"
+          "text": "輔助技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -508,7 +508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用后，"
+          "text": "使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -528,7 +528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "元气值增加"
+          "text": "元氣值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -553,7 +553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -573,7 +573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -583,7 +583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后，"
+          "text": "效果的技能卡使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -623,7 +623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -633,7 +633,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（2次为限）"
+          "text": "+1（2次為限）"
         }
       ]
     },
@@ -648,7 +648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -668,7 +668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -678,7 +678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后，"
+          "text": "效果的技能卡使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -718,7 +718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -728,7 +728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（2次为限）"
+          "text": "+1（2次為限）"
         }
       ]
     },
@@ -743,7 +743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -763,7 +763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "自身使用后，"
+          "text": "自身使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -783,7 +783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostPenetrateAdd",
-          "text": "体力消耗花费值增加"
+          "text": "體力消耗花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -828,7 +828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -848,7 +848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "自身使用后，"
+          "text": "自身使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -868,7 +868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostPenetrateAdd",
-          "text": "体力消耗花费值增加"
+          "text": "體力消耗花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -913,7 +913,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -933,7 +933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -943,7 +943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后，"
+          "text": "效果的技能卡使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -983,7 +983,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -993,7 +993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（2次为限）"
+          "text": "+1（2次為限）"
         }
       ]
     },
@@ -1008,7 +1008,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1028,7 +1028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1038,7 +1038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡使用后，"
+          "text": "效果的技能卡使用後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1078,7 +1078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1088,7 +1088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（2次为限）"
+          "text": "+1（2次為限）"
         }
       ]
     },
@@ -1103,7 +1103,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1143,7 +1143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1153,7 +1153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1183,7 +1183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10（1次为限）"
+          "text": "+10（1次為限）"
         }
       ]
     },
@@ -1198,7 +1198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1238,7 +1238,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1248,7 +1248,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1278,7 +1278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+8（1次为限）"
+          "text": "+8（1次為限）"
         }
       ]
     },
@@ -1293,7 +1293,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1333,7 +1333,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1343,7 +1343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1363,7 +1363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "打分上升次数增加"
+          "text": "打分上升次數增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1373,7 +1373,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（1次为限）"
+          "text": "+1（1次為限）"
         }
       ]
     },
@@ -1388,7 +1388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1428,7 +1428,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1438,7 +1438,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1458,7 +1458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostReduce",
-          "text": "花费值减少"
+          "text": "花費值減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1488,7 +1488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+16（2次为限）"
+          "text": "+16（2次為限）"
         }
       ]
     },
@@ -1503,7 +1503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1543,7 +1543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1553,7 +1553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1573,7 +1573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostReduce",
-          "text": "花费值减少"
+          "text": "花費值減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1603,7 +1603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+21（2次为限）"
+          "text": "+21（2次為限）"
         }
       ]
     },
@@ -1618,7 +1618,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1658,7 +1658,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1668,7 +1668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1698,7 +1698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10（2次为限）"
+          "text": "+10（2次為限）"
         }
       ]
     },
@@ -1713,7 +1713,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1753,7 +1753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1763,7 +1763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1793,7 +1793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+15（2次为限）"
+          "text": "+15（2次為限）"
         }
       ]
     },
@@ -1808,7 +1808,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1848,7 +1848,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1858,7 +1858,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1898,7 +1898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1908,7 +1908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（2次为限）"
+          "text": "+1（2次為限）"
         }
       ]
     },
@@ -1923,7 +1923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1963,7 +1963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1973,7 +1973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2003,7 +2003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+20（2次为限）"
+          "text": "+20（2次為限）"
         }
       ]
     },
@@ -2018,7 +2018,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2058,7 +2058,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2068,7 +2068,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2108,7 +2108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2118,7 +2118,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（2次为限）"
+          "text": "+1（2次為限）"
         }
       ]
     },
@@ -2133,7 +2133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2173,7 +2173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2183,7 +2183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2213,7 +2213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6（2次为限）"
+          "text": "+6（2次為限）"
         }
       ]
     },
@@ -2228,7 +2228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2268,7 +2268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2278,7 +2278,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2308,7 +2308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+4（4次为限）"
+          "text": "+4（4次為限）"
         }
       ]
     },
@@ -2323,7 +2323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2363,7 +2363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2373,7 +2373,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2418,7 +2418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2458,7 +2458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2468,7 +2468,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2508,7 +2508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2533,7 +2533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2573,7 +2573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2583,7 +2583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2628,7 +2628,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2668,7 +2668,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2678,7 +2678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2718,7 +2718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "元气值增加"
+          "text": "元氣值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2743,7 +2743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2783,7 +2783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2793,7 +2793,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2838,7 +2838,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2878,7 +2878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2888,7 +2888,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2928,7 +2928,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "元气值增加"
+          "text": "元氣值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2953,7 +2953,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2993,7 +2993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3003,7 +3003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3048,7 +3048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3088,7 +3088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3098,7 +3098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3143,7 +3143,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3183,7 +3183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "强气"
+          "text": "強氣"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3193,7 +3193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3233,7 +3233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3258,7 +3258,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3298,7 +3298,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3308,7 +3308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更的时候，"
+          "text": "變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3338,7 +3338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+4（2次为限）"
+          "text": "+4（2次為限）"
         }
       ]
     },
@@ -3353,7 +3353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3393,7 +3393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3403,7 +3403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更的时候，"
+          "text": "變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3433,7 +3433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6（2次为限）"
+          "text": "+6（2次為限）"
         }
       ]
     },
@@ -3448,7 +3448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3488,7 +3488,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3498,7 +3498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更的时候，"
+          "text": "變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3528,7 +3528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10（3次为限）"
+          "text": "+10（3次為限）"
         }
       ]
     },
@@ -3543,7 +3543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3583,7 +3583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3593,7 +3593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更的时候，"
+          "text": "變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3623,7 +3623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5（3次为限）"
+          "text": "+5（3次為限）"
         }
       ]
     },
@@ -3638,7 +3638,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3678,7 +3678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3688,7 +3688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更的时候，"
+          "text": "變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3718,7 +3718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+15（4次为限）"
+          "text": "+15（4次為限）"
         }
       ]
     },
@@ -3733,7 +3733,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3773,7 +3773,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3783,7 +3783,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更的时候，"
+          "text": "變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3813,7 +3813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+20（4次为限）"
+          "text": "+20（4次為限）"
         }
       ]
     },
@@ -3828,7 +3828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3868,7 +3868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3878,7 +3878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更的时候，"
+          "text": "變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3923,7 +3923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3963,7 +3963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3973,7 +3973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更的时候，"
+          "text": "變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4013,7 +4013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4038,7 +4038,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4078,7 +4078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4088,7 +4088,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更的时候，"
+          "text": "變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4133,7 +4133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4173,7 +4173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4183,7 +4183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2次变更的时候，"
+          "text": "2次變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4223,7 +4223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "打分上升次数增加"
+          "text": "打分上升次數增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4243,7 +4243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4253,7 +4253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（12次为限）"
+          "text": "+1（12次為限）"
         }
       ]
     },
@@ -4268,7 +4268,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4308,7 +4308,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4318,7 +4318,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2次变更的时候，"
+          "text": "2次變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4348,7 +4348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+4（3次为限）"
+          "text": "+4（3次為限）"
         }
       ]
     },
@@ -4363,7 +4363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4403,7 +4403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4413,7 +4413,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2次变更的时候，"
+          "text": "2次變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4443,7 +4443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+7（3次为限）"
+          "text": "+7（3次為限）"
         }
       ]
     },
@@ -4458,7 +4458,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4498,7 +4498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4508,7 +4508,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2次变更的时候，"
+          "text": "2次變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4553,7 +4553,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4593,7 +4593,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4603,7 +4603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "2次变更的时候，"
+          "text": "2次變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4648,7 +4648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4688,7 +4688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4698,7 +4698,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "3次变更的时候，"
+          "text": "3次變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4718,7 +4718,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "打分上升次数增加"
+          "text": "打分上升次數增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4738,7 +4738,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostPenetrateReduce",
-          "text": "体力消耗花费值减少"
+          "text": "體力消耗花費值減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4748,7 +4748,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "-1（2次为限）"
+          "text": "-1（2次為限）"
         }
       ]
     },
@@ -4763,7 +4763,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4803,7 +4803,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Stance",
-          "text": "指针"
+          "text": "指標"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4813,7 +4813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "3次变更的时候，"
+          "text": "3次變更的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4833,7 +4833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "打分上升次数增加"
+          "text": "打分上升次數增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4853,7 +4853,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostPenetrateReduce",
-          "text": "体力消耗花费值减少"
+          "text": "體力消耗花費值減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4863,7 +4863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "-1（3次为限）"
+          "text": "-1（3次為限）"
         }
       ]
     },
@@ -4878,7 +4878,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4908,7 +4908,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4948,7 +4948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -4958,7 +4958,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（1次为限）"
+          "text": "+1（1次為限）"
         }
       ]
     },
@@ -4973,7 +4973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5003,7 +5003,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5033,7 +5033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+20（1次为限）"
+          "text": "+20（1次為限）"
         }
       ]
     },
@@ -5048,7 +5048,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5078,7 +5078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5108,7 +5108,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+30（1次为限）"
+          "text": "+30（1次為限）"
         }
       ]
     },
@@ -5123,7 +5123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5153,7 +5153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5173,7 +5173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "打分上升次数增加"
+          "text": "打分上升次數增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5183,7 +5183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1（4次为限）"
+          "text": "+1（4次為限）"
         }
       ]
     },
@@ -5198,7 +5198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5228,7 +5228,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5273,7 +5273,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5303,7 +5303,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5348,7 +5348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5378,7 +5378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5423,7 +5423,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5453,7 +5453,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5498,7 +5498,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5528,7 +5528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5573,7 +5573,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5603,7 +5603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5648,7 +5648,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5678,7 +5678,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5723,7 +5723,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5753,7 +5753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5798,7 +5798,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5828,7 +5828,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5873,7 +5873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5903,7 +5903,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5923,7 +5923,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "打分上升次数增加"
+          "text": "打分上升次數增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5948,7 +5948,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5988,7 +5988,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "温存"
+          "text": "溫存"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -5998,7 +5998,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6018,7 +6018,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "元气值增加"
+          "text": "元氣值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6028,7 +6028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10（1次为限）"
+          "text": "+10（1次為限）"
         }
       ]
     },
@@ -6043,7 +6043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6083,7 +6083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "温存"
+          "text": "溫存"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6093,7 +6093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "存在的时候，"
+          "text": "存在的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6113,7 +6113,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_BlockAdd",
-          "text": "元气值增加"
+          "text": "元氣值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6123,7 +6123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+5（1次为限）"
+          "text": "+5（1次為限）"
         }
       ]
     },
@@ -6138,7 +6138,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6158,7 +6158,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合开始时，"
+          "text": "回合開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6198,7 +6198,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "打分上升次数增加"
+          "text": "打分上升次數增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6218,7 +6218,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_CostAdd",
-          "text": "花费值增加"
+          "text": "花費值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6243,7 +6243,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6293,7 +6293,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后，"
+          "text": "增加後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6323,7 +6323,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+11（3次为限）"
+          "text": "+11（3次為限）"
         }
       ]
     },
@@ -6338,7 +6338,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamAddGrowEffect",
-          "text": "成长"
+          "text": "成長"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6388,7 +6388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加后，"
+          "text": "增加後，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -6418,7 +6418,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+6（3次为限）"
+          "text": "+6（3次為限）"
         }
       ]
     }

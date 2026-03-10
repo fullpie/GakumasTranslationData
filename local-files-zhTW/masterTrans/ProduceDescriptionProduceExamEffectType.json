@@ -12,13 +12,13 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuff",
-      "name": "好调",
-      "swapName": "好调"
+      "name": "好調",
+      "swapName": "好調"
     },
     {
       "type": "ProduceExamEffectType_ExamBlock",
-      "name": "元气",
-      "swapName": "元气"
+      "name": "元氣",
+      "swapName": "元氣"
     },
     {
       "type": "ProduceExamEffectType_ExamCardDraw",
@@ -27,8 +27,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
-      "name": "消耗体力减少",
-      "swapName": "消耗体力减少"
+      "name": "消耗體力減少",
+      "swapName": "消耗體力減少"
     },
     {
       "type": "ProduceExamEffectType_ExamCardCreateId",
@@ -37,8 +37,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceFix",
-      "name": "消耗体力",
-      "swapName": "消耗体力"
+      "name": "消耗體力",
+      "swapName": "消耗體力"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuff",
@@ -47,48 +47,48 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardUpgrade",
-      "name": "训练中强化",
+      "name": "訓練中強化",
       "swapName": "考试・舞台中强化"
     },
     {
       "type": "ProduceExamEffectType_ExamPlayableValueAdd",
-      "name": "技能卡使用数增加",
-      "swapName": "技能卡使用数增加"
+      "name": "技能卡使用數增加",
+      "swapName": "技能卡使用數增加"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
-      "name": "集中强化",
-      "swapName": "集中强化"
+      "name": "集中強化",
+      "swapName": "集中強化"
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
-      "name": "消耗体力变化",
-      "swapName": "消耗体力变化"
+      "name": "消耗體力變化",
+      "swapName": "消耗體力變化"
     },
     {
       "type": "ProduceExamEffectType_ExamBlockRestriction",
-      "name": "元气增加无效",
-      "swapName": "元气增加无效"
+      "name": "元氣增加無效",
+      "swapName": "元氣增加無效"
     },
     {
       "type": "ProduceExamEffectType_ExamStatusEnchant",
-      "name": "持续效果",
-      "swapName": "持续效果"
+      "name": "持續效果",
+      "swapName": "持續效果"
     },
     {
       "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify",
-      "name": "消耗体力降低",
-      "swapName": "消耗体力降低"
+      "name": "消耗體力降低",
+      "swapName": "消耗體力降低"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaDamage",
-      "name": "体力减少",
-      "swapName": "体力减少"
+      "name": "體力減少",
+      "swapName": "體力減少"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverFix",
-      "name": "体力恢复",
-      "swapName": "体力恢复"
+      "name": "體力恢復",
+      "swapName": "體力恢復"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonFix",
@@ -97,8 +97,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardDuplicate",
-      "name": "复制",
-      "swapName": "复制"
+      "name": "複製",
+      "swapName": "複製"
     },
     {
       "type": "ProduceExamEffectType_ExamReview",
@@ -107,8 +107,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardSearchEffectPlayCountBuff",
-      "name": "技能卡追加发动",
-      "swapName": "技能卡追加发动"
+      "name": "技能卡追加發動",
+      "swapName": "技能卡追加發動"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultiple",
@@ -117,18 +117,18 @@
     },
     {
       "type": "ProduceExamEffectType_ExamCardPlayAggressive",
-      "name": "干劲",
-      "swapName": "干劲"
+      "name": "幹勁",
+      "swapName": "幹勁"
     },
     {
       "type": "ProduceExamEffectType_ExamConcentration",
-      "name": "强气",
-      "swapName": "强气"
+      "name": "強氣",
+      "swapName": "強氣"
     },
     {
       "type": "ProduceExamEffectType_ExamPreservation",
-      "name": "温存",
-      "swapName": "温存"
+      "name": "溫存",
+      "swapName": "溫存"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPower",
@@ -137,8 +137,8 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStanceReset",
-      "name": "指针解除",
-      "swapName": "指针解除"
+      "name": "指標解除",
+      "swapName": "指標解除"
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPoint",
@@ -147,18 +147,18 @@
     },
     {
       "type": "ProduceExamEffectType_ExamFullPowerPointReduce",
-      "name": "全力值减少",
-      "swapName": "全力值减少"
+      "name": "全力值減少",
+      "swapName": "全力值減少"
     },
     {
       "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
-      "name": "消耗体力变化",
-      "swapName": "消耗体力变化"
+      "name": "消耗體力變化",
+      "swapName": "消耗體力變化"
     },
     {
       "type": "ProduceExamEffectType_ExamUplifting",
-      "name": "高扬",
-      "swapName": "高扬"
+      "name": "高揚",
+      "swapName": "高揚"
     },
     {
       "type": "ProduceExamEffectType_ExamExtraTurn",
@@ -167,13 +167,13 @@
     },
     {
       "type": "ProduceExamEffectType_ExamAntiDebuff",
-      "name": "状态下降无效",
-      "swapName": "状态下降无效"
+      "name": "狀態下降無效",
+      "swapName": "狀態下降無效"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAdd",
-      "name": "消耗体力增加",
-      "swapName": "消耗体力增加"
+      "name": "消耗體力增加",
+      "swapName": "消耗體力增加"
     },
     {
       "type": "ProduceExamEffectType_ExamBlockAddDown",
@@ -182,28 +182,28 @@
     },
     {
       "type": "ProduceExamEffectType_ExamBlockAddDownRestriction",
-      "name": "不安无效",
-      "swapName": "不安无效"
+      "name": "不安無效",
+      "swapName": "不安無效"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
-      "name": "体力恢复效果增加",
-      "swapName": "体力恢复效果增加"
+      "name": "體力恢復效果增加",
+      "swapName": "體力恢復效果增加"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceChange",
-      "name": "体耗减少",
-      "swapName": "体耗减少"
+      "name": "體耗減少",
+      "swapName": "體耗減少"
     },
     {
       "type": "ProduceExamEffectType_ExamPanic",
-      "name": "随意",
-      "swapName": "随意"
+      "name": "隨意",
+      "swapName": "隨意"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan",
-      "name": "打分上升值变更",
-      "swapName": "打分上升值变更"
+      "name": "打分上升值變更",
+      "swapName": "打分上升值變更"
     },
     {
       "type": "ProduceExamEffectType_ExamHandHold",
@@ -212,63 +212,63 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix",
-      "name": "体力消耗增加",
-      "swapName": "体力消耗增加"
+      "name": "體力消耗增加",
+      "swapName": "體力消耗增加"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown",
-      "name": "体耗翻倍效果减少",
-      "swapName": "体耗翻倍效果减少"
+      "name": "體耗翻倍效果減少",
+      "swapName": "體耗翻倍效果減少"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
-      "name": "体力恢复无效",
-      "swapName": "体力恢复无效"
+      "name": "體力恢復無效",
+      "swapName": "體力恢復無效"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
-      "name": "体耗减少效果增加",
-      "swapName": "体耗减少效果增加"
+      "name": "體耗減少效果增加",
+      "swapName": "體耗減少效果增加"
     },
     {
       "type": "ProduceExamEffectType_ExamGetCardUpgrade",
-      "name": "生成强化",
-      "swapName": "生成强化"
+      "name": "生成強化",
+      "swapName": "生成強化"
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix",
-      "name": "消耗体力削减",
-      "swapName": "消耗体力削减"
+      "name": "消耗體力削減",
+      "swapName": "消耗體力削減"
     },
     {
       "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw",
-      "name": "更换手牌",
-      "swapName": "更换手牌"
+      "name": "更換手牌",
+      "swapName": "更換手牌"
     },
     {
       "type": "ProduceExamEffectType_ExamEffectTimer",
-      "name": "发起预约",
-      "swapName": "发起预约"
+      "name": "發起預約",
+      "swapName": "發起預約"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickLessonDebuff",
-      "name": "紧张",
-      "swapName": "紧张"
+      "name": "緊張",
+      "swapName": "緊張"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickParameterDebuff",
-      "name": "不调",
-      "swapName": "不调"
+      "name": "不調",
+      "swapName": "不調"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickSleepy",
-      "name": "没精打采",
-      "swapName": "没精打采"
+      "name": "沒精打采",
+      "swapName": "沒精打采"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickEnthusiastic",
-      "name": "热意",
-      "swapName": "热意"
+      "name": "熱意",
+      "swapName": "熱意"
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit",
@@ -282,13 +282,13 @@
     },
     {
       "type": "ProduceExamEffectType_ExamGimmickStartTurnCardDrawDown",
-      "name": "手牌减少",
-      "swapName": "手牌减少"
+      "name": "手牌減少",
+      "swapName": "手牌減少"
     },
     {
       "type": "ProduceExamEffectType_ExamBlockFix",
-      "name": "固定元气",
-      "swapName": "固定元气"
+      "name": "固定元氣",
+      "swapName": "固定元氣"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonChangeSpecifyMoreThan",
@@ -297,48 +297,48 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
-      "name": "绝好调",
-      "swapName": "绝好调"
+      "name": "絕好調",
+      "swapName": "絕好調"
     },
     {
       "type": "ProduceExamEffectType_StanceLock",
-      "name": "指针固定",
-      "swapName": "指针固定"
+      "name": "指標固定",
+      "swapName": "指標固定"
     },
     {
       "type": "ProduceExamEffectType_ExamDebuffRecover",
-      "name": "下降状态恢复",
-      "swapName": "下降状态恢复"
+      "name": "下降狀態恢復",
+      "swapName": "下降狀態恢復"
     },
     {
       "type": "ProduceExamEffectType_ExamReviewReduce",
-      "name": "好印象减少",
-      "swapName": "好印象减少"
+      "name": "好印象減少",
+      "swapName": "好印象減少"
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveReduce",
-      "name": "干劲减少",
-      "swapName": "干劲减少"
+      "name": "幹勁減少",
+      "swapName": "幹勁減少"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffReduce",
-      "name": "集中减少",
-      "swapName": "集中减少"
+      "name": "集中減少",
+      "swapName": "集中減少"
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-      "name": "好调减少",
-      "swapName": "好调减少"
+      "name": "好調減少",
+      "swapName": "好調減少"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
-      "name": "打分上升量减少",
-      "swapName": "打分上升量减少"
+      "name": "打分上升量減少",
+      "swapName": "打分上升量減少"
     },
     {
       "type": "ProduceExamEffectType_ExamAddGrowEffect",
-      "name": "成长效果",
-      "swapName": "成长效果"
+      "name": "成長效果",
+      "swapName": "成長效果"
     }
   ]
 }
