@@ -7,23 +7,23 @@
   "data": [
     {
       "id": "shop_costume",
-      "name": "服装"
+      "name": "服裝"
     },
     {
       "id": "shop_jewel",
-      "name": "宝石"
+      "name": "寶石"
     },
     {
       "id": "shop_pack",
-      "name": "礼包"
+      "name": "禮包"
     },
     {
       "id": "shop_pass",
-      "name": "通行证"
+      "name": "通行證"
     },
     {
       "id": "shop_webstore",
-      "name": "外部结算"
+      "name": "外部結算"
     }
   ]
 }

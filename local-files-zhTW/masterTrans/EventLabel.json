@@ -7,19 +7,19 @@
   "data": [
     {
       "eventType": "EventType_MissionDailyRelease",
-      "name": "特别任务"
+      "name": "特別任務"
     },
     {
       "eventType": "EventType_MissionPanel",
-      "name": "拼图任务"
+      "name": "拼圖任務"
     },
     {
       "eventType": "EventType_ProduceHighScore",
-      "name": "十王邦夫的偶像强化月"
+      "name": "十王邦夫的偶像強化月"
     },
     {
       "eventType": "EventType_StoryCampaign",
-      "name": "交流免费解锁中"
+      "name": "交流免費解鎖中"
     },
     {
       "eventType": "EventType_StoryEvent",
@@ -43,7 +43,7 @@
     },
     {
       "eventType": "EventType_DearnessBoost",
-      "name": "亲密度强化活动"
+      "name": "親密度強化活動"
     },
     {
       "eventType": "EventType_Tour",
@@ -51,7 +51,7 @@
     },
     {
       "eventType": "EventType_Research",
-      "name": "亚纱里老师的培育研讨会"
+      "name": "亞紗里老師的培育研討會"
     }
   ]
 }

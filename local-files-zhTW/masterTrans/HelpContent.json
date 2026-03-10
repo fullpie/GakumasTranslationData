@@ -35,115 +35,115 @@
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event",
       "order": 1,
-      "name": "巡演活动"
+      "name": "巡演活動"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-bonus",
       "order": 3,
-      "name": "活动奖励"
+      "name": "活動獎勵"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-finish",
       "order": 8,
-      "name": "活动结束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-gasha",
       "order": 4,
-      "name": "活动扭蛋"
+      "name": "活動扭蛋"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-gasha-coin",
       "order": 7,
-      "name": "活动专用道具"
+      "name": "活動專用道具"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-idol",
       "order": 2,
-      "name": "活动报酬加成的培育用偶像"
+      "name": "活動報酬加成的培育用偶像"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-mission",
       "order": 6,
-      "name": "活动任务"
+      "name": "活動任務"
     },
     {
       "helpCategoryId": "help-box-gasha-event",
       "id": "box-gasha-event-story",
       "order": 5,
-      "name": "活动交流"
+      "name": "活動交流"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-exchange",
       "order": 5,
-      "name": "地方巡演奖章"
+      "name": "地方巡演獎章"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-finish",
       "order": 9,
-      "name": "活动结束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-memory",
       "order": 3,
-      "name": "编成"
+      "name": "編成"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-mission",
       "order": 7,
-      "name": "活动任务"
+      "name": "活動任務"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-ranking",
       "order": 8,
-      "name": "社团排行榜"
+      "name": "社團排行榜"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-reward",
       "order": 4,
-      "name": "活动报酬"
+      "name": "活動報酬"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-rule",
       "order": 1,
-      "name": "地方巡演活动"
+      "name": "地方巡演活動"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-stage",
       "order": 2,
-      "name": "舞台"
+      "name": "舞臺"
     },
     {
       "helpCategoryId": "help-circle-battle-event",
       "id": "circle-battle-event-story",
       "order": 6,
-      "name": "活动交流"
+      "name": "活動交流"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-competition",
       "order": 1,
-      "name": "联合竞技"
+      "name": "聯合競技"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-competition-ranking",
       "order": 10,
-      "name": "联合竞技排行榜"
+      "name": "聯合競技排行榜"
     },
     {
       "helpCategoryId": "help-competition",
@@ -155,13 +155,13 @@
       "helpCategoryId": "help-competition",
       "id": "competition-preparation-period",
       "order": 7,
-      "name": "举办准备期间"
+      "name": "舉辦準備期間"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-rate-pt",
       "order": 9,
-      "name": "个人组合"
+      "name": "個人組合"
     },
     {
       "helpCategoryId": "help-competition",
@@ -173,43 +173,43 @@
       "helpCategoryId": "help-competition",
       "id": "competition-rule",
       "order": 2,
-      "name": "联合竞技的规则"
+      "name": "聯合競技的規則"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-season",
       "order": 6,
-      "name": "赛季"
+      "name": "賽季"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-squad",
       "order": 3,
-      "name": "编成"
+      "name": "編成"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-stage",
       "order": 4,
-      "name": "舞台"
+      "name": "舞臺"
     },
     {
       "helpCategoryId": "help-competition",
       "id": "competition-total",
       "order": 5,
-      "name": "综合实力"
+      "name": "綜合實力"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-contest",
       "order": 1,
-      "name": "竞技场"
+      "name": "競技場"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-contest-ranking",
       "order": 10,
-      "name": "竞技场排行榜"
+      "name": "競技場排行榜"
     },
     {
       "helpCategoryId": "help-contest",
@@ -221,73 +221,73 @@
       "helpCategoryId": "help-contest",
       "id": "contest-preparation-period",
       "order": 7,
-      "name": "举办准备期间"
+      "name": "舉辦準備期間"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-rate-pt",
       "order": 9,
-      "name": "评价Pt"
+      "name": "評價Pt"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-rule",
       "order": 2,
-      "name": "竞技场规则"
+      "name": "競技場規則"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-season",
       "order": 6,
-      "name": "赛季"
+      "name": "賽季"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-squad",
       "order": 3,
-      "name": "编成"
+      "name": "編成"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-stage",
       "order": 4,
-      "name": "舞台"
+      "name": "舞臺"
     },
     {
       "helpCategoryId": "help-contest",
       "id": "contest-total",
       "order": 5,
-      "name": "综合实力"
+      "name": "綜合實力"
     },
     {
       "helpCategoryId": "help-dearness-doost-campaign",
       "id": "help-dearness-doost-campaign-info",
       "order": 57,
-      "name": "亲密度强化活动"
+      "name": "親密度強化活動"
     },
     {
       "helpCategoryId": "help-dearness-map",
       "id": "help-dearness-map-info",
       "order": 56,
-      "name": "亲密度地图"
+      "name": "親密度地圖"
     },
     {
       "helpCategoryId": "help-dearness-top",
       "id": "help-dearness-top-info",
       "order": 55,
-      "name": "亲密度TOP"
+      "name": "親密度TOP"
     },
     {
       "helpCategoryId": "help-event_mission",
       "id": "event_mission-event_mission",
       "order": 1,
-      "name": "活动任务"
+      "name": "活動任務"
     },
     {
       "helpCategoryId": "help-event-mission",
       "id": "event-mission-rookie",
       "order": 1,
-      "name": "每日解锁任务"
+      "name": "每日解鎖任務"
     },
     {
       "helpCategoryId": "help-gasha",
@@ -299,31 +299,31 @@
       "helpCategoryId": "help-gasha",
       "id": "gasha-gasha-pt",
       "order": 2,
-      "name": "兑换Pt/花"
+      "name": "兌換Pt/花"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-create",
       "order": 2,
-      "name": "创建社团"
+      "name": "建立社團"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-Guild",
       "order": 1,
-      "name": "社团"
+      "name": "社團"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-join",
       "order": 3,
-      "name": "加入社团"
+      "name": "加入社團"
     },
     {
       "helpCategoryId": "help-guild",
       "id": "guild-leave",
       "order": 6,
-      "name": "从社团退出/开除"
+      "name": "從社團退出/開除"
     },
     {
       "helpCategoryId": "help-guild",
@@ -341,67 +341,67 @@
       "helpCategoryId": "help-highscore",
       "id": "highscore-highscore",
       "order": 1,
-      "name": "十王邦夫的偶像强化月介绍"
+      "name": "十王邦夫的偶像強化月介紹"
     },
     {
       "helpCategoryId": "help-highscore",
       "id": "highscore-ranking",
       "order": 2,
-      "name": "高分排行榜的种类"
+      "name": "高分排行榜的種類"
     },
     {
       "helpCategoryId": "help-highscore",
       "id": "highscore-score_reward",
       "order": 3,
-      "name": "高分达成报酬"
+      "name": "高分達成報酬"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-finish",
       "order": 8,
-      "name": "活动结束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-gasha",
       "order": 6,
-      "name": "活动扭蛋"
+      "name": "活動扭蛋"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-item",
       "order": 3,
-      "name": "星之闪耀"
+      "name": "星之閃耀"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-event-mission",
       "order": 7,
-      "name": "活动任务"
+      "name": "活動任務"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-eventmode-produce",
       "order": 2,
-      "name": "活动专用的培育"
+      "name": "活動專用的培育"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-highscorerush",
       "order": 1,
-      "name": "十王邦夫的偶像强化月"
+      "name": "十王邦夫的偶像強化月"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-ranking",
       "order": 4,
-      "name": "高分排行榜的种类"
+      "name": "高分排行榜的種類"
     },
     {
       "helpCategoryId": "help-highscorerush",
       "id": "highscorerush-score-reward",
       "order": 5,
-      "name": "高分达成报酬"
+      "name": "高分達成報酬"
     },
     {
       "helpCategoryId": "help-home",
@@ -419,37 +419,37 @@
       "helpCategoryId": "help-home",
       "id": "home-home",
       "order": 1,
-      "name": "主页"
+      "name": "主頁"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-home-character-change",
       "order": 7,
-      "name": "设置主页偶像"
+      "name": "設定主頁偶像"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-jewel",
       "order": 4,
-      "name": "宝石"
+      "name": "寶石"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-main-task",
       "order": 8,
-      "name": "课题"
+      "name": "課題"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-money-received",
       "order": 5,
-      "name": "活动经费"
+      "name": "活動經費"
     },
     {
       "helpCategoryId": "help-home",
       "id": "home-p-lv",
       "order": 2,
-      "name": "制作人Lv"
+      "name": "製作人Lv"
     },
     {
       "helpCategoryId": "help-home",
@@ -461,19 +461,19 @@
       "helpCategoryId": "help-idol",
       "id": "idol-another",
       "order": 2,
-      "name": "异装偶像"
+      "name": "異裝偶像"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-dearness",
       "order": 53,
-      "name": "亲密度"
+      "name": "親密度"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-dearness-pt",
       "order": 54,
-      "name": "亲密度Pt"
+      "name": "親密度Pt"
     },
     {
       "helpCategoryId": "help-idol",
@@ -485,19 +485,19 @@
       "helpCategoryId": "help-idol",
       "id": "idol-idol-card-level-limit",
       "order": 50,
-      "name": "特训"
+      "name": "特訓"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-idol-card-potential-rank",
       "order": 51,
-      "name": "才能开花"
+      "name": "才能開花"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-idol-card-release",
       "order": 52,
-      "name": "培育用偶像的解锁"
+      "name": "培育用偶像的解鎖"
     },
     {
       "helpCategoryId": "help-idol",
@@ -527,67 +527,67 @@
       "helpCategoryId": "help-idol",
       "id": "idol-true-end-bonus",
       "order": 58,
-      "name": "True End奖励"
+      "name": "True End獎勵"
     },
     {
       "helpCategoryId": "help-idol",
       "id": "idol-unit",
       "order": 3,
-      "name": "组合偶像"
+      "name": "組合偶像"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-audition",
       "order": 15,
-      "name": "考试"
+      "name": "考試"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-audition-flow",
       "order": 16,
-      "name": "考试流程"
+      "name": "考試流程"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-audition-view",
       "order": 17,
-      "name": "考试界面"
+      "name": "考試介面"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-block",
       "order": 4,
-      "name": "元气"
+      "name": "元氣"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-effect",
       "order": 12,
-      "name": "产生的效果"
+      "name": "產生的效果"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-gimmick",
       "order": 13,
-      "name": "应援与干扰"
+      "name": "應援與干擾"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-health-lesson",
       "order": 3,
-      "name": "体力（训练）"
+      "name": "體力（訓練）"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-lesson",
       "order": 1,
-      "name": "训练"
+      "name": "訓練"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-lesson-view",
       "order": 2,
-      "name": "训练界面"
+      "name": "訓練介面"
     },
     {
       "helpCategoryId": "help-lesson",
@@ -599,13 +599,13 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-p-item",
       "order": 8,
-      "name": "P饮料"
+      "name": "P飲料"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-perfect-lesson",
       "order": 14,
-      "name": "完美训练"
+      "name": "完美訓練"
     },
     {
       "helpCategoryId": "help-lesson",
@@ -617,13 +617,13 @@
       "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-powerup",
       "order": 6,
-      "name": "强化技能卡"
+      "name": "強化技能卡"
     },
     {
       "helpCategoryId": "help-lesson",
       "id": "lesson-produce-card-use",
       "order": 7,
-      "name": "技能卡使用顺序"
+      "name": "技能卡使用順序"
     },
     {
       "helpCategoryId": "help-lesson",
@@ -641,157 +641,157 @@
       "helpCategoryId": "help-livetour-event",
       "id": "tour-event-bonus",
       "order": 2,
-      "name": "活动奖励"
+      "name": "活動獎勵"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-exchange",
       "order": 8,
-      "name": "活动兑换所道具"
+      "name": "活動兌換所道具"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-finish",
       "order": 9,
-      "name": "活动结束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-idol",
       "order": 5,
-      "name": "活动报酬加成的培育用偶像"
+      "name": "活動報酬加成的培育用偶像"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-play-ticket",
       "order": 4,
-      "name": "Live挑战券"
+      "name": "Live挑戰券"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-reward",
       "order": 7,
-      "name": "活动报酬"
+      "name": "活動報酬"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-stage",
       "order": 3,
-      "name": "活动舞台"
+      "name": "活動舞臺"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-story",
       "order": 6,
-      "name": "活动交流"
+      "name": "活動交流"
     },
     {
       "helpCategoryId": "help-livetour-event",
       "id": "tour-tour",
       "order": 1,
-      "name": "巡演活动"
+      "name": "巡演活動"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-bonus",
       "order": 4,
-      "name": "活动奖励"
+      "name": "活動獎勵"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-coin",
       "order": 6,
-      "name": "活动兑换所道具"
+      "name": "活動兌換所道具"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-finish",
       "order": 7,
-      "name": "活动结束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-main-story",
       "order": 3,
-      "name": "初星交流解锁"
+      "name": "初星交流解鎖"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-mission",
       "order": 2,
-      "name": "活动任务"
+      "name": "活動任務"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-point",
       "order": 5,
-      "name": "累计活动Pt报酬"
+      "name": "累計活動Pt報酬"
     },
     {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-story",
       "order": 1,
-      "name": "初星交流活动"
+      "name": "初星交流活動"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory",
       "order": 1,
-      "name": "回忆"
+      "name": "回憶"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-contest",
       "order": 3,
-      "name": "竞技场编成时的效果"
+      "name": "競技場編成時的效果"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-convert",
       "order": 5,
-      "name": "回忆变换"
+      "name": "回憶變換"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-deck-edit",
       "order": 4,
-      "name": "回忆编成界面"
+      "name": "回憶編成介面"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-inherit",
       "order": 6,
-      "name": "回忆合成"
+      "name": "回憶合成"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-produce",
       "order": 2,
-      "name": "培育编成时的效果"
+      "name": "培育編成時的效果"
     },
     {
       "helpCategoryId": "help-memory",
       "id": "memory-memory-review",
       "order": 7,
-      "name": "培育回忆"
+      "name": "培育回憶"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-album-to-live",
       "order": 9,
-      "name": "相册"
+      "name": "相簿"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-costume",
       "order": 7,
-      "name": "换装"
+      "name": "換裝"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-data-linkage",
       "order": 17,
-      "name": "数据关联"
+      "name": "資料關聯"
     },
     {
       "helpCategoryId": "help-menu",
@@ -809,7 +809,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-help",
       "order": 13,
-      "name": "帮助"
+      "name": "幫助"
     },
     {
       "helpCategoryId": "help-menu",
@@ -821,13 +821,13 @@
       "helpCategoryId": "help-menu",
       "id": "menu-live-shooting",
       "order": 8,
-      "name": "摄影"
+      "name": "攝影"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-media",
       "order": 12,
-      "name": "媒体"
+      "name": "媒體"
     },
     {
       "helpCategoryId": "help-menu",
@@ -839,157 +839,157 @@
       "helpCategoryId": "help-menu",
       "id": "menu-music",
       "order": 10,
-      "name": "音乐"
+      "name": "音樂"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-predownload",
       "order": 16,
-      "name": "全部下载"
+      "name": "全部下載"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-produce-collection",
       "order": 6,
-      "name": "P图鉴"
+      "name": "P圖鑑"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-profile",
       "order": 1,
-      "name": "简介"
+      "name": "簡介"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-roster",
       "order": 11,
-      "name": "名册"
+      "name": "名冊"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-setting",
       "order": 14,
-      "name": "设置"
+      "name": "設定"
     },
     {
       "helpCategoryId": "help-menu",
       "id": "menu-title",
       "order": 15,
-      "name": "标题"
+      "name": "標題"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-daily",
       "order": 2,
-      "name": "每日任务"
+      "name": "每日任務"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-event",
       "order": 7,
-      "name": "活动任务"
+      "name": "活動任務"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-idol",
       "order": 6,
-      "name": "偶像任务"
+      "name": "偶像任務"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-mission",
       "order": 1,
-      "name": "任务"
+      "name": "任務"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-normal",
       "order": 4,
-      "name": "普通任务"
+      "name": "普通任務"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-pass",
       "order": 8,
-      "name": "任务通行证"
+      "name": "任務通行證"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-special",
       "order": 5,
-      "name": "期间限定任务"
+      "name": "期間限定任務"
     },
     {
       "helpCategoryId": "help-mission",
       "id": "mission-weekly",
       "order": 3,
-      "name": "每周任务"
+      "name": "每週任務"
     },
     {
       "helpCategoryId": "help-panel-mission",
       "id": "panel-mission-panel-mission",
       "order": 1,
-      "name": "拼图任务"
+      "name": "拼圖任務"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-003-add",
       "order": 37,
-      "name": "难易度：Master(定期公演『初』)"
+      "name": "難易度：Master(定期公演『初』)"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-004-add",
       "order": 50,
-      "name": "难易度：Legend(定期公演『初』)"
+      "name": "難易度：Legend(定期公演『初』)"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-005-add",
       "order": 47,
-      "name": "难易度：MASTER(NEXT IDOL AUDITION)"
+      "name": "難易度：MASTER(NEXT IDOL AUDITION)"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-business",
       "order": 40,
-      "name": "营业"
+      "name": "營業"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-character-growth",
       "order": 13,
-      "name": "培育目标"
+      "name": "培育目標"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-confirm",
       "order": 8,
-      "name": "开始确认界面"
+      "name": "開始確認介面"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-costume-choice",
       "order": 3,
-      "name": "选择服装"
+      "name": "選擇服裝"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-customize",
       "order": 42,
-      "name": "特别指导"
+      "name": "特別指導"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-customize-customize",
       "order": 43,
-      "name": "自定义技能卡"
+      "name": "自定義技能卡"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-ending",
       "order": 29,
-      "name": "结局"
+      "name": "結局"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1001,103 +1001,103 @@
       "helpCategoryId": "help-produce",
       "id": "produce-exam-audition",
       "order": 27,
-      "name": "考试（培育）"
+      "name": "考試（培育）"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-fanpresent",
       "order": 44,
-      "name": "慰问品"
+      "name": "慰問品"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-fanvote",
       "order": 39,
-      "name": "粉丝投票数"
+      "name": "粉絲投票數"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-generate-memory",
       "order": 32,
-      "name": "生成回忆"
+      "name": "生成回憶"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-growth-info",
       "order": 4,
-      "name": "培育情报"
+      "name": "培育情報"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-guide",
       "order": 49,
-      "name": "获取指南"
+      "name": "獲取指南"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-hard-lesson",
       "order": 26,
-      "name": "冲刺训练"
+      "name": "衝刺訓練"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-health-produce",
       "order": 14,
-      "name": "体力（培育）"
+      "name": "體力（培育）"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-idol-card-select",
       "order": 2,
-      "name": "选择培育用偶像"
+      "name": "選擇培育用偶像"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-judging-trend",
       "order": 10,
-      "name": "审查标准"
+      "name": "審查標準"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-lesson",
       "order": 24,
-      "name": "训练（培育）"
+      "name": "訓練（培育）"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-live",
       "order": 28,
-      "name": "P演唱会"
+      "name": "P演唱會"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-memory-deck-edit",
       "order": 7,
-      "name": "回忆编成（培育）"
+      "name": "回憶編成（培育）"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-menu",
       "order": 33,
-      "name": "菜单"
+      "name": "選單"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-nia_audition",
       "order": 45,
-      "name": "试镜"
+      "name": "試鏡"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-ppoint",
       "order": 18,
-      "name": "P点数"
+      "name": "P點數"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-present",
       "order": 21,
-      "name": "活动补给"
+      "name": "活動補給"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1121,7 +1121,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-produce-drink",
       "order": 16,
-      "name": "P饮料"
+      "name": "P飲料"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1139,7 +1139,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-ProduceSchedule",
       "order": 11,
-      "name": "P手账"
+      "name": "P手賬"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1151,7 +1151,7 @@
       "helpCategoryId": "help-produce",
       "id": "produce-result",
       "order": 31,
-      "name": "培育结果"
+      "name": "培育結果"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1163,19 +1163,19 @@
       "helpCategoryId": "help-produce",
       "id": "produce-schedule-select",
       "order": 9,
-      "name": "日程选择"
+      "name": "日程選擇"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-select-info",
       "order": 5,
-      "name": "编成详情"
+      "name": "編成詳情"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-self_lesson",
       "order": 41,
-      "name": "自主训练"
+      "name": "自主訓練"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1187,25 +1187,25 @@
       "helpCategoryId": "help-produce",
       "id": "produce-shool-actibity",
       "order": 20,
-      "name": "授课/外出"
+      "name": "授課/外出"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-shop",
       "order": 19,
-      "name": "咨询"
+      "name": "諮詢"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-sp-lesson",
       "order": 25,
-      "name": "SP训练"
+      "name": "SP訓練"
     },
     {
       "helpCategoryId": "help-produce",
       "id": "produce-support-card-deck-edit",
       "order": 6,
-      "name": "支援卡编成（培育）"
+      "name": "支援卡編成（培育）"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1229,7 +1229,7 @@
       "helpCategoryId": "help-produce",
       "id": "ProduceCardConvert",
       "order": 51,
-      "name": "技能卡替换"
+      "name": "技能卡替換"
     },
     {
       "helpCategoryId": "help-produce",
@@ -1241,7 +1241,7 @@
       "helpCategoryId": "help-producer-ranking",
       "id": "producer-ranking",
       "order": 1,
-      "name": "制作人排行榜"
+      "name": "製作人排行榜"
     },
     {
       "helpCategoryId": "help-producer-ranking",
@@ -1253,73 +1253,73 @@
       "helpCategoryId": "help-producer-ranking",
       "id": "producer-ranking-season",
       "order": 2,
-      "name": "赛季"
+      "name": "賽季"
     },
     {
       "helpCategoryId": "help-research-event",
       "id": "research-event-event-produce",
       "order": 2,
-      "name": "活动专用的培育"
+      "name": "活動專用的培育"
     },
     {
       "helpCategoryId": "help-research-event",
       "id": "research-event-reroll",
       "order": 3,
-      "name": "回忆碎片的再抽选"
+      "name": "回憶碎片的再抽選"
     },
     {
       "helpCategoryId": "help-research-event",
       "id": "research-event-research-event",
       "order": 1,
-      "name": "亚纱里老师的培育研讨会"
+      "name": "亞紗里老師的培育研討會"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-coingasha",
       "order": 5,
-      "name": "硬币扭蛋"
+      "name": "硬幣扭蛋"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-costume",
       "order": 9,
-      "name": "服装商店"
+      "name": "服裝商店"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-exchange",
       "order": 7,
-      "name": "道具兑换所"
+      "name": "道具兌換所"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-exchange-daily",
       "order": 6,
-      "name": "每日兑换所"
+      "name": "每日兌換所"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-exchange-ticket",
       "order": 8,
-      "name": "票据兑换所"
+      "name": "票據兌換所"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-itemshop",
       "order": 3,
-      "name": "礼包"
+      "name": "禮包"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-jewel",
       "order": 2,
-      "name": "宝石"
+      "name": "寶石"
     },
     {
       "helpCategoryId": "help-shop",
       "id": "shop-mission-pass",
       "order": 4,
-      "name": "通行证"
+      "name": "通行證"
     },
     {
       "helpCategoryId": "help-shop",
@@ -1337,7 +1337,7 @@
       "helpCategoryId": "help-story",
       "id": "story-story-event-story",
       "order": 5,
-      "name": "活动交流"
+      "name": "活動交流"
     },
     {
       "helpCategoryId": "help-story",
@@ -1361,49 +1361,49 @@
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-coin",
       "order": 6,
-      "name": "活动兑换所道具"
+      "name": "活動兌換所道具"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-finish",
       "order": 7,
-      "name": "活动结束后"
+      "name": "活動結束後"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-mission",
       "order": 5,
-      "name": "活动任务"
+      "name": "活動任務"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-point",
       "order": 3,
-      "name": "累计活动Pt报酬"
+      "name": "累計活動Pt報酬"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story",
       "order": 1,
-      "name": "故事活动"
+      "name": "故事活動"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story-bonus",
       "order": 2,
-      "name": "活动奖励"
+      "name": "活動獎勵"
     },
     {
       "helpCategoryId": "help-story-event",
       "id": "story-event-event-story-story-unlock",
       "order": 4,
-      "name": "活动交流"
+      "name": "活動交流"
     },
     {
       "helpCategoryId": "help-story-event-guild-mission",
       "id": "guild-mission",
       "order": 1,
-      "name": "连携任务"
+      "name": "連攜任務"
     },
     {
       "helpCategoryId": "help-support",
@@ -1415,7 +1415,7 @@
       "helpCategoryId": "help-support",
       "id": "support-produce-upgrade-select",
       "order": 5,
-      "name": "Lv强化"
+      "name": "Lv強化"
     },
     {
       "helpCategoryId": "help-support",
@@ -1427,7 +1427,7 @@
       "helpCategoryId": "help-support",
       "id": "support-support-bonus",
       "order": 9,
-      "name": "支援卡奖励"
+      "name": "支援卡獎勵"
     },
     {
       "helpCategoryId": "help-support",
@@ -1439,19 +1439,19 @@
       "helpCategoryId": "help-support",
       "id": "support-support-card-deck-edit",
       "order": 7,
-      "name": "支援卡编成"
+      "name": "支援卡編成"
     },
     {
       "helpCategoryId": "help-support",
       "id": "support-support-card-exchange",
       "order": 8,
-      "name": "支援卡变换"
+      "name": "支援卡變換"
     },
     {
       "helpCategoryId": "help-support",
       "id": "support-support-card-level-limit-rank",
       "order": 6,
-      "name": "解锁上限"
+      "name": "解鎖上限"
     },
     {
       "helpCategoryId": "help-support",
@@ -1463,13 +1463,13 @@
       "helpCategoryId": "help-tower",
       "id": "clear-rank",
       "order": 3,
-      "name": "通关条件的★"
+      "name": "通關條件的★"
     },
     {
       "helpCategoryId": "help-tower",
       "id": "memory-memory-tower",
       "order": 4,
-      "name": "偶像之路的回忆编成"
+      "name": "偶像之路的回憶編成"
     },
     {
       "helpCategoryId": "help-tower",
@@ -1493,7 +1493,7 @@
       "helpCategoryId": "help-tower",
       "id": "tower-rule",
       "order": 2,
-      "name": "偶像之路规则"
+      "name": "偶像之路規則"
     }
   ]
 }

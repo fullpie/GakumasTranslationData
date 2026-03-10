@@ -8,74 +8,74 @@
     {
       "tutorialType": "TutorialType_Work",
       "name": "工作",
-      "description": "「工作」功能解锁",
-      "routeDescription": "请前往主页的工作进行确认"
+      "description": "「工作」功能解鎖",
+      "routeDescription": "請前往主頁的工作進行確認"
     },
     {
       "tutorialType": "TutorialType_PvpRate",
-      "name": "竞技场",
-      "description": "「竞技场」功能解锁",
-      "routeDescription": "请前往竞技场页面进行确认"
+      "name": "競技場",
+      "description": "「競技場」功能解鎖",
+      "routeDescription": "請前往競技場頁面進行確認"
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
-      "name": "硬币扭蛋",
-      "description": "「硬币扭蛋」功能解锁",
-      "routeDescription": "请前往商店页面的硬币扭蛋进行确认"
+      "name": "硬幣扭蛋",
+      "description": "「硬幣扭蛋」功能解鎖",
+      "routeDescription": "請前往商店頁面的硬幣扭蛋進行確認"
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
-      "name": "活动经费",
-      "description": "「活动经费」功能解锁",
-      "routeDescription": "请前往主页的活动经费进行确认"
+      "name": "活動經費",
+      "description": "「活動經費」功能解鎖",
+      "routeDescription": "請前往主頁的活動經費進行確認"
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
-      "name": "培育用偶像特训",
-      "description": "「培育用偶像特训」功能解锁",
-      "routeDescription": "请前往偶像页面的P偶像养成进行确认"
+      "name": "培育用偶像特訓",
+      "description": "「培育用偶像特訓」功能解鎖",
+      "routeDescription": "請前往偶像頁面的P偶像養成進行確認"
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
-      "name": "支援卡强化",
-      "description": "「支援卡强化」功能解锁",
-      "routeDescription": "请前往偶像页面的支援卡进行确认"
+      "name": "支援卡強化",
+      "description": "「支援卡強化」功能解鎖",
+      "routeDescription": "請前往偶像頁面的支援卡進行確認"
     },
     {
       "tutorialType": "TutorialType_DailyExchange",
-      "name": "每日兑换所",
-      "description": "「每日兑换所」功能解锁",
-      "routeDescription": "请前往商店页面的每日兑换所进行确认"
+      "name": "每日兌換所",
+      "description": "「每日兌換所」功能解鎖",
+      "routeDescription": "請前往商店頁面的每日兌換所進行確認"
     },
     {
       "tutorialType": "TutorialType_Tower",
       "name": "偶像之路",
-      "description": "「偶像之路」功能解锁",
-      "routeDescription": "请前往竞技场页面的偶像之路进行确认"
+      "description": "「偶像之路」功能解鎖",
+      "routeDescription": "請前往競技場頁面的偶像之路進行確認"
     },
     {
       "tutorialType": "TutorialType_Guild",
-      "name": "社团",
-      "description": "「社团」功能解锁",
-      "routeDescription": "请前往菜单页面的社团进行确认"
+      "name": "社團",
+      "description": "「社團」功能解鎖",
+      "routeDescription": "請前往選單頁面的社團進行確認"
     },
     {
       "tutorialType": "TutorialType_DearnessTop",
-      "name": "亲密度TOP",
-      "description": "「亲密度TOP」功能解锁",
-      "routeDescription": "请前往主页的亲密度进行确认"
+      "name": "親密度TOP",
+      "description": "「親密度TOP」功能解鎖",
+      "routeDescription": "請前往主頁的親密度進行確認"
     },
     {
       "tutorialType": "TutorialType_ProducerRanking",
-      "name": "制作人排行榜",
-      "description": "「制作人排行榜」功能解锁",
-      "routeDescription": "请前往竞技场页面的P排行榜进行确认"
+      "name": "製作人排行榜",
+      "description": "「製作人排行榜」功能解鎖",
+      "routeDescription": "請前往競技場頁面的P排行榜進行確認"
     },
     {
       "tutorialType": "TutorialType_ProduceCardConvert",
-      "name": "技能卡替换",
-      "description": "「技能卡替换」功能解锁",
-      "routeDescription": "可以在培育中进行确认"
+      "name": "技能卡替換",
+      "description": "「技能卡替換」功能解鎖",
+      "routeDescription": "可以在培育中進行確認"
     }
   ]
 }

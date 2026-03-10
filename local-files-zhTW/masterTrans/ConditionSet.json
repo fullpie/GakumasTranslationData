@@ -1451,7 +1451,7 @@
     },
     {
       "id": "cd_main-story-event-001_story-release",
-      "description": "通过观看前一段交流解锁"
+      "description": "透過觀看前一段交流解鎖"
     },
     {
       "id": "cd_main-story-event-001_story-release-list",
@@ -1523,11 +1523,11 @@
     },
     {
       "id": "cd_main-story-event-002_story-release",
-      "description": "通过观看前一段交流解锁"
+      "description": "透過觀看前一段交流解鎖"
     },
     {
       "id": "cd_main-story-event-002_story-release-archive",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-002_story-release-list",
@@ -1599,7 +1599,7 @@
     },
     {
       "id": "cd_main-story-event-003_story-release-archive",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-003_story-release-list",
@@ -1667,15 +1667,15 @@
     },
     {
       "id": "cd_main-story-event-003-release",
-      "description": "通过观看前一段交流解锁"
+      "description": "透過觀看前一段交流解鎖"
     },
     {
       "id": "cd_main-story-event-004_story-release-archive",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-004_story-release-list",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-004-exchange_item-Idolcardpiece-exchange-1",
@@ -1743,11 +1743,11 @@
     },
     {
       "id": "cd_main-story-event-005_story-release-archive",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-005_story-release-list",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-005-exchange_item-Idolcardpiece-exchange-1",
@@ -1831,11 +1831,11 @@
     },
     {
       "id": "cd_main-story-event-006_story-release-archive",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-006_story-release-list",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-006-exchange_item-Idolcardpiece-exchange-1",
@@ -1915,7 +1915,7 @@
     },
     {
       "id": "cd_main-story-event-007_story-release-archive",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-007_story-release-list",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": "cd_main-story-event-008_story-release-archive",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-008_story-release-list",
@@ -2083,7 +2083,7 @@
     },
     {
       "id": "cd_main-story-event-009_story-release-archive",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-009_story-release-list",
@@ -2167,7 +2167,7 @@
     },
     {
       "id": "cd_main-story-event-010_story-release-archive",
-      "description": "通过初星交流活动解锁"
+      "description": "透過初星交流活動解鎖"
     },
     {
       "id": "cd_main-story-event-010_story-release-list",
@@ -2827,11 +2827,11 @@
     },
     {
       "id": "cd_photo-pose-hotsping-costume-non",
-      "description": "未持有可以在此场景拍摄的服装"
+      "description": "未持有可以在此場景拍攝的服裝"
     },
     {
       "id": "cd_photo-pose-hotsping-costume-non",
-      "description": "未持有可以在此场景拍摄的服装"
+      "description": "未持有可以在此場景拍攝的服裝"
     },
     {
       "id": "cd_plan_gash_renewal_202506",
@@ -2943,83 +2943,83 @@
     },
     {
       "id": "cd_producer_level-001",
-      "description": "制作人Lv1以上解锁"
+      "description": "製作人Lv1以上解鎖"
     },
     {
       "id": "cd_producer_level-051",
-      "description": "制作人Lv51以上解锁"
+      "description": "製作人Lv51以上解鎖"
     },
     {
       "id": "cd_producer_level-052",
-      "description": "制作人Lv52以上解锁"
+      "description": "製作人Lv52以上解鎖"
     },
     {
       "id": "cd_producer_level-053",
-      "description": "制作人Lv53以上解锁"
+      "description": "製作人Lv53以上解鎖"
     },
     {
       "id": "cd_producer_level-054",
-      "description": "制作人Lv54以上解锁"
+      "description": "製作人Lv54以上解鎖"
     },
     {
       "id": "cd_producer_level-056",
-      "description": "制作人Lv56以上解锁"
+      "description": "製作人Lv56以上解鎖"
     },
     {
       "id": "cd_producer_level-057",
-      "description": "制作人Lv57以上解锁"
+      "description": "製作人Lv57以上解鎖"
     },
     {
       "id": "cd_producer_level-058",
-      "description": "制作人Lv58以上解锁"
+      "description": "製作人Lv58以上解鎖"
     },
     {
       "id": "cd_producer_level-075",
-      "description": "制作人Lv75以上解锁"
+      "description": "製作人Lv75以上解鎖"
     },
     {
       "id": "cd_producer_level-076",
-      "description": "制作人Lv76以上解锁"
+      "description": "製作人Lv76以上解鎖"
     },
     {
       "id": "cd_producer_level-077",
-      "description": "制作人Lv77以上解锁"
+      "description": "製作人Lv77以上解鎖"
     },
     {
       "id": "cd_producer_level-078",
-      "description": "制作人Lv78以上解锁"
+      "description": "製作人Lv78以上解鎖"
     },
     {
       "id": "cd_producer_level-079",
-      "description": "制作人Lv79以上解锁"
+      "description": "製作人Lv79以上解鎖"
     },
     {
       "id": "cd_producer_level-080",
-      "description": "制作人Lv80以上解锁"
+      "description": "製作人Lv80以上解鎖"
     },
     {
       "id": "cd_producerlevel-10",
-      "description": "达到PLv10"
+      "description": "達到PLv10"
     },
     {
       "id": "cd_producerlevel-12",
-      "description": "达到PLv12"
+      "description": "達到PLv12"
     },
     {
       "id": "cd_producerlevel-17",
-      "description": "达到PLv17"
+      "description": "達到PLv17"
     },
     {
       "id": "cd_producerlevel-25",
-      "description": "达到PLv25"
+      "description": "達到PLv25"
     },
     {
       "id": "cd_producerlevel-30",
-      "description": "达到PLv30"
+      "description": "達到PLv30"
     },
     {
       "id": "cd_producerlevel-5",
-      "description": "达到PLv5"
+      "description": "達到PLv5"
     },
     {
       "id": "cd_purchase_shop_pack_item-01",
@@ -5339,7 +5339,7 @@
     },
     {
       "id": "cd_tower_open_amao_stage16",
-      "description": "获得了40个有村麻央的通关条件之★"
+      "description": "獲得了40個有村麻央的通關條件之★"
     },
     {
       "id": "cd_tower_open_atbm",
@@ -5347,7 +5347,7 @@
     },
     {
       "id": "cd_tower_open_atbm_stage16",
-      "description": "获得了40个雨夜燕的通关条件之★"
+      "description": "獲得了40個雨夜燕的通關條件之★"
     },
     {
       "id": "cd_tower_open_fktn",
@@ -5355,7 +5355,7 @@
     },
     {
       "id": "cd_tower_open_fktn_stage16",
-      "description": "获得了40个藤田琴音的通关条件之★"
+      "description": "獲得了40個藤田琴音的通關條件之★"
     },
     {
       "id": "cd_tower_open_hmsz",
@@ -5363,7 +5363,7 @@
     },
     {
       "id": "cd_tower_open_hmsz_stage16",
-      "description": "获得了40个秦谷美铃的通关条件之★"
+      "description": "獲得了40個秦谷美鈴的通關條件之★"
     },
     {
       "id": "cd_tower_open_hrnm",
@@ -5371,7 +5371,7 @@
     },
     {
       "id": "cd_tower_open_hrnm_stage16",
-      "description": "获得了40个姬崎莉波的通关条件之★"
+      "description": "獲得了40個姬崎莉波的通關條件之★"
     },
     {
       "id": "cd_tower_open_hski",
@@ -5379,7 +5379,7 @@
     },
     {
       "id": "cd_tower_open_hski_stage16",
-      "description": "获得了40个花海咲季的通关条件之★"
+      "description": "獲得了40個花海咲季的通關條件之★"
     },
     {
       "id": "cd_tower_open_hume",
@@ -5387,11 +5387,11 @@
     },
     {
       "id": "cd_tower_open_hume_stage16",
-      "description": "获得了40个花海佑芽的通关条件之★"
+      "description": "獲得了40個花海佑芽的通關條件之★"
     },
     {
       "id": "cd_tower_open_hume_stage16",
-      "description": "获得了40个花海佑芽的通关条件之★"
+      "description": "獲得了40個花海佑芽的通關條件之★"
     },
     {
       "id": "cd_tower_open_jsna",
@@ -5399,7 +5399,7 @@
     },
     {
       "id": "cd_tower_open_jsna_stage16",
-      "description": "获得了40个十王星南的通关条件之★"
+      "description": "獲得了40個十王星南的通關條件之★"
     },
     {
       "id": "cd_tower_open_kcna",
@@ -5407,11 +5407,11 @@
     },
     {
       "id": "cd_tower_open_kcna_stage16",
-      "description": "获得了40个仓本千奈的通关条件之★"
+      "description": "獲得了40個倉本千奈的通關條件之★"
     },
     {
       "id": "cd_tower_open_kcna_stage16",
-      "description": "获得了40个仓本千奈的通关条件之★"
+      "description": "獲得了40個倉本千奈的通關條件之★"
     },
     {
       "id": "cd_tower_open_kllj",
@@ -5419,7 +5419,7 @@
     },
     {
       "id": "cd_tower_open_kllj_stage16",
-      "description": "获得了40个葛城莉莉亚的通关条件之★"
+      "description": "獲得了40個葛城莉莉亞的通關條件之★"
     },
     {
       "id": "cd_tower_open_shro",
@@ -5427,7 +5427,7 @@
     },
     {
       "id": "cd_tower_open_shro_stage16",
-      "description": "获得了40个筱泽广的通关条件之★"
+      "description": "獲得了40個筱澤廣的通關條件之★"
     },
     {
       "id": "cd_tower_open_ssmk",
@@ -5435,7 +5435,7 @@
     },
     {
       "id": "cd_tower_open_ssmk_stage16",
-      "description": "获得了40个紫云清夏的通关条件之★"
+      "description": "獲得了40個紫雲清夏的通關條件之★"
     },
     {
       "id": "cd_tower_open_ttmr",
@@ -5443,11 +5443,11 @@
     },
     {
       "id": "cd_tower_open_ttmr_stage16",
-      "description": "获得了40个月村手毬的通关条件之★"
+      "description": "獲得了40個月村手毬的通關條件之★"
     },
     {
       "id": "cd_tutorial_gs",
-      "description": "通关教程"
+      "description": "通關教程"
     },
     {
       "id": "cd_view_20260127",
@@ -6435,55 +6435,55 @@
     },
     {
       "id": "cd-character_produce_play_count-1-amao",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-atbm",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-fktn",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-hmsz",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-hrnm",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-hski",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-hume",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-jsna",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-kcna",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-kllj",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-shro",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-ssmk",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-character_produce_play_count-1-ttmr",
-      "description": "开始培育"
+      "description": "開始培育"
     },
     {
       "id": "cd-clear-hidden_mission-view-gasha-00420-free-10-004",
@@ -6511,75 +6511,75 @@
     },
     {
       "id": "cd-comeback",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-01",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-01",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-01",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-01",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-01",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-02",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-02",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-02",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-02",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-03",
-      "description": "前提条件"
+      "description": "前提條件"
     },
     {
       "id": "cd-comeback-unlock_open-03",
-      "description": "前提条件"
+      "description": "前提條件"
     },
     {
       "id": "cd-comeback-unlock_open-03",
-      "description": "前提条件"
+      "description": "前提條件"
     },
     {
       "id": "cd-comeback-unlock_open-04",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-04",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-04",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-04",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-04",
-      "description": "30天未登录用户"
+      "description": "30天未登入使用者"
     },
     {
       "id": "cd-comeback-unlock_open-05",
@@ -6631,11 +6631,11 @@
     },
     {
       "id": "cd-comeback-unlock_open-11",
-      "description": "未开放拼图"
+      "description": "未開放拼圖"
     },
     {
       "id": "cd-comeback-unlock_open-11",
-      "description": "未开放拼图"
+      "description": "未開放拼圖"
     },
     {
       "id": "cd-competition-pre-seasonresult-for-homedisable",
@@ -6659,31 +6659,31 @@
     },
     {
       "id": "cd-dearness_amao-20",
-      "description": "有村麻央的亲密度达到Lv20"
+      "description": "有村麻央的親密度達到Lv20"
     },
     {
       "id": "cd-dearness_feature-0001",
-      "description": "ver2.1.0强制更新后解锁"
+      "description": "ver2.1.0強制更新後解鎖"
     },
     {
       "id": "cd-dearness_fktn-20",
-      "description": "藤田琴音的亲密度达到Lv20"
+      "description": "藤田琴音的親密度達到Lv20"
     },
     {
       "id": "cd-dearness_hrnm-20",
-      "description": "姬崎莉波的亲密度达到Lv20"
+      "description": "姬崎莉波的親密度達到Lv20"
     },
     {
       "id": "cd-dearness_jsna-20",
-      "description": "十王星南的亲密度达到Lv20"
+      "description": "十王星南的親密度達到Lv20"
     },
     {
       "id": "cd-dearness_kcna-20",
-      "description": "仓本千奈的亲密度达到Lv20"
+      "description": "倉本千奈的親密度達到Lv20"
     },
     {
       "id": "cd-dearness_kllj-20",
-      "description": "葛城莉莉娅的亲密度达到Lv20"
+      "description": "葛城莉莉婭的親密度達到Lv20"
     },
     {
       "id": "cd-dearness_level-10",
@@ -6739,7 +6739,7 @@
     },
     {
       "id": "cd-dearness_level-2",
-      "description": "尚未解锁"
+      "description": "尚未解鎖"
     },
     {
       "id": "cd-dearness_level-20",
@@ -6795,11 +6795,11 @@
     },
     {
       "id": "cd-dearness_level-3",
-      "description": "尚未解锁"
+      "description": "尚未解鎖"
     },
     {
       "id": "cd-dearness_level-amao-01",
-      "description": "将有村麻央的亲密度提升至Lv1"
+      "description": "將有村麻央的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-amao-01-02",
@@ -6811,15 +6811,15 @@
     },
     {
       "id": "cd-dearness_level-amao-02",
-      "description": "将有村麻央的亲密度提升至Lv2"
+      "description": "將有村麻央的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-amao-03",
-      "description": "将有村麻央的亲密度提升至Lv3"
+      "description": "將有村麻央的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-amao-04",
-      "description": "将有村麻央的亲密度提升至Lv4"
+      "description": "將有村麻央的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-amao-04-06",
@@ -6827,11 +6827,11 @@
     },
     {
       "id": "cd-dearness_level-amao-05",
-      "description": "将有村麻央的亲密度提升至Lv5"
+      "description": "將有村麻央的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-amao-06",
-      "description": "将有村麻央的亲密度提升至Lv6"
+      "description": "將有村麻央的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-amao-06-07",
@@ -6839,55 +6839,55 @@
     },
     {
       "id": "cd-dearness_level-amao-07",
-      "description": "将有村麻央的亲密度提升至Lv7"
+      "description": "將有村麻央的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-amao-08",
-      "description": "将有村麻央的亲密度提升至Lv8"
+      "description": "將有村麻央的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-amao-09",
-      "description": "将有村麻央的亲密度提升至Lv9"
+      "description": "將有村麻央的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-amao-10",
-      "description": "将有村麻央的亲密度提升至Lv10"
+      "description": "將有村麻央的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-amao-20",
-      "description": "将有村麻央的亲密度提升至Lv20"
+      "description": "將有村麻央的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-amao-21",
-      "description": "将有村麻央的亲密度提升至Lv21"
+      "description": "將有村麻央的親密度提升至Lv21"
     },
     {
       "id": "cd-dearness_level-amao-22",
-      "description": "将有村麻央的亲密度提升至Lv22"
+      "description": "將有村麻央的親密度提升至Lv22"
     },
     {
       "id": "cd-dearness_level-amao-23",
-      "description": "将有村麻央的亲密度提升至Lv23"
+      "description": "將有村麻央的親密度提升至Lv23"
     },
     {
       "id": "cd-dearness_level-amao-24",
-      "description": "将有村麻央的亲密度提升至Lv24"
+      "description": "將有村麻央的親密度提升至Lv24"
     },
     {
       "id": "cd-dearness_level-amao-25",
-      "description": "将有村麻央的亲密度提升至Lv25"
+      "description": "將有村麻央的親密度提升至Lv25"
     },
     {
       "id": "cd-dearness_level-amao-26",
-      "description": "将有村麻央的亲密度提升至Lv26"
+      "description": "將有村麻央的親密度提升至Lv26"
     },
     {
       "id": "cd-dearness_level-amao-27",
-      "description": "将有村麻央的亲密度提升至Lv27"
+      "description": "將有村麻央的親密度提升至Lv27"
     },
     {
       "id": "cd-dearness_level-atbm-01",
-      "description": "将雨夜燕的亲密度提升至Lv1"
+      "description": "將雨夜燕的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-atbm-01-03",
@@ -6895,11 +6895,11 @@
     },
     {
       "id": "cd-dearness_level-atbm-02",
-      "description": "将雨夜燕的亲密度提升至Lv2"
+      "description": "將雨夜燕的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-atbm-03",
-      "description": "将雨夜燕的亲密度提升至Lv3"
+      "description": "將雨夜燕的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-atbm-03-05",
@@ -6907,11 +6907,11 @@
     },
     {
       "id": "cd-dearness_level-atbm-04",
-      "description": "将雨夜燕的亲密度提升至Lv4"
+      "description": "將雨夜燕的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-atbm-05",
-      "description": "将雨夜燕的亲密度提升至Lv5"
+      "description": "將雨夜燕的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-atbm-05-06",
@@ -6919,7 +6919,7 @@
     },
     {
       "id": "cd-dearness_level-atbm-06",
-      "description": "将雨夜燕的亲密度提升至Lv6"
+      "description": "將雨夜燕的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-atbm-06-08",
@@ -6927,7 +6927,7 @@
     },
     {
       "id": "cd-dearness_level-atbm-07",
-      "description": "将雨夜燕的亲密度提升至Lv7"
+      "description": "將雨夜燕的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-atbm-07-09",
@@ -6935,23 +6935,23 @@
     },
     {
       "id": "cd-dearness_level-atbm-08",
-      "description": "将雨夜燕的亲密度提升至Lv8"
+      "description": "將雨夜燕的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-atbm-09",
-      "description": "将雨夜燕的亲密度提升至Lv9"
+      "description": "將雨夜燕的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-atbm-10",
-      "description": "将雨夜燕的亲密度提升至Lv10"
+      "description": "將雨夜燕的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-atbm-20",
-      "description": "将雨夜燕的亲密度提升至Lv20"
+      "description": "將雨夜燕的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-fktn-01",
-      "description": "将藤田琴音的亲密度提升至Lv1"
+      "description": "將藤田琴音的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-fktn-01-02",
@@ -6963,11 +6963,11 @@
     },
     {
       "id": "cd-dearness_level-fktn-02",
-      "description": "将藤田琴音的亲密度提升至Lv2"
+      "description": "將藤田琴音的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-fktn-03",
-      "description": "将藤田琴音的亲密度提升至Lv3"
+      "description": "將藤田琴音的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-fktn-03-04",
@@ -6975,7 +6975,7 @@
     },
     {
       "id": "cd-dearness_level-fktn-04",
-      "description": "将藤田琴音的亲密度提升至Lv4"
+      "description": "將藤田琴音的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-fktn-04-05",
@@ -6983,7 +6983,7 @@
     },
     {
       "id": "cd-dearness_level-fktn-05",
-      "description": "将藤田琴音的亲密度提升至Lv5"
+      "description": "將藤田琴音的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-fktn-05-05",
@@ -6995,59 +6995,59 @@
     },
     {
       "id": "cd-dearness_level-fktn-06",
-      "description": "将藤田琴音的亲密度提升至Lv6"
+      "description": "將藤田琴音的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-fktn-07",
-      "description": "将藤田琴音的亲密度提升至Lv7"
+      "description": "將藤田琴音的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-fktn-08",
-      "description": "将藤田琴音的亲密度提升至Lv8"
+      "description": "將藤田琴音的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-fktn-09",
-      "description": "将藤田琴音的亲密度提升至Lv9"
+      "description": "將藤田琴音的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-fktn-10",
-      "description": "将藤田琴音的亲密度提升至Lv10"
+      "description": "將藤田琴音的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-fktn-20",
-      "description": "将藤田琴音的亲密度提升至Lv20"
+      "description": "將藤田琴音的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-fktn-21",
-      "description": "将藤田琴音的亲密度提升至Lv21"
+      "description": "將藤田琴音的親密度提升至Lv21"
     },
     {
       "id": "cd-dearness_level-fktn-22",
-      "description": "将藤田琴音的亲密度提升至Lv22"
+      "description": "將藤田琴音的親密度提升至Lv22"
     },
     {
       "id": "cd-dearness_level-fktn-23",
-      "description": "将藤田琴音的亲密度提升至Lv23"
+      "description": "將藤田琴音的親密度提升至Lv23"
     },
     {
       "id": "cd-dearness_level-fktn-24",
-      "description": "将藤田琴音的亲密度提升至Lv24"
+      "description": "將藤田琴音的親密度提升至Lv24"
     },
     {
       "id": "cd-dearness_level-fktn-25",
-      "description": "将藤田琴音的亲密度提升至Lv25"
+      "description": "將藤田琴音的親密度提升至Lv25"
     },
     {
       "id": "cd-dearness_level-fktn-26",
-      "description": "将藤田琴音的亲密度提升至Lv26"
+      "description": "將藤田琴音的親密度提升至Lv26"
     },
     {
       "id": "cd-dearness_level-fktn-27",
-      "description": "将藤田琴音的亲密度提升至Lv27"
+      "description": "將藤田琴音的親密度提升至Lv27"
     },
     {
       "id": "cd-dearness_level-hmsz-01",
-      "description": "将秦谷美铃的亲密度提升至Lv1"
+      "description": "將秦谷美鈴的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-hmsz-01-03",
@@ -7055,87 +7055,87 @@
     },
     {
       "id": "cd-dearness_level-hmsz-02",
-      "description": "将秦谷美铃的亲密度提升至Lv2"
+      "description": "將秦谷美鈴的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-hmsz-02-03",
-      "description": "将秦谷美铃的亲密度提升至Lv2或者Lv3"
+      "description": "將秦谷美鈴的親密度提升至Lv2或者Lv3"
     },
     {
       "id": "cd-dearness_level-hmsz-02-03",
-      "description": "将秦谷美铃的亲密度提升至Lv2或者Lv3"
+      "description": "將秦谷美鈴的親密度提升至Lv2或者Lv3"
     },
     {
       "id": "cd-dearness_level-hmsz-03",
-      "description": "将秦谷美铃的亲密度提升至Lv3"
+      "description": "將秦谷美鈴的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-hmsz-03-04",
-      "description": "将秦谷美铃的亲密度提升至Lv3或者Lv4"
+      "description": "將秦谷美鈴的親密度提升至Lv3或者Lv4"
     },
     {
       "id": "cd-dearness_level-hmsz-03-04",
-      "description": "将秦谷美铃的亲密度提升至Lv3或者Lv4"
+      "description": "將秦谷美鈴的親密度提升至Lv3或者Lv4"
     },
     {
       "id": "cd-dearness_level-hmsz-04",
-      "description": "将秦谷美铃的亲密度提升至Lv4"
+      "description": "將秦谷美鈴的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-hmsz-04-05",
-      "description": "将秦谷美铃的亲密度提升至Lv4或者Lv5"
+      "description": "將秦谷美鈴的親密度提升至Lv4或者Lv5"
     },
     {
       "id": "cd-dearness_level-hmsz-04-05",
-      "description": "将秦谷美铃的亲密度提升至Lv4或者Lv5"
+      "description": "將秦谷美鈴的親密度提升至Lv4或者Lv5"
     },
     {
       "id": "cd-dearness_level-hmsz-05",
-      "description": "将秦谷美铃的亲密度提升至Lv5"
+      "description": "將秦谷美鈴的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-hmsz-05-06",
-      "description": "将秦谷美铃的亲密度提升至Lv5或者Lv6"
+      "description": "將秦谷美鈴的親密度提升至Lv5或者Lv6"
     },
     {
       "id": "cd-dearness_level-hmsz-05-06",
-      "description": "将秦谷美铃的亲密度提升至Lv5或者Lv6"
+      "description": "將秦谷美鈴的親密度提升至Lv5或者Lv6"
     },
     {
       "id": "cd-dearness_level-hmsz-06",
-      "description": "将秦谷美铃的亲密度提升至Lv6"
+      "description": "將秦谷美鈴的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-hmsz-06-08",
-      "description": "将秦谷美铃的亲密度提升至Lv6或Lv7或Lv8"
+      "description": "將秦谷美鈴的親密度提升至Lv6或Lv7或Lv8"
     },
     {
       "id": "cd-dearness_level-hmsz-06-08",
-      "description": "将秦谷美铃的亲密度提升至Lv6或Lv7或Lv8"
+      "description": "將秦谷美鈴的親密度提升至Lv6或Lv7或Lv8"
     },
     {
       "id": "cd-dearness_level-hmsz-07",
-      "description": "将秦谷美铃的亲密度提升至Lv7"
+      "description": "將秦谷美鈴的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-hmsz-08",
-      "description": "将秦谷美铃的亲密度提升至Lv8"
+      "description": "將秦谷美鈴的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-hmsz-09",
-      "description": "将秦谷美铃的亲密度提升至Lv9"
+      "description": "將秦谷美鈴的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-hmsz-10",
-      "description": "将秦谷美铃的亲密度提升至Lv10"
+      "description": "將秦谷美鈴的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-hmsz-20",
-      "description": "将秦谷美铃的亲密度提升至Lv20"
+      "description": "將秦谷美鈴的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-hrnm-01",
-      "description": "将姬崎莉波的亲密度提升至Lv1"
+      "description": "將姬崎莉波的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-hrnm-01-04",
@@ -7143,7 +7143,7 @@
     },
     {
       "id": "cd-dearness_level-hrnm-02",
-      "description": "将姬崎莉波的亲密度提升至Lv2"
+      "description": "將姬崎莉波的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-hrnm-02-04",
@@ -7151,15 +7151,15 @@
     },
     {
       "id": "cd-dearness_level-hrnm-03",
-      "description": "将姬崎莉波的亲密度提升至Lv3"
+      "description": "將姬崎莉波的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-hrnm-04",
-      "description": "将姬崎莉波的亲密度提升至Lv4"
+      "description": "將姬崎莉波的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-hrnm-05",
-      "description": "将姬崎莉波的亲密度提升至Lv5"
+      "description": "將姬崎莉波的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-hrnm-05-06",
@@ -7167,7 +7167,7 @@
     },
     {
       "id": "cd-dearness_level-hrnm-06",
-      "description": "将姬崎莉波的亲密度提升至Lv6"
+      "description": "將姬崎莉波的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-hrnm-06-07",
@@ -7175,55 +7175,55 @@
     },
     {
       "id": "cd-dearness_level-hrnm-07",
-      "description": "将姬崎莉波的亲密度提升至Lv7"
+      "description": "將姬崎莉波的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-hrnm-08",
-      "description": "将姬崎莉波的亲密度提升至Lv8"
+      "description": "將姬崎莉波的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-hrnm-09",
-      "description": "将姬崎莉波的亲密度提升至Lv9"
+      "description": "將姬崎莉波的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-hrnm-10",
-      "description": "将姬崎莉波的亲密度提升至Lv10"
+      "description": "將姬崎莉波的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-hrnm-20",
-      "description": "将姬崎莉波的亲密度提升至Lv20"
+      "description": "將姬崎莉波的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-hrnm21",
-      "description": "将姬崎莉波的亲密度提升至Lv21"
+      "description": "將姬崎莉波的親密度提升至Lv21"
     },
     {
       "id": "cd-dearness_level-hrnm22",
-      "description": "将姬崎莉波的亲密度提升至Lv22"
+      "description": "將姬崎莉波的親密度提升至Lv22"
     },
     {
       "id": "cd-dearness_level-hrnm23",
-      "description": "将姬崎莉波的亲密度提升至Lv23"
+      "description": "將姬崎莉波的親密度提升至Lv23"
     },
     {
       "id": "cd-dearness_level-hrnm24",
-      "description": "将姬崎莉波的亲密度提升至Lv24"
+      "description": "將姬崎莉波的親密度提升至Lv24"
     },
     {
       "id": "cd-dearness_level-hrnm25",
-      "description": "将姬崎莉波的亲密度提升至Lv25"
+      "description": "將姬崎莉波的親密度提升至Lv25"
     },
     {
       "id": "cd-dearness_level-hrnm26",
-      "description": "将姬崎莉波的亲密度提升至Lv26"
+      "description": "將姬崎莉波的親密度提升至Lv26"
     },
     {
       "id": "cd-dearness_level-hrnm27",
-      "description": "将姬崎莉波的亲密度提升至Lv27"
+      "description": "將姬崎莉波的親密度提升至Lv27"
     },
     {
       "id": "cd-dearness_level-hski-01",
-      "description": "将花海咲季的亲密度提升至Lv1"
+      "description": "將花海咲季的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-hski-01-05",
@@ -7231,7 +7231,7 @@
     },
     {
       "id": "cd-dearness_level-hski-02",
-      "description": "将花海咲季的亲密度提升至Lv2"
+      "description": "將花海咲季的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-hski-02-05",
@@ -7239,19 +7239,19 @@
     },
     {
       "id": "cd-dearness_level-hski-03",
-      "description": "将花海咲季的亲密度提升至Lv3"
+      "description": "將花海咲季的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-hski-04",
-      "description": "将花海咲季的亲密度提升至Lv4"
+      "description": "將花海咲季的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-hski-05",
-      "description": "将花海咲季的亲密度提升至Lv5"
+      "description": "將花海咲季的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-hski-06",
-      "description": "将花海咲季的亲密度提升至Lv6"
+      "description": "將花海咲季的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-hski-06-08",
@@ -7259,7 +7259,7 @@
     },
     {
       "id": "cd-dearness_level-hski-07",
-      "description": "将花海咲季的亲密度提升至Lv7"
+      "description": "將花海咲季的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-hski-07-08",
@@ -7267,23 +7267,23 @@
     },
     {
       "id": "cd-dearness_level-hski-08",
-      "description": "将花海咲季的亲密度提升至Lv8"
+      "description": "將花海咲季的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-hski-09",
-      "description": "将花海咲季的亲密度提升至Lv9"
+      "description": "將花海咲季的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-hski-10",
-      "description": "将花海咲季的亲密度提升至Lv10"
+      "description": "將花海咲季的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-hski-20",
-      "description": "将花海咲季的亲密度提升至Lv20"
+      "description": "將花海咲季的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-hume-01",
-      "description": "将花海佑芽的亲密度提升至Lv1"
+      "description": "將花海佑芽的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-hume-01-03",
@@ -7295,7 +7295,7 @@
     },
     {
       "id": "cd-dearness_level-hume-02",
-      "description": "将花海佑芽的亲密度提升至Lv2"
+      "description": "將花海佑芽的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-hume-02-03",
@@ -7307,11 +7307,11 @@
     },
     {
       "id": "cd-dearness_level-hume-03",
-      "description": "将花海佑芽的亲密度提升至Lv3"
+      "description": "將花海佑芽的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-hume-04",
-      "description": "将花海佑芽的亲密度提升至Lv4"
+      "description": "將花海佑芽的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-hume-04-07",
@@ -7319,7 +7319,7 @@
     },
     {
       "id": "cd-dearness_level-hume-05",
-      "description": "将花海佑芽的亲密度提升至Lv5"
+      "description": "將花海佑芽的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-hume-05-06",
@@ -7331,7 +7331,7 @@
     },
     {
       "id": "cd-dearness_level-hume-06",
-      "description": "将花海佑芽的亲密度提升至Lv6"
+      "description": "將花海佑芽的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-hume-06-07",
@@ -7339,27 +7339,27 @@
     },
     {
       "id": "cd-dearness_level-hume-07",
-      "description": "将花海佑芽的亲密度提升至Lv7"
+      "description": "將花海佑芽的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-hume-08",
-      "description": "将花海佑芽的亲密度提升至Lv8"
+      "description": "將花海佑芽的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-hume-09",
-      "description": "将花海佑芽的亲密度提升至Lv9"
+      "description": "將花海佑芽的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-hume-10",
-      "description": "将花海佑芽的亲密度提升至Lv10"
+      "description": "將花海佑芽的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-hume-20",
-      "description": "将花海佑芽的亲密度提升至Lv20"
+      "description": "將花海佑芽的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-jsna-01",
-      "description": "将十王星南的亲密度提升至Lv1"
+      "description": "將十王星南的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-jsna-01-02",
@@ -7371,11 +7371,11 @@
     },
     {
       "id": "cd-dearness_level-jsna-02",
-      "description": "将十王星南的亲密度提升至Lv2"
+      "description": "將十王星南的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-jsna-03",
-      "description": "将十王星南的亲密度提升至Lv3"
+      "description": "將十王星南的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-jsna-03-05",
@@ -7383,7 +7383,7 @@
     },
     {
       "id": "cd-dearness_level-jsna-04",
-      "description": "将十王星南的亲密度提升至Lv4"
+      "description": "將十王星南的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-jsna-04-06",
@@ -7391,11 +7391,11 @@
     },
     {
       "id": "cd-dearness_level-jsna-05",
-      "description": "将十王星南的亲密度提升至Lv5"
+      "description": "將十王星南的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-jsna-06",
-      "description": "将十王星南的亲密度提升至Lv6"
+      "description": "將十王星南的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-jsna-06-07",
@@ -7407,55 +7407,55 @@
     },
     {
       "id": "cd-dearness_level-jsna-07",
-      "description": "将十王星南的亲密度提升至Lv7"
+      "description": "將十王星南的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-jsna-08",
-      "description": "将十王星南的亲密度提升至Lv8"
+      "description": "將十王星南的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-jsna-09",
-      "description": "将十王星南的亲密度提升至Lv9"
+      "description": "將十王星南的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-jsna-10",
-      "description": "将十王星南的亲密度提升至Lv10"
+      "description": "將十王星南的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-jsna-20",
-      "description": "将十王星南的亲密度提升至Lv20"
+      "description": "將十王星南的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-jsna-21",
-      "description": "将十王星南的亲密度提升至Lv21"
+      "description": "將十王星南的親密度提升至Lv21"
     },
     {
       "id": "cd-dearness_level-jsna-22",
-      "description": "将十王星南的亲密度提升至Lv22"
+      "description": "將十王星南的親密度提升至Lv22"
     },
     {
       "id": "cd-dearness_level-jsna-23",
-      "description": "将十王星南的亲密度提升至Lv23"
+      "description": "將十王星南的親密度提升至Lv23"
     },
     {
       "id": "cd-dearness_level-jsna-24",
-      "description": "将十王星南的亲密度提升至Lv24"
+      "description": "將十王星南的親密度提升至Lv24"
     },
     {
       "id": "cd-dearness_level-jsna-25",
-      "description": "将十王星南的亲密度提升至Lv25"
+      "description": "將十王星南的親密度提升至Lv25"
     },
     {
       "id": "cd-dearness_level-jsna-26",
-      "description": "将十王星南的亲密度提升至Lv26"
+      "description": "將十王星南的親密度提升至Lv26"
     },
     {
       "id": "cd-dearness_level-jsna-27",
-      "description": "将十王星南的亲密度提升至Lv27"
+      "description": "將十王星南的親密度提升至Lv27"
     },
     {
       "id": "cd-dearness_level-kcna-01",
-      "description": "将仓本千奈的亲密度提升至Lv1"
+      "description": "將倉本千奈的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-kcna-01-03",
@@ -7463,15 +7463,15 @@
     },
     {
       "id": "cd-dearness_level-kcna-02",
-      "description": "将仓本千奈的亲密度提升至Lv2"
+      "description": "將倉本千奈的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-kcna-03",
-      "description": "将仓本千奈的亲密度提升至Lv3"
+      "description": "將倉本千奈的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-kcna-04",
-      "description": "将仓本千奈的亲密度提升至Lv4"
+      "description": "將倉本千奈的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-kcna-04-05",
@@ -7479,7 +7479,7 @@
     },
     {
       "id": "cd-dearness_level-kcna-05",
-      "description": "将仓本千奈的亲密度提升至Lv5"
+      "description": "將倉本千奈的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-kcna-05-08",
@@ -7487,7 +7487,7 @@
     },
     {
       "id": "cd-dearness_level-kcna-06",
-      "description": "将仓本千奈的亲密度提升至Lv6"
+      "description": "將倉本千奈的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-kcna-06-06",
@@ -7499,55 +7499,55 @@
     },
     {
       "id": "cd-dearness_level-kcna-07",
-      "description": "将仓本千奈的亲密度提升至Lv7"
+      "description": "將倉本千奈的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-kcna-08",
-      "description": "将仓本千奈的亲密度提升至Lv8"
+      "description": "將倉本千奈的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-kcna-09",
-      "description": "将仓本千奈的亲密度提升至Lv9"
+      "description": "將倉本千奈的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-kcna-10",
-      "description": "将仓本千奈的亲密度提升至Lv10"
+      "description": "將倉本千奈的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-kcna-20",
-      "description": "将仓本千奈的亲密度提升至Lv20"
+      "description": "將倉本千奈的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-kcna-21",
-      "description": "将仓本千奈的亲密度提升至Lv21"
+      "description": "將倉本千奈的親密度提升至Lv21"
     },
     {
       "id": "cd-dearness_level-kcna-22",
-      "description": "将仓本千奈的亲密度提升至Lv22"
+      "description": "將倉本千奈的親密度提升至Lv22"
     },
     {
       "id": "cd-dearness_level-kcna-23",
-      "description": "将仓本千奈的亲密度提升至Lv23"
+      "description": "將倉本千奈的親密度提升至Lv23"
     },
     {
       "id": "cd-dearness_level-kcna-24",
-      "description": "将仓本千奈的亲密度提升至Lv24"
+      "description": "將倉本千奈的親密度提升至Lv24"
     },
     {
       "id": "cd-dearness_level-kcna-25",
-      "description": "将仓本千奈的亲密度提升至Lv25"
+      "description": "將倉本千奈的親密度提升至Lv25"
     },
     {
       "id": "cd-dearness_level-kcna-26",
-      "description": "将仓本千奈的亲密度提升至Lv26"
+      "description": "將倉本千奈的親密度提升至Lv26"
     },
     {
       "id": "cd-dearness_level-kcna-27",
-      "description": "将仓本千奈的亲密度提升至Lv27"
+      "description": "將倉本千奈的親密度提升至Lv27"
     },
     {
       "id": "cd-dearness_level-kllj-01",
-      "description": "将葛城莉莉娅的亲密度提升至Lv1"
+      "description": "將葛城莉莉婭的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-kllj-01-03",
@@ -7555,7 +7555,7 @@
     },
     {
       "id": "cd-dearness_level-kllj-02",
-      "description": "将葛城莉莉娅的亲密度提升至Lv2"
+      "description": "將葛城莉莉婭的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-kllj-02-04",
@@ -7563,7 +7563,7 @@
     },
     {
       "id": "cd-dearness_level-kllj-03",
-      "description": "将葛城莉莉娅的亲密度提升至Lv3"
+      "description": "將葛城莉莉婭的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-kllj-03-04",
@@ -7571,11 +7571,11 @@
     },
     {
       "id": "cd-dearness_level-kllj-04",
-      "description": "将葛城莉莉娅的亲密度提升至Lv4"
+      "description": "將葛城莉莉婭的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-kllj-05",
-      "description": "将葛城莉莉娅的亲密度提升至Lv5"
+      "description": "將葛城莉莉婭的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-kllj-05-07",
@@ -7583,7 +7583,7 @@
     },
     {
       "id": "cd-dearness_level-kllj-06",
-      "description": "将葛城莉莉娅的亲密度提升至Lv6"
+      "description": "將葛城莉莉婭的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-kllj-06-06",
@@ -7595,55 +7595,55 @@
     },
     {
       "id": "cd-dearness_level-kllj-07",
-      "description": "将葛城莉莉娅的亲密度提升至Lv7"
+      "description": "將葛城莉莉婭的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-kllj-08",
-      "description": "将葛城莉莉娅的亲密度提升至Lv8"
+      "description": "將葛城莉莉婭的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-kllj-09",
-      "description": "将葛城莉莉娅的亲密度提升至Lv9"
+      "description": "將葛城莉莉婭的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-kllj-10",
-      "description": "将葛城莉莉娅的亲密度提升至Lv10"
+      "description": "將葛城莉莉婭的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-kllj-20",
-      "description": "将葛城莉莉娅的亲密度提升至Lv20"
+      "description": "將葛城莉莉婭的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-kllj-21",
-      "description": "将葛城莉莉娅的亲密度提升至Lv21"
+      "description": "將葛城莉莉婭的親密度提升至Lv21"
     },
     {
       "id": "cd-dearness_level-kllj-22",
-      "description": "将葛城莉莉娅的亲密度提升至Lv22"
+      "description": "將葛城莉莉婭的親密度提升至Lv22"
     },
     {
       "id": "cd-dearness_level-kllj-23",
-      "description": "将葛城莉莉娅的亲密度提升至Lv23"
+      "description": "將葛城莉莉婭的親密度提升至Lv23"
     },
     {
       "id": "cd-dearness_level-kllj-24",
-      "description": "将葛城莉莉娅的亲密度提升至Lv24"
+      "description": "將葛城莉莉婭的親密度提升至Lv24"
     },
     {
       "id": "cd-dearness_level-kllj-25",
-      "description": "将葛城莉莉娅的亲密度提升至Lv25"
+      "description": "將葛城莉莉婭的親密度提升至Lv25"
     },
     {
       "id": "cd-dearness_level-kllj-26",
-      "description": "将葛城莉莉娅的亲密度提升至Lv26"
+      "description": "將葛城莉莉婭的親密度提升至Lv26"
     },
     {
       "id": "cd-dearness_level-kllj-27",
-      "description": "将葛城莉莉娅的亲密度提升至Lv27"
+      "description": "將葛城莉莉婭的親密度提升至Lv27"
     },
     {
       "id": "cd-dearness_level-shro-01",
-      "description": "将筱泽广的亲密度提升至Lv1"
+      "description": "將筱澤廣的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-shro-01-02",
@@ -7651,7 +7651,7 @@
     },
     {
       "id": "cd-dearness_level-shro-02",
-      "description": "将筱泽广的亲密度提升至Lv2"
+      "description": "將筱澤廣的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-shro-02-04",
@@ -7659,7 +7659,7 @@
     },
     {
       "id": "cd-dearness_level-shro-03",
-      "description": "将筱泽广的亲密度提升至Lv3"
+      "description": "將筱澤廣的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-shro-03-04",
@@ -7667,11 +7667,11 @@
     },
     {
       "id": "cd-dearness_level-shro-04",
-      "description": "将筱泽广的亲密度提升至Lv4"
+      "description": "將筱澤廣的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-shro-05",
-      "description": "将筱泽广的亲密度提升至Lv5"
+      "description": "將筱澤廣的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-shro-05-07",
@@ -7679,7 +7679,7 @@
     },
     {
       "id": "cd-dearness_level-shro-06",
-      "description": "将筱泽广的亲密度提升至Lv6"
+      "description": "將筱澤廣的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-shro-06-08",
@@ -7687,55 +7687,55 @@
     },
     {
       "id": "cd-dearness_level-shro-07",
-      "description": "将筱泽广的亲密度提升至Lv7"
+      "description": "將筱澤廣的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-shro-08",
-      "description": "将筱泽广的亲密度提升至Lv8"
+      "description": "將筱澤廣的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-shro-09",
-      "description": "将筱泽广的亲密度提升至Lv9"
+      "description": "將筱澤廣的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-shro-10",
-      "description": "将筱泽广的亲密度提升至Lv10"
+      "description": "將筱澤廣的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-shro-20",
-      "description": "将筱泽广的亲密度提升至Lv20"
+      "description": "將筱澤廣的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-shro-21",
-      "description": "将筱泽广的亲密度提升至Lv21"
+      "description": "將筱澤廣的親密度提升至Lv21"
     },
     {
       "id": "cd-dearness_level-shro-22",
-      "description": "将筱泽广的亲密度提升至Lv22"
+      "description": "將筱澤廣的親密度提升至Lv22"
     },
     {
       "id": "cd-dearness_level-shro-23",
-      "description": "将筱泽广的亲密度提升至Lv23"
+      "description": "將筱澤廣的親密度提升至Lv23"
     },
     {
       "id": "cd-dearness_level-shro-24",
-      "description": "将筱泽广的亲密度提升至Lv24"
+      "description": "將筱澤廣的親密度提升至Lv24"
     },
     {
       "id": "cd-dearness_level-shro-25",
-      "description": "将筱泽广的亲密度提升至Lv25"
+      "description": "將筱澤廣的親密度提升至Lv25"
     },
     {
       "id": "cd-dearness_level-shro-26",
-      "description": "将筱泽广的亲密度提升至Lv26"
+      "description": "將筱澤廣的親密度提升至Lv26"
     },
     {
       "id": "cd-dearness_level-shro-27",
-      "description": "将筱泽广的亲密度提升至Lv27"
+      "description": "將筱澤廣的親密度提升至Lv27"
     },
     {
       "id": "cd-dearness_level-ssmk-01",
-      "description": "将紫云清夏的亲密度提升至Lv1"
+      "description": "將紫雲清夏的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-ssmk-01-03",
@@ -7743,11 +7743,11 @@
     },
     {
       "id": "cd-dearness_level-ssmk-02",
-      "description": "将紫云清夏的亲密度提升至Lv2"
+      "description": "將紫雲清夏的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-ssmk-03",
-      "description": "将紫云清夏的亲密度提升至Lv3"
+      "description": "將紫雲清夏的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-ssmk-03-03",
@@ -7759,11 +7759,11 @@
     },
     {
       "id": "cd-dearness_level-ssmk-04",
-      "description": "将紫云清夏的亲密度提升至Lv4"
+      "description": "將紫雲清夏的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-ssmk-05",
-      "description": "将紫云清夏的亲密度提升至Lv5"
+      "description": "將紫雲清夏的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-ssmk-05-07",
@@ -7771,11 +7771,11 @@
     },
     {
       "id": "cd-dearness_level-ssmk-06",
-      "description": "将紫云清夏的亲密度提升至Lv6"
+      "description": "將紫雲清夏的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-ssmk-07",
-      "description": "将紫云清夏的亲密度提升至Lv7"
+      "description": "將紫雲清夏的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-ssmk-07-08",
@@ -7783,51 +7783,51 @@
     },
     {
       "id": "cd-dearness_level-ssmk-08",
-      "description": "将紫云清夏的亲密度提升至Lv8"
+      "description": "將紫雲清夏的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-ssmk-09",
-      "description": "将紫云清夏的亲密度提升至Lv9"
+      "description": "將紫雲清夏的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-ssmk-10",
-      "description": "将紫云清夏的亲密度提升至Lv10"
+      "description": "將紫雲清夏的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-ssmk-20",
-      "description": "将紫云清夏的亲密度提升至Lv20"
+      "description": "將紫雲清夏的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-ssmk-21",
-      "description": "将紫云清夏的亲密度提升至Lv21"
+      "description": "將紫雲清夏的親密度提升至Lv21"
     },
     {
       "id": "cd-dearness_level-ssmk-22",
-      "description": "将紫云清夏的亲密度提升至Lv22"
+      "description": "將紫雲清夏的親密度提升至Lv22"
     },
     {
       "id": "cd-dearness_level-ssmk-23",
-      "description": "将紫云清夏的亲密度提升至Lv23"
+      "description": "將紫雲清夏的親密度提升至Lv23"
     },
     {
       "id": "cd-dearness_level-ssmk-24",
-      "description": "将紫云清夏的亲密度提升至Lv24"
+      "description": "將紫雲清夏的親密度提升至Lv24"
     },
     {
       "id": "cd-dearness_level-ssmk-25",
-      "description": "将紫云清夏的亲密度提升至Lv25"
+      "description": "將紫雲清夏的親密度提升至Lv25"
     },
     {
       "id": "cd-dearness_level-ssmk-26",
-      "description": "将紫云清夏的亲密度提升至Lv26"
+      "description": "將紫雲清夏的親密度提升至Lv26"
     },
     {
       "id": "cd-dearness_level-ssmk-27",
-      "description": "将紫云清夏的亲密度提升至Lv27"
+      "description": "將紫雲清夏的親密度提升至Lv27"
     },
     {
       "id": "cd-dearness_level-ttmr-01",
-      "description": "将月村手毬的亲密度提升至Lv1"
+      "description": "將月村手毬的親密度提升至Lv1"
     },
     {
       "id": "cd-dearness_level-ttmr-01-03",
@@ -7835,11 +7835,11 @@
     },
     {
       "id": "cd-dearness_level-ttmr-02",
-      "description": "将月村手毬的亲密度提升至Lv2"
+      "description": "將月村手毬的親密度提升至Lv2"
     },
     {
       "id": "cd-dearness_level-ttmr-03",
-      "description": "将月村手毬的亲密度提升至Lv3"
+      "description": "將月村手毬的親密度提升至Lv3"
     },
     {
       "id": "cd-dearness_level-ttmr-03-04",
@@ -7847,7 +7847,7 @@
     },
     {
       "id": "cd-dearness_level-ttmr-04",
-      "description": "将月村手毬的亲密度提升至Lv4"
+      "description": "將月村手毬的親密度提升至Lv4"
     },
     {
       "id": "cd-dearness_level-ttmr-04-07",
@@ -7855,7 +7855,7 @@
     },
     {
       "id": "cd-dearness_level-ttmr-05",
-      "description": "将月村手毬的亲密度提升至Lv5"
+      "description": "將月村手毬的親密度提升至Lv5"
     },
     {
       "id": "cd-dearness_level-ttmr-05-07",
@@ -7867,55 +7867,55 @@
     },
     {
       "id": "cd-dearness_level-ttmr-06",
-      "description": "将月村手毬的亲密度提升至Lv6"
+      "description": "將月村手毬的親密度提升至Lv6"
     },
     {
       "id": "cd-dearness_level-ttmr-07",
-      "description": "将月村手毬的亲密度提升至Lv7"
+      "description": "將月村手毬的親密度提升至Lv7"
     },
     {
       "id": "cd-dearness_level-ttmr-08",
-      "description": "将月村手毬的亲密度提升至Lv8"
+      "description": "將月村手毬的親密度提升至Lv8"
     },
     {
       "id": "cd-dearness_level-ttmr-09",
-      "description": "将月村手毬的亲密度提升至Lv9"
+      "description": "將月村手毬的親密度提升至Lv9"
     },
     {
       "id": "cd-dearness_level-ttmr-10",
-      "description": "将月村手毬的亲密度提升至Lv10"
+      "description": "將月村手毬的親密度提升至Lv10"
     },
     {
       "id": "cd-dearness_level-ttmr-20",
-      "description": "将月村手毬的亲密度提升至Lv20"
+      "description": "將月村手毬的親密度提升至Lv20"
     },
     {
       "id": "cd-dearness_level-ttmr-21",
-      "description": "将月村手毬的亲密度提升至Lv21"
+      "description": "將月村手毬的親密度提升至Lv21"
     },
     {
       "id": "cd-dearness_level-ttmr-22",
-      "description": "将月村手毬的亲密度提升至Lv22"
+      "description": "將月村手毬的親密度提升至Lv22"
     },
     {
       "id": "cd-dearness_level-ttmr-23",
-      "description": "将月村手毬的亲密度提升至Lv23"
+      "description": "將月村手毬的親密度提升至Lv23"
     },
     {
       "id": "cd-dearness_level-ttmr-24",
-      "description": "将月村手毬的亲密度提升至Lv24"
+      "description": "將月村手毬的親密度提升至Lv24"
     },
     {
       "id": "cd-dearness_level-ttmr-25",
-      "description": "将月村手毬的亲密度提升至Lv25"
+      "description": "將月村手毬的親密度提升至Lv25"
     },
     {
       "id": "cd-dearness_level-ttmr-26",
-      "description": "将月村手毬的亲密度提升至Lv26"
+      "description": "將月村手毬的親密度提升至Lv26"
     },
     {
       "id": "cd-dearness_level-ttmr-27",
-      "description": "将月村手毬的亲密度提升至Lv27"
+      "description": "將月村手毬的親密度提升至Lv27"
     },
     {
       "id": "cd-dearness_level10over-ssmk-shro-fktn",
@@ -7955,79 +7955,79 @@
     },
     {
       "id": "cd-dearness_normal-mission_amao-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_amao-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_fktn-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_fktn-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_hrnm-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_hrnm-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_jsna-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_jsna-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_kcna-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_kcna-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_kllj-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_kllj-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_shro-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_shro-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_ssmk-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_ssmk-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_ttmr-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_normal-mission_ttmr-0001",
-      "description": "亲密度达到Lv20时"
+      "description": "親密度達到Lv20時"
     },
     {
       "id": "cd-dearness_shro-20",
-      "description": "筱泽广的亲密度达到Lv20"
+      "description": "筱澤廣的親密度達到Lv20"
     },
     {
       "id": "cd-dearness_someone-20",
@@ -8055,11 +8055,11 @@
     },
     {
       "id": "cd-dearness_ssmk-20",
-      "description": "紫云清夏的亲密度达到Lv20"
+      "description": "紫雲清夏的親密度達到Lv20"
     },
     {
       "id": "cd-dearness_ttmr-20",
-      "description": "月村手毬的亲密度达到Lv20"
+      "description": "月村手毬的親密度達到Lv20"
     },
     {
       "id": "cd-dearness-top_motion_amao_dearness_level-1-20",
@@ -8231,7 +8231,7 @@
     },
     {
       "id": "cd-dearnessTop_unlock",
-      "description": "任意偶像的亲密度达到20后解锁"
+      "description": "任意偶像的親密度達到20後解鎖"
     },
     {
       "id": "cd-draw-gasha_ssr_10",
@@ -8243,23 +8243,23 @@
     },
     {
       "id": "cd-hajime_legend_produce-unlock_open",
-      "description": "任意偶像的亲密度达到Lv10，且PLv50以上后解锁"
+      "description": "任意偶像的親密度達到Lv10，且PLv50以上後解鎖"
     },
     {
       "id": "cd-hajime_legend_produce-unlock_open",
-      "description": "任意偶像的亲密度达到Lv10，且PLv50以上后解锁"
+      "description": "任意偶像的親密度達到Lv10，且PLv50以上後解鎖"
     },
     {
       "id": "cd-hajime_legend_produce-unlock_open",
-      "description": "任意偶像的亲密度达到Lv10，且PLv50以上后解锁"
+      "description": "任意偶像的親密度達到Lv10，且PLv50以上後解鎖"
     },
     {
       "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
-      "description": "任意偶像的亲密度达到Lv10后解锁"
+      "description": "任意偶像的親密度達到Lv10後解鎖"
     },
     {
       "id": "cd-hajime_legend_produce-unlock_startup_notification_open",
-      "description": "任意偶像的亲密度达到Lv10后解锁"
+      "description": "任意偶像的親密度達到Lv10後解鎖"
     },
     {
       "id": "cd-half-anniversary-2024",
@@ -9803,123 +9803,123 @@
     },
     {
       "id": "cd-main-story-01-01-01-release",
-      "description": "完成初星课题1后解锁"
+      "description": "完成初星課題1後解鎖"
     },
     {
       "id": "cd-main-story-01-01-01-release",
-      "description": "完成初星课题1后解锁"
+      "description": "完成初星課題1後解鎖"
     },
     {
       "id": "cd-main-story-01-01-02-release",
-      "description": "完成初星课题8后解锁"
+      "description": "完成初星課題8後解鎖"
     },
     {
       "id": "cd-main-story-01-01-02-release",
-      "description": "完成初星课题8后解锁"
+      "description": "完成初星課題8後解鎖"
     },
     {
       "id": "cd-main-story-01-01-03-release",
-      "description": "完成初星课题13后解锁"
+      "description": "完成初星課題13後解鎖"
     },
     {
       "id": "cd-main-story-01-01-03-release",
-      "description": "完成初星课题13后解锁"
+      "description": "完成初星課題13後解鎖"
     },
     {
       "id": "cd-main-story-01-01-04-release",
-      "description": "完成初星课题17后解锁"
+      "description": "完成初星課題17後解鎖"
     },
     {
       "id": "cd-main-story-01-01-04-release",
-      "description": "完成初星课题17后解锁"
+      "description": "完成初星課題17後解鎖"
     },
     {
       "id": "cd-main-story-01-01-05-release",
-      "description": "完成初星课题22后解锁"
+      "description": "完成初星課題22後解鎖"
     },
     {
       "id": "cd-main-story-01-01-05-release",
-      "description": "完成初星课题22后解锁"
+      "description": "完成初星課題22後解鎖"
     },
     {
       "id": "cd-main-story-01-01-06-release",
-      "description": "完成初星课题27后解锁"
+      "description": "完成初星課題27後解鎖"
     },
     {
       "id": "cd-main-story-01-01-06-release",
-      "description": "完成初星课题27后解锁"
+      "description": "完成初星課題27後解鎖"
     },
     {
       "id": "cd-main-story-01-01-07-release",
-      "description": "完成初星课题30后解锁"
+      "description": "完成初星課題30後解鎖"
     },
     {
       "id": "cd-main-story-01-01-07-release",
-      "description": "完成初星课题30后解锁"
+      "description": "完成初星課題30後解鎖"
     },
     {
       "id": "cd-main-story-01-01-08-release",
-      "description": "完成初星课题34后解锁"
+      "description": "完成初星課題34後解鎖"
     },
     {
       "id": "cd-main-story-01-01-08-release",
-      "description": "完成初星课题34后解锁"
+      "description": "完成初星課題34後解鎖"
     },
     {
       "id": "cd-main-story-01-01-09-release",
-      "description": "完成初星课题38后解锁"
+      "description": "完成初星課題38後解鎖"
     },
     {
       "id": "cd-main-story-01-01-09-release",
-      "description": "完成初星课题38后解锁"
+      "description": "完成初星課題38後解鎖"
     },
     {
       "id": "cd-main-story-01-01-10-release",
-      "description": "完成初星课题42后解锁"
+      "description": "完成初星課題42後解鎖"
     },
     {
       "id": "cd-main-story-01-01-10-release",
-      "description": "完成初星课题42后解锁"
+      "description": "完成初星課題42後解鎖"
     },
     {
       "id": "cd-main-story-01-01-11-release",
-      "description": "完成初星课题46后解锁"
+      "description": "完成初星課題46後解鎖"
     },
     {
       "id": "cd-main-story-01-01-11-release",
-      "description": "完成初星课题46后解锁"
+      "description": "完成初星課題46後解鎖"
     },
     {
       "id": "cd-main-story-01-01-12-release",
-      "description": "完成初星课题50后解锁"
+      "description": "完成初星課題50後解鎖"
     },
     {
       "id": "cd-main-story-01-01-12-release",
-      "description": "完成初星课题50后解锁"
+      "description": "完成初星課題50後解鎖"
     },
     {
       "id": "cd-main-story-01-01-13-release",
-      "description": "完成初星课题53后解锁"
+      "description": "完成初星課題53後解鎖"
     },
     {
       "id": "cd-main-story-01-01-13-release",
-      "description": "完成初星课题53后解锁"
+      "description": "完成初星課題53後解鎖"
     },
     {
       "id": "cd-main-story-01-01-14-release",
-      "description": "完成初星课题57后解锁"
+      "description": "完成初星課題57後解鎖"
     },
     {
       "id": "cd-main-story-01-01-14-release",
-      "description": "完成初星课题57后解锁"
+      "description": "完成初星課題57後解鎖"
     },
     {
       "id": "cd-master_produce-unlock_open",
-      "description": "任意偶像的亲密度达到Lv10后解锁"
+      "description": "任意偶像的親密度達到Lv10後解鎖"
     },
     {
       "id": "cd-master_produce-view_open",
-      "description": "完成初星课题60后解锁"
+      "description": "完成初星課題60後解鎖"
     },
     {
       "id": "cd-mission_clear-absolutedearnesslevel-1",
@@ -10267,7 +10267,7 @@
     },
     {
       "id": "cd-nia_master_produce-unlock_open",
-      "description": "任意偶像的亲密度达到20后解锁"
+      "description": "任意偶像的親密度達到20後解鎖"
     },
     {
       "id": "cd-nia_produce-unlock_open",
@@ -10375,11 +10375,11 @@
     },
     {
       "id": "cd-open-producer_ranking",
-      "description": "完成初星课题60后解锁"
+      "description": "完成初星課題60後解鎖"
     },
     {
       "id": "cd-open-producer_ranking",
-      "description": "完成初星课题60后解锁"
+      "description": "完成初星課題60後解鎖"
     },
     {
       "id": "cd-p_birthday-2024-amao",
@@ -10863,11 +10863,11 @@
     },
     {
       "id": "cd-pro_produce-view_open",
-      "description": "完成初星课题55后解锁"
+      "description": "完成初星課題55後解鎖"
     },
     {
       "id": "cd-pro_produce-view_open",
-      "description": "完成初星课题55后解锁"
+      "description": "完成初星課題55後解鎖"
     },
     {
       "id": "cd-produce_group-002-a-amao",
@@ -11831,7 +11831,7 @@
     },
     {
       "id": "cd-release_Invitation",
-      "description": "完成初星课题1"
+      "description": "完成初星課題1"
     },
     {
       "id": "cd-release-ending-normal-a-voice-amao",
@@ -13371,27 +13371,27 @@
     },
     {
       "id": "cd-seminar_clear-01-01",
-      "description": "通关【基础1】好调"
+      "description": "通關【基礎1】好調"
     },
     {
       "id": "cd-seminar_clear-01-02",
-      "description": "通关【基础2】集中"
+      "description": "通關【基礎2】集中"
     },
     {
       "id": "cd-seminar_clear-01-03",
-      "description": "通关【基础3】好印象"
+      "description": "通關【基礎3】好印象"
     },
     {
       "id": "cd-seminar_clear-01-04",
-      "description": "通关【基础4】干劲"
+      "description": "通關【基礎4】幹勁"
     },
     {
       "id": "cd-seminar_clear-01-07",
-      "description": "通关【基础8】强气"
+      "description": "通關【基礎8】強氣"
     },
     {
       "id": "cd-seminar_clear-01-08",
-      "description": "通关【基础7】全力"
+      "description": "通關【基礎7】全力"
     },
     {
       "id": "cd-shop_costume_amao-cstm-0069_revival-1",
@@ -13767,19 +13767,19 @@
     },
     {
       "id": "cd-story_unlock_atbm_produce_group-004",
-      "description": "培育「N.I.A」追加准备中"
+      "description": "培育「N.I.A」追加準備中"
     },
     {
       "id": "cd-story_unlock_atbm_produce_group-005",
-      "description": "培育「N.I.A」追加准备中"
+      "description": "培育「N.I.A」追加準備中"
     },
     {
       "id": "cd-story_unlock_hmsz_produce_group-004",
-      "description": "培育「N.I.A」追加准备中"
+      "description": "培育「N.I.A」追加準備中"
     },
     {
       "id": "cd-story_unlock_hmsz_produce_group-005",
-      "description": "培育「N.I.A」追加准备中"
+      "description": "培育「N.I.A」追加準備中"
     },
     {
       "id": "cd-story_unlock_livetour_event_group-001",
@@ -13943,55 +13943,55 @@
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-opening-normal-01",
-      "description": "挑战1次培育后解锁"
+      "description": "挑戰1次培育後解鎖"
     },
     {
       "id": "cd-storyread-story-aprilfool-2025-001",
@@ -13999,7 +13999,7 @@
     },
     {
       "id": "cd-task_clear-01-001",
-      "description": "完成初星课题1后解锁"
+      "description": "完成初星課題1後解鎖"
     },
     {
       "id": "cd-task_clear-01-001-24-hour",
@@ -14007,431 +14007,431 @@
     },
     {
       "id": "cd-task_clear-01-002",
-      "description": "完成初星课题2后解锁"
+      "description": "完成初星課題2後解鎖"
     },
     {
       "id": "cd-task_clear-01-003",
-      "description": "完成初星课题3后解锁"
+      "description": "完成初星課題3後解鎖"
     },
     {
       "id": "cd-task_clear-01-004",
-      "description": "完成初星课题4后解锁"
+      "description": "完成初星課題4後解鎖"
     },
     {
       "id": "cd-task_clear-01-005",
-      "description": "完成初星课题5后解锁"
+      "description": "完成初星課題5後解鎖"
     },
     {
       "id": "cd-task_clear-01-006",
-      "description": "完成初星课题6后解锁"
+      "description": "完成初星課題6後解鎖"
     },
     {
       "id": "cd-task_clear-01-007",
-      "description": "完成初星课题7后解锁"
+      "description": "完成初星課題7後解鎖"
     },
     {
       "id": "cd-task_clear-01-008",
-      "description": "完成初星课题8后解锁"
+      "description": "完成初星課題8後解鎖"
     },
     {
       "id": "cd-task_clear-01-009",
-      "description": "完成初星课题9后解锁"
+      "description": "完成初星課題9後解鎖"
     },
     {
       "id": "cd-task_clear-01-010",
-      "description": "完成初星课题10后解锁"
+      "description": "完成初星課題10後解鎖"
     },
     {
       "id": "cd-task_clear-01-011",
-      "description": "完成初星课题11后解锁"
+      "description": "完成初星課題11後解鎖"
     },
     {
       "id": "cd-task_clear-01-012",
-      "description": "完成初星课题12后解锁"
+      "description": "完成初星課題12後解鎖"
     },
     {
       "id": "cd-task_clear-01-013",
-      "description": "完成初星课题13后解锁"
+      "description": "完成初星課題13後解鎖"
     },
     {
       "id": "cd-task_clear-01-014",
-      "description": "完成初星课题14后解锁"
+      "description": "完成初星課題14後解鎖"
     },
     {
       "id": "cd-task_clear-01-015",
-      "description": "完成初星课题15后解锁"
+      "description": "完成初星課題15後解鎖"
     },
     {
       "id": "cd-task_clear-01-016",
-      "description": "完成初星课题16后解锁"
+      "description": "完成初星課題16後解鎖"
     },
     {
       "id": "cd-task_clear-01-017",
-      "description": "完成初星课题17后解锁"
+      "description": "完成初星課題17後解鎖"
     },
     {
       "id": "cd-task_clear-01-018",
-      "description": "完成初星课题18后解锁"
+      "description": "完成初星課題18後解鎖"
     },
     {
       "id": "cd-task_clear-01-019",
-      "description": "完成初星课题19后解锁"
+      "description": "完成初星課題19後解鎖"
     },
     {
       "id": "cd-task_clear-01-020",
-      "description": "完成初星课题20后解锁"
+      "description": "完成初星課題20後解鎖"
     },
     {
       "id": "cd-task_clear-01-021",
-      "description": "完成初星课题21后解锁"
+      "description": "完成初星課題21後解鎖"
     },
     {
       "id": "cd-task_clear-01-022",
-      "description": "完成初星课题22后解锁"
+      "description": "完成初星課題22後解鎖"
     },
     {
       "id": "cd-task_clear-01-023",
-      "description": "完成初星课题23后解锁"
+      "description": "完成初星課題23後解鎖"
     },
     {
       "id": "cd-task_clear-01-024",
-      "description": "完成初星课题24后解锁"
+      "description": "完成初星課題24後解鎖"
     },
     {
       "id": "cd-task_clear-01-025",
-      "description": "完成初星课题25后解锁"
+      "description": "完成初星課題25後解鎖"
     },
     {
       "id": "cd-task_clear-01-026",
-      "description": "完成初星课题26后解锁"
+      "description": "完成初星課題26後解鎖"
     },
     {
       "id": "cd-task_clear-01-027",
-      "description": "完成初星课题27后解锁"
+      "description": "完成初星課題27後解鎖"
     },
     {
       "id": "cd-task_clear-01-028",
-      "description": "完成初星课题28后解锁"
+      "description": "完成初星課題28後解鎖"
     },
     {
       "id": "cd-task_clear-01-029",
-      "description": "完成初星课题29后解锁"
+      "description": "完成初星課題29後解鎖"
     },
     {
       "id": "cd-task_clear-01-030",
-      "description": "完成初星课题30后解锁"
+      "description": "完成初星課題30後解鎖"
     },
     {
       "id": "cd-task_clear-01-031",
-      "description": "完成初星课题31后解锁"
+      "description": "完成初星課題31後解鎖"
     },
     {
       "id": "cd-task_clear-01-032",
-      "description": "完成初星课题32后解锁"
+      "description": "完成初星課題32後解鎖"
     },
     {
       "id": "cd-task_clear-01-033",
-      "description": "完成初星课题33后解锁"
+      "description": "完成初星課題33後解鎖"
     },
     {
       "id": "cd-task_clear-01-034",
-      "description": "完成初星课题34后解锁"
+      "description": "完成初星課題34後解鎖"
     },
     {
       "id": "cd-task_clear-01-035",
-      "description": "完成初星课题35后解锁"
+      "description": "完成初星課題35後解鎖"
     },
     {
       "id": "cd-task_clear-01-036",
-      "description": "完成初星课题36后解锁"
+      "description": "完成初星課題36後解鎖"
     },
     {
       "id": "cd-task_clear-01-037",
-      "description": "完成初星课题37后解锁"
+      "description": "完成初星課題37後解鎖"
     },
     {
       "id": "cd-task_clear-01-038",
-      "description": "完成初星课题38后解锁"
+      "description": "完成初星課題38後解鎖"
     },
     {
       "id": "cd-task_clear-01-039",
-      "description": "完成初星课题39后解锁"
+      "description": "完成初星課題39後解鎖"
     },
     {
       "id": "cd-task_clear-01-040",
-      "description": "完成初星课题40后解锁"
+      "description": "完成初星課題40後解鎖"
     },
     {
       "id": "cd-task_clear-01-041",
-      "description": "完成初星课题41后解锁"
+      "description": "完成初星課題41後解鎖"
     },
     {
       "id": "cd-task_clear-01-042",
-      "description": "完成初星课题42后解锁"
+      "description": "完成初星課題42後解鎖"
     },
     {
       "id": "cd-task_clear-01-043",
-      "description": "完成初星课题43后解锁"
+      "description": "完成初星課題43後解鎖"
     },
     {
       "id": "cd-task_clear-01-044",
-      "description": "完成初星课题44后解锁"
+      "description": "完成初星課題44後解鎖"
     },
     {
       "id": "cd-task_clear-01-045",
-      "description": "完成初星课题45后解锁"
+      "description": "完成初星課題45後解鎖"
     },
     {
       "id": "cd-task_clear-01-046",
-      "description": "完成初星课题46后解锁"
+      "description": "完成初星課題46後解鎖"
     },
     {
       "id": "cd-task_clear-01-047",
-      "description": "完成初星课题47后解锁"
+      "description": "完成初星課題47後解鎖"
     },
     {
       "id": "cd-task_clear-01-048",
-      "description": "完成初星课题48后解锁"
+      "description": "完成初星課題48後解鎖"
     },
     {
       "id": "cd-task_clear-01-049",
-      "description": "完成初星课题49后解锁"
+      "description": "完成初星課題49後解鎖"
     },
     {
       "id": "cd-task_clear-01-050",
-      "description": "完成初星课题50后解锁"
+      "description": "完成初星課題50後解鎖"
     },
     {
       "id": "cd-task_clear-01-051",
-      "description": "完成初星课题51后解锁"
+      "description": "完成初星課題51後解鎖"
     },
     {
       "id": "cd-task_clear-01-052",
-      "description": "完成初星课题52后解锁"
+      "description": "完成初星課題52後解鎖"
     },
     {
       "id": "cd-task_clear-01-053",
-      "description": "完成初星课题53后解锁"
+      "description": "完成初星課題53後解鎖"
     },
     {
       "id": "cd-task_clear-01-054",
-      "description": "完成初星课题54后解锁"
+      "description": "完成初星課題54後解鎖"
     },
     {
       "id": "cd-task_clear-01-055",
-      "description": "完成初星课题55后解锁"
+      "description": "完成初星課題55後解鎖"
     },
     {
       "id": "cd-task_clear-01-056",
-      "description": "完成初星课题56后解锁"
+      "description": "完成初星課題56後解鎖"
     },
     {
       "id": "cd-task_clear-01-057",
-      "description": "完成初星课题57后解锁"
+      "description": "完成初星課題57後解鎖"
     },
     {
       "id": "cd-task_clear-01-058",
-      "description": "完成初星课题58后解锁"
+      "description": "完成初星課題58後解鎖"
     },
     {
       "id": "cd-task_clear-01-059",
-      "description": "完成初星课题59后解锁"
+      "description": "完成初星課題59後解鎖"
     },
     {
       "id": "cd-task_clear-01-060",
-      "description": "完成初星课题60后解锁"
+      "description": "完成初星課題60後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-001",
-      "description": "完成P课题1后解锁"
+      "description": "完成P課題1後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-002",
-      "description": "完成P课题2后解锁"
+      "description": "完成P課題2後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-003",
-      "description": "完成P课题3后解锁"
+      "description": "完成P課題3後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-004",
-      "description": "完成P课题4后解锁"
+      "description": "完成P課題4後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-005",
-      "description": "完成P课题5后解锁"
+      "description": "完成P課題5後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-006",
-      "description": "完成P课题6后解锁"
+      "description": "完成P課題6後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-007",
-      "description": "完成P课题7后解锁"
+      "description": "完成P課題7後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-008",
-      "description": "完成P课题8后解锁"
+      "description": "完成P課題8後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-009",
-      "description": "完成P课题9后解锁"
+      "description": "完成P課題9後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-010",
-      "description": "完成P课题10后解锁"
+      "description": "完成P課題10後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-011",
-      "description": "完成P课题11后解锁"
+      "description": "完成P課題11後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-012",
-      "description": "完成P课题12后解锁"
+      "description": "完成P課題12後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-013",
-      "description": "完成P课题13后解锁"
+      "description": "完成P課題13後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-014",
-      "description": "完成P课题14后解锁"
+      "description": "完成P課題14後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-015",
-      "description": "完成P课题15后解锁"
+      "description": "完成P課題15後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-016",
-      "description": "完成P课题16后解锁"
+      "description": "完成P課題16後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-017",
-      "description": "完成P课题17后解锁"
+      "description": "完成P課題17後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-018",
-      "description": "完成P课题18后解锁"
+      "description": "完成P課題18後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-019",
-      "description": "完成P课题19后解锁"
+      "description": "完成P課題19後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-020",
-      "description": "完成P课题20后解锁"
+      "description": "完成P課題20後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-021",
-      "description": "完成P课题21后解锁"
+      "description": "完成P課題21後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-022",
-      "description": "完成P课题22后解锁"
+      "description": "完成P課題22後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-023",
-      "description": "完成P课题23后解锁"
+      "description": "完成P課題23後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-024",
-      "description": "完成P课题24后解锁"
+      "description": "完成P課題24後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-025",
-      "description": "完成P课题25后解锁"
+      "description": "完成P課題25後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-026",
-      "description": "完成P课题26后解锁"
+      "description": "完成P課題26後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-027",
-      "description": "完成P课题27后解锁"
+      "description": "完成P課題27後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-028",
-      "description": "完成P课题28后解锁"
+      "description": "完成P課題28後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-029",
-      "description": "完成P课题29后解锁"
+      "description": "完成P課題29後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-030",
-      "description": "完成P课题30后解锁"
+      "description": "完成P課題30後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-031",
-      "description": "完成P课题31后解锁"
+      "description": "完成P課題31後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-032",
-      "description": "完成P课题32后解锁"
+      "description": "完成P課題32後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-033",
-      "description": "完成P课题33后解锁"
+      "description": "完成P課題33後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-034",
-      "description": "完成P课题34后解锁"
+      "description": "完成P課題34後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-035",
-      "description": "完成P课题35后解锁"
+      "description": "完成P課題35後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-036",
-      "description": "完成P课题36后解锁"
+      "description": "完成P課題36後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-037",
-      "description": "完成P课题37后解锁"
+      "description": "完成P課題37後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-038",
-      "description": "完成P课题38后解锁"
+      "description": "完成P課題38後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-039",
-      "description": "完成P课题39后解锁"
+      "description": "完成P課題39後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-040",
-      "description": "完成P课题40后解锁"
+      "description": "完成P課題40後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-070",
-      "description": "完成P课题70后解锁"
+      "description": "完成P課題70後解鎖"
     },
     {
       "id": "cd-task_clear-02-01-075",
-      "description": "完成P课题75后解锁"
+      "description": "完成P課題75後解鎖"
     },
     {
       "id": "cd-task_clear-03-01-020",
-      "description": "完成P课题2-20后解锁"
+      "description": "完成P課題2-20後解鎖"
     },
     {
       "id": "cd-task_clear-03-01-025",
-      "description": "完成P课题2-25后解锁"
+      "description": "完成P課題2-25後解鎖"
     },
     {
       "id": "cd-task_clear-03-01-070",
-      "description": "完成P课题70后解锁"
+      "description": "完成P課題70後解鎖"
     },
     {
       "id": "cd-task_clear-03-01-075",
-      "description": "完成P课题75后解锁"
+      "description": "完成P課題75後解鎖"
     },
     {
       "id": "cd-task_clear-04-01-020",
-      "description": "完成P课题04-20后解锁"
+      "description": "完成P課題04-20後解鎖"
     },
     {
       "id": "cd-task_clear-04-01-025",
-      "description": "完成P课题04-25后解锁"
+      "description": "完成P課題04-25後解鎖"
     },
     {
       "id": "cd-task_clear-panel_mission-event-006",
@@ -14443,7 +14443,7 @@
     },
     {
       "id": "cd-time-view_open-producer_ranking-1006_1100",
-      "description": "2025/010/06 11:00:00解锁"
+      "description": "2025/010/06 11:00:00解鎖"
     },
     {
       "id": "cd-tips-produce-first-audition-failure_kcna_initial-card",
@@ -15259,15 +15259,15 @@
     },
     {
       "id": "pannel-mission-event-008_time",
-      "description": "任意偶像的亲密度达到Lv20后解锁"
+      "description": "任意偶像的親密度達到Lv20後解鎖"
     },
     {
       "id": "pannel-mission-event-008_time",
-      "description": "任意偶像的亲密度达到Lv20后解锁"
+      "description": "任意偶像的親密度達到Lv20後解鎖"
     },
     {
       "id": "pannel-mission-event-008_time",
-      "description": "任意偶像的亲密度达到Lv20后解锁"
+      "description": "任意偶像的親密度達到Lv20後解鎖"
     },
     {
       "id": "pannel-mission-event-halfaniv_time",
@@ -15455,7 +15455,7 @@
     },
     {
       "id": "view-homecaharacterrandom-time",
-      "description": "准备中"
+      "description": "準備中"
     },
     {
       "id": "view-startup_notification_shop_pack_item-0002",
@@ -15467,1239 +15467,1239 @@
     },
     {
       "id": "main_task_group-01-01#2",
-      "description": "完成初星课题1后解锁"
+      "description": "完成初星課題1後解鎖"
     },
     {
       "id": "main_task_group-01-01#3",
-      "description": "完成初星课题2后解锁"
+      "description": "完成初星課題2後解鎖"
     },
     {
       "id": "main_task_group-01-01#4",
-      "description": "完成初星课题3后解锁"
+      "description": "完成初星課題3後解鎖"
     },
     {
       "id": "main_task_group-01-01#5",
-      "description": "完成初星课题4后解锁"
+      "description": "完成初星課題4後解鎖"
     },
     {
       "id": "main_task_group-01-01#6",
-      "description": "完成初星课题5后解锁"
+      "description": "完成初星課題5後解鎖"
     },
     {
       "id": "main_task_group-01-01#7",
-      "description": "完成初星课题6后解锁"
+      "description": "完成初星課題6後解鎖"
     },
     {
       "id": "main_task_group-01-01#8",
-      "description": "完成初星课题7后解锁"
+      "description": "完成初星課題7後解鎖"
     },
     {
       "id": "main_task_group-01-01#9",
-      "description": "完成初星课题8后解锁"
+      "description": "完成初星課題8後解鎖"
     },
     {
       "id": "main_task_group-01-01#10",
-      "description": "完成初星课题9后解锁"
+      "description": "完成初星課題9後解鎖"
     },
     {
       "id": "main_task_group-01-01#11",
-      "description": "完成初星课题10后解锁"
+      "description": "完成初星課題10後解鎖"
     },
     {
       "id": "main_task_group-01-01#12",
-      "description": "完成初星课题11后解锁"
+      "description": "完成初星課題11後解鎖"
     },
     {
       "id": "main_task_group-01-01#13",
-      "description": "完成初星课题12后解锁"
+      "description": "完成初星課題12後解鎖"
     },
     {
       "id": "main_task_group-01-01#14",
-      "description": "完成初星课题13后解锁"
+      "description": "完成初星課題13後解鎖"
     },
     {
       "id": "main_task_group-01-01#15",
-      "description": "完成初星课题14后解锁"
+      "description": "完成初星課題14後解鎖"
     },
     {
       "id": "main_task_group-01-01#16",
-      "description": "完成初星课题15后解锁"
+      "description": "完成初星課題15後解鎖"
     },
     {
       "id": "main_task_group-01-01#17",
-      "description": "完成初星课题16后解锁"
+      "description": "完成初星課題16後解鎖"
     },
     {
       "id": "main_task_group-01-01#18",
-      "description": "完成初星课题17后解锁"
+      "description": "完成初星課題17後解鎖"
     },
     {
       "id": "main_task_group-01-01#19",
-      "description": "完成初星课题18后解锁"
+      "description": "完成初星課題18後解鎖"
     },
     {
       "id": "main_task_group-01-01#20",
-      "description": "完成初星课题19后解锁"
+      "description": "完成初星課題19後解鎖"
     },
     {
       "id": "main_task_group-01-01#21",
-      "description": "完成初星课题20后解锁"
+      "description": "完成初星課題20後解鎖"
     },
     {
       "id": "main_task_group-01-01#22",
-      "description": "完成初星课题21后解锁"
+      "description": "完成初星課題21後解鎖"
     },
     {
       "id": "main_task_group-01-01#23",
-      "description": "完成初星课题22后解锁"
+      "description": "完成初星課題22後解鎖"
     },
     {
       "id": "main_task_group-01-01#24",
-      "description": "完成初星课题23后解锁"
+      "description": "完成初星課題23後解鎖"
     },
     {
       "id": "main_task_group-01-01#25",
-      "description": "完成初星课题24后解锁"
+      "description": "完成初星課題24後解鎖"
     },
     {
       "id": "main_task_group-01-01#26",
-      "description": "完成初星课题25后解锁"
+      "description": "完成初星課題25後解鎖"
     },
     {
       "id": "main_task_group-01-01#27",
-      "description": "完成初星课题26后解锁"
+      "description": "完成初星課題26後解鎖"
     },
     {
       "id": "main_task_group-01-01#28",
-      "description": "完成初星课题27后解锁"
+      "description": "完成初星課題27後解鎖"
     },
     {
       "id": "main_task_group-01-01#29",
-      "description": "完成初星课题28后解锁"
+      "description": "完成初星課題28後解鎖"
     },
     {
       "id": "main_task_group-01-01#30",
-      "description": "完成初星课题29后解锁"
+      "description": "完成初星課題29後解鎖"
     },
     {
       "id": "main_task_group-01-01#31",
-      "description": "完成初星课题30后解锁"
+      "description": "完成初星課題30後解鎖"
     },
     {
       "id": "main_task_group-01-01#32",
-      "description": "完成初星课题31后解锁"
+      "description": "完成初星課題31後解鎖"
     },
     {
       "id": "main_task_group-01-01#33",
-      "description": "完成初星课题32后解锁"
+      "description": "完成初星課題32後解鎖"
     },
     {
       "id": "main_task_group-01-01#34",
-      "description": "完成初星课题33后解锁"
+      "description": "完成初星課題33後解鎖"
     },
     {
       "id": "main_task_group-01-01#35",
-      "description": "完成初星课题34后解锁"
+      "description": "完成初星課題34後解鎖"
     },
     {
       "id": "main_task_group-01-01#36",
-      "description": "完成初星课题35后解锁"
+      "description": "完成初星課題35後解鎖"
     },
     {
       "id": "main_task_group-01-01#37",
-      "description": "完成初星课题36后解锁"
+      "description": "完成初星課題36後解鎖"
     },
     {
       "id": "main_task_group-01-01#38",
-      "description": "完成初星课题37后解锁"
+      "description": "完成初星課題37後解鎖"
     },
     {
       "id": "main_task_group-01-01#39",
-      "description": "完成初星课题38后解锁"
+      "description": "完成初星課題38後解鎖"
     },
     {
       "id": "main_task_group-01-01#40",
-      "description": "完成初星课题39后解锁"
+      "description": "完成初星課題39後解鎖"
     },
     {
       "id": "main_task_group-01-01#41",
-      "description": "完成初星课题40后解锁"
+      "description": "完成初星課題40後解鎖"
     },
     {
       "id": "main_task_group-01-01#42",
-      "description": "完成初星课题41后解锁"
+      "description": "完成初星課題41後解鎖"
     },
     {
       "id": "main_task_group-01-01#43",
-      "description": "完成初星课题42后解锁"
+      "description": "完成初星課題42後解鎖"
     },
     {
       "id": "main_task_group-01-01#44",
-      "description": "完成初星课题43后解锁"
+      "description": "完成初星課題43後解鎖"
     },
     {
       "id": "main_task_group-01-01#45",
-      "description": "完成初星课题44后解锁"
+      "description": "完成初星課題44後解鎖"
     },
     {
       "id": "main_task_group-01-01#46",
-      "description": "完成初星课题45后解锁"
+      "description": "完成初星課題45後解鎖"
     },
     {
       "id": "main_task_group-01-01#47",
-      "description": "完成初星课题46后解锁"
+      "description": "完成初星課題46後解鎖"
     },
     {
       "id": "main_task_group-01-01#48",
-      "description": "完成初星课题47后解锁"
+      "description": "完成初星課題47後解鎖"
     },
     {
       "id": "main_task_group-01-01#49",
-      "description": "完成初星课题48后解锁"
+      "description": "完成初星課題48後解鎖"
     },
     {
       "id": "main_task_group-01-01#50",
-      "description": "完成初星课题49后解锁"
+      "description": "完成初星課題49後解鎖"
     },
     {
       "id": "main_task_group-01-01#51",
-      "description": "完成初星课题50后解锁"
+      "description": "完成初星課題50後解鎖"
     },
     {
       "id": "main_task_group-01-01#52",
-      "description": "完成初星课题51后解锁"
+      "description": "完成初星課題51後解鎖"
     },
     {
       "id": "main_task_group-01-01#53",
-      "description": "完成初星课题52后解锁"
+      "description": "完成初星課題52後解鎖"
     },
     {
       "id": "main_task_group-01-01#54",
-      "description": "完成初星课题53后解锁"
+      "description": "完成初星課題53後解鎖"
     },
     {
       "id": "main_task_group-01-01#55",
-      "description": "完成初星课题54后解锁"
+      "description": "完成初星課題54後解鎖"
     },
     {
       "id": "main_task_group-01-01#56",
-      "description": "完成初星课题55后解锁"
+      "description": "完成初星課題55後解鎖"
     },
     {
       "id": "main_task_group-01-01#57",
-      "description": "完成初星课题56后解锁"
+      "description": "完成初星課題56後解鎖"
     },
     {
       "id": "main_task_group-01-01#58",
-      "description": "完成初星课题57后解锁"
+      "description": "完成初星課題57後解鎖"
     },
     {
       "id": "main_task_group-01-01#59",
-      "description": "完成初星课题58后解锁"
+      "description": "完成初星課題58後解鎖"
     },
     {
       "id": "main_task_group-01-01#60",
-      "description": "完成初星课题59后解锁"
+      "description": "完成初星課題59後解鎖"
     },
     {
       "id": "main_task_group-02-01#1",
-      "description": "完成初星课题60后解锁"
+      "description": "完成初星課題60後解鎖"
     },
     {
       "id": "main_task_group-02-01#2",
-      "description": "完成P课题1后解锁"
+      "description": "完成P課題1後解鎖"
     },
     {
       "id": "main_task_group-02-01#3",
-      "description": "完成P课题2后解锁"
+      "description": "完成P課題2後解鎖"
     },
     {
       "id": "main_task_group-02-01#4",
-      "description": "完成P课题3后解锁"
+      "description": "完成P課題3後解鎖"
     },
     {
       "id": "main_task_group-02-01#5",
-      "description": "完成P课题4后解锁"
+      "description": "完成P課題4後解鎖"
     },
     {
       "id": "main_task_group-02-01#6",
-      "description": "完成P课题5后解锁"
+      "description": "完成P課題5後解鎖"
     },
     {
       "id": "main_task_group-02-01#7",
-      "description": "完成P课题6后解锁"
+      "description": "完成P課題6後解鎖"
     },
     {
       "id": "main_task_group-02-01#8",
-      "description": "完成P课题7后解锁"
+      "description": "完成P課題7後解鎖"
     },
     {
       "id": "main_task_group-02-01#9",
-      "description": "完成P课题8后解锁"
+      "description": "完成P課題8後解鎖"
     },
     {
       "id": "main_task_group-02-01#10",
-      "description": "完成P课题9后解锁"
+      "description": "完成P課題9後解鎖"
     },
     {
       "id": "main_task_group-02-01#11",
-      "description": "完成P课题10后解锁"
+      "description": "完成P課題10後解鎖"
     },
     {
       "id": "main_task_group-02-01#12",
-      "description": "完成P课题11后解锁"
+      "description": "完成P課題11後解鎖"
     },
     {
       "id": "main_task_group-02-01#13",
-      "description": "完成P课题12后解锁"
+      "description": "完成P課題12後解鎖"
     },
     {
       "id": "main_task_group-02-01#14",
-      "description": "完成P课题13后解锁"
+      "description": "完成P課題13後解鎖"
     },
     {
       "id": "main_task_group-02-01#15",
-      "description": "完成P课题14后解锁"
+      "description": "完成P課題14後解鎖"
     },
     {
       "id": "main_task_group-02-01#16",
-      "description": "完成P课题15后解锁"
+      "description": "完成P課題15後解鎖"
     },
     {
       "id": "main_task_group-02-01#17",
-      "description": "完成P课题16后解锁"
+      "description": "完成P課題16後解鎖"
     },
     {
       "id": "main_task_group-02-01#18",
-      "description": "完成P课题17后解锁"
+      "description": "完成P課題17後解鎖"
     },
     {
       "id": "main_task_group-02-01#19",
-      "description": "完成P课题18后解锁"
+      "description": "完成P課題18後解鎖"
     },
     {
       "id": "main_task_group-02-01#20",
-      "description": "完成P课题19后解锁"
+      "description": "完成P課題19後解鎖"
     },
     {
       "id": "main_task_group-02-01#21",
-      "description": "完成P课题20后解锁"
+      "description": "完成P課題20後解鎖"
     },
     {
       "id": "main_task_group-02-01#22",
-      "description": "完成P课题21后解锁"
+      "description": "完成P課題21後解鎖"
     },
     {
       "id": "main_task_group-02-01#23",
-      "description": "完成P课题22后解锁"
+      "description": "完成P課題22後解鎖"
     },
     {
       "id": "main_task_group-02-01#24",
-      "description": "完成P课题23后解锁"
+      "description": "完成P課題23後解鎖"
     },
     {
       "id": "main_task_group-02-01#25",
-      "description": "完成P课题24后解锁"
+      "description": "完成P課題24後解鎖"
     },
     {
       "id": "main_task_group-02-01#26",
-      "description": "完成P课题25后解锁"
+      "description": "完成P課題25後解鎖"
     },
     {
       "id": "main_task_group-02-01#27",
-      "description": "完成P课题26后解锁"
+      "description": "完成P課題26後解鎖"
     },
     {
       "id": "main_task_group-02-01#28",
-      "description": "完成P课题27后解锁"
+      "description": "完成P課題27後解鎖"
     },
     {
       "id": "main_task_group-02-01#29",
-      "description": "完成P课题28后解锁"
+      "description": "完成P課題28後解鎖"
     },
     {
       "id": "main_task_group-02-01#30",
-      "description": "完成P课题29后解锁"
+      "description": "完成P課題29後解鎖"
     },
     {
       "id": "main_task_group-02-01#31",
-      "description": "完成P课题30后解锁"
+      "description": "完成P課題30後解鎖"
     },
     {
       "id": "main_task_group-02-01#32",
-      "description": "完成P课题31后解锁"
+      "description": "完成P課題31後解鎖"
     },
     {
       "id": "main_task_group-02-01#33",
-      "description": "完成P课题32后解锁"
+      "description": "完成P課題32後解鎖"
     },
     {
       "id": "main_task_group-02-01#34",
-      "description": "完成P课题33后解锁"
+      "description": "完成P課題33後解鎖"
     },
     {
       "id": "main_task_group-02-01#35",
-      "description": "完成P课题34后解锁"
+      "description": "完成P課題34後解鎖"
     },
     {
       "id": "main_task_group-02-01#36",
-      "description": "完成P课题35后解锁"
+      "description": "完成P課題35後解鎖"
     },
     {
       "id": "main_task_group-02-01#37",
-      "description": "完成P课题36后解锁"
+      "description": "完成P課題36後解鎖"
     },
     {
       "id": "main_task_group-02-01#38",
-      "description": "完成P课题37后解锁"
+      "description": "完成P課題37後解鎖"
     },
     {
       "id": "main_task_group-02-01#39",
-      "description": "完成P课题38后解锁"
+      "description": "完成P課題38後解鎖"
     },
     {
       "id": "main_task_group-02-01#40",
-      "description": "完成P课题39后解锁"
+      "description": "完成P課題39後解鎖"
     },
     {
       "id": "main_task_group-02-01#41",
-      "description": "完成P课题40后解锁"
+      "description": "完成P課題40後解鎖"
     },
     {
       "id": "main_task_group-02-01#42",
-      "description": "完成P课题41后解锁"
+      "description": "完成P課題41後解鎖"
     },
     {
       "id": "main_task_group-02-01#43",
-      "description": "完成P课题42后解锁"
+      "description": "完成P課題42後解鎖"
     },
     {
       "id": "main_task_group-02-01#44",
-      "description": "完成P课题43后解锁"
+      "description": "完成P課題43後解鎖"
     },
     {
       "id": "main_task_group-02-01#45",
-      "description": "完成P课题44后解锁"
+      "description": "完成P課題44後解鎖"
     },
     {
       "id": "main_task_group-02-01#46",
-      "description": "完成P课题45后解锁"
+      "description": "完成P課題45後解鎖"
     },
     {
       "id": "main_task_group-02-01#47",
-      "description": "完成P课题46后解锁"
+      "description": "完成P課題46後解鎖"
     },
     {
       "id": "main_task_group-02-01#48",
-      "description": "完成P课题47后解锁"
+      "description": "完成P課題47後解鎖"
     },
     {
       "id": "main_task_group-02-01#49",
-      "description": "完成P课题48后解锁"
+      "description": "完成P課題48後解鎖"
     },
     {
       "id": "main_task_group-02-01#50",
-      "description": "完成P课题49后解锁"
+      "description": "完成P課題49後解鎖"
     },
     {
       "id": "main_task_group-02-01#51",
-      "description": "完成P课题50后解锁"
+      "description": "完成P課題50後解鎖"
     },
     {
       "id": "main_task_group-02-01#52",
-      "description": "完成P课题51后解锁"
+      "description": "完成P課題51後解鎖"
     },
     {
       "id": "main_task_group-02-01#53",
-      "description": "完成P课题52后解锁"
+      "description": "完成P課題52後解鎖"
     },
     {
       "id": "main_task_group-02-01#54",
-      "description": "完成P课题53后解锁"
+      "description": "完成P課題53後解鎖"
     },
     {
       "id": "main_task_group-02-01#55",
-      "description": "完成P课题54后解锁"
+      "description": "完成P課題54後解鎖"
     },
     {
       "id": "main_task_group-02-01#56",
-      "description": "完成P课题55后解锁"
+      "description": "完成P課題55後解鎖"
     },
     {
       "id": "main_task_group-02-01#57",
-      "description": "完成P课题56后解锁"
+      "description": "完成P課題56後解鎖"
     },
     {
       "id": "main_task_group-02-01#58",
-      "description": "完成P课题57后解锁"
+      "description": "完成P課題57後解鎖"
     },
     {
       "id": "main_task_group-02-01#59",
-      "description": "完成P课题58后解锁"
+      "description": "完成P課題58後解鎖"
     },
     {
       "id": "main_task_group-02-01#60",
-      "description": "完成P课题59后解锁"
+      "description": "完成P課題59後解鎖"
     },
     {
       "id": "main_task_group-02-01#61",
-      "description": "完成P课题60后解锁"
+      "description": "完成P課題60後解鎖"
     },
     {
       "id": "main_task_group-02-01#62",
-      "description": "完成P课题61后解锁"
+      "description": "完成P課題61後解鎖"
     },
     {
       "id": "main_task_group-02-01#63",
-      "description": "完成P课题62后解锁"
+      "description": "完成P課題62後解鎖"
     },
     {
       "id": "main_task_group-02-01#64",
-      "description": "完成P课题63后解锁"
+      "description": "完成P課題63後解鎖"
     },
     {
       "id": "main_task_group-02-01#65",
-      "description": "完成P课题64后解锁"
+      "description": "完成P課題64後解鎖"
     },
     {
       "id": "main_task_group-02-01#66",
-      "description": "完成P课题65后解锁"
+      "description": "完成P課題65後解鎖"
     },
     {
       "id": "main_task_group-02-01#67",
-      "description": "完成P课题66后解锁"
+      "description": "完成P課題66後解鎖"
     },
     {
       "id": "main_task_group-02-01#68",
-      "description": "完成P课题67后解锁"
+      "description": "完成P課題67後解鎖"
     },
     {
       "id": "main_task_group-02-01#69",
-      "description": "完成P课题68后解锁"
+      "description": "完成P課題68後解鎖"
     },
     {
       "id": "main_task_group-02-01#70",
-      "description": "完成P课题69后解锁"
+      "description": "完成P課題69後解鎖"
     },
     {
       "id": "main_task_group-02-01#71",
-      "description": "完成P课题70后解锁"
+      "description": "完成P課題70後解鎖"
     },
     {
       "id": "main_task_group-02-01#72",
-      "description": "完成P课题71后解锁"
+      "description": "完成P課題71後解鎖"
     },
     {
       "id": "main_task_group-02-01#73",
-      "description": "完成P课题72后解锁"
+      "description": "完成P課題72後解鎖"
     },
     {
       "id": "main_task_group-02-01#74",
-      "description": "完成P课题73后解锁"
+      "description": "完成P課題73後解鎖"
     },
     {
       "id": "main_task_group-02-01#75",
-      "description": "完成P课题74后解锁"
+      "description": "完成P課題74後解鎖"
     },
     {
       "id": "main_task_group-02-01#76",
-      "description": "完成P课题75后解锁"
+      "description": "完成P課題75後解鎖"
     },
     {
       "id": "main_task_group-02-01#77",
-      "description": "完成P课题76后解锁"
+      "description": "完成P課題76後解鎖"
     },
     {
       "id": "main_task_group-02-01#78",
-      "description": "完成P课题77后解锁"
+      "description": "完成P課題77後解鎖"
     },
     {
       "id": "main_task_group-02-01#79",
-      "description": "完成P课题78后解锁"
+      "description": "完成P課題78後解鎖"
     },
     {
       "id": "main_task_group-02-01#80",
-      "description": "完成P课题79后解锁"
+      "description": "完成P課題79後解鎖"
     },
     {
       "id": "main_task_group-02-01#81",
-      "description": "完成P课题80后解锁"
+      "description": "完成P課題80後解鎖"
     },
     {
       "id": "main_task_group-02-01#82",
-      "description": "完成P课题81后解锁"
+      "description": "完成P課題81後解鎖"
     },
     {
       "id": "main_task_group-02-01#83",
-      "description": "完成P课题82后解锁"
+      "description": "完成P課題82後解鎖"
     },
     {
       "id": "main_task_group-02-01#84",
-      "description": "完成P课题83后解锁"
+      "description": "完成P課題83後解鎖"
     },
     {
       "id": "main_task_group-02-01#85",
-      "description": "完成P课题84后解锁"
+      "description": "完成P課題84後解鎖"
     },
     {
       "id": "main_task_group-02-01#86",
-      "description": "完成P课题85后解锁"
+      "description": "完成P課題85後解鎖"
     },
     {
       "id": "main_task_group-02-01#87",
-      "description": "完成P课题86后解锁"
+      "description": "完成P課題86後解鎖"
     },
     {
       "id": "main_task_group-02-01#88",
-      "description": "完成P课题87后解锁"
+      "description": "完成P課題87後解鎖"
     },
     {
       "id": "main_task_group-02-01#89",
-      "description": "完成P课题88后解锁"
+      "description": "完成P課題88後解鎖"
     },
     {
       "id": "main_task_group-02-01#90",
-      "description": "完成P课题89后解锁"
+      "description": "完成P課題89後解鎖"
     },
     {
       "id": "main_task_group-02-01#91",
-      "description": "完成P课题90后解锁"
+      "description": "完成P課題90後解鎖"
     },
     {
       "id": "main_task_group-02-01#92",
-      "description": "完成P课题91后解锁"
+      "description": "完成P課題91後解鎖"
     },
     {
       "id": "main_task_group-02-01#93",
-      "description": "完成P课题92后解锁"
+      "description": "完成P課題92後解鎖"
     },
     {
       "id": "main_task_group-02-01#94",
-      "description": "完成P课题93后解锁"
+      "description": "完成P課題93後解鎖"
     },
     {
       "id": "main_task_group-02-01#95",
-      "description": "完成P课题94后解锁"
+      "description": "完成P課題94後解鎖"
     },
     {
       "id": "main_task_group-02-01#96",
-      "description": "完成P课题95后解锁"
+      "description": "完成P課題95後解鎖"
     },
     {
       "id": "main_task_group-02-01#97",
-      "description": "完成P课题96后解锁"
+      "description": "完成P課題96後解鎖"
     },
     {
       "id": "main_task_group-02-01#98",
-      "description": "完成P课题97后解锁"
+      "description": "完成P課題97後解鎖"
     },
     {
       "id": "main_task_group-02-01#99",
-      "description": "完成P课题98后解锁"
+      "description": "完成P課題98後解鎖"
     },
     {
       "id": "main_task_group-02-01#100",
-      "description": "完成P课题99后解锁"
+      "description": "完成P課題99後解鎖"
     },
     {
       "id": "main_task_group-03-01#1",
-      "description": "完成P课题100后解锁"
+      "description": "完成P課題100後解鎖"
     },
     {
       "id": "main_task_group-03-01#2",
-      "description": "完成P课题2-1后解锁"
+      "description": "完成P課題2-1後解鎖"
     },
     {
       "id": "main_task_group-03-01#3",
-      "description": "完成P课题2-2后解锁"
+      "description": "完成P課題2-2後解鎖"
     },
     {
       "id": "main_task_group-03-01#4",
-      "description": "完成P课题2-3后解锁"
+      "description": "完成P課題2-3後解鎖"
     },
     {
       "id": "main_task_group-03-01#5",
-      "description": "完成P课题2-4后解锁"
+      "description": "完成P課題2-4後解鎖"
     },
     {
       "id": "main_task_group-03-01#6",
-      "description": "完成P课题2-5后解锁"
+      "description": "完成P課題2-5後解鎖"
     },
     {
       "id": "main_task_group-03-01#7",
-      "description": "完成P课题2-6后解锁"
+      "description": "完成P課題2-6後解鎖"
     },
     {
       "id": "main_task_group-03-01#8",
-      "description": "完成P课题2-7后解锁"
+      "description": "完成P課題2-7後解鎖"
     },
     {
       "id": "main_task_group-03-01#9",
-      "description": "完成P课题2-8后解锁"
+      "description": "完成P課題2-8後解鎖"
     },
     {
       "id": "main_task_group-03-01#10",
-      "description": "完成P课题2-9后解锁"
+      "description": "完成P課題2-9後解鎖"
     },
     {
       "id": "main_task_group-03-01#11",
-      "description": "完成P课题2-10后解锁"
+      "description": "完成P課題2-10後解鎖"
     },
     {
       "id": "main_task_group-03-01#12",
-      "description": "完成P课题2-11后解锁"
+      "description": "完成P課題2-11後解鎖"
     },
     {
       "id": "main_task_group-03-01#13",
-      "description": "完成P课题2-12后解锁"
+      "description": "完成P課題2-12後解鎖"
     },
     {
       "id": "main_task_group-03-01#14",
-      "description": "完成P课题2-13后解锁"
+      "description": "完成P課題2-13後解鎖"
     },
     {
       "id": "main_task_group-03-01#15",
-      "description": "完成P课题2-14后解锁"
+      "description": "完成P課題2-14後解鎖"
     },
     {
       "id": "main_task_group-03-01#16",
-      "description": "完成P课题2-15后解锁"
+      "description": "完成P課題2-15後解鎖"
     },
     {
       "id": "main_task_group-03-01#17",
-      "description": "完成P课题2-16后解锁"
+      "description": "完成P課題2-16後解鎖"
     },
     {
       "id": "main_task_group-03-01#18",
-      "description": "完成P课题2-17后解锁"
+      "description": "完成P課題2-17後解鎖"
     },
     {
       "id": "main_task_group-03-01#19",
-      "description": "完成P课题2-18后解锁"
+      "description": "完成P課題2-18後解鎖"
     },
     {
       "id": "main_task_group-03-01#20",
-      "description": "完成P课题2-19后解锁"
+      "description": "完成P課題2-19後解鎖"
     },
     {
       "id": "main_task_group-03-01#21",
-      "description": "完成P课题2-20后解锁"
+      "description": "完成P課題2-20後解鎖"
     },
     {
       "id": "main_task_group-03-01#22",
-      "description": "完成P课题2-21后解锁"
+      "description": "完成P課題2-21後解鎖"
     },
     {
       "id": "main_task_group-03-01#23",
-      "description": "完成P课题2-22后解锁"
+      "description": "完成P課題2-22後解鎖"
     },
     {
       "id": "main_task_group-03-01#24",
-      "description": "完成P课题2-23后解锁"
+      "description": "完成P課題2-23後解鎖"
     },
     {
       "id": "main_task_group-03-01#25",
-      "description": "完成P课题2-24后解锁"
+      "description": "完成P課題2-24後解鎖"
     },
     {
       "id": "main_task_group-03-01#26",
-      "description": "完成P课题2-25后解锁"
+      "description": "完成P課題2-25後解鎖"
     },
     {
       "id": "main_task_group-03-01#27",
-      "description": "完成P课题2-26后解锁"
+      "description": "完成P課題2-26後解鎖"
     },
     {
       "id": "main_task_group-03-01#28",
-      "description": "完成P课题2-27后解锁"
+      "description": "完成P課題2-27後解鎖"
     },
     {
       "id": "main_task_group-03-01#29",
-      "description": "完成P课题2-28后解锁"
+      "description": "完成P課題2-28後解鎖"
     },
     {
       "id": "main_task_group-03-01#30",
-      "description": "完成P课题2-29后解锁"
+      "description": "完成P課題2-29後解鎖"
     },
     {
       "id": "main_task_group-03-01#31",
-      "description": "完成P课题2-30后解锁"
+      "description": "完成P課題2-30後解鎖"
     },
     {
       "id": "main_task_group-03-01#32",
-      "description": "完成P课题2-31后解锁"
+      "description": "完成P課題2-31後解鎖"
     },
     {
       "id": "main_task_group-03-01#33",
-      "description": "完成P课题2-32后解锁"
+      "description": "完成P課題2-32後解鎖"
     },
     {
       "id": "main_task_group-03-01#34",
-      "description": "完成P课题2-33后解锁"
+      "description": "完成P課題2-33後解鎖"
     },
     {
       "id": "main_task_group-03-01#35",
-      "description": "完成P课题2-34后解锁"
+      "description": "完成P課題2-34後解鎖"
     },
     {
       "id": "main_task_group-03-01#36",
-      "description": "完成P课题2-35后解锁"
+      "description": "完成P課題2-35後解鎖"
     },
     {
       "id": "main_task_group-03-01#37",
-      "description": "完成P课题2-36后解锁"
+      "description": "完成P課題2-36後解鎖"
     },
     {
       "id": "main_task_group-03-01#38",
-      "description": "完成P课题2-37后解锁"
+      "description": "完成P課題2-37後解鎖"
     },
     {
       "id": "main_task_group-03-01#39",
-      "description": "完成P课题2-38后解锁"
+      "description": "完成P課題2-38後解鎖"
     },
     {
       "id": "main_task_group-03-01#40",
-      "description": "完成P课题2-39后解锁"
+      "description": "完成P課題2-39後解鎖"
     },
     {
       "id": "main_task_group-03-01#41",
-      "description": "完成P课题2-40后解锁"
+      "description": "完成P課題2-40後解鎖"
     },
     {
       "id": "main_task_group-03-01#42",
-      "description": "完成P课题2-41后解锁"
+      "description": "完成P課題2-41後解鎖"
     },
     {
       "id": "main_task_group-03-01#43",
-      "description": "完成P课题2-42后解锁"
+      "description": "完成P課題2-42後解鎖"
     },
     {
       "id": "main_task_group-03-01#44",
-      "description": "完成P课题2-43后解锁"
+      "description": "完成P課題2-43後解鎖"
     },
     {
       "id": "main_task_group-03-01#45",
-      "description": "完成P课题2-44后解锁"
+      "description": "完成P課題2-44後解鎖"
     },
     {
       "id": "main_task_group-03-01#46",
-      "description": "完成P课题2-45后解锁"
+      "description": "完成P課題2-45後解鎖"
     },
     {
       "id": "main_task_group-03-01#47",
-      "description": "完成P课题2-46后解锁"
+      "description": "完成P課題2-46後解鎖"
     },
     {
       "id": "main_task_group-03-01#48",
-      "description": "完成P课题2-47后解锁"
+      "description": "完成P課題2-47後解鎖"
     },
     {
       "id": "main_task_group-03-01#49",
-      "description": "完成P课题2-48后解锁"
+      "description": "完成P課題2-48後解鎖"
     },
     {
       "id": "main_task_group-03-01#50",
-      "description": "完成P课题2-49后解锁"
+      "description": "完成P課題2-49後解鎖"
     },
     {
       "id": "main_task_group-03-01#51",
-      "description": "完成P课题2-50后解锁"
+      "description": "完成P課題2-50後解鎖"
     },
     {
       "id": "main_task_group-03-01#52",
-      "description": "完成P课题51后解锁"
+      "description": "完成P課題51後解鎖"
     },
     {
       "id": "main_task_group-03-01#53",
-      "description": "完成P课题52后解锁"
+      "description": "完成P課題52後解鎖"
     },
     {
       "id": "main_task_group-03-01#54",
-      "description": "完成P课题53后解锁"
+      "description": "完成P課題53後解鎖"
     },
     {
       "id": "main_task_group-03-01#55",
-      "description": "完成P课题54后解锁"
+      "description": "完成P課題54後解鎖"
     },
     {
       "id": "main_task_group-03-01#56",
-      "description": "完成P课题55后解锁"
+      "description": "完成P課題55後解鎖"
     },
     {
       "id": "main_task_group-03-01#57",
-      "description": "完成P课题56后解锁"
+      "description": "完成P課題56後解鎖"
     },
     {
       "id": "main_task_group-03-01#58",
-      "description": "完成P课题57后解锁"
+      "description": "完成P課題57後解鎖"
     },
     {
       "id": "main_task_group-03-01#59",
-      "description": "完成P课题58后解锁"
+      "description": "完成P課題58後解鎖"
     },
     {
       "id": "main_task_group-03-01#60",
-      "description": "完成P课题59后解锁"
+      "description": "完成P課題59後解鎖"
     },
     {
       "id": "main_task_group-03-01#61",
-      "description": "完成P课题60后解锁"
+      "description": "完成P課題60後解鎖"
     },
     {
       "id": "main_task_group-03-01#62",
-      "description": "完成P课题61后解锁"
+      "description": "完成P課題61後解鎖"
     },
     {
       "id": "main_task_group-03-01#63",
-      "description": "完成P课题62后解锁"
+      "description": "完成P課題62後解鎖"
     },
     {
       "id": "main_task_group-03-01#64",
-      "description": "完成P课题63后解锁"
+      "description": "完成P課題63後解鎖"
     },
     {
       "id": "main_task_group-03-01#65",
-      "description": "完成P课题64后解锁"
+      "description": "完成P課題64後解鎖"
     },
     {
       "id": "main_task_group-03-01#66",
-      "description": "完成P课题65后解锁"
+      "description": "完成P課題65後解鎖"
     },
     {
       "id": "main_task_group-03-01#67",
-      "description": "完成P课题66后解锁"
+      "description": "完成P課題66後解鎖"
     },
     {
       "id": "main_task_group-03-01#68",
-      "description": "完成P课题67后解锁"
+      "description": "完成P課題67後解鎖"
     },
     {
       "id": "main_task_group-03-01#69",
-      "description": "完成P课题68后解锁"
+      "description": "完成P課題68後解鎖"
     },
     {
       "id": "main_task_group-03-01#70",
-      "description": "完成P课题69后解锁"
+      "description": "完成P課題69後解鎖"
     },
     {
       "id": "main_task_group-03-01#71",
-      "description": "完成P课题70后解锁"
+      "description": "完成P課題70後解鎖"
     },
     {
       "id": "main_task_group-03-01#72",
-      "description": "完成P课题71后解锁"
+      "description": "完成P課題71後解鎖"
     },
     {
       "id": "main_task_group-03-01#73",
-      "description": "完成P课题72后解锁"
+      "description": "完成P課題72後解鎖"
     },
     {
       "id": "main_task_group-03-01#74",
-      "description": "完成P课题73后解锁"
+      "description": "完成P課題73後解鎖"
     },
     {
       "id": "main_task_group-03-01#75",
-      "description": "完成P课题74后解锁"
+      "description": "完成P課題74後解鎖"
     },
     {
       "id": "main_task_group-03-01#76",
-      "description": "完成P课题75后解锁"
+      "description": "完成P課題75後解鎖"
     },
     {
       "id": "main_task_group-03-01#77",
-      "description": "完成P课题76后解锁"
+      "description": "完成P課題76後解鎖"
     },
     {
       "id": "main_task_group-03-01#78",
-      "description": "完成P课题77后解锁"
+      "description": "完成P課題77後解鎖"
     },
     {
       "id": "main_task_group-03-01#79",
-      "description": "完成P课题78后解锁"
+      "description": "完成P課題78後解鎖"
     },
     {
       "id": "main_task_group-03-01#80",
-      "description": "完成P课题79后解锁"
+      "description": "完成P課題79後解鎖"
     },
     {
       "id": "main_task_group-03-01#81",
-      "description": "完成P课题80后解锁"
+      "description": "完成P課題80後解鎖"
     },
     {
       "id": "main_task_group-03-01#82",
-      "description": "完成P课题81后解锁"
+      "description": "完成P課題81後解鎖"
     },
     {
       "id": "main_task_group-03-01#83",
-      "description": "完成P课题82后解锁"
+      "description": "完成P課題82後解鎖"
     },
     {
       "id": "main_task_group-03-01#84",
-      "description": "完成P课题83后解锁"
+      "description": "完成P課題83後解鎖"
     },
     {
       "id": "main_task_group-03-01#85",
-      "description": "完成P课题84后解锁"
+      "description": "完成P課題84後解鎖"
     },
     {
       "id": "main_task_group-03-01#86",
-      "description": "完成P课题85后解锁"
+      "description": "完成P課題85後解鎖"
     },
     {
       "id": "main_task_group-03-01#87",
-      "description": "完成P课题86后解锁"
+      "description": "完成P課題86後解鎖"
     },
     {
       "id": "main_task_group-03-01#88",
-      "description": "完成P课题87后解锁"
+      "description": "完成P課題87後解鎖"
     },
     {
       "id": "main_task_group-03-01#89",
-      "description": "完成P课题88后解锁"
+      "description": "完成P課題88後解鎖"
     },
     {
       "id": "main_task_group-03-01#90",
-      "description": "完成P课题89后解锁"
+      "description": "完成P課題89後解鎖"
     },
     {
       "id": "main_task_group-03-01#91",
-      "description": "完成P课题90后解锁"
+      "description": "完成P課題90後解鎖"
     },
     {
       "id": "main_task_group-03-01#92",
-      "description": "完成P课题91后解锁"
+      "description": "完成P課題91後解鎖"
     },
     {
       "id": "main_task_group-03-01#93",
-      "description": "完成P课题92后解锁"
+      "description": "完成P課題92後解鎖"
     },
     {
       "id": "main_task_group-03-01#94",
-      "description": "完成P课题93后解锁"
+      "description": "完成P課題93後解鎖"
     },
     {
       "id": "main_task_group-03-01#95",
-      "description": "完成P课题94后解锁"
+      "description": "完成P課題94後解鎖"
     },
     {
       "id": "main_task_group-03-01#96",
-      "description": "完成P课题95后解锁"
+      "description": "完成P課題95後解鎖"
     },
     {
       "id": "main_task_group-03-01#97",
-      "description": "完成P课题96后解锁"
+      "description": "完成P課題96後解鎖"
     },
     {
       "id": "main_task_group-03-01#98",
-      "description": "完成P课题97后解锁"
+      "description": "完成P課題97後解鎖"
     },
     {
       "id": "main_task_group-03-01#99",
-      "description": "完成P课题98后解锁"
+      "description": "完成P課題98後解鎖"
     },
     {
       "id": "main_task_group-03-01#100",
-      "description": "完成P课题99后解锁"
+      "description": "完成P課題99後解鎖"
     },
     {
       "id": "main_task_group-04-01#1",
-      "description": "完成P课题100后解锁"
+      "description": "完成P課題100後解鎖"
     },
     {
       "id": "main_task_group-04-01#2",
-      "description": "完成P课题04-1后解锁"
+      "description": "完成P課題04-1後解鎖"
     },
     {
       "id": "main_task_group-04-01#3",
-      "description": "完成P课题04-2后解锁"
+      "description": "完成P課題04-2後解鎖"
     },
     {
       "id": "main_task_group-04-01#4",
-      "description": "完成P课题04-3后解锁"
+      "description": "完成P課題04-3後解鎖"
     },
     {
       "id": "main_task_group-04-01#5",
-      "description": "完成P课题04-4后解锁"
+      "description": "完成P課題04-4後解鎖"
     },
     {
       "id": "main_task_group-04-01#6",
-      "description": "完成P课题04-5后解锁"
+      "description": "完成P課題04-5後解鎖"
     },
     {
       "id": "main_task_group-04-01#7",
-      "description": "完成P课题04-6后解锁"
+      "description": "完成P課題04-6後解鎖"
     },
     {
       "id": "main_task_group-04-01#8",
-      "description": "完成P课题04-7后解锁"
+      "description": "完成P課題04-7後解鎖"
     },
     {
       "id": "main_task_group-04-01#9",
-      "description": "完成P课题04-8后解锁"
+      "description": "完成P課題04-8後解鎖"
     },
     {
       "id": "main_task_group-04-01#10",
-      "description": "完成P课题04-9后解锁"
+      "description": "完成P課題04-9後解鎖"
     },
     {
       "id": "main_task_group-04-01#11",
-      "description": "完成P课题04-10后解锁"
+      "description": "完成P課題04-10後解鎖"
     },
     {
       "id": "main_task_group-04-01#12",
-      "description": "完成P课题04-11后解锁"
+      "description": "完成P課題04-11後解鎖"
     },
     {
       "id": "main_task_group-04-01#13",
-      "description": "完成P课题04-12后解锁"
+      "description": "完成P課題04-12後解鎖"
     },
     {
       "id": "main_task_group-04-01#14",
-      "description": "完成P课题04-13后解锁"
+      "description": "完成P課題04-13後解鎖"
     },
     {
       "id": "main_task_group-04-01#15",
-      "description": "完成P课题04-14后解锁"
+      "description": "完成P課題04-14後解鎖"
     },
     {
       "id": "main_task_group-04-01#16",
-      "description": "完成P课题04-15后解锁"
+      "description": "完成P課題04-15後解鎖"
     },
     {
       "id": "main_task_group-04-01#17",
-      "description": "完成P课题04-16后解锁"
+      "description": "完成P課題04-16後解鎖"
     },
     {
       "id": "main_task_group-04-01#18",
-      "description": "完成P课题04-17后解锁"
+      "description": "完成P課題04-17後解鎖"
     },
     {
       "id": "main_task_group-04-01#19",
-      "description": "完成P课题04-18后解锁"
+      "description": "完成P課題04-18後解鎖"
     },
     {
       "id": "main_task_group-04-01#20",
-      "description": "完成P课题04-19后解锁"
+      "description": "完成P課題04-19後解鎖"
     },
     {
       "id": "main_task_group-04-01#21",
-      "description": "完成P课题04-20后解锁"
+      "description": "完成P課題04-20後解鎖"
     },
     {
       "id": "main_task_group-04-01#22",
-      "description": "完成P课题04-21后解锁"
+      "description": "完成P課題04-21後解鎖"
     },
     {
       "id": "main_task_group-04-01#23",
-      "description": "完成P课题04-22后解锁"
+      "description": "完成P課題04-22後解鎖"
     },
     {
       "id": "main_task_group-04-01#24",
-      "description": "完成P课题04-23后解锁"
+      "description": "完成P課題04-23後解鎖"
     },
     {
       "id": "main_task_group-04-01#25",
-      "description": "完成P课题04-24后解锁"
+      "description": "完成P課題04-24後解鎖"
     },
     {
       "id": "main_task_group-04-01#26",
-      "description": "完成P课题04-25后解锁"
+      "description": "完成P課題04-25後解鎖"
     },
     {
       "id": "main_task_group-04-01#27",
-      "description": "完成P课题04-26后解锁"
+      "description": "完成P課題04-26後解鎖"
     },
     {
       "id": "main_task_group-04-01#28",
-      "description": "完成P课题04-27后解锁"
+      "description": "完成P課題04-27後解鎖"
     },
     {
       "id": "main_task_group-04-01#29",
-      "description": "完成P课题04-28后解锁"
+      "description": "完成P課題04-28後解鎖"
     },
     {
       "id": "main_task_group-04-01#30",
-      "description": "完成P课题04-29后解锁"
+      "description": "完成P課題04-29後解鎖"
     },
     {
       "id": "main_task_group-04-01#31",
-      "description": "完成P课题04-30后解锁"
+      "description": "完成P課題04-30後解鎖"
     },
     {
       "id": "main_task_group-04-01#32",
-      "description": "完成P课题04-31后解锁"
+      "description": "完成P課題04-31後解鎖"
     },
     {
       "id": "main_task_group-04-01#33",
-      "description": "完成P课题04-32后解锁"
+      "description": "完成P課題04-32後解鎖"
     },
     {
       "id": "main_task_group-04-01#34",
-      "description": "完成P课题04-33后解锁"
+      "description": "完成P課題04-33後解鎖"
     },
     {
       "id": "main_task_group-04-01#35",
-      "description": "完成P课题04-34后解锁"
+      "description": "完成P課題04-34後解鎖"
     },
     {
       "id": "main_task_group-04-01#36",
-      "description": "完成P课题04-35后解锁"
+      "description": "完成P課題04-35後解鎖"
     },
     {
       "id": "main_task_group-04-01#37",
-      "description": "完成P课题04-36后解锁"
+      "description": "完成P課題04-36後解鎖"
     },
     {
       "id": "main_task_group-04-01#38",
-      "description": "完成P课题04-37后解锁"
+      "description": "完成P課題04-37後解鎖"
     },
     {
       "id": "main_task_group-04-01#39",
-      "description": "完成P课题04-38后解锁"
+      "description": "完成P課題04-38後解鎖"
     },
     {
       "id": "main_task_group-04-01#40",
-      "description": "完成P课题04-39后解锁"
+      "description": "完成P課題04-39後解鎖"
     },
     {
       "id": "main_task_group-04-01#41",
-      "description": "完成P课题04-40后解锁"
+      "description": "完成P課題04-40後解鎖"
     },
     {
       "id": "main_task_group-04-01#42",
-      "description": "完成P课题04-41后解锁"
+      "description": "完成P課題04-41後解鎖"
     },
     {
       "id": "main_task_group-04-01#43",
-      "description": "完成P课题04-42后解锁"
+      "description": "完成P課題04-42後解鎖"
     },
     {
       "id": "main_task_group-04-01#44",
-      "description": "完成P课题04-43后解锁"
+      "description": "完成P課題04-43後解鎖"
     },
     {
       "id": "main_task_group-04-01#45",
-      "description": "完成P课题04-44后解锁"
+      "description": "完成P課題04-44後解鎖"
     },
     {
       "id": "main_task_group-04-01#46",
-      "description": "完成P课题04-45后解锁"
+      "description": "完成P課題04-45後解鎖"
     },
     {
       "id": "main_task_group-04-01#47",
-      "description": "完成P课题04-46后解锁"
+      "description": "完成P課題04-46後解鎖"
     },
     {
       "id": "main_task_group-04-01#48",
-      "description": "完成P课题04-47后解锁"
+      "description": "完成P課題04-47後解鎖"
     },
     {
       "id": "main_task_group-04-01#49",
-      "description": "完成P课题04-48后解锁"
+      "description": "完成P課題04-48後解鎖"
     },
     {
       "id": "main_task_group-04-01#50",
-      "description": "完成P课题04-49后解锁"
+      "description": "完成P課題04-49後解鎖"
     }
   ]
 }

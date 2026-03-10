@@ -9,32 +9,32 @@
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeFinalLessonHard",
-      "title": "冲刺训练开始！"
+      "title": "衝刺訓練開始！"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "冲刺训练开始！"
+      "title": "衝刺訓練開始！"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "冲刺训练开始！"
+      "title": "衝刺訓練開始！"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
-      "title": "最终考试前日"
+      "title": "最終考試前日"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
-      "title": "期中考试前日"
+      "title": "期中考試前日"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
-      "title": "期中考试前日"
+      "title": "期中考試前日"
     },
     {
       "produceType": "ProduceType_FirstStar",
@@ -44,57 +44,57 @@
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_FirstStar",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalLessonHard",
-      "title": "冲刺训练开始！"
+      "title": "衝刺訓練開始！"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1LessonHard",
-      "title": "冲刺训练开始！"
+      "title": "衝刺訓練開始！"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2LessonHard",
-      "title": "冲刺训练开始！"
+      "title": "衝刺訓練開始！"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
-      "title": "最终公演前日"
+      "title": "最終公演前日"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
@@ -109,17 +109,17 @@
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeFinalAuditionSelect",
-      "title": "最终公演选择"
+      "title": "最終公演選擇"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid1AuditionSelect",
-      "title": "第1次公演选择"
+      "title": "第1次公演選擇"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_BeforeMid2AuditionSelect",
-      "title": "第2次公演选择"
+      "title": "第2次公演選擇"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
@@ -134,37 +134,37 @@
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultTrueEnd",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultA",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultB",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultC",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedFinal",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid1",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     },
     {
       "produceType": "ProduceType_NextIdolAudition",
       "type": "ProduceAdvType_ProduceResultFailedMid2",
-      "title": "最终评价是……"
+      "title": "最終評價是……"
     }
   ]
 }
