@@ -1,9 +1,9 @@
 name: Update Submodules and Release
 
 on:
-  schedule: 
-    - cron: '0 0 * * *'  # 每天凌晨00:00运行
-  workflow_dispatch: 
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
     inputs:
       force_update:
         description: 'Force Update'
@@ -11,17 +11,21 @@ on:
         type: boolean
         default: false
 
+permissions:
+  contents: write
+
 jobs:
   check-and-release:
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 180
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with: 
+        with:
           fetch-depth: 0
           submodules: 'recursive'
-          
+
       - name: Check for submodule updates
         run: |
           git submodule update --progress --init --force --remote
@@ -32,7 +36,7 @@ jobs:
             echo "updated=false" >> $GITHUB_ENV
           fi
 
-      - name: Setup Node.js (latest version)
+      - name: Setup Node.js
         if: env.updated == 'true'
         uses: actions/setup-node@v4
         with:
@@ -43,7 +47,19 @@ jobs:
         uses: pnpm/action-setup@v4.0.0
         with:
           version: 9
-          
+
+      - name: Setup Python
+        if: env.updated == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        if: env.updated == 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt opencc-python-reimplemented
+
       - name: Update Localization
         if: env.updated == 'true'
         run: |
@@ -51,7 +67,7 @@ jobs:
           cp .env.sample .env
           pnpm install
           pnpm ts-node main.ts
-          
+
       - name: Get game resources
         if: env.updated == 'true'
         uses: actions/checkout@v4
@@ -59,20 +75,27 @@ jobs:
           repository: DreamGallery/Campus-adv-txts
           ref: main
           path: Campus_adv_txts
-      
-      - name: Copy txt to tmp
+
+      - name: Copy txt to raw
         if: env.updated == 'true'
         run: |
-          mkdir ./raw
+          rm -rf ./raw
+          mkdir -p ./raw
           cp -r Campus_adv_txts/Resource/adv* ./raw
-          
+
       - name: Merge Resources
         if: env.updated == 'true'
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
           python merge.py
 
-      - name: Increment version and zip files
+      - name: Build zhTW package
+        if: env.updated == 'true'
+        run: |
+          python build_zhtw.py
+
+      - name: Increment version and zip CN package
         if: env.updated == 'true'
         run: |
           VERSION=$(cat version.txt | sed 's/v//')
@@ -82,17 +105,23 @@ jobs:
           echo $NEW_VERSION > version.txt
           echo "NEW_VERSION=$NEW_VERSION" >> $GITHUB_ENV
           zip -r GakumasTranslationData.zip local-files version.txt
-      
+
       - name: Create Release
         if: env.updated == 'true'
         uses: ncipollo/release-action@v1
         with:
-          artifacts: GakumasTranslationData.zip
+          artifacts: GakumasTranslationData.zip,GakumasTranslationData_zhTW.zip
           token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ env.NEW_VERSION }}
           name: ${{ env.NEW_VERSION }}
-          body: 'New release ${{ env.NEW_VERSION }}'
+          body: |
+            New release ${{ env.NEW_VERSION }}
+
+            Assets:
+            - GakumasTranslationData.zip
+            - GakumasTranslationData_zhTW.zip
           allowUpdates: true
+          replacesArtifacts: true
 
       - name: Commit and Push Changes
         if: env.updated == 'true'
@@ -100,5 +129,5 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "GitHub Action"
           git add .
-          git commit -m "Update submodules and version.txt to ${{ env.NEW_VERSION }}"
+          git commit -m "Update submodules and version.txt to ${{ env.NEW_VERSION }}" || echo "No changes to commit"
           git push
