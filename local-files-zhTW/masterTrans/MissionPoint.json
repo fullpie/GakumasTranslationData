@@ -7,111 +7,111 @@
   "data": [
     {
       "id": "comeback_daily_release_mission_001_point",
-      "name": "迴歸任務Pt"
+      "name": "回归任务Pt"
     },
     {
       "id": "daily_mission_NIA_clear_point",
-      "name": "NIA挑戰Pt"
+      "name": "NIA挑战Pt"
     },
     {
       "id": "highscore-event-001_point",
-      "name": "偶像強化月活動Pt"
+      "name": "偶像强化月活动Pt"
     },
     {
       "id": "highscore-event-002_point",
-      "name": "偶像強化月活動Pt"
+      "name": "偶像强化月活动Pt"
     },
     {
       "id": "highscore-event-003_point",
-      "name": "高分活動Pt"
+      "name": "高分活动Pt"
     },
     {
       "id": "highscore-event-004_point",
-      "name": "高分活動Pt"
+      "name": "高分活动Pt"
     },
     {
       "id": "highscorerush-event-001_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "highscorerush-event-002_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "highscorerush-event-003_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "highscorerush-event-004_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "highscorerush-event-005_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "highscorerush-event-006_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "highscorerush-event-007_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "highscorerush-event-008_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "highscorerush-event-009_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "highscorerush-event-010_point",
-      "name": "活動Pt"
+      "name": "活动Pt"
     },
     {
       "id": "main-story-event-001_point",
-      "name": "初星交流活動任務Pt"
+      "name": "初星交流活动任务Pt"
     },
     {
       "id": "main-story-event-002_point",
-      "name": "初星交流活動Pt"
+      "name": "初星交流活动Pt"
     },
     {
       "id": "main-story-event-003_point",
-      "name": "初星交流活動Pt"
+      "name": "初星交流活动Pt"
     },
     {
       "id": "main-story-event-004_point",
-      "name": "初星交流活動Pt"
+      "name": "初星交流活动Pt"
     },
     {
       "id": "main-story-event-005_point",
-      "name": "初星交流活動Pt"
+      "name": "初星交流活动Pt"
     },
     {
       "id": "main-story-event-006_point",
-      "name": "初星交流活動Pt"
+      "name": "初星交流活动Pt"
     },
     {
       "id": "main-story-event-007_point",
-      "name": "初星交流活動Pt"
+      "name": "初星交流活动Pt"
     },
     {
       "id": "main-story-event-008_point",
-      "name": "初星交流活動Pt"
+      "name": "初星交流活动Pt"
     },
     {
       "id": "main-story-event-009_point",
-      "name": "初星交流活動Pt"
+      "name": "初星交流活动Pt"
     },
     {
       "id": "main-story-event-010_point",
-      "name": "初星交流活動Pt"
+      "name": "初星交流活动Pt"
     },
     {
       "id": "mission-daily-point",
-      "name": "每日任務Pt"
+      "name": "每日任务Pt"
     },
     {
       "id": "mission-release_memorial_point",
@@ -119,7 +119,7 @@
     },
     {
       "id": "mission-weekly-point",
-      "name": "每週任務Pt"
+      "name": "每周任务Pt"
     }
   ]
 }

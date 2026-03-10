@@ -79,7 +79,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "元氣"
+          "text": "元气"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -112,7 +112,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "烏龍茶"
+      "name": "乌龙茶"
     },
     {
       "id": "pdrink_00-2-001",
@@ -125,7 +125,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "變更全部手牌"
+          "text": "变更全部手牌"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -145,7 +145,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "體力回覆"
+          "text": "体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -191,7 +191,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "體力回覆"
+          "text": "体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -224,7 +224,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "恢復飲料"
+      "name": "恢复饮料"
     },
     {
       "id": "pdrink_00-2-004",
@@ -247,7 +247,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardUpgrade",
-          "text": "訓練中強化"
+          "text": "训练中强化"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -267,7 +267,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaRecoverFix",
-          "text": "體力回覆"
+          "text": "体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -300,7 +300,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "新鮮果醋"
+      "name": "新鲜果醋"
     },
     {
       "id": "pdrink_00-2-008",
@@ -383,7 +383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "消耗體力減少"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -433,7 +433,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "體力消耗"
+          "text": "体力消耗"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -466,7 +466,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "強化精華飲料"
+      "name": "强化精华饮料"
     },
     {
       "id": "pdrink_00-2-009",
@@ -479,7 +479,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "將牌堆或棄牌中的1張偶像固有技能卡，向"
+          "text": "将牌堆或弃牌中的1张偶像固有技能卡，向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -499,7 +499,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中移動"
+          "text": "中移动"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -519,7 +519,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "消耗體力減少"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -552,7 +552,7 @@
           "text": "回合</nobr>"
         }
       ],
-      "name": "能量提升漢方飲料"
+      "name": "能量提升汉方饮料"
     },
     {
       "id": "pdrink_00-2-010",
@@ -655,7 +655,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "張</nobr>"
+          "text": "张</nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -675,7 +675,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "體力消耗"
+          "text": "体力消耗"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -725,7 +725,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在之後的<nobr>"
+          "text": "在之后的<nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -755,7 +755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始後，"
+          "text": "回合开始后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -778,7 +778,7 @@
           "text": "\t"
         }
       ],
-      "name": "當藥蘇打水"
+      "name": "当药苏打水"
     },
     {
       "id": "pdrink_00-3-001",
@@ -791,7 +791,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPlayableValueAdd_Produce",
-          "text": "技能卡使用數追加"
+          "text": "技能卡使用数追加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -824,7 +824,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "初星蛋白粉飲料"
+      "name": "初星蛋白粉饮料"
     },
     {
       "id": "pdrink_00-3-005",
@@ -837,7 +837,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "隨機強化後的技能卡（SSR），向"
+          "text": "随机强化后的技能卡（SSR），向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -870,7 +870,7 @@
           "text": "生成"
         }
       ],
-      "name": "初星特製青汁"
+      "name": "初星特制青汁"
     },
     {
       "id": "pdrink_00-3-013",
@@ -883,7 +883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "隨機"
+          "text": "随机"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -903,10 +903,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "強化後的固有技能卡（SSR），並且無需花費值使用"
+          "text": "强化后的固有技能卡（SSR），并且无需花费值使用"
         }
       ],
-      "name": "初星特製青汁X"
+      "name": "初星特制青汁X"
     },
     {
       "id": "pdrink_01-1-002",
@@ -919,7 +919,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuff",
-          "text": "好調"
+          "text": "好调"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -952,7 +952,7 @@
           "text": "回合</nobr>"
         }
       ],
-      "name": "維生素飲料"
+      "name": "维生素饮料"
     },
     {
       "id": "pdrink_01-1-003",
@@ -1011,7 +1011,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-          "text": "絕好調"
+          "text": "绝好调"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1061,7 +1061,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "元氣"
+          "text": "元气"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1094,7 +1094,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "持久力爆發飲料"
+      "name": "持久力爆发饮料"
     },
     {
       "id": "pdrink_01-3-002",
@@ -1107,7 +1107,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "以後，"
+          "text": "以后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1117,7 +1117,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合結束時，"
+          "text": "回合结束时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1170,7 +1170,7 @@
           "text": "\t"
         }
       ],
-      "name": "嚴選初星瑪奇朵"
+      "name": "严选初星玛奇朵"
     },
     {
       "id": "pdrink_01-3-004",
@@ -1183,7 +1183,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamParameterBuffMultiplePerTurn",
-          "text": "絕好調"
+          "text": "绝好调"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1243,10 +1243,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardUpgrade",
-          "text": "訓練中強化"
+          "text": "训练中强化"
         }
       ],
-      "name": "初星強化能量飲料"
+      "name": "初星强化能量饮料"
     },
     {
       "id": "pdrink_01-3-012",
@@ -1259,7 +1259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "選擇牌堆或棄牌中的技能卡，向"
+          "text": "选择牌堆或弃牌中的技能卡，向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -1279,7 +1279,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中移動"
+          "text": "中移动"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1299,7 +1299,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用的下一張技能卡消耗的體力變為<nobr>"
+          "text": "使用的下一张技能卡消耗的体力变为<nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1359,7 +1359,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "體力消耗"
+          "text": "体力消耗"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1409,7 +1409,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "消耗體力增加"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1501,7 +1501,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "幹勁"
+          "text": "干劲"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1534,7 +1534,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "熱咖啡"
+      "name": "热咖啡"
     },
     {
       "id": "pdrink_02-2-006",
@@ -1577,7 +1577,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "%</nobr>數值變為"
+          "text": "%</nobr>数值变为"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1627,7 +1627,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamBlock",
-          "text": "元氣"
+          "text": "元气"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1660,7 +1660,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "時尚草本茶"
+      "name": "时尚草本茶"
     },
     {
       "id": "pdrink_02-3-006",
@@ -1673,7 +1673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "以後，"
+          "text": "以后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1683,7 +1683,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合結束時，"
+          "text": "回合结束时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1736,7 +1736,7 @@
           "text": "\t"
         }
       ],
-      "name": "嚴選初星茶"
+      "name": "严选初星茶"
     },
     {
       "id": "pdrink_02-3-007",
@@ -1749,7 +1749,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "以後，"
+          "text": "以后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1759,7 +1759,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合結束時，"
+          "text": "回合结束时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1769,7 +1769,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamCardPlayAggressive_Produce",
-          "text": "幹勁"
+          "text": "干劲"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1812,7 +1812,7 @@
           "text": "\t"
         }
       ],
-      "name": "嚴選初星拼配咖啡"
+      "name": "严选初星拼配咖啡"
     },
     {
       "id": "pdrink_02-3-010",
@@ -1825,7 +1825,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用的下一張"
+          "text": "使用的下一张"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -1835,7 +1835,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ActiveSkillCard",
-          "text": "主動技能卡"
+          "text": "主动技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1845,7 +1845,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的效果再發動<nobr>"
+          "text": "的效果再发动<nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -1925,7 +1925,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "體力消耗"
+          "text": "体力消耗"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -1975,7 +1975,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "消耗體力增加"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2008,7 +2008,7 @@
           "text": "回合</nobr>"
         }
       ],
-      "name": "特製初星精華"
+      "name": "特制初星精华"
     },
     {
       "id": "pdrink_03-1-009",
@@ -2021,7 +2021,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "強氣"
+          "text": "强气"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2031,7 +2031,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "變更"
+          "text": "变更"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2084,7 +2084,7 @@
           "text": "</nobr>"
         }
       ],
-      "name": "薑汁汽水"
+      "name": "姜汁汽水"
     },
     {
       "id": "pdrink_03-1-010",
@@ -2097,7 +2097,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "溫存"
+          "text": "温存"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2107,7 +2107,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "變更"
+          "text": "变更"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2173,7 +2173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "選擇牌堆或棄牌中的技能卡，向"
+          "text": "选择牌堆或弃牌中的技能卡，向"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -2193,7 +2193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中移動"
+          "text": "中移动"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2213,7 +2213,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamPreservation_Produce",
-          "text": "溫存"
+          "text": "温存"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2233,10 +2233,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "階段變更"
+          "text": "阶段变更"
         }
       ],
-      "name": "熱綠茶"
+      "name": "热绿茶"
     },
     {
       "id": "pdrink_03-3-008",
@@ -2249,7 +2249,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "以後，"
+          "text": "以后，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2259,7 +2259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回合開始時，"
+          "text": "回合开始时，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2312,7 +2312,7 @@
           "text": "\t"
         }
       ],
-      "name": "嚴選初星印度茶"
+      "name": "严选初星印度茶"
     },
     {
       "id": "pdrink_03-3-009",
@@ -2325,7 +2325,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamConcentration_Produce",
-          "text": "強氣"
+          "text": "强气"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -2345,7 +2345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "階段變更"
+          "text": "阶段变更"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2365,7 +2365,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionDown",
-          "text": "消耗體力減少"
+          "text": "消耗体力减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2398,7 +2398,7 @@
           "text": "回合</nobr>"
         }
       ],
-      "name": "初星超級蘇打水"
+      "name": "初星超级苏打水"
     },
     {
       "id": "pdrink_03-3-011",
@@ -2441,7 +2441,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaReduceFix",
-          "text": "體力消耗"
+          "text": "体力消耗"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2491,7 +2491,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamStaminaConsumptionAdd",
-          "text": "消耗體力增加"
+          "text": "消耗体力增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -2524,7 +2524,7 @@
           "text": "回合</nobr>"
         }
       ],
-      "name": "初星湯"
+      "name": "初星汤"
     }
   ]
 }
