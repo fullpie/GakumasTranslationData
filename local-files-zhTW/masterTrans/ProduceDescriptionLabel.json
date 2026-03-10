@@ -254,7 +254,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加值会增加\n"
+          "text": "增加值会增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -274,7 +274,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有增加效果的技能卡不会被影响\n"
+          "text": "沒有增加效果的技能卡不會被影響"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -340,7 +340,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加值减少\n"
+          "text": "增加值减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -360,7 +360,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有增加效果的技能卡不会被影响\n增加值不会变为0\n"
+          "text": "沒有增加效果的技能卡不會被影響\n增加值不会变为0"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -528,7 +528,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡所必需的体力会增加\n强化状态・"
+          "text": "使用技能卡所必需的體力會增加\n强化状态・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -584,7 +584,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的花费值不会被影响"
+          "text": "会增加\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "干劲花费值增加"
@@ -620,7 +620,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的花费值不会被影响"
+          "text": "会减少\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "干劲花费值减少"
@@ -636,7 +636,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡所必需的强化状态花费值会增加\n其他强化状态的花费值不会被影响"
+          "text": "使用技能卡所必需的強化狀態花費值會增加\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "强化状态花费值增加"
@@ -652,7 +652,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡所必需的强化状态花费值会减少\n其他强化状态的花费值不会被影响"
+          "text": "使用技能卡所必需的強化狀態花費值會減少\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "强化状态花费值减少"
@@ -688,7 +688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的花费值不会被影响"
+          "text": "会增加\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "全力值花费值增加"
@@ -724,7 +724,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的花费值不会被影响"
+          "text": "会减少\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "全力值花费值减少"
@@ -760,7 +760,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的花费值不会被影响"
+          "text": "会增加\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "集中花费值增加"
@@ -796,7 +796,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的花费值不会被影响"
+          "text": "会减少\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "集中花费值减少"
@@ -832,7 +832,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的花费值不会被影响"
+          "text": "会增加\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "好调花费值增加"
@@ -868,7 +868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的花费值不会被影响"
+          "text": "会增加\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "绝好调花费值增加"
@@ -904,7 +904,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的花费值不会被影响"
+          "text": "会减少\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "绝好调花费值减少"
@@ -940,7 +940,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的花费值不会被影响"
+          "text": "会减少\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "好调花费值减少"
@@ -1028,7 +1028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "使用技能卡所必需的体力会减少\n强化状态・"
+          "text": "使用技能卡所必需的體力會減少\n强化状态・"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1084,7 +1084,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会增加\n其他强化状态的花费值不会被影响"
+          "text": "会增加\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "好印象花费值增加"
@@ -1120,7 +1120,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "会减少\n其他强化状态的花费值不会被影响"
+          "text": "会减少\n其他強化狀態的花費值不會被影響"
         }
       ],
       "name": "好印象花费值减少"
@@ -1880,7 +1880,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "▼1阶段\n"
+          "text": "▼1阶段"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1900,7 +1900,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量和消耗体力增加100%\n\n▼2阶段\n"
+          "text": "上升量和消耗體力增加100%\n\n▼2阶段"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1976,7 +1976,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "进行变更\n已经是"
+          "text": "进行变更\n已經是"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -1996,7 +1996,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的时候，变更为2阶段\n\n▼1阶段\n"
+          "text": "的時候，變更為2階段\n\n▼1阶段"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2016,7 +2016,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量和消耗体力增加100%\n\n▼2阶段\n"
+          "text": "上升量和消耗體力增加100%\n\n▼2阶段"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2312,7 +2312,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "中的技能卡移动至手牌\n"
+          "text": "中的技能卡移動至手牌"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2352,7 +2352,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量增加200%\n下个回合开始时"
+          "text": "上升量增加200%\n下個回合開始時"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -2372,7 +2372,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "将解除\n"
+          "text": "將解除"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4087,7 +4087,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量和消耗体力减少100%\n解除的时候，"
+          "text": "上升量和消耗體力減少100%\n解除的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4207,7 +4207,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n\n"
+          "text": "+10\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4287,7 +4287,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "将无法变更\n"
+          "text": "將無法變更"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4383,7 +4383,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更\n"
+          "text": "变更"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4403,7 +4403,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量和消耗体力减少100%\n解除的时候，"
+          "text": "上升量和消耗體力減少100%\n解除的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4523,7 +4523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+10\n\n"
+          "text": "+10\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4603,7 +4603,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "将无法变更\n"
+          "text": "將無法變更"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -4993,7 +4993,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "▼1阶段\n"
+          "text": "▼1阶段"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5013,7 +5013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量和消耗体力减少50%\n解除的时候，"
+          "text": "上升量和消耗體力減少50%\n解除的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5053,7 +5053,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1\n\n▼2阶段\n"
+          "text": "+1\n\n▼2阶段"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5073,7 +5073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量和消耗体力减少75%\n解除的时候，"
+          "text": "上升量和消耗體力減少75%\n解除的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5169,7 +5169,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "进行变更\n已经是"
+          "text": "进行变更\n已經是"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5189,7 +5189,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的时候，变更为2阶段\n\n▼1阶段\n"
+          "text": "的時候，變更為2階段\n\n▼1阶段"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5209,7 +5209,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量和消耗体力减少50%\n解除的时候，"
+          "text": "上升量和消耗體力減少50%\n解除的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5249,7 +5249,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "+1\n\n▼2阶段\n"
+          "text": "+1\n\n▼2阶段"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -5269,7 +5269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升量和消耗体力减少75%\n解除的时候，"
+          "text": "上升量和消耗體力減少75%\n解除的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6147,7 +6147,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加值会增加\n"
+          "text": "增加值会增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6167,7 +6167,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有增加效果的技能卡不会被影响\n"
+          "text": "沒有增加效果的技能卡不會被影響"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6233,7 +6233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加值减少\n"
+          "text": "增加值减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6253,7 +6253,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有增加效果的技能卡不会被影响\n增加值不会变为0\n"
+          "text": "沒有增加效果的技能卡不會被影響\n增加值不会变为0"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6351,7 +6351,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升值增加\n"
+          "text": "上升值增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6371,7 +6371,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有上升效果的技能卡不会被影响\n"
+          "text": "沒有上升效果的技能卡不會被影響"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6485,7 +6485,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升次数将增加\n"
+          "text": "上升次數將增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6505,7 +6505,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有上升效果的技能卡不会被影响\n"
+          "text": "沒有上升效果的技能卡不會被影響"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6571,7 +6571,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升次数将减少\n"
+          "text": "上升次數將減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6591,7 +6591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有上升效果的技能卡不会被影响\n上升次数不会变为0\n"
+          "text": "沒有上升效果的技能卡不會被影響\n上升次数不会变为0"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6705,7 +6705,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "上升值将减少\n"
+          "text": "上升值將減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -6725,7 +6725,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有上升效果的技能卡不会被影响\n上升值不会变为0\n"
+          "text": "沒有上升效果的技能卡不會被影響\n上升值不会变为0"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7077,7 +7077,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "结束为止，技能卡的性能会进行变化\n没有目标效果的技能卡不会被影响"
+          "text": "結束為止，技能卡的效能會進行變化\n沒有目標效果的技能卡不會被影響"
         }
       ],
       "name": "[成长辅助]"
@@ -7174,7 +7174,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "变更时，向手牌中移动\n"
+          "text": "变更时，向手牌中移动"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7543,7 +7543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "学园活动，包括以下的日程\n授课・营业"
+          "text": "學園活動，包括以下的日程\n授课・营业"
         }
       ],
       "name": "学园活动"
@@ -7559,7 +7559,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "礼物，包括以下的日程\n活动补给・慰问品"
+          "text": "禮物，包括以下的日程\n活动补给・慰问品"
         }
       ],
       "name": "礼物"
@@ -7585,7 +7585,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加值会增加\n"
+          "text": "增加值会增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7605,7 +7605,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有增加效果的技能卡不会被影响\n"
+          "text": "沒有增加效果的技能卡不會被影響"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7671,7 +7671,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加值减少\n"
+          "text": "增加值减少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7691,7 +7691,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "没有增加效果的技能卡不会被影响\n增加值不会变为0\n"
+          "text": "沒有增加效果的技能卡不會被影響\n增加值不会变为0"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7933,7 +7933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "与阶段无法变更\n即使"
+          "text": "與階段無法變更\n即使"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7973,7 +7973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "无法生效\n"
+          "text": "无法生效"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",

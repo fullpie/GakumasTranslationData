@@ -4757,7 +4757,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n授课的消耗体力会有"
+          "text": "\n授課的消耗體力會有"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -4777,7 +4777,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的增加\n"
+          "text": "的增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -4843,7 +4843,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n授课的消耗体力会有"
+          "text": "\n授課的消耗體力會有"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -4863,7 +4863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的增加\n"
+          "text": "的增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -4929,7 +4929,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n咨询的所有项目会有"
+          "text": "\n諮詢的所有專案會有"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -4949,7 +4949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "涨价\n"
+          "text": "涨价"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -5025,7 +5025,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n考试前的体力回复量会有"
+          "text": "\n考試前的體力回覆量會有"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -5045,7 +5045,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的减少\n"
+          "text": "的減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -5121,7 +5121,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -5469,7 +5469,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得集中相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -5585,7 +5585,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好調相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -5701,7 +5701,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好印象相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -5817,7 +5817,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6165,7 +6165,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得集中相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6281,7 +6281,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好調相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6397,7 +6397,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好印象相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6513,7 +6513,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6861,7 +6861,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得集中相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6977,7 +6977,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好調相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -7093,7 +7093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好印象相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -7269,7 +7269,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的训练开始时，"
+          "text": "\n僅限於之後的訓練開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7405,7 +7405,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的训练开始时，"
+          "text": "\n僅限於之後的訓練開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -7541,7 +7541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的训练开始时，"
+          "text": "\n僅限於之後的訓練開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -10261,7 +10261,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n外出的P点数消耗量会有"
+          "text": "\n外出的P點數消耗量會有"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -10281,7 +10281,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的增加\n"
+          "text": "的增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -10357,7 +10357,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n授课的消耗体力会有"
+          "text": "\n授課的消耗體力會有"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -10377,7 +10377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的增加\n"
+          "text": "的增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -10443,7 +10443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n授课的消耗体力会有"
+          "text": "\n授課的消耗體力會有"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -10463,7 +10463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的减少\n"
+          "text": "的減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -10625,7 +10625,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n考试前的体力回复量会有"
+          "text": "\n考試前的體力回覆量會有"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -10645,7 +10645,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的减少\n"
+          "text": "的減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -10795,7 +10795,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11083,7 +11083,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得集中相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11179,7 +11179,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好調相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11275,7 +11275,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好印象相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11371,7 +11371,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11659,7 +11659,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得集中相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11755,7 +11755,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好調相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11851,7 +11851,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n体力回复"
+          "text": "\n選擇並獲得好印象相關的技能卡\n体力回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11947,7 +11947,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\nP点数+"
+          "text": "\n選擇並獲得幹勁相關的技能卡\nP点数+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -12235,7 +12235,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\nP点数+"
+          "text": "\n選擇並獲得集中相關的技能卡\nP点数+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -12331,7 +12331,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\nP点数+"
+          "text": "\n選擇並獲得好調相關的技能卡\nP点数+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -12427,7 +12427,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\nP点数+"
+          "text": "\n選擇並獲得好印象相關的技能卡\nP点数+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -12533,7 +12533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -12689,7 +12689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -12845,7 +12845,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13001,7 +13001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n"
+          "text": "\n選擇並獲得集中相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13157,7 +13157,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n"
+          "text": "\n選擇並獲得好調相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13313,7 +13313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13469,7 +13469,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13625,7 +13625,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13781,7 +13781,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13937,7 +13937,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n"
+          "text": "\n選擇並獲得集中相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14093,7 +14093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n"
+          "text": "\n選擇並獲得好調相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14249,7 +14249,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14405,7 +14405,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14561,7 +14561,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14717,7 +14717,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14873,7 +14873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n"
+          "text": "\n選擇並獲得集中相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -15029,7 +15029,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n"
+          "text": "\n選擇並獲得好調相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -15185,7 +15185,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -19901,7 +19901,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的营业结束时，获得随机P饮料（SR以上）2瓶\n（培育中2次）"
+          "text": "的營業結束時，獲得隨機P飲料（SR以上）2瓶\n（培育中2次）"
         }
       ],
       "name": "N.I.A托特包"
@@ -20287,7 +20287,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20363,7 +20363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20439,7 +20439,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20515,7 +20515,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n"
+          "text": "\n選擇並獲得集中相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20591,7 +20591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n"
+          "text": "\n選擇並獲得好調相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20667,7 +20667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20743,7 +20743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20819,7 +20819,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20895,7 +20895,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20971,7 +20971,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n"
+          "text": "\n選擇並獲得集中相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21047,7 +21047,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n"
+          "text": "\n選擇並獲得好調相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21123,7 +21123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21199,7 +21199,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21275,7 +21275,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21351,7 +21351,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21427,7 +21427,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n"
+          "text": "\n選擇並獲得集中相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21503,7 +21503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n"
+          "text": "\n選擇並獲得好調相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21579,7 +21579,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21857,7 +21857,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n技能卡获得时，持有技能卡在17张以上的时候，歌唱能力值上升+"
+          "text": "【高难度】\n技能卡獲得時，持有技能卡在17張以上的時候，歌唱能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -21933,7 +21933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n技能卡获得时，持有技能卡在17张以上的时候，舞蹈能力值上升+"
+          "text": "【高难度】\n技能卡獲得時，持有技能卡在17張以上的時候，舞蹈能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -22009,7 +22009,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n技能卡获得时，持有技能卡在17张以上的时候，视觉能力值上升+"
+          "text": "【高难度】\n技能卡獲得時，持有技能卡在17張以上的時候，視覺能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -30943,7 +30943,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出结束时，选择并获得好调相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "外出結束時，選擇並獲得好調相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -31099,7 +31099,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "活动补给结束时，选择并获得好调相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "活動補給結束時，選擇並獲得好調相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -31255,7 +31255,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出结束时，选择并获得集中相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "外出結束時，選擇並獲得集中相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -31411,7 +31411,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "活动补给结束时，选择并获得集中相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "活動補給結束時，選擇並獲得集中相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -39239,7 +39239,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，舞蹈能力值在200以上的时候，获得随机P饮料（SR以上）\n（培育中4次）"
+          "text": "效果的技能卡獲得時，舞蹈能力值在200以上的時候，獲得隨機P飲料（SR以上）\n（培育中4次）"
         }
       ],
       "name": "暖烘烘的满足"
@@ -41271,7 +41271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回复\n"
+          "text": "回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -41623,7 +41623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回复\n"
+          "text": "回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -46541,7 +46541,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得好调相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得好調相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -46647,7 +46647,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得集中相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得集中相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -46753,7 +46753,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得好调相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得好調相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -46859,7 +46859,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得集中相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得集中相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -46965,7 +46965,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n每获得3张技能卡，仅限于之后的试镜开始时，"
+          "text": "【高难度】\n每獲得3張技能卡，僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -47121,7 +47121,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n每获得3张技能卡，仅限于之后的试镜开始时，"
+          "text": "【高难度】\n每獲得3張技能卡，僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -47297,7 +47297,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调・集中相关的强化后的技能卡\n"
+          "text": "\n选择并获得好调・集中相关的强化后的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47443,7 +47443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调・集中相关的强化后的技能卡\n"
+          "text": "\n选择并获得好调・集中相关的强化后的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47589,7 +47589,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调・集中相关的强化后的技能卡\n"
+          "text": "\n选择并获得好调・集中相关的强化后的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47735,7 +47735,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调・集中相关的强化后的技能卡\n"
+          "text": "\n选择并获得好调・集中相关的强化后的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47891,7 +47891,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n"
+          "text": "\n選擇並獲得集中相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47977,7 +47977,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n"
+          "text": "\n選擇並獲得集中相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -48063,7 +48063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得集中相关的技能卡\n"
+          "text": "\n選擇並獲得集中相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -48149,7 +48149,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n"
+          "text": "\n選擇並獲得好調相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -48235,7 +48235,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n"
+          "text": "\n選擇並獲得好調相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -48321,7 +48321,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调相关的技能卡\n"
+          "text": "\n選擇並獲得好調相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -48457,7 +48457,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -48633,7 +48633,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -48809,7 +48809,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -48985,7 +48985,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -59815,7 +59815,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出结束时，选择并获得好印象相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "外出結束時，選擇並獲得好印象相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -59971,7 +59971,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "活动补给结束时，选择并获得好印象相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "活動補給結束時，選擇並獲得好印象相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -60127,7 +60127,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出结束时，选择并获得干劲相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "外出結束時，選擇並獲得幹勁相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -60283,7 +60283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "活动补给结束时，选择并获得干劲相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "活動補給結束時，選擇並獲得幹勁相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -69353,7 +69353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "效果的技能卡获得时，视觉能力值在200以上的时候，获得随机P饮料（SR以上）\n（培育中4次）"
+          "text": "效果的技能卡獲得時，視覺能力值在200以上的時候，獲得隨機P飲料（SR以上）\n（培育中4次）"
         }
       ],
       "name": "会长的完美计划"
@@ -71375,7 +71375,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回复\n"
+          "text": "回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -71727,7 +71727,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回复\n"
+          "text": "回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -78921,7 +78921,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得好印象相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得好印象相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -79027,7 +79027,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得干劲相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得幹勁相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -79133,7 +79133,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得好印象相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得好印象相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -79239,7 +79239,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得干劲相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得幹勁相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -79345,7 +79345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n每获得3张技能卡，仅限于之后的试镜开始时，"
+          "text": "【高难度】\n每獲得3張技能卡，僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -79501,7 +79501,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n每获得3张技能卡，仅限于之后的试镜开始时，"
+          "text": "【高难度】\n每獲得3張技能卡，僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -79677,7 +79677,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的强化后的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的強化後的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -79823,7 +79823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的强化后的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的強化後的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -79969,7 +79969,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的强化后的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的強化後的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80115,7 +80115,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的强化后的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的強化後的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80271,7 +80271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80357,7 +80357,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80443,7 +80443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好印象相关的技能卡\n"
+          "text": "\n選擇並獲得好印象相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80529,7 +80529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80615,7 +80615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80701,7 +80701,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得干劲相关的技能卡\n"
+          "text": "\n選擇並獲得幹勁相關的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80837,7 +80837,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -81013,7 +81013,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -81189,7 +81189,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -81365,7 +81365,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -89377,7 +89377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出结束时，选择并获得强气相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "外出結束時，選擇並獲得強氣相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -89533,7 +89533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "活动补给结束时，选择并获得强气相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "活動補給結束時，選擇並獲得強氣相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -89689,7 +89689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "外出结束时，选择并获得全力相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "外出結束時，選擇並獲得全力相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -89845,7 +89845,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "活动补给结束时，选择并获得全力相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "活動補給結束時，選擇並獲得全力相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -97367,7 +97367,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回复\n"
+          "text": "回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -97679,7 +97679,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回复\n"
+          "text": "回复"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -104621,7 +104621,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得强气相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得強氣相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -104727,7 +104727,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得全力相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得全力相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -104833,7 +104833,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得强气相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得強氣相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -104929,7 +104929,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n授课结束时，选择并获得全力相关的技能卡\n仅限于之后的试镜开始时，"
+          "text": "【高难度】\n授課結束時，選擇並獲得全力相關的技能卡\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -105025,7 +105025,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n每获得3张技能卡，仅限于之后的试镜开始时，"
+          "text": "【高难度】\n每獲得3張技能卡，僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -105181,7 +105181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "【高难度】\n每获得3张技能卡，仅限于之后的试镜开始时，"
+          "text": "【高难度】\n每獲得3張技能卡，僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -105357,7 +105357,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的强化后的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的强化后的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -105503,7 +105503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的强化后的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的强化后的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -105649,7 +105649,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的强化后的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的强化后的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -105795,7 +105795,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的强化后的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的强化后的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -105951,7 +105951,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106037,7 +106037,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106123,7 +106123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n"
+          "text": "\n选择并获得强气・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106209,7 +106209,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106295,7 +106295,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106381,7 +106381,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n"
+          "text": "\n选择并获得全力・温存相关的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106517,7 +106517,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -106673,7 +106673,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -106829,7 +106829,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -106985,7 +106985,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n仅限于之后的试镜开始时，"
+          "text": "\n僅限於之後的試鏡開始時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",

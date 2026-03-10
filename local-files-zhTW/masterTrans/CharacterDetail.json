@@ -89,7 +89,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "以帅气偶像为目标的小巧三年级生。被后辈们仰慕为「小小的王子殿下」。\n自幼憧憬歌剧明星，曾作为童星活跃，\n但最近因理想形象与身体成长产生的落差而烦恼。"
+      "content": "以帥氣偶像為目標的小巧三年級生。被後輩們仰慕為「小小的王子殿下」。\n自幼憧憬歌剧明星，曾作为童星活跃，\n但最近因理想形象與身體成長產生的落差而煩惱。"
     },
     {
       "characterId": "atbm",
@@ -251,7 +251,7 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "以「能赚钱的偶像」为目标的氛围制造者。\n中等部直升的內部升学组。拥有丰富的舞蹈才能。\n学园评价与自我评价皆低，但似乎未发挥真正实力。\n因同时兼顾多份打工，总是显得疲惫。"
+      "content": "以「能賺錢的偶像」為目標的氛圍製造者。\n中等部直升的內部升學組。擁有豐富的舞蹈才能。\n學園評價與自我評價皆低，但似乎未發揮真正實力。\n因同時兼顧多份打工，總是顯得疲憊。"
     },
     {
       "characterId": "hmsz",
@@ -335,7 +335,7 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "初中部第一组合「SyngUp!」的前成员。\n曾被月村手毬的光芒所掩盖，评价略显低调，但本人实力货真价实。\n给人一种缺点很少、完成度很高的偶像的印象。有望进一步成长。"
+      "content": "初中部第一組合「SyngUp!」的前成員。\n曾被月村手毬的光芒所掩蓋，評價略顯低調，但本人實力貨真價實。\n給人一種缺點很少、完成度很高的偶像的印象。有望進一步成長。"
     },
     {
       "characterId": "hrnm",
@@ -419,7 +419,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "散发成熟气质的三年级生。宿舍里备受依赖的姐姐。\n曾加入过偶像团体，但成绩不尽理想。"
+      "content": "散發成熟氣質的三年級生。宿舍裡備受依賴的姐姐。\n曾加入过偶像团体，但成绩不尽理想。"
     },
     {
       "characterId": "hski",
@@ -503,7 +503,7 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "入学考试榜首的新生。好胜不服输的前运动员。\n卓越的运动能力位列全校学生前10%。\n虽无经验但悟性极高，成长速度惊人。\n看似已近完成的能力，仿佛难有更大突破，然而……"
+      "content": "入學考試榜首的新生。好勝不服輸的前運動員。\n卓越的運動能力位列全校學生前10%。\n虽无经验但悟性极高，成长速度惊人。\n看似已近完成的能力，彷彿難有更大突破，然而……"
     },
     {
       "characterId": "hume",
@@ -587,7 +587,7 @@
       "characterId": "hume",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "作为补录生的新生。\n元气满满、运动能力超群的前运动员。"
+      "content": "作為補錄生的新生。\n元氣滿滿、運動能力超群的前運動員。"
     },
     {
       "characterId": "jsna",
@@ -671,7 +671,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "初星学园的学生会长，去年的“一番星”。\n被誉为“学园第一偶像”，深受众多学生爱戴。"
+      "content": "初星學園的學生會長，去年的“一番星”。\n被誉为“学园第一偶像”，深受众多学生爱戴。"
     },
     {
       "characterId": "kcna",
@@ -755,7 +755,7 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "被宠溺长大的纯正大小姐。天真烂漫的少女。\n怀揣「成为杰出偶像」的梦想考入初星学园。"
+      "content": "被寵溺長大的純正大小姐。天真爛漫的少女。\n懷揣「成為傑出偶像」的夢想考入初星學園。"
     },
     {
       "characterId": "kllj",
@@ -839,7 +839,7 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "海外来的新生。\n无歌舞经验，总因缺乏自信而畏缩。\n看似并不适合当偶像，但……"
+      "content": "海外來的新生。\n无歌舞经验，总因缺乏自信而畏缩。\n看似并不适合当偶像，但……"
     },
     {
       "characterId": "shro",
@@ -923,7 +923,7 @@
       "characterId": "shro",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "14岁大学毕业的天才少女。详细经历另记。\n舍弃备受期待的未来选择成为偶像，原因不明。\n入学考试笔试满分、实操零分。据传学园长面试评价为优等。"
+      "content": "14歲大學畢業的天才少女。詳細經歷另記。\n捨棄備受期待的未來選擇成為偶像，原因不明。\n入学考试笔试满分、实操零分。据传学园长面试评价为优等。"
     },
     {
       "characterId": "ssmk",
@@ -1007,7 +1007,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "活泼开朗、能与任何人亲近的少女。\n入学前曾有芭蕾舞扬名世界的实绩，备受期待。\n但常逃课旷训，显得毫无干劲。"
+      "content": "活潑開朗、能與任何人親近的少女。\n入學前曾有芭蕾舞揚名世界的實績，備受期待。\n但常逃课旷训，显得毫无干劲。"
     },
     {
       "characterId": "ttmr",
@@ -1091,7 +1091,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "中等部第一组合「SyngUp!」前成员。\n虽为一年级生，已具备一线水平的唱功。\n品行存疑。恶评缠身。麻烦制造者。"
+      "content": "中等部第一组合「SyngUp!」前成员。\n雖為一年級生，已具備一線水平的唱功。\n品行存疑。恶评缠身。麻烦制造者。"
     }
   ]
 }
