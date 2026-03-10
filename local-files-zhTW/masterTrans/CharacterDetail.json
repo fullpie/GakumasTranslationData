@@ -89,7 +89,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "以帥氣偶像為目標的小巧三年級生。被後輩們仰慕為「小小的王子殿下」。\n自幼憧憬歌剧明星，曾作为童星活跃，\n但最近因理想形象與身體成長產生的落差而煩惱。"
+      "content": "以帥氣偶像為目標的小巧三年級生。被後輩們仰慕為「小小的王子殿下」。\n自幼憧憬歌劇明星，曾作為童星活躍，\n但最近因理想形象與身體成長產生的落差而煩惱。"
     },
     {
       "characterId": "atbm",
@@ -419,7 +419,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "散發成熟氣質的三年級生。宿舍裡備受依賴的姐姐。\n曾加入过偶像团体，但成绩不尽理想。"
+      "content": "散發成熟氣質的三年級生。宿舍裡備受依賴的姐姐。\n曾加入過偶像團體，但成績不盡理想。"
     },
     {
       "characterId": "hski",
@@ -503,7 +503,7 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "入學考試榜首的新生。好勝不服輸的前運動員。\n卓越的運動能力位列全校學生前10%。\n虽无经验但悟性极高，成长速度惊人。\n看似已近完成的能力，彷彿難有更大突破，然而……"
+      "content": "入學考試榜首的新生。好勝不服輸的前運動員。\n卓越的運動能力位列全校學生前10%。\n雖無經驗但悟性極高，成長速度驚人。\n看似已近完成的能力，彷彿難有更大突破，然而……"
     },
     {
       "characterId": "hume",
@@ -671,7 +671,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "初星學園的學生會長，去年的“一番星”。\n被誉为“学园第一偶像”，深受众多学生爱戴。"
+      "content": "初星學園的學生會長，去年的“一番星”。\n被譽為“學園第一偶像”，深受眾多學生愛戴。"
     },
     {
       "characterId": "kcna",
@@ -839,7 +839,7 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "海外來的新生。\n无歌舞经验，总因缺乏自信而畏缩。\n看似并不适合当偶像，但……"
+      "content": "海外來的新生。\n無歌舞經驗，總因缺乏自信而畏縮。\n看似並不適合當偶像，但……"
     },
     {
       "characterId": "shro",
@@ -923,7 +923,7 @@
       "characterId": "shro",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "14歲大學畢業的天才少女。詳細經歷另記。\n捨棄備受期待的未來選擇成為偶像，原因不明。\n入学考试笔试满分、实操零分。据传学园长面试评价为优等。"
+      "content": "14歲大學畢業的天才少女。詳細經歷另記。\n捨棄備受期待的未來選擇成為偶像，原因不明。\n入學考試筆試滿分、實操零分。據傳學園長面試評價為優等。"
     },
     {
       "characterId": "ssmk",
@@ -1007,7 +1007,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "活潑開朗、能與任何人親近的少女。\n入學前曾有芭蕾舞揚名世界的實績，備受期待。\n但常逃课旷训，显得毫无干劲。"
+      "content": "活潑開朗、能與任何人親近的少女。\n入學前曾有芭蕾舞揚名世界的實績，備受期待。\n但常逃課曠訓，顯得毫無幹勁。"
     },
     {
       "characterId": "ttmr",
@@ -1091,7 +1091,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "中等部第一组合「SyngUp!」前成员。\n雖為一年級生，已具備一線水平的唱功。\n品行存疑。恶评缠身。麻烦制造者。"
+      "content": "中等部第一組合「SyngUp!」前成員。\n雖為一年級生，已具備一線水平的唱功。\n品行存疑。惡評纏身。麻煩製造者。"
     }
   ]
 }
