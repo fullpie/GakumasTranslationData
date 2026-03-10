@@ -14,7 +14,6 @@ from opencc import OpenCC
 
 RUBY_RE = re.compile(r"<r\\=(.*?)>(.*?)</r>", re.DOTALL)
 HIRAGANA_KATAKANA_RE = re.compile(r"[\u3040-\u30ff]")
-JP_STYLE_RE = re.compile(r"[々ヶ・ー]")
 
 CHINESE_FUNCTIONALS = {
     "的", "了", "和", "是", "在", "這", "这", "個", "个",
@@ -52,14 +51,10 @@ def zip_dir(src_dir: Path, zip_path: Path) -> None:
                 zf.write(p, p.relative_to(src_dir))
 
 
-def is_likely_japanese_line(text: str) -> bool:
+def has_kana(text: str) -> bool:
     if not text:
         return False
-    if HIRAGANA_KATAKANA_RE.search(text):
-        return True
-    if JP_STYLE_RE.search(text):
-        return True
-    return False
+    return bool(HIRAGANA_KATAKANA_RE.search(text))
 
 
 def is_likely_chinese_sentence(text: str) -> bool:
@@ -72,24 +67,23 @@ def should_preserve_single_line(text: str, upstream_reference: str | None = None
     if not text:
         return False
 
-    if is_likely_japanese_line(text):
+    # 只有 kana 才算強日文訊號
+    if has_kana(text):
         return True
 
+    # 與上游原文完全相同則保留
     if upstream_reference and text == upstream_reference:
         return True
 
-    if not is_likely_chinese_sentence(text):
-        return True
-
+    # 其他情況允許轉繁
     return False
 
 
 def convert_multiline_mixed_text(text: str, cc: OpenCC) -> str:
     """
-    專門處理歌詞/多行對照：
-    - 日文行保留
-    - 中文行轉繁
-    - 空行原樣保留
+    多行歌詞/對照：
+    - 含 kana 的行保留
+    - 其他行直接轉繁
     """
     lines = text.splitlines()
     converted_lines: list[str] = []
@@ -100,12 +94,10 @@ def convert_multiline_mixed_text(text: str, cc: OpenCC) -> str:
             converted_lines.append(line)
             continue
 
-        if is_likely_japanese_line(stripped):
+        if has_kana(stripped):
             converted_lines.append(line)
-        elif is_likely_chinese_sentence(stripped):
-            converted_lines.append(cc.convert(line))
         else:
-            converted_lines.append(line)
+            converted_lines.append(cc.convert(line))
 
     return "\n".join(converted_lines)
 
@@ -118,7 +110,7 @@ def iter_convert_json(obj: Any, cc: OpenCC, upstream_texts: set[str] | None = No
         return [iter_convert_json(x, cc, upstream_texts) for x in obj]
 
     if isinstance(obj, str):
-        # 多行字串（歌詞/對照）優先按行處理
+        # 多行字串（歌詞/對照）優先逐行處理
         if "\n" in obj:
             return convert_multiline_mixed_text(obj, cc)
 
@@ -207,7 +199,6 @@ def main() -> int:
 
     cc = OpenCC("s2twp")
 
-    # 下載上游 JSON 來源，供保留日文判斷
     print("Downloading upstream reference sources...", flush=True)
     pretranslation_root = download_and_extract_repo_zip(
         "imas-tools/GakumasPreTranslation", "etc"
