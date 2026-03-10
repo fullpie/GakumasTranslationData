@@ -196,7 +196,11 @@ def main() -> int:
     version_file = base / "version.txt"
     if version_file.exists():
         shutil.copy2(version_file, zh_tw_root / "version.txt")
-
+    marker_file = zh_tw_root / "_zhtw_build_marker.txt"
+    write_text(
+        marker_file,
+        "build_zhtw.py marker: FINAL-KANA-ONLY-V1\n"
+    )
     # 6) 打包 zhTW zip
     print("Packing GakumasTranslationData_zhTW.zip...", flush=True)
     zip_dir(zh_tw_root, base / "GakumasTranslationData_zhTW.zip")
