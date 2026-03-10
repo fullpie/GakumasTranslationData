@@ -3,12 +3,10 @@ from __future__ import annotations
 import json
 import re
 import shutil
-import tempfile
 import zipfile
 from pathlib import Path
 from typing import Any
 
-import requests
 from opencc import OpenCC
 
 
@@ -90,11 +88,9 @@ def iter_convert_json(obj: Any, cc: OpenCC) -> Any:
         return [iter_convert_json(x, cc) for x in obj]
 
     if isinstance(obj, str):
-        # 多行字串（歌詞/對照）優先逐行處理
         if "\n" in obj:
             return convert_multiline_mixed_text(obj, cc)
 
-        # 單行：只有含 kana 才保留，其他直接轉繁
         if should_preserve_single_line(obj):
             return obj
 
@@ -113,32 +109,42 @@ def convert_ruby_text(text: str, cc: OpenCC) -> str:
     return RUBY_RE.sub(repl, text)
 
 
-def download_and_extract_repo_zip(repo: str, subdir: str | None = None) -> Path:
-    tmp_dir = Path(tempfile.mkdtemp(prefix="gakumas_upstream_"))
-    zip_path = tmp_dir / "repo.zip"
-    url = f"https://github.com/{repo}/archive/refs/heads/main.zip"
+def build_name_overrides_from_repo(base: Path, cc: OpenCC) -> dict[str, str]:
+    """
+    直接讀 repo 裡現成的 name_dictionary.json，
+    把 value 從簡中轉成繁中，當成最終覆蓋表。
+    """
+    path = base / "name_dictionary.json"
+    if not path.exists():
+        return {}
 
-    with requests.get(url, stream=True, timeout=120) as r:
-        r.raise_for_status()
-        with open(zip_path, "wb") as f:
-            for chunk in r.iter_content(chunk_size=1024 * 1024):
-                if chunk:
-                    f.write(chunk)
+    raw = load_json(path)
+    name_map: dict[str, str] = {}
 
-    extract_dir = tmp_dir / "extract"
-    extract_dir.mkdir(parents=True, exist_ok=True)
+    for _, value in raw.items():
+        if isinstance(value, str):
+            name_map[value] = cc.convert(value)
 
-    with zipfile.ZipFile(zip_path, "r") as zf:
-        zf.extractall(extract_dir)
+    return name_map
 
-    roots = list(extract_dir.iterdir())
-    if not roots:
-        raise RuntimeError(f"Failed to extract repo archive: {repo}")
 
-    root = roots[0]
-    if subdir:
-        root = root / subdir
-    return root
+def apply_name_overrides_to_text(text: str, name_map: dict[str, str]) -> str:
+    if not name_map:
+        return text
+
+    for src, dst in sorted(name_map.items(), key=lambda x: len(x[0]), reverse=True):
+        text = text.replace(src, dst)
+    return text
+
+
+def apply_name_overrides_to_json(obj: Any, name_map: dict[str, str]) -> Any:
+    if isinstance(obj, dict):
+        return {k: apply_name_overrides_to_json(v, name_map) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [apply_name_overrides_to_json(x, name_map) for x in obj]
+    if isinstance(obj, str):
+        return apply_name_overrides_to_text(obj, name_map)
+    return obj
 
 
 def main() -> int:
@@ -147,65 +153,71 @@ def main() -> int:
     if not local_files.exists():
         raise FileNotFoundError("local-files not found. Please run merge.py first.")
 
-    zh_tw_root = base / "local-files-zhTW"
-    if zh_tw_root.exists():
-        shutil.rmtree(zh_tw_root)
-    shutil.copytree(local_files, zh_tw_root)
+    # 用暫存輸出目錄，最後直接打包成原本檔名
+    out_root = base / "local-files-out"
+    if out_root.exists():
+        shutil.rmtree(out_root)
+    shutil.copytree(local_files, out_root)
 
     cc = OpenCC("s2twp")
-
-    # 保留這三個下載，避免之後你想再加更細規則時重改 workflow
-    print("Downloading upstream reference sources...", flush=True)
-    download_and_extract_repo_zip("imas-tools/GakumasPreTranslation", "etc")
-    download_and_extract_repo_zip("imas-tools/gakumas-generic-strings-translation", "translated")
-    download_and_extract_repo_zip("imas-tools/gakumas-master-translation", "data")
+    name_overrides = build_name_overrides_from_repo(base, cc)
 
     # 1) resource/*.txt：只轉 ruby 右側 ZH，保留左側 JP
     print("Converting resource/*.txt with ruby-safe mode...", flush=True)
-    resource_dir = zh_tw_root / "resource"
+    resource_dir = out_root / "resource"
     if resource_dir.exists():
         for txt_file in resource_dir.glob("adv*.txt"):
             original = read_text(txt_file)
             converted = convert_ruby_text(original, cc)
+            converted = apply_name_overrides_to_text(converted, name_overrides)
             write_text(txt_file, converted)
 
     # 2) localization.json
     print("Converting localization.json...", flush=True)
-    localization_file = zh_tw_root / "localization.json"
+    localization_file = out_root / "localization.json"
     if localization_file.exists():
         data = load_json(localization_file)
-        save_json(localization_file, iter_convert_json(data, cc))
+        data = iter_convert_json(data, cc)
+        data = apply_name_overrides_to_json(data, name_overrides)
+        save_json(localization_file, data)
 
     # 3) genericTrans/*.json
     print("Converting genericTrans/*.json...", flush=True)
-    generic_dir = zh_tw_root / "genericTrans"
+    generic_dir = out_root / "genericTrans"
     if generic_dir.exists():
         for json_file in generic_dir.rglob("*.json"):
             data = load_json(json_file)
-            save_json(json_file, iter_convert_json(data, cc))
+            data = iter_convert_json(data, cc)
+            data = apply_name_overrides_to_json(data, name_overrides)
+            save_json(json_file, data)
 
     # 4) masterTrans/*.json
     print("Converting masterTrans/*.json...", flush=True)
-    master_dir = zh_tw_root / "masterTrans"
+    master_dir = out_root / "masterTrans"
     if master_dir.exists():
         for json_file in master_dir.rglob("*.json"):
             data = load_json(json_file)
-            save_json(json_file, iter_convert_json(data, cc))
+            data = iter_convert_json(data, cc)
+            data = apply_name_overrides_to_json(data, name_overrides)
+            save_json(json_file, data)
 
     # 5) version.txt
     version_file = base / "version.txt"
     if version_file.exists():
-        shutil.copy2(version_file, zh_tw_root / "version.txt")
-    marker_file = zh_tw_root / "_zhtw_build_marker.txt"
+        shutil.copy2(version_file, out_root / "version.txt")
+
+    # 6) build marker
+    marker_file = out_root / "_zhtw_build_marker.txt"
     write_text(
         marker_file,
-        "build_zhtw.py marker: FINAL-KANA-ONLY-V1\n"
+        "build_zhtw.py marker: FINAL-REPLACE-ORIGINAL-ZIP-NAME-DICT-FULL-20260310\n"
     )
-    # 6) 打包 zhTW zip
-    print("Packing GakumasTranslationData_zhTW.zip...", flush=True)
-    zip_dir(zh_tw_root, base / "GakumasTranslationData_zhTW.zip")
 
-    print("Built GakumasTranslationData_zhTW.zip", flush=True)
+    # 7) 直接輸出成原本檔名
+    print("Packing GakumasTranslationData.zip...", flush=True)
+    zip_dir(out_root, base / "GakumasTranslationData.zip")
+
+    print("Built GakumasTranslationData.zip", flush=True)
     return 0
 
 
