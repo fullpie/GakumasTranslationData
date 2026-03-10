@@ -15,11 +15,6 @@ from opencc import OpenCC
 RUBY_RE = re.compile(r"<r\\=(.*?)>(.*?)</r>", re.DOTALL)
 HIRAGANA_KATAKANA_RE = re.compile(r"[\u3040-\u30ff]")
 
-CHINESE_FUNCTIONALS = {
-    "的", "了", "和", "是", "在", "這", "这", "個", "个",
-    "嗎", "吗", "請", "请", "將", "将", "與", "与",
-}
-
 
 def load_json(path: Path) -> Any:
     with open(path, "r", encoding="utf-8") as f:
@@ -57,31 +52,16 @@ def has_kana(text: str) -> bool:
     return bool(HIRAGANA_KATAKANA_RE.search(text))
 
 
-def is_likely_chinese_sentence(text: str) -> bool:
+def should_preserve_single_line(text: str) -> bool:
     if not text:
         return False
-    return any(ch in text for ch in CHINESE_FUNCTIONALS)
-
-
-def should_preserve_single_line(text: str, upstream_reference: str | None = None) -> bool:
-    if not text:
-        return False
-
     # 只有 kana 才算強日文訊號
-    if has_kana(text):
-        return True
-
-    # 與上游原文完全相同則保留
-    if upstream_reference and text == upstream_reference:
-        return True
-
-    # 其他情況允許轉繁
-    return False
+    return has_kana(text)
 
 
 def convert_multiline_mixed_text(text: str, cc: OpenCC) -> str:
     """
-    多行歌詞/對照：
+    多行歌詞 / 對照：
     - 含 kana 的行保留
     - 其他行直接轉繁
     """
@@ -102,20 +82,20 @@ def convert_multiline_mixed_text(text: str, cc: OpenCC) -> str:
     return "\n".join(converted_lines)
 
 
-def iter_convert_json(obj: Any, cc: OpenCC, upstream_texts: set[str] | None = None) -> Any:
+def iter_convert_json(obj: Any, cc: OpenCC) -> Any:
     if isinstance(obj, dict):
-        return {k: iter_convert_json(v, cc, upstream_texts) for k, v in obj.items()}
+        return {k: iter_convert_json(v, cc) for k, v in obj.items()}
 
     if isinstance(obj, list):
-        return [iter_convert_json(x, cc, upstream_texts) for x in obj]
+        return [iter_convert_json(x, cc) for x in obj]
 
     if isinstance(obj, str):
         # 多行字串（歌詞/對照）優先逐行處理
         if "\n" in obj:
             return convert_multiline_mixed_text(obj, cc)
 
-        upstream_match = obj if upstream_texts and obj in upstream_texts else None
-        if should_preserve_single_line(obj, upstream_match):
+        # 單行：只有含 kana 才保留，其他直接轉繁
+        if should_preserve_single_line(obj):
             return obj
 
         return cc.convert(obj)
@@ -161,31 +141,6 @@ def download_and_extract_repo_zip(repo: str, subdir: str | None = None) -> Path:
     return root
 
 
-def build_json_source_index(root: Path) -> dict[str, Path]:
-    index: dict[str, Path] = {}
-    for p in root.rglob("*.json"):
-        index[p.name] = p
-        index[p.relative_to(root).as_posix()] = p
-    return index
-
-
-def collect_strings(obj: Any) -> set[str]:
-    out: set[str] = set()
-
-    def walk(x: Any) -> None:
-        if isinstance(x, dict):
-            for v in x.values():
-                walk(v)
-        elif isinstance(x, list):
-            for v in x:
-                walk(v)
-        elif isinstance(x, str):
-            out.add(x)
-
-    walk(obj)
-    return out
-
-
 def main() -> int:
     base = Path(".").resolve()
     local_files = base / "local-files"
@@ -199,20 +154,11 @@ def main() -> int:
 
     cc = OpenCC("s2twp")
 
+    # 保留這三個下載，避免之後你想再加更細規則時重改 workflow
     print("Downloading upstream reference sources...", flush=True)
-    pretranslation_root = download_and_extract_repo_zip(
-        "imas-tools/GakumasPreTranslation", "etc"
-    )
-    generic_root = download_and_extract_repo_zip(
-        "imas-tools/gakumas-generic-strings-translation", "translated"
-    )
-    master_root = download_and_extract_repo_zip(
-        "imas-tools/gakumas-master-translation", "data"
-    )
-
-    pretranslation_index = build_json_source_index(pretranslation_root)
-    generic_index = build_json_source_index(generic_root)
-    master_index = build_json_source_index(master_root)
+    download_and_extract_repo_zip("imas-tools/GakumasPreTranslation", "etc")
+    download_and_extract_repo_zip("imas-tools/gakumas-generic-strings-translation", "translated")
+    download_and_extract_repo_zip("imas-tools/gakumas-master-translation", "data")
 
     # 1) resource/*.txt：只轉 ruby 右側 ZH，保留左側 JP
     print("Converting resource/*.txt with ruby-safe mode...", flush=True)
@@ -228,12 +174,7 @@ def main() -> int:
     localization_file = zh_tw_root / "localization.json"
     if localization_file.exists():
         data = load_json(localization_file)
-        upstream_file = (
-            pretranslation_index.get("localization.json")
-            or pretranslation_index.get("localization_full.json")
-        )
-        upstream_texts = collect_strings(load_json(upstream_file)) if upstream_file else set()
-        save_json(localization_file, iter_convert_json(data, cc, upstream_texts))
+        save_json(localization_file, iter_convert_json(data, cc))
 
     # 3) genericTrans/*.json
     print("Converting genericTrans/*.json...", flush=True)
@@ -241,10 +182,7 @@ def main() -> int:
     if generic_dir.exists():
         for json_file in generic_dir.rglob("*.json"):
             data = load_json(json_file)
-            rel = json_file.relative_to(generic_dir).as_posix()
-            upstream_file = generic_index.get(rel) or generic_index.get(json_file.name)
-            upstream_texts = collect_strings(load_json(upstream_file)) if upstream_file else set()
-            save_json(json_file, iter_convert_json(data, cc, upstream_texts))
+            save_json(json_file, iter_convert_json(data, cc))
 
     # 4) masterTrans/*.json
     print("Converting masterTrans/*.json...", flush=True)
@@ -252,10 +190,7 @@ def main() -> int:
     if master_dir.exists():
         for json_file in master_dir.rglob("*.json"):
             data = load_json(json_file)
-            rel = json_file.relative_to(master_dir).as_posix()
-            upstream_file = master_index.get(rel) or master_index.get(json_file.name)
-            upstream_texts = collect_strings(load_json(upstream_file)) if upstream_file else set()
-            save_json(json_file, iter_convert_json(data, cc, upstream_texts))
+            save_json(json_file, iter_convert_json(data, cc))
 
     # 5) version.txt
     version_file = base / "version.txt"
