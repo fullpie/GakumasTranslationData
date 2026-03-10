@@ -7,11 +7,11 @@
   "data": [
     {
       "type": "ProduceStepType_EventSchool",
-      "name": "學園活動"
+      "name": "学园活动"
     },
     {
       "type": "ProduceStepType_Present",
-      "name": "禮物"
+      "name": "礼物"
     }
   ]
 }

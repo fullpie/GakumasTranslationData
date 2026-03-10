@@ -15,15 +15,15 @@
     },
     {
       "id": "card.detail.enhance.invalid.point.exp.short",
-      "description": "訓練Pt不足。"
+      "description": "训练Pt不足。"
     },
     {
       "id": "card.produce_card_customize.detail_sheet.nia_condition",
-      "description": "※可以透過特別指導進行自定義"
+      "description": "※可以通过特别指导进行自定义"
     },
     {
       "id": "competition.rehearsal_battle_confirm.label.description",
-      "description": "※不會消耗挑戰次數 / 不會獲得評價Pt"
+      "description": "※不会消耗挑战次数 / 不会获得评价Pt"
     },
     {
       "id": "competition.unit.score",
@@ -31,67 +31,67 @@
     },
     {
       "id": "dearness.dearness_level_detail_sheet.title",
-      "description": "親密度Lv詳情"
+      "description": "亲密度Lv详情"
     },
     {
       "id": "exchange.complete.confirm",
-      "description": "已完成兌換"
+      "description": "已完成兑换"
     },
     {
       "id": "high_score_event.top.adv.title_label",
-      "description": "偶像強化月間\\n〜星光璀璨〜"
+      "description": "偶像强化月间\\n〜星光璀璨〜"
     },
     {
       "id": "home.gasha.continuous_share.share_text",
-      "description": "＼ TVCM放映紀念隨心抽舉辦中 ／\n\n只要還能「續抽」，就可以免費無限抽卡！\n扭蛋必定可以獲得一張以上SSR！\n\n#學マス #引き放題って好き"
+      "description": "＼ TVCM放映纪念随心抽举办中 ／\n\n只要还能「续抽」，就可以免费无限抽卡！\n扭蛋必定可以获得一张以上SSR！\n\n#学マス #引き放題って好き"
     },
     {
       "id": "home.gasha.continuous_share.title",
-      "description": "TVCM放映紀念隨心抽結果"
+      "description": "TVCM放映纪念随心抽结果"
     },
     {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
-      "description": "獲得作為目標的P偶像後"
+      "description": "获得作为目标的P偶像后"
     },
     {
       "id": "home.gasha.draw_button.item",
-      "description": "票據"
+      "description": "票据"
     },
     {
       "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
-      "description": "持有數不足"
+      "description": "持有数不足"
     },
     {
       "id": "home.pvp.contest.out_of_term_toast",
-      "description": "不在舉辦期間"
+      "description": "不在举办期间"
     },
     {
       "id": "idol_dearness.step3_condition",
-      "description": "親密度強化活動結束後解鎖"
+      "description": "亲密度强化活动结束后解锁"
     },
     {
       "id": "idol_dearness.top.mission_unlock_description",
-      "description": "{0}解鎖"
+      "description": "{0}解锁"
     },
     {
       "id": "mission.mission_list.max_point_text.event",
-      "description": "可獲得的每週任務Pt已達到上限"
+      "description": "可获得的每周任务Pt已达到上限"
     },
     {
       "id": "produce_prepare.edit.warning",
-      "description": "編成可以針對每個培育進行設定。在不同培育中進行設定時，不會適用於其他培育。"
+      "description": "编成可以针对每个培育进行设置。在不同培育中进行设置时，不会适用于其他培育。"
     },
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.description",
-      "description": "在培育的報酬中可以獲得星之閃耀"
+      "description": "在培育的报酬中可以获得星之闪耀"
     },
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.title",
-      "description": "十王邦夫的偶像強化月"
+      "description": "十王邦夫的偶像强化月"
     },
     {
       "id": "produce.card.move_position.deckall",
-      "description": "其他的編成欄"
+      "description": "其他的编成栏"
     },
     {
       "id": "produce.card.rarity.legend",
@@ -99,39 +99,39 @@
     },
     {
       "id": "produce.high_score_rush.gold.description",
-      "description": "「十王邦夫的偶像強化月～星光璀璨～」中可以獲得的道具。可以在活動扭蛋中使用。"
+      "description": "「十王邦夫的偶像强化月～星光璀璨～」中可以获得的道具。可以在活动扭蛋中使用。"
     },
     {
       "id": "produce.lesson.no_effect.stance_over_preservation",
-      "description": "由於指標處於悠閒狀態，因此不會觸發將指標變更為溫存的效果。"
+      "description": "由于指针处于悠闲状态，因此不会触发将指针变更为温存的效果。"
     },
     {
       "id": "produce.server_force_reset.confirm.description",
-      "description": "正在遊玩中的培育資料已被清除。"
+      "description": "正在游玩中的培育数据已被清除。"
     },
     {
       "id": "producer_ranking.character_reward.description",
-      "description": "根據賽季結束時製作人排行榜的排名，在統計期間結束後可以獲得獎勵"
+      "description": "根据赛季结束时制作人排行榜的排名，在统计期间结束后可以获得奖励"
     },
     {
       "id": "profile.badge_select.thumb_empty.empty.toast",
-      "description": "可在製作人排行榜中獲取"
+      "description": "可在制作人排行榜中获取"
     },
     {
       "id": "profile.report.share.text",
-      "description": "#學マス #初星學園通知表"
+      "description": "#学マス #初星学園通知表"
     },
     {
       "id": "research_event.target_idol_sheet.description",
-      "description": "只有活動模式的P偶像才可以挑戰活動模式的培育"
+      "description": "只有活动模式的P偶像才可以挑战活动模式的培育"
     },
     {
       "id": "shop.web_store.confirm.description",
-      "description": "是否開啟網頁瀏覽器？\\n出生日期可以在【選單 > 其他 > 輸入出生日期】中進行設定。"
+      "description": "是否打开网页浏览器？\\n出生日期可以在【菜单 > 其他 > 输入出生日期】中进行设置。"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",
-      "description": "透過獲得活動Pt，並觀看前一段交流解鎖"
+      "description": "通过获得活动Pt，并观看前一段交流解锁"
     },
     {
       "id": "voice.idol_use_produce_card",

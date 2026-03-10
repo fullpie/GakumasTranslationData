@@ -13,14 +13,14 @@
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "視覺訓練"
+      "name": "视觉训练"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "舞蹈訓練"
+      "name": "舞蹈训练"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -34,21 +34,21 @@
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "最終考試"
+      "name": "最终考试"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "舞蹈訓練"
+      "name": "舞蹈训练"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVisualNormal",
-      "name": "視覺訓練"
+      "name": "视觉训练"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -62,21 +62,21 @@
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "最終考試"
+      "name": "最终考试"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 1,
       "tutorialStep": 5,
       "stepType": "ProduceStepType_LessonDanceNormal",
-      "name": "舞蹈訓練"
+      "name": "舞蹈训练"
     },
     {
       "tutorialType": "TutorialType_GameStart",
       "stepNumber": 2,
       "tutorialStep": 8,
       "stepType": "ProduceStepType_LessonVocalNormal",
-      "name": "歌唱訓練"
+      "name": "歌唱训练"
     },
     {
       "tutorialType": "TutorialType_GameStart",
@@ -90,7 +90,7 @@
       "stepNumber": 4,
       "tutorialStep": 12,
       "stepType": "ProduceStepType_AuditionFinal",
-      "name": "最終考試"
+      "name": "最终考试"
     }
   ]
 }

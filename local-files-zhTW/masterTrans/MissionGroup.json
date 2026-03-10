@@ -7,811 +7,811 @@
   "data": [
     {
       "id": "dearness_normal-mission_amao_01",
-      "name": "偶像任務麻央"
+      "name": "偶像任务麻央"
     },
     {
       "id": "dearness_normal-mission_fktn_01",
-      "name": "偶像任務琴音"
+      "name": "偶像任务琴音"
     },
     {
       "id": "dearness_normal-mission_hrnm_01",
-      "name": "偶像任務莉波"
+      "name": "偶像任务莉波"
     },
     {
       "id": "dearness_normal-mission_jsna_01",
-      "name": "偶像任務星南"
+      "name": "偶像任务星南"
     },
     {
       "id": "dearness_normal-mission_kcna_01",
-      "name": "偶像任務千奈"
+      "name": "偶像任务千奈"
     },
     {
       "id": "dearness_normal-mission_kllj_01",
-      "name": "偶像任務莉莉婭"
+      "name": "偶像任务莉莉娅"
     },
     {
       "id": "dearness_normal-mission_shro_01",
-      "name": "偶像任務廣"
+      "name": "偶像任务广"
     },
     {
       "id": "dearness_normal-mission_ssmk_01",
-      "name": "偶像任務清夏"
+      "name": "偶像任务清夏"
     },
     {
       "id": "dearness_normal-mission_ttmr_01",
-      "name": "偶像任務手毬"
+      "name": "偶像任务手毬"
     },
     {
       "id": "dearness_panel-mission_amao_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_fktn_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_hrnm_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_jsna_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_kcna_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_kllj_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_relaunch_fktn_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_relaunch_shro_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_relaunch_ssmk_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_shro_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_ssmk_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "dearness_panel-mission_ttmr_01",
-      "name": "親密度強化活動"
+      "name": "亲密度强化活动"
     },
     {
       "id": "mission_group-daily-001",
-      "name": "每日任務"
+      "name": "每日任务"
     },
     {
       "id": "mission_group-release_memorial_1",
-      "name": "入學紀念任務第1天"
+      "name": "入学纪念任务第1天"
     },
     {
       "id": "mission_group-release_memorial_2",
-      "name": "入學紀念任務第2天"
+      "name": "入学纪念任务第2天"
     },
     {
       "id": "mission_group-release_memorial_3",
-      "name": "入學紀念任務第3天"
+      "name": "入学纪念任务第3天"
     },
     {
       "id": "mission_group-release_memorial_4",
-      "name": "入學紀念任務第4天"
+      "name": "入学纪念任务第4天"
     },
     {
       "id": "mission_group-release_memorial_5",
-      "name": "入學紀念任務第5天"
+      "name": "入学纪念任务第5天"
     },
     {
       "id": "mission_group-release_memorial_6",
-      "name": "入學紀念任務第6天"
+      "name": "入学纪念任务第6天"
     },
     {
       "id": "mission_group-release_memorial_7",
-      "name": "入學紀念任務第7天"
+      "name": "入学纪念任务第7天"
     },
     {
       "id": "mission_group-weekly-001",
-      "name": "每週任務"
+      "name": "每周任务"
     },
     {
       "id": "mission-continuous-gasha-mission_001",
-      "name": "TVCM放映紀念任務 (〜2026/2/1 4:59)"
+      "name": "TVCM放映纪念任务 (〜2026/2/1 4:59)"
     },
     {
       "id": "mission-group-box-gasha-event-001",
-      "name": "BOX故事活動任務001"
+      "name": "BOX故事活动任务001"
     },
     {
       "id": "mission-group-box-gasha-event-002",
-      "name": "BOX故事活動任務002"
+      "name": "BOX故事活动任务002"
     },
     {
       "id": "mission-group-box-gasha-event-003",
-      "name": "萬聖節狂想曲"
+      "name": "万圣节狂想曲"
     },
     {
       "id": "mission-group-box-gasha-event-004",
-      "name": "蛋糕系起的友情聖誕節"
+      "name": "蛋糕系起的友情圣诞节"
     },
     {
       "id": "mission-group-box-gasha-event-005",
-      "name": "情人節協奏曲"
+      "name": "情人节协奏曲"
     },
     {
       "id": "mission-group-box-gasha-event-006",
-      "name": "交換祈願 女兒節"
+      "name": "交换祈愿 女儿节"
     },
     {
       "id": "mission-group-box-gasha-event-007",
-      "name": "櫻花飛舞的起跑線"
+      "name": "樱花飞舞的起跑线"
     },
     {
       "id": "mission-group-box-gasha-event-015",
-      "name": "BOX故事活動任務008"
+      "name": "BOX故事活动任务008"
     },
     {
       "id": "mission-group-box-gasha-event-019",
-      "name": "巡演活動 名古屋篇"
+      "name": "巡演活动 名古屋篇"
     },
     {
       "id": "mission-group-circle-battle-event-001",
-      "name": "#Animate氣氛活躍隊"
+      "name": "#Animate气氛活跃队"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_1",
-      "name": "迴歸任務"
+      "name": "回归任务"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_2",
-      "name": "迴歸任務"
+      "name": "回归任务"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_3",
-      "name": "迴歸任務"
+      "name": "回归任务"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_4",
-      "name": "迴歸任務"
+      "name": "回归任务"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_5",
-      "name": "迴歸任務"
+      "name": "回归任务"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_6",
-      "name": "迴歸任務"
+      "name": "回归任务"
     },
     {
       "id": "mission-group-comeback_daily_release_mission_001_7",
-      "name": "迴歸任務"
+      "name": "回归任务"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_1",
-      "name": "NIA通關任務任務"
+      "name": "NIA通关任务任务"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_2",
-      "name": "NIA通關任務任務"
+      "name": "NIA通关任务任务"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_3",
-      "name": "NIA通關任務任務"
+      "name": "NIA通关任务任务"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_4",
-      "name": "NIA通關任務任務"
+      "name": "NIA通关任务任务"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_5",
-      "name": "NIA通關任務任務"
+      "name": "NIA通关任务任务"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_6",
-      "name": "NIA通關任務任務"
+      "name": "NIA通关任务任务"
     },
     {
       "id": "mission-group-daily_mission_NIA_clear_7",
-      "name": "NIA通關任務任務"
+      "name": "NIA通关任务任务"
     },
     {
       "id": "mission-group-highscore-event-001",
-      "name": "十王邦夫的偶像強化月"
+      "name": "十王邦夫的偶像强化月"
     },
     {
       "id": "mission-group-highscore-event-001_1",
-      "name": "十王邦夫的偶像強化月"
+      "name": "十王邦夫的偶像强化月"
     },
     {
       "id": "mission-group-highscore-event-002",
-      "name": "十王邦夫的偶像強化月"
+      "name": "十王邦夫的偶像强化月"
     },
     {
       "id": "mission-group-highscore-event-002_1",
-      "name": "十王邦夫的偶像強化月"
+      "name": "十王邦夫的偶像强化月"
     },
     {
       "id": "mission-group-highscore-event-003_1",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-003_2",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-003_3",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-003_4",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-003_5",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-004_1",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-004_2",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-004_3",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-004_4",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscore-event-004_5",
-      "name": "偶像強化月活動任務"
+      "name": "偶像强化月活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-001_1",
-      "name": "十王邦夫的偶像強化月・改"
+      "name": "十王邦夫的偶像强化月・改"
     },
     {
       "id": "mission-group-highscorerush-event-001_2",
-      "name": "十王邦夫的偶像強化月・改"
+      "name": "十王邦夫的偶像强化月・改"
     },
     {
       "id": "mission-group-highscorerush-event-001_3",
-      "name": "十王邦夫的偶像強化月・改"
+      "name": "十王邦夫的偶像强化月・改"
     },
     {
       "id": "mission-group-highscorerush-event-001_4",
-      "name": "十王邦夫的偶像強化月・改"
+      "name": "十王邦夫的偶像强化月・改"
     },
     {
       "id": "mission-group-highscorerush-event-001_5",
-      "name": "十王邦夫的偶像強化月・改"
+      "name": "十王邦夫的偶像强化月・改"
     },
     {
       "id": "mission-group-highscorerush-event-002_1",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-002_2",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-002_3",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-002_4",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-002_5",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-003_1",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-003_2",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-003_3",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-003_4",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-003_5",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-004_1",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-004_2",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-004_3",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-004_4",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-004_5",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-005_1",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-005_2",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-005_3",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-005_4",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-005_5",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-006_1",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-006_2",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-006_3",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-006_4",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-006_5",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-007_1",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-007_2",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-007_3",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-007_4",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-007_5",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-008_1",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-008_2",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-008_3",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-008_4",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-008_5",
-      "name": "高分衝刺活動任務"
+      "name": "高分冲刺活动任务"
     },
     {
       "id": "mission-group-highscorerush-event-009_1",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-009_2",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-009_3",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-009_4",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-009_5",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-010_1",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-010_2",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-010_3",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-010_4",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-highscorerush-event-010_5",
-      "name": "十王邦夫的偶像強化月～星光璀璨～"
+      "name": "十王邦夫的偶像强化月～星光璀璨～"
     },
     {
       "id": "mission-group-main-story-event-001_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-001_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-001_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-001_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-001_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-002_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-002_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-002_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-002_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-002_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-003_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-003_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-003_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-003_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-003_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-004_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-004_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-004_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-004_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-004_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-005_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-005_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-005_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-005_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-005_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-006_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-006_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-006_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-006_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-006_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-007_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-007_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-007_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-007_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-007_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-008_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-008_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-008_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-008_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-008_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-009_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-009_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-009_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-009_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-009_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-010_1",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-010_2",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-010_3",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-010_4",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-main-story-event-010_5",
-      "name": "初星交流活動任務"
+      "name": "初星交流活动任务"
     },
     {
       "id": "mission-group-panel-mission-01",
-      "name": "第1次拼圖任務 第1片"
+      "name": "第1次拼图任务 第1片"
     },
     {
       "id": "mission-group-panel-mission-02",
-      "name": "第1次拼圖任務 第2片"
+      "name": "第1次拼图任务 第2片"
     },
     {
       "id": "mission-group-research-event-001",
-      "name": "亞紗裡研討001"
+      "name": "亚纱里研讨001"
     },
     {
       "id": "mission-group-research-event-002",
-      "name": "亞紗裡研討002"
+      "name": "亚纱里研讨002"
     },
     {
       "id": "mission-group-research-event-003",
-      "name": "亞紗裡研討003"
+      "name": "亚纱里研讨003"
     },
     {
       "id": "mission-group-research-event-004",
-      "name": "亞紗裡研討004"
+      "name": "亚纱里研讨004"
     },
     {
       "id": "mission-group-research-event-005",
-      "name": "亞紗裡研討005"
+      "name": "亚纱里研讨005"
     },
     {
       "id": "mission-group-story-event-001",
-      "name": "1年級1班的偶像們"
+      "name": "1年级1班的偶像们"
     },
     {
       "id": "mission-group-story-event-002",
-      "name": "故事活動任務002"
+      "name": "故事活动任务002"
     },
     {
       "id": "mission-group-story-event-003",
-      "name": "故事活動任務003"
+      "name": "故事活动任务003"
     },
     {
       "id": "mission-group-story-event-004",
-      "name": "故事活動任務004"
+      "name": "故事活动任务004"
     },
     {
       "id": "mission-group-story-event-006",
-      "name": "故事活動任務006"
+      "name": "故事活动任务006"
     },
     {
       "id": "mission-group-story-event-007",
-      "name": "故事活動任務007"
+      "name": "故事活动任务007"
     },
     {
       "id": "mission-group-story-event-008",
-      "name": "故事活動任務008"
+      "name": "故事活动任务008"
     },
     {
       "id": "mission-group-story-event-009",
-      "name": "故事活動任務009"
+      "name": "故事活动任务009"
     },
     {
       "id": "mission-group-story-event-010",
-      "name": "故事活動任務010"
+      "name": "故事活动任务010"
     },
     {
       "id": "mission-group-story-event-011",
-      "name": "故事活動任務011"
+      "name": "故事活动任务011"
     },
     {
       "id": "mission-group-story-event-012",
-      "name": "故事活動任務012"
+      "name": "故事活动任务012"
     },
     {
       "id": "mission-group-story-event-013",
-      "name": "故事活動任務013"
+      "name": "故事活动任务013"
     },
     {
       "id": "mission-group-tour-event-001",
-      "name": "巡演活動任務001"
+      "name": "巡演活动任务001"
     },
     {
       "id": "mission-group-tour-event-002",
-      "name": "巡演活動任務002"
+      "name": "巡演活动任务002"
     },
     {
       "id": "panel_mission-event-002-group_1",
-      "name": "第2次拼圖任務 第1片"
+      "name": "第2次拼图任务 第1片"
     },
     {
       "id": "panel_mission-event-002-group_2",
-      "name": "第2次拼圖任務 第2片"
+      "name": "第2次拼图任务 第2片"
     },
     {
       "id": "panel_mission-event-003-group_1",
-      "name": "150萬下載紀念拼圖任務"
+      "name": "150万下载纪念拼图任务"
     },
     {
       "id": "panel_mission-event-004-group_1",
-      "name": "第3次拼圖任務 第1片"
+      "name": "第3次拼图任务 第1片"
     },
     {
       "id": "panel_mission-event-004-group_2",
-      "name": "第3次拼圖任務 第2片"
+      "name": "第3次拼图任务 第2片"
     },
     {
       "id": "panel_mission-event-006-group_1",
-      "name": "第4次拼圖任務 第1片"
+      "name": "第4次拼图任务 第1片"
     },
     {
       "id": "panel_mission-event-006-group_2",
-      "name": "第4次拼圖任務 第2片"
+      "name": "第4次拼图任务 第2片"
     },
     {
       "id": "panel_mission-event-007-group_1",
-      "name": "拼圖任務組1"
+      "name": "拼图任务组1"
     },
     {
       "id": "panel_mission-event-007-group_2",
-      "name": "拼圖任務組2"
+      "name": "拼图任务组2"
     },
     {
       "id": "panel_mission-event-008-group_1",
-      "name": "拼圖任務組1"
+      "name": "拼图任务组1"
     },
     {
       "id": "panel_mission-event-008-group_2",
-      "name": "拼圖任務組2"
+      "name": "拼图任务组2"
     },
     {
       "id": "panel_mission-event-niv-group_1",
-      "name": "十王邦夫的挑戰任務 〜A+之路〜"
+      "name": "十王邦夫的挑战任务 〜A+之路〜"
     }
   ]
 }

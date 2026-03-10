@@ -7,15 +7,15 @@
   "data": [
     {
       "id": "CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "可以讓幹勁增加的技能卡"
+      "label": "可以让干劲增加的技能卡"
     },
     {
       "id": "CardPlayAggressive_group_20_CardPlayAggressive_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "CardPlayAggressive_group_20_exam_block",
-      "label": "可以讓元氣增加的技能卡"
+      "label": "可以让元气增加的技能卡"
     },
     {
       "id": "CardPlayAggressive_group_20_logic_other",
@@ -23,15 +23,15 @@
     },
     {
       "id": "CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "可以讓幹勁增加的技能卡"
+      "label": "可以让干劲增加的技能卡"
     },
     {
       "id": "CardPlayAggressive_group_35_CardPlayAggressive_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "CardPlayAggressive_group_35_exam_block",
-      "label": "可以讓元氣增加的技能卡"
+      "label": "可以让元气增加的技能卡"
     },
     {
       "id": "CardPlayAggressive_group_35_logic_other",
@@ -39,15 +39,15 @@
     },
     {
       "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive",
-      "label": "可以讓幹勁增加的技能卡"
+      "label": "可以让干劲增加的技能卡"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_exam_block",
-      "label": "可以讓元氣增加的技能卡"
+      "label": "可以让元气增加的技能卡"
     },
     {
       "id": "CardPlayAggressive_Review_group_20_other",
@@ -55,19 +55,19 @@
     },
     {
       "id": "CardPlayAggressive_Review_group_20_Review",
-      "label": "可以讓好印象增加的技能卡"
+      "label": "可以让好印象增加的技能卡"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive",
-      "label": "可以讓幹勁增加的技能卡"
+      "label": "可以让干劲增加的技能卡"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_exam_block",
-      "label": "可以讓元氣增加的技能卡"
+      "label": "可以让元气增加的技能卡"
     },
     {
       "id": "CardPlayAggressive_Review_group_35_logic_other",
@@ -75,7 +75,7 @@
     },
     {
       "id": "CardPlayAggressive_Review_group_35_Review",
-      "label": "可以讓好印象增加的技能卡"
+      "label": "可以让好印象增加的技能卡"
     },
     {
       "id": "Concentration_group_20_anomaly_other",
@@ -83,15 +83,15 @@
     },
     {
       "id": "Concentration_group_20_anomaly_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "Concentration_group_20_Concentration",
-      "label": "可以變更為強氣的技能卡"
+      "label": "可以变更为强气的技能卡"
     },
     {
       "id": "Concentration_group_20_Preservation\n",
-      "label": "可以變更為溫存的技能卡"
+      "label": "可以变更为温存的技能卡"
     },
     {
       "id": "Concentration_group_35_anomaly_other",
@@ -99,15 +99,15 @@
     },
     {
       "id": "Concentration_group_35_anomaly_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "Concentration_group_35_Concentration",
-      "label": "可以變更為強氣的技能卡"
+      "label": "可以变更为强气的技能卡"
     },
     {
       "id": "Concentration_group_35_Preservation\n",
-      "label": "可以變更為溫存的技能卡"
+      "label": "可以变更为温存的技能卡"
     },
     {
       "id": "FullPower_group_20_anomaly_other",
@@ -115,15 +115,15 @@
     },
     {
       "id": "FullPower_group_20_anomaly_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "FullPower_group_20_FullPower",
-      "label": "可以讓全力值增加的技能卡"
+      "label": "可以让全力值增加的技能卡"
     },
     {
       "id": "FullPower_group_20_Preservation",
-      "label": "可以變更為溫存的技能卡"
+      "label": "可以变更为温存的技能卡"
     },
     {
       "id": "FullPower_group_35_anomaly_other",
@@ -131,19 +131,19 @@
     },
     {
       "id": "FullPower_group_35_anomaly_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "FullPower_group_35_FullPower",
-      "label": "可以讓全力值增加的技能卡"
+      "label": "可以让全力值增加的技能卡"
     },
     {
       "id": "FullPower_group_35_Preservation",
-      "label": "可以變更為溫存的技能卡"
+      "label": "可以变更为温存的技能卡"
     },
     {
       "id": "LessonBuff_group_20_LessonBuff",
-      "label": "可以讓集中增加的技能卡"
+      "label": "可以让集中增加的技能卡"
     },
     {
       "id": "LessonBuff_group_20_other",
@@ -151,15 +151,15 @@
     },
     {
       "id": "LessonBuff_group_20_ParameterBuff",
-      "label": "可以讓好調增加的技能卡"
+      "label": "可以让好调增加的技能卡"
     },
     {
       "id": "LessonBuff_group_20_sense_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "LessonBuff_group_35_LessonBuff",
-      "label": "可以讓集中增加的技能卡"
+      "label": "可以让集中增加的技能卡"
     },
     {
       "id": "LessonBuff_group_35_other",
@@ -167,19 +167,19 @@
     },
     {
       "id": "LessonBuff_group_35_parameter_buff_multiple",
-      "label": "可以讓絕好調增加的技能卡"
+      "label": "可以让绝好调增加的技能卡"
     },
     {
       "id": "LessonBuff_group_35_ParameterBuff",
-      "label": "可以讓好調增加的技能卡"
+      "label": "可以让好调增加的技能卡"
     },
     {
       "id": "LessonBuff_group_35_sense_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "ParameterBuff_group_20_LessonBuff",
-      "label": "可以讓集中增加的技能卡"
+      "label": "可以让集中增加的技能卡"
     },
     {
       "id": "ParameterBuff_group_20_other",
@@ -187,19 +187,19 @@
     },
     {
       "id": "ParameterBuff_group_20_parameter_buff_multiple",
-      "label": "可以讓絕好調增加的技能卡"
+      "label": "可以让绝好调增加的技能卡"
     },
     {
       "id": "ParameterBuff_group_20_ParameterBuff",
-      "label": "可以讓好調增加的技能卡"
+      "label": "可以让好调增加的技能卡"
     },
     {
       "id": "ParameterBuff_group_20_sense_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "ParameterBuff_group_35_LessonBuff",
-      "label": "可以讓集中增加的技能卡"
+      "label": "可以让集中增加的技能卡"
     },
     {
       "id": "ParameterBuff_group_35_other",
@@ -207,19 +207,19 @@
     },
     {
       "id": "ParameterBuff_group_35_parameter_buff_multiple",
-      "label": "可以讓絕好調增加的技能卡"
+      "label": "可以让绝好调增加的技能卡"
     },
     {
       "id": "ParameterBuff_group_35_ParameterBuff",
-      "label": "可以讓好調增加的技能卡"
+      "label": "可以让好调增加的技能卡"
     },
     {
       "id": "ParameterBuff_group_35_sense_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_CardPlayAggressive",
-      "label": "可以讓幹勁增加的技能卡"
+      "label": "可以让干劲增加的技能卡"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_logic_other",
@@ -227,15 +227,15 @@
     },
     {
       "id": "Review_CardPlayAggressive_group_20_Review",
-      "label": "可以讓好印象增加的技能卡"
+      "label": "可以让好印象增加的技能卡"
     },
     {
       "id": "Review_CardPlayAggressive_group_20_Review_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_CardPlayAggressive",
-      "label": "可以讓幹勁增加的技能卡"
+      "label": "可以让干劲增加的技能卡"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_logic_other",
@@ -243,11 +243,11 @@
     },
     {
       "id": "Review_CardPlayAggressive_group_35_Review",
-      "label": "可以讓好印象增加的技能卡"
+      "label": "可以让好印象增加的技能卡"
     },
     {
       "id": "Review_CardPlayAggressive_group_35_Review_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "Review_group_20_logic_other",
@@ -255,11 +255,11 @@
     },
     {
       "id": "Review_group_20_Review",
-      "label": "可以讓好印象增加的技能卡"
+      "label": "可以让好印象增加的技能卡"
     },
     {
       "id": "Review_group_20_Review_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     },
     {
       "id": "Review_group_35_logic_other",
@@ -267,11 +267,11 @@
     },
     {
       "id": "Review_group_35_Review",
-      "label": "可以讓好印象增加的技能卡"
+      "label": "可以让好印象增加的技能卡"
     },
     {
       "id": "Review_group_35_Review_score",
-      "label": "可以讓得分上升的技能卡"
+      "label": "可以让得分上升的技能卡"
     }
   ]
 }

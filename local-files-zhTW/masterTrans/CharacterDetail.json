@@ -11,7 +11,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "三年級生"
+      "content": "三年级生"
     },
     {
       "characterId": "amao",
@@ -47,7 +47,7 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "七瀨 紬"
+      "content": "七濑 䌷"
     },
     {
       "characterId": "amao",
@@ -71,31 +71,31 @@
       "characterId": "amao",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "兵庫縣"
+      "content": "兵库县"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "格鬥技、手巧"
+      "content": "格斗技、手巧"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "照顧他人、觀劇"
+      "content": "照顾他人、观剧"
     },
     {
       "characterId": "amao",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "以帥氣偶像為目標的小巧三年級生。被後輩們仰慕為「小小的王子殿下」。\n自幼憧憬歌劇明星，曾作為童星活躍，\n但最近因理想形象與身體成長產生的落差而煩惱。"
+      "content": "以帅气偶像为目标的小巧三年级生。被后辈们仰慕为「小小的王子殿下」。\n自幼憧憬歌剧明星，曾作为童星活跃，\n但最近因理想形象与身体成长产生的落差而烦恼。"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "三年級生"
+      "content": "三年级生"
     },
     {
       "characterId": "atbm",
@@ -131,7 +131,7 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "天音 由香裡"
+      "content": "天音 由香里"
     },
     {
       "characterId": "atbm",
@@ -155,25 +155,25 @@
       "characterId": "atbm",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "東京都"
+      "content": "东京都"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "秘書綜合技能、數學、書道"
+      "content": "秘书综合技能、数学、书道"
     },
     {
       "characterId": "atbm",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "書道、歷史（日本史）、讀書"
+      "content": "书道、历史（日本史）、读书"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "fktn",
@@ -209,7 +209,7 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "飯田 光"
+      "content": "饭田 光"
     },
     {
       "characterId": "fktn",
@@ -233,31 +233,31 @@
       "characterId": "fktn",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "埼玉縣"
+      "content": "埼玉县"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "舞蹈、記住人的長相和名字"
+      "content": "舞蹈、记住人的长相和名字"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "賺錢"
+      "content": "赚钱"
     },
     {
       "characterId": "fktn",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "以「能賺錢的偶像」為目標的氛圍製造者。\n中等部直升的內部升學組。擁有豐富的舞蹈才能。\n學園評價與自我評價皆低，但似乎未發揮真正實力。\n因同時兼顧多份打工，總是顯得疲憊。"
+      "content": "以「能赚钱的偶像」为目标的氛围制造者。\n中等部直升的內部升学组。拥有丰富的舞蹈才能。\n学园评价与自我评价皆低，但似乎未发挥真正实力。\n因同时兼顾多份打工，总是显得疲惫。"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "hmsz",
@@ -323,25 +323,25 @@
       "characterId": "hmsz",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "料理、插花、生物鐘很準確"
+      "content": "料理、插花、生物钟很准确"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "睡午覺、散步"
+      "content": "睡午觉、散步"
     },
     {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "初中部第一組合「SyngUp!」的前成員。\n曾被月村手毬的光芒所掩蓋，評價略顯低調，但本人實力貨真價實。\n給人一種缺點很少、完成度很高的偶像的印象。有望進一步成長。"
+      "content": "初中部第一组合「SyngUp!」的前成员。\n曾被月村手毬的光芒所掩盖，评价略显低调，但本人实力货真价实。\n给人一种缺点很少、完成度很高的偶像的印象。有望进一步成长。"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "三年級生"
+      "content": "三年级生"
     },
     {
       "characterId": "hrnm",
@@ -371,13 +371,13 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "雙魚座"
+      "content": "双鱼座"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "薄井 友裡"
+      "content": "薄井 友里"
     },
     {
       "characterId": "hrnm",
@@ -401,31 +401,31 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "福岡縣"
+      "content": "福冈县"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "料理、縫紉・手工藝"
+      "content": "料理、缝纫・手工艺"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "探訪咖啡館、收集化妝品"
+      "content": "探访咖啡馆、收集化妆品"
     },
     {
       "characterId": "hrnm",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "散發成熟氣質的三年級生。宿舍裡備受依賴的姐姐。\n曾加入過偶像團體，但成績不盡理想。"
+      "content": "散发成熟气质的三年级生。宿舍里备受依赖的姐姐。\n曾加入过偶像团体，但成绩不尽理想。"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "hski",
@@ -461,7 +461,7 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "長月 葵"
+      "content": "长月 葵"
     },
     {
       "characterId": "hski",
@@ -485,31 +485,31 @@
       "characterId": "hski",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "愛知縣"
+      "content": "爱知县"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "全能運動、全能家務、按摩"
+      "content": "全能运动、全能家务、按摩"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "所有競爭類事物"
+      "content": "所有竞争类事物"
     },
     {
       "characterId": "hski",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "入學考試榜首的新生。好勝不服輸的前運動員。\n卓越的運動能力位列全校學生前10%。\n雖無經驗但悟性極高，成長速度驚人。\n看似已近完成的能力，彷彿難有更大突破，然而……"
+      "content": "入学考试榜首的新生。好胜不服输的前运动员。\n卓越的运动能力位列全校学生前10%。\n虽无经验但悟性极高，成长速度惊人。\n看似已近完成的能力，仿佛难有更大突破，然而……"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "hume",
@@ -569,31 +569,31 @@
       "characterId": "hume",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "愛知縣"
+      "content": "爱知县"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "全能運動、按摩"
+      "content": "全能运动、按摩"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "與姐姐的較量"
+      "content": "与姐姐的较量"
     },
     {
       "characterId": "hume",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "作為補錄生的新生。\n元氣滿滿、運動能力超群的前運動員。"
+      "content": "作为补录生的新生。\n元气满满、运动能力超群的前运动员。"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "三年級生"
+      "content": "三年级生"
     },
     {
       "characterId": "jsna",
@@ -629,7 +629,7 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "陽高 真白"
+      "content": "阳高 真白"
     },
     {
       "characterId": "jsna",
@@ -647,13 +647,13 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_DominantHand",
       "order": 10,
-      "content": "雙手通用"
+      "content": "双手通用"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "東京都"
+      "content": "东京都"
     },
     {
       "characterId": "jsna",
@@ -665,19 +665,19 @@
       "characterId": "jsna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "訓練、發掘有才能的偶像"
+      "content": "训练、发掘有才能的偶像"
     },
     {
       "characterId": "jsna",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "初星學園的學生會長，去年的“一番星”。\n被譽為“學園第一偶像”，深受眾多學生愛戴。"
+      "content": "初星学园的学生会长，去年的“一番星”。\n被誉为“学园第一偶像”，深受众多学生爱戴。"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "kcna",
@@ -707,7 +707,7 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "獅子座"
+      "content": "狮子座"
     },
     {
       "characterId": "kcna",
@@ -737,31 +737,31 @@
       "characterId": "kcna",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "神奈川縣"
+      "content": "神奈川县"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "元氣問候、受動物喜愛"
+      "content": "元气问候、受动物喜爱"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "繪畫"
+      "content": "绘画"
     },
     {
       "characterId": "kcna",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "被寵溺長大的純正大小姐。天真爛漫的少女。\n懷揣「成為傑出偶像」的夢想考入初星學園。"
+      "content": "被宠溺长大的纯正大小姐。天真烂漫的少女。\n怀揣「成为杰出偶像」的梦想考入初星学园。"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "kllj",
@@ -791,13 +791,13 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "獅子座"
+      "content": "狮子座"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "花巖 香奈"
+      "content": "花岩 香奈"
     },
     {
       "characterId": "kllj",
@@ -827,25 +827,25 @@
       "characterId": "kllj",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "烘焙點心、遊戲"
+      "content": "烘焙点心、游戏"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "烘焙點心、日本動畫"
+      "content": "烘焙点心、日本动画"
     },
     {
       "characterId": "kllj",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "海外來的新生。\n無歌舞經驗，總因缺乏自信而畏縮。\n看似並不適合當偶像，但……"
+      "content": "海外来的新生。\n无歌舞经验，总因缺乏自信而畏缩。\n看似并不适合当偶像，但……"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "shro",
@@ -905,31 +905,31 @@
       "characterId": "shro",
       "type": "CharacterDetailType_Birthplace",
       "order": 11,
-      "content": "秋田縣"
+      "content": "秋田县"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "全能學業、物理、數學、解謎"
+      "content": "全能学业、物理、数学、解谜"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "挑戰不擅長的領域、培育觀葉植物"
+      "content": "挑战不擅长的领域、培育观叶植物"
     },
     {
       "characterId": "shro",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "14歲大學畢業的天才少女。詳細經歷另記。\n捨棄備受期待的未來選擇成為偶像，原因不明。\n入學考試筆試滿分、實操零分。據傳學園長面試評價為優等。"
+      "content": "14岁大学毕业的天才少女。详细经历另记。\n舍弃备受期待的未来选择成为偶像，原因不明。\n入学考试笔试满分、实操零分。据传学园长面试评价为优等。"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "ssmk",
@@ -959,13 +959,13 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "天蠍座"
+      "content": "天蝎座"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "湊 みや"
+      "content": "凑 みや"
     },
     {
       "characterId": "ssmk",
@@ -995,25 +995,25 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "身體柔軟"
+      "content": "身体柔软"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Hobby",
       "order": 13,
-      "content": "卡拉OK、社交媒體"
+      "content": "卡拉OK、社交媒体"
     },
     {
       "characterId": "ssmk",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "活潑開朗、能與任何人親近的少女。\n入學前曾有芭蕾舞揚名世界的實績，備受期待。\n但常逃課曠訓，顯得毫無幹勁。"
+      "content": "活泼开朗、能与任何人亲近的少女。\n入学前曾有芭蕾舞扬名世界的实绩，备受期待。\n但常逃课旷训，显得毫无干劲。"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Grade",
       "order": 1,
-      "content": "一年級生"
+      "content": "一年级生"
     },
     {
       "characterId": "ttmr",
@@ -1043,13 +1043,13 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_ZodiacSign",
       "order": 6,
-      "content": "雙子座"
+      "content": "双子座"
     },
     {
       "characterId": "ttmr",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "小鹿 奈緒"
+      "content": "小鹿 奈绪"
     },
     {
       "characterId": "ttmr",
@@ -1091,7 +1091,7 @@
       "characterId": "ttmr",
       "type": "CharacterDetailType_Introduction",
       "order": 14,
-      "content": "中等部第一組合「SyngUp!」前成員。\n雖為一年級生，已具備一線水平的唱功。\n品行存疑。惡評纏身。麻煩製造者。"
+      "content": "中等部第一组合「SyngUp!」前成员。\n虽为一年级生，已具备一线水平的唱功。\n品行存疑。恶评缠身。麻烦制造者。"
     }
   ]
 }
