@@ -1,4 +1,4 @@
-name: Update Submodules and Release
+name: Update Submodules and Release zhTW
 
 on:
   schedule:
@@ -95,7 +95,7 @@ jobs:
         run: |
           python build_zhtw.py
 
-      - name: Increment version and zip CN package
+      - name: Increment version
         if: env.updated == 'true'
         run: |
           VERSION=$(cat version.txt | sed 's/v//')
@@ -104,21 +104,19 @@ jobs:
           echo "New VERSION: $NEW_VERSION"
           echo $NEW_VERSION > version.txt
           echo "NEW_VERSION=$NEW_VERSION" >> $GITHUB_ENV
-          zip -r GakumasTranslationData.zip local-files version.txt
 
       - name: Create Release
         if: env.updated == 'true'
         uses: ncipollo/release-action@v1
         with:
-          artifacts: GakumasTranslationData.zip,GakumasTranslationData_zhTW.zip
+          artifacts: GakumasTranslationData_zhTW.zip
           token: ${{ secrets.GITHUB_TOKEN }}
-          tag: ${{ env.NEW_VERSION }}
-          name: ${{ env.NEW_VERSION }}
+          tag: zhTW-${{ env.NEW_VERSION }}
+          name: zhTW-${{ env.NEW_VERSION }}
           body: |
-            New release ${{ env.NEW_VERSION }}
+            Traditional Chinese package release
 
-            Assets:
-            - GakumasTranslationData.zip
+            Asset:
             - GakumasTranslationData_zhTW.zip
           allowUpdates: true
           replacesArtifacts: true
