@@ -1,1 +1,1 @@
-build_zhtw.py marker: FINAL-KANA-ONLY-V1
+build_zhtw.py marker: SIMPLE-PRESERVE-NAMES-V1
