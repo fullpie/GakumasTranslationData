@@ -3576,7 +3576,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -7515,7 +7515,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -8121,7 +8121,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "技能卡使用时，未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的时候，"
+          "text": "技能卡使用時，未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的時候，"
         }
       ],
       "playProduceDescriptions": [
@@ -8135,7 +8135,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的时候，可以使用"
+          "text": "未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的時候，可以使用"
         }
       ],
       "playEffectProduceDescriptions": [
@@ -8149,7 +8149,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的时候，"
+          "text": "未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的時候，"
         }
       ]
     },
@@ -9564,7 +9564,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -9633,7 +9633,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -9702,7 +9702,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -10935,7 +10935,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -14493,7 +14493,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "技能卡使用时，未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的时候，"
+          "text": "技能卡使用時，未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的時候，"
         }
       ],
       "playProduceDescriptions": [
@@ -14507,7 +14507,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的时候，可以使用"
+          "text": "未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的時候，可以使用"
         }
       ],
       "playEffectProduceDescriptions": [
@@ -14521,7 +14521,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的时候，"
+          "text": "未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的時候，"
         }
       ]
     },
@@ -15003,7 +15003,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20283,7 +20283,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -22477,7 +22477,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "开始时，未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的时候，"
+          "text": "開始時，未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的時候，"
         }
       ],
       "playProduceDescriptions": [
@@ -22491,7 +22491,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的时候，可以使用"
+          "text": "未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的時候，可以使用"
         }
       ],
       "playEffectProduceDescriptions": [
@@ -22505,7 +22505,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的时候，"
+          "text": "未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的時候，"
         }
       ]
     },
@@ -22903,7 +22903,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -23938,7 +23938,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -24346,7 +24346,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -25990,7 +25990,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26095,7 +26095,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26758,7 +26758,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27049,7 +27049,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27163,7 +27163,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27220,7 +27220,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28234,7 +28234,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28339,7 +28339,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28630,7 +28630,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29200,7 +29200,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -29947,7 +29947,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30238,7 +30238,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30481,7 +30481,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30538,7 +30538,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30595,7 +30595,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30697,7 +30697,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30799,7 +30799,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32044,7 +32044,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -40923,7 +40923,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41121,7 +41121,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41178,7 +41178,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -41235,7 +41235,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

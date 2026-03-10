@@ -26708,7 +26708,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26863,7 +26863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -26978,7 +26978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27073,7 +27073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27168,7 +27168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27283,7 +27283,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -27388,7 +27388,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -27503,7 +27503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -30073,7 +30073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30168,7 +30168,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30263,7 +30263,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30358,7 +30358,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -30463,7 +30463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30578,7 +30578,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30693,7 +30693,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30788,7 +30788,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -30883,7 +30883,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39398,7 +39398,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39523,7 +39523,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -44868,7 +44868,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48028,7 +48028,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -48688,7 +48688,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -54033,7 +54033,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -62978,7 +62978,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69078,7 +69078,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69203,7 +69203,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69348,7 +69348,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69463,7 +69463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -73368,7 +73368,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -74098,7 +74098,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -77728,7 +77728,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -79233,7 +79233,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -79448,7 +79448,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -81813,7 +81813,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -89223,7 +89223,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -90773,7 +90773,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -90898,7 +90898,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -96378,7 +96378,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -98583,7 +98583,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",

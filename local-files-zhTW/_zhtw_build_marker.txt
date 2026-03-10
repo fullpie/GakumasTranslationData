@@ -1,1 +1,1 @@
-build_zhtw.py marker: SIMPLE-PRESERVE-NAMES-V1
+build_zhtw.py marker: PATH-SPLIT-LYRICS-ONLY-V1

@@ -407,7 +407,7 @@
       "characterId": "hrnm",
       "type": "CharacterDetailType_SpecialSkill",
       "order": 12,
-      "content": "料理、缝纫・手工艺"
+      "content": "料理、縫紉・手工藝"
     },
     {
       "characterId": "hrnm",
@@ -965,7 +965,7 @@
       "characterId": "ssmk",
       "type": "CharacterDetailType_Cv",
       "order": 7,
-      "content": "凑 みや"
+      "content": "湊 みや"
     },
     {
       "characterId": "ssmk",

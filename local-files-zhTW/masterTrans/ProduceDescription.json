@@ -243,7 +243,7 @@
     {
       "id": "Label_ExamCardUpgrade",
       "name": "訓練中強化",
-      "swapName": "考试・舞台中强化"
+      "swapName": "考試・舞臺中強化"
     },
     {
       "id": "Label_ExamConcentration_Exam",
@@ -688,7 +688,7 @@
     {
       "id": "Label_ProduceCardIsPlayMovePositionTypeLost",
       "name": "訓練中1次",
-      "swapName": "考试・舞台中1次"
+      "swapName": "考試・舞臺中1次"
     },
     {
       "id": "Label_ProduceCardPositionType_Hold",

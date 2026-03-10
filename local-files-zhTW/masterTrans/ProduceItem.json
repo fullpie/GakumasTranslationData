@@ -4777,7 +4777,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的增加"
+          "text": "的增加\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -4863,7 +4863,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的增加"
+          "text": "的增加\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -4949,7 +4949,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "漲價"
+          "text": "漲價\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -5005,7 +5005,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，随机2张名字包含「基础」的技能卡"
+          "text": "授課・營業結束時，隨機2張名字包含「基礎」的技能卡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -5045,7 +5045,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的減少"
+          "text": "的減少\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -5237,7 +5237,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -5353,7 +5353,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -5933,7 +5933,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6049,7 +6049,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6629,7 +6629,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -6745,7 +6745,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -7623,7 +7623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Audition",
-          "text": "考试・试镜"
+          "text": "考試・試鏡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7659,7 +7659,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Audition",
-          "text": "考试・试镜"
+          "text": "考試・試鏡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -7711,7 +7711,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_Audition",
-          "text": "考试・试镜"
+          "text": "考試・試鏡"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10241,7 +10241,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，随机名字包含「基础」的技能卡会"
+          "text": "授課・營業結束時，隨機名字包含「基礎」的技能卡會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -10281,7 +10281,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的增加"
+          "text": "的增加\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -10377,7 +10377,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的增加"
+          "text": "的增加\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -10463,7 +10463,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的減少"
+          "text": "的減少\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -10645,7 +10645,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "的減少"
+          "text": "的減少\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -10891,7 +10891,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -10987,7 +10987,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11467,7 +11467,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -11563,7 +11563,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\n體力回覆"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -12043,7 +12043,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡\nP點數+"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\nP點數+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -12139,7 +12139,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡\nP點數+"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\nP點數+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -12533,7 +12533,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的技能卡"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -12689,7 +12689,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -12845,7 +12845,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13001,7 +13001,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得集中相關的技能卡"
+          "text": "\n選擇並獲得集中相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13157,7 +13157,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好調相關的技能卡"
+          "text": "\n選擇並獲得好調相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13313,7 +13313,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的技能卡"
+          "text": "\n選擇並獲得好印象相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13469,7 +13469,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的技能卡"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13625,7 +13625,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13781,7 +13781,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -13937,7 +13937,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得集中相關的技能卡"
+          "text": "\n選擇並獲得集中相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14093,7 +14093,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好調相關的技能卡"
+          "text": "\n選擇並獲得好調相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14249,7 +14249,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的技能卡"
+          "text": "\n選擇並獲得好印象相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14405,7 +14405,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的技能卡"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14561,7 +14561,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14717,7 +14717,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -14873,7 +14873,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得集中相關的技能卡"
+          "text": "\n選擇並獲得集中相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -15029,7 +15029,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好調相關的技能卡"
+          "text": "\n選擇並獲得好調相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -15185,7 +15185,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的技能卡"
+          "text": "\n選擇並獲得好印象相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -15311,7 +15311,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15539,7 +15539,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15665,7 +15665,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15771,7 +15771,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15847,7 +15847,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -15973,7 +15973,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -16089,7 +16089,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -16241,7 +16241,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -19075,7 +19075,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19181,7 +19181,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19287,7 +19287,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19393,7 +19393,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -19509,7 +19509,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，视觉能力值上升+"
+          "text": "授課・營業結束時，視覺能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19555,7 +19555,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -19717,7 +19717,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，P点数+"
+          "text": "授課・營業結束時，P點數+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -19963,7 +19963,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20069,7 +20069,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，舞蹈能力值在400以上的时候，舞蹈能力值上升+"
+          "text": "授課・營業結束時，舞蹈能力值在400以上的時候，舞蹈能力值上升+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -20125,7 +20125,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -20287,7 +20287,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的技能卡"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20363,7 +20363,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20439,7 +20439,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20515,7 +20515,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得集中相關的技能卡"
+          "text": "\n選擇並獲得集中相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20591,7 +20591,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好調相關的技能卡"
+          "text": "\n選擇並獲得好調相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20667,7 +20667,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的技能卡"
+          "text": "\n選擇並獲得好印象相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20743,7 +20743,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的技能卡"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20819,7 +20819,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20895,7 +20895,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -20971,7 +20971,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得集中相關的技能卡"
+          "text": "\n選擇並獲得集中相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21047,7 +21047,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好調相關的技能卡"
+          "text": "\n選擇並獲得好調相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21123,7 +21123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的技能卡"
+          "text": "\n選擇並獲得好印象相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21199,7 +21199,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的技能卡"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21275,7 +21275,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21351,7 +21351,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21427,7 +21427,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得集中相關的技能卡"
+          "text": "\n選擇並獲得集中相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21503,7 +21503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好調相關的技能卡"
+          "text": "\n選擇並獲得好調相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21579,7 +21579,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的技能卡"
+          "text": "\n選擇並獲得好印象相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -21635,7 +21635,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -28702,7 +28702,7 @@
           "text": "內1次）"
         }
       ],
-      "name": "初声之证・琴音"
+      "name": "初聲之證・琴音"
     },
     {
       "id": "pitem_01-1-015-1",
@@ -28858,7 +28858,7 @@
           "text": "內1次）"
         }
       ],
-      "name": "初声之证・琴音+"
+      "name": "初聲之證・琴音+"
     },
     {
       "id": "pitem_01-1-017-0",
@@ -29024,7 +29024,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初心之证・莉莉娅"
+      "name": "初心之證・莉莉婭"
     },
     {
       "id": "pitem_01-1-017-1",
@@ -29140,7 +29140,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初心之证・莉莉娅+"
+      "name": "初心之證・莉莉婭+"
     },
     {
       "id": "pitem_01-1-018-0",
@@ -29346,7 +29346,7 @@
           "text": "內1次）"
         }
       ],
-      "name": "初心之证・千奈"
+      "name": "初心之證・千奈"
     },
     {
       "id": "pitem_01-1-018-1",
@@ -29552,7 +29552,7 @@
           "text": "內1次）"
         }
       ],
-      "name": "初心之证・千奈+"
+      "name": "初心之證・千奈+"
     },
     {
       "id": "pitem_01-1-020-0",
@@ -29728,7 +29728,7 @@
           "text": "內1次）"
         }
       ],
-      "name": "初恋之证・广"
+      "name": "初戀之證・廣"
     },
     {
       "id": "pitem_01-1-020-1",
@@ -29904,7 +29904,7 @@
           "text": "內1次）"
         }
       ],
-      "name": "初恋之证・广+"
+      "name": "初戀之證・廣+"
     },
     {
       "id": "pitem_01-1-022-0",
@@ -30080,7 +30080,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初阵之证・佑芽"
+      "name": "初陣之證・佑芽"
     },
     {
       "id": "pitem_01-1-022-1",
@@ -30206,7 +30206,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初阵之证・佑芽+"
+      "name": "初陣之證・佑芽+"
     },
     {
       "id": "pitem_01-1-029-challenge",
@@ -30465,7 +30465,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "选择活动补给・慰问品时，"
+          "text": "選擇活動補給・慰問品時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -32017,7 +32017,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32153,7 +32153,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -32505,7 +32505,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，体力减少"
+          "text": "授課・營業結束時，體力減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -33711,7 +33711,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，体力减少"
+          "text": "授課・營業結束時，體力減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -34787,7 +34787,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "选择活动补给・慰问品时，舞蹈能力值在700以上的时候，体力回复"
+          "text": "選擇活動補給・慰問品時，舞蹈能力值在700以上的時候，體力回覆"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -39073,7 +39073,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -39255,7 +39255,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "选择活动补给・慰问品时，歌唱能力值在700以上的时候，选择最多2张技能卡进行"
+          "text": "選擇活動補給・慰問品時，歌唱能力值在700以上的時候，選擇最多2張技能卡進行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -41271,7 +41271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回覆"
+          "text": "回覆\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -41623,7 +41623,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回覆"
+          "text": "回覆\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -42365,7 +42365,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -43069,7 +43069,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -47297,7 +47297,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调・集中相关的强化后的技能卡"
+          "text": "\n選擇並獲得好調・集中相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47443,7 +47443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调・集中相关的强化后的技能卡"
+          "text": "\n選擇並獲得好調・集中相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47589,7 +47589,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调・集中相关的强化后的技能卡"
+          "text": "\n選擇並獲得好調・集中相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47735,7 +47735,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得好调・集中相关的强化后的技能卡"
+          "text": "\n選擇並獲得好調・集中相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47891,7 +47891,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得集中相關的技能卡"
+          "text": "\n選擇並獲得集中相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -47977,7 +47977,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得集中相關的技能卡"
+          "text": "\n選擇並獲得集中相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -48063,7 +48063,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得集中相關的技能卡"
+          "text": "\n選擇並獲得集中相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -48149,7 +48149,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好調相關的技能卡"
+          "text": "\n選擇並獲得好調相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -48235,7 +48235,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好調相關的技能卡"
+          "text": "\n選擇並獲得好調相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -48321,7 +48321,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好調相關的技能卡"
+          "text": "\n選擇並獲得好調相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -50173,7 +50173,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，舞蹈能力值在700以上的时候，"
+          "text": "授課・營業結束時，舞蹈能力值在700以上的時候，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDrink",
@@ -50229,7 +50229,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -57070,7 +57070,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初声之证・咲季"
+      "name": "初聲之證・咲季"
     },
     {
       "id": "pitem_02-1-013-1",
@@ -57176,7 +57176,7 @@
           "text": "內3次）"
         }
       ],
-      "name": "初声之证・咲季+"
+      "name": "初聲之證・咲季+"
     },
     {
       "id": "pitem_02-1-014-0",
@@ -57322,7 +57322,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初声之证・手毬"
+      "name": "初聲之證・手毬"
     },
     {
       "id": "pitem_02-1-014-1",
@@ -57468,7 +57468,7 @@
           "text": "內3次）"
         }
       ],
-      "name": "初声之证・手毬+"
+      "name": "初聲之證・手毬+"
     },
     {
       "id": "pitem_02-1-016-0",
@@ -57634,7 +57634,7 @@
           "text": "內1次）"
         }
       ],
-      "name": "初恋之证・麻央"
+      "name": "初戀之證・麻央"
     },
     {
       "id": "pitem_02-1-016-1",
@@ -57800,7 +57800,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初恋之证・麻央+"
+      "name": "初戀之證・麻央+"
     },
     {
       "id": "pitem_02-1-019-0",
@@ -57996,7 +57996,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初恋之证・清夏"
+      "name": "初戀之證・清夏"
     },
     {
       "id": "pitem_02-1-019-1",
@@ -58192,7 +58192,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初恋之证・清夏+"
+      "name": "初戀之證・清夏+"
     },
     {
       "id": "pitem_02-1-021-0",
@@ -58288,7 +58288,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初心之证・莉波"
+      "name": "初心之證・莉波"
     },
     {
       "id": "pitem_02-1-021-1",
@@ -58384,7 +58384,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初心之证・莉波+"
+      "name": "初心之證・莉波+"
     },
     {
       "id": "pitem_02-1-023-0",
@@ -58560,7 +58560,7 @@
           "text": "內1次）"
         }
       ],
-      "name": "初阵之证・美铃"
+      "name": "初陣之證・美鈴"
     },
     {
       "id": "pitem_02-1-023-1",
@@ -58736,7 +58736,7 @@
           "text": "內1次）"
         }
       ],
-      "name": "初阵之证・美铃+"
+      "name": "初陣之證・美鈴+"
     },
     {
       "id": "pitem_02-1-024-0",
@@ -58932,7 +58932,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初阵之证・星南"
+      "name": "初陣之證・星南"
     },
     {
       "id": "pitem_02-1-024-1",
@@ -59078,7 +59078,7 @@
           "text": "內2次）"
         }
       ],
-      "name": "初阵之证・星南+"
+      "name": "初陣之證・星南+"
     },
     {
       "id": "pitem_02-1-031-challenge",
@@ -59337,7 +59337,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "选择活动补给・慰问品时，"
+          "text": "選擇活動補給・慰問品時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -61147,7 +61147,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -61581,7 +61581,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，体力减少"
+          "text": "授課・營業結束時，體力減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -62787,7 +62787,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，体力减少"
+          "text": "授課・營業結束時，體力減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -68955,7 +68955,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69061,7 +69061,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69217,7 +69217,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -69369,7 +69369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -71375,7 +71375,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回覆"
+          "text": "回覆\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -71727,7 +71727,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回覆"
+          "text": "回覆\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -73489,7 +73489,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
@@ -74345,7 +74345,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "选择活动补给・慰问品时，视觉能力值在700以上的时候，随机技能卡会"
+          "text": "選擇活動補給・慰問品時，視覺能力值在700以上的時候，隨機技能卡會"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -74401,7 +74401,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -78543,7 +78543,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VisualLesson",
-          "text": "【仅限视觉训练・视觉回合】"
+          "text": "【僅限視覺訓練・視覺回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -79677,7 +79677,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的強化後的技能卡"
+          "text": "\n選擇並獲得好印象相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -79823,7 +79823,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的強化後的技能卡"
+          "text": "\n選擇並獲得好印象相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -79969,7 +79969,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的強化後的技能卡"
+          "text": "\n選擇並獲得幹勁相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80115,7 +80115,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的強化後的技能卡"
+          "text": "\n選擇並獲得幹勁相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80271,7 +80271,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的技能卡"
+          "text": "\n選擇並獲得好印象相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80357,7 +80357,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的技能卡"
+          "text": "\n選擇並獲得好印象相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80443,7 +80443,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得好印象相關的技能卡"
+          "text": "\n選擇並獲得好印象相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80529,7 +80529,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的技能卡"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80615,7 +80615,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的技能卡"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -80701,7 +80701,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n選擇並獲得幹勁相關的技能卡"
+          "text": "\n選擇並獲得幹勁相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -81461,7 +81461,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -83675,7 +83675,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -88567,7 +88567,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "选择活动补给・慰问品时，"
+          "text": "選擇活動補給・慰問品時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -91149,7 +91149,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，体力减少"
+          "text": "授課・營業結束時，體力減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -92315,7 +92315,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，体力减少"
+          "text": "授課・營業結束時，體力減少"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_DiffText",
@@ -93361,7 +93361,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -95659,7 +95659,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -95795,7 +95795,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -97367,7 +97367,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回覆"
+          "text": "回覆\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -97679,7 +97679,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "回覆"
+          "text": "回覆\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -100961,7 +100961,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授课・营业结束时，视觉能力值在700以上的时候，选择技能卡进行"
+          "text": "授課・營業結束時，視覺能力值在700以上的時候，選擇技能卡進行"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -101757,7 +101757,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_DanceLesson",
-          "text": "【仅限舞蹈训练・舞蹈回合】"
+          "text": "【僅限舞蹈訓練・舞蹈回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -104193,7 +104193,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Convert_StepLessonType_VocalLesson",
-          "text": "【仅限歌唱训练・歌唱回合】"
+          "text": "【僅限歌唱訓練・歌唱回合】"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -105357,7 +105357,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的强化后的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -105503,7 +105503,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的强化后的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -105649,7 +105649,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的强化后的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -105795,7 +105795,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的强化后的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的強化後的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -105951,7 +105951,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106037,7 +106037,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106123,7 +106123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得强气・温存相关的技能卡"
+          "text": "\n選擇並獲得強氣・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106209,7 +106209,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106295,7 +106295,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -106381,7 +106381,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "\n选择并获得全力・温存相关的技能卡"
+          "text": "\n選擇並獲得全力・溫存相關的技能卡\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",

@@ -119,7 +119,7 @@
     },
     {
       "id": "dearness_event_jsna-005",
-      "name": "在十王星南的培育中选择{threshold}次活动补给・慰问品吧"
+      "name": "在十王星南的培育中選擇{threshold}次活動補給・慰問品吧"
     },
     {
       "id": "dearness_event_jsna-006",
@@ -327,7 +327,7 @@
     },
     {
       "id": "dearness_event_ttmr-005",
-      "name": "在月村手毬的培育中选择{threshold}次活动补给・慰问品吧"
+      "name": "在月村手毬的培育中選擇{threshold}次活動補給・慰問品吧"
     },
     {
       "id": "dearness_event_ttmr-006",
@@ -4911,7 +4911,7 @@
     },
     {
       "id": "mission-research-event-002-mission_9",
-      "name": "在持有技能卡「心・技・体」的状态下完成培育吧"
+      "name": "在持有技能卡「心・技・體」的狀態下完成培育吧"
     },
     {
       "id": "mission-research-event-003-mission_1",
