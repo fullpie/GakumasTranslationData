@@ -14,10 +14,12 @@ from opencc import OpenCC
 
 RUBY_RE = re.compile(r"<r\\=(.*?)>(.*?)</r>", re.DOTALL)
 HIRAGANA_KATAKANA_RE = re.compile(r"[\u3040-\u30ff]")
+HASHTAG_RE = re.compile(r'#[^\s",<]+')
 
-CHINESE_FUNCTIONALS = {
-    "的", "了", "和", "是", "在", "這", "这", "個", "个",
-    "嗎", "吗", "請", "请", "將", "将", "與", "与",
+HASHTAG_FORCE_CONVERT = {
+    "#Animate气氛活跃队",
+    "#学马扭蛋随心抽",
+    "#学马仕成绩单",
 }
 
 
@@ -57,33 +59,34 @@ def has_kana(text: str) -> bool:
     return bool(HIRAGANA_KATAKANA_RE.search(text))
 
 
-def is_likely_chinese_sentence(text: str) -> bool:
-    if not text:
-        return False
-    return any(ch in text for ch in CHINESE_FUNCTIONALS)
-
-
 def should_preserve_single_line(text: str, upstream_reference: str | None = None) -> bool:
     if not text:
         return False
 
-    # 只有 kana 才算強日文訊號
     if has_kana(text):
         return True
 
-    # 與上游原文完全相同則保留
     if upstream_reference and text == upstream_reference:
         return True
 
-    # 其他情況允許轉繁
     return False
+
+
+def convert_hashtags(text: str, cc: OpenCC) -> str:
+    def repl(m: re.Match[str]) -> str:
+        tag = m.group(0)
+        if tag in HASHTAG_FORCE_CONVERT:
+            return cc.convert(tag)
+        return tag
+
+    return HASHTAG_RE.sub(repl, text)
 
 
 def convert_multiline_mixed_text(text: str, cc: OpenCC) -> str:
     """
     多行歌詞/對照：
     - 含 kana 的行保留
-    - 其他行直接轉繁
+    - 其他行先處理 hashtag，再轉繁
     """
     lines = text.splitlines()
     converted_lines: list[str] = []
@@ -95,9 +98,9 @@ def convert_multiline_mixed_text(text: str, cc: OpenCC) -> str:
             continue
 
         if has_kana(stripped):
-            converted_lines.append(line)
+            converted_lines.append(convert_hashtags(line, cc))
         else:
-            converted_lines.append(cc.convert(line))
+            converted_lines.append(cc.convert(convert_hashtags(line, cc)))
 
     return "\n".join(converted_lines)
 
@@ -110,7 +113,8 @@ def iter_convert_json(obj: Any, cc: OpenCC, upstream_texts: set[str] | None = No
         return [iter_convert_json(x, cc, upstream_texts) for x in obj]
 
     if isinstance(obj, str):
-        # 多行字串（歌詞/對照）優先逐行處理
+        obj = convert_hashtags(obj, cc)
+
         if "\n" in obj:
             return convert_multiline_mixed_text(obj, cc)
 
@@ -214,7 +218,6 @@ def main() -> int:
     generic_index = build_json_source_index(generic_root)
     master_index = build_json_source_index(master_root)
 
-    # 1) resource/*.txt：只轉 ruby 右側 ZH，保留左側 JP
     print("Converting resource/*.txt with ruby-safe mode...", flush=True)
     resource_dir = zh_tw_root / "resource"
     if resource_dir.exists():
@@ -223,7 +226,6 @@ def main() -> int:
             converted = convert_ruby_text(original, cc)
             write_text(txt_file, converted)
 
-    # 2) localization.json
     print("Converting localization.json...", flush=True)
     localization_file = zh_tw_root / "localization.json"
     if localization_file.exists():
@@ -235,7 +237,6 @@ def main() -> int:
         upstream_texts = collect_strings(load_json(upstream_file)) if upstream_file else set()
         save_json(localization_file, iter_convert_json(data, cc, upstream_texts))
 
-    # 3) genericTrans/*.json
     print("Converting genericTrans/*.json...", flush=True)
     generic_dir = zh_tw_root / "genericTrans"
     if generic_dir.exists():
@@ -246,7 +247,6 @@ def main() -> int:
             upstream_texts = collect_strings(load_json(upstream_file)) if upstream_file else set()
             save_json(json_file, iter_convert_json(data, cc, upstream_texts))
 
-    # 4) masterTrans/*.json
     print("Converting masterTrans/*.json...", flush=True)
     master_dir = zh_tw_root / "masterTrans"
     if master_dir.exists():
@@ -257,12 +257,10 @@ def main() -> int:
             upstream_texts = collect_strings(load_json(upstream_file)) if upstream_file else set()
             save_json(json_file, iter_convert_json(data, cc, upstream_texts))
 
-    # 5) version.txt
     version_file = base / "version.txt"
     if version_file.exists():
         shutil.copy2(version_file, zh_tw_root / "version.txt")
 
-    # 6) 打包 zhTW zip
     print("Packing GakumasTranslationData_zhTW.zip...", flush=True)
     zip_dir(zh_tw_root, base / "GakumasTranslationData_zhTW.zip")
 
