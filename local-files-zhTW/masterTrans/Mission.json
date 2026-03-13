@@ -198,6 +198,22 @@
       "name": "讓葛城莉莉婭透過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
+      "id": "dearness_event_relaunch_amao-001",
+      "name": "將有村麻央的歌唱能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_amao-002",
+      "name": "在有村麻央的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_amao-003",
+      "name": "有村麻央透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "dearness_event_relaunch_amao-004",
+      "name": "讓有村麻央透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_relaunch_fktn-001",
       "name": "將藤田琴音的舞蹈能力值培養至1800以上並完成培育"
     },
@@ -212,6 +228,38 @@
     {
       "id": "dearness_event_relaunch_fktn-004",
       "name": "讓藤田琴音透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hrnm-001",
+      "name": "將姬崎莉波的視覺能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_hrnm-002",
+      "name": "在姬崎莉波的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hrnm-003",
+      "name": "姬崎莉波透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hrnm-004",
+      "name": "讓姬崎莉波透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_relaunch_kcna-001",
+      "name": "將倉本千奈的舞蹈能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_kcna-002",
+      "name": "在倉本千奈的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_kcna-003",
+      "name": "倉本千奈透過{threshold}次舞蹈訓練吧"
+    },
+    {
+      "id": "dearness_event_relaunch_kcna-004",
+      "name": "讓倉本千奈透過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_event_relaunch_shro-001",
