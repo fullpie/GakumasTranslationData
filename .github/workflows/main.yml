@@ -109,21 +109,33 @@ jobs:
           echo "VERSION=$VERSION" >> $GITHUB_ENV
           echo "Upstream VERSION: $VERSION"
 
-      - name: Create Release
+      - name: Create or Update Release
         if: env.updated == 'true' && github.ref == 'refs/heads/main'
-        uses: ncipollo/release-action@v1
-        with:
-          artifacts: GakumasTranslationData_zhTW.zip
-          token: ${{ secrets.GITHUB_TOKEN }}
-          tag: zhTW-${{ env.VERSION }}
-          name: zhTW-${{ env.VERSION }}
-          body: |
-            Traditional Chinese package release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RELEASE_TAG: zhTW-${{ env.VERSION }}
+        run: |
+          BODY_FILE="$RUNNER_TEMP/release_body.txt"
+          cat > "$BODY_FILE" <<'EOF'
+          Traditional Chinese package release
 
-            Asset:
-            - GakumasTranslationData_zhTW.zip
-          allowUpdates: true
-          replacesArtifacts: true
+          Asset:
+          - GakumasTranslationData_zhTW.zip
+          EOF
+
+          if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release edit "$RELEASE_TAG" \
+              --title "$RELEASE_TAG" \
+              --notes-file "$BODY_FILE" \
+              --latest
+          else
+            gh release create "$RELEASE_TAG" \
+              --title "$RELEASE_TAG" \
+              --notes-file "$BODY_FILE" \
+              --latest
+          fi
+
+          gh release upload "$RELEASE_TAG" GakumasTranslationData_zhTW.zip --clobber
 
       - name: Commit and Push Changes
         if: env.updated == 'true' && github.ref == 'refs/heads/main'
