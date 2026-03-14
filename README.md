@@ -7,7 +7,6 @@ Traditional Chinese build fork for Gakumas translation data.
 This repository keeps the upstream sync and release flow, then adds a zhTW conversion and validation layer on top of `local-files`.
 
 更新資源包 API: `https://api.github.com/repos/fullpie/Gakumass/releases/latest`
-Latest package API: `https://api.github.com/repos/fullpie/Gakumass/releases/latest`
 
 ## 專案定位 / Repository Role
 
