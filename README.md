@@ -62,19 +62,14 @@ This repository keeps the upstream sync and release flow, then adds a zhTW conve
 
 ## 繁中轉換策略 / zhTW Build Strategy
 
-這個 zhTW build 不是單純整包丟給 OpenCC。
-The zhTW build is not a plain folder-wide OpenCC pass.
-
-- JSON 會遞迴轉換 value，不碰 key
-- `resource` 劇情腳本會先 parse，再依欄位處理 `text`、`name`、`title` 與選項文字
-- 含有 kana 的行會先保護，避免混合日文被整段強轉
-- OpenCC 前後都會套用精確詞與 regex 規則
-- build 結束後會產生 `zhtw_validation_report.json`，檢查保護詞是否被破壞、是否殘留已知簡體詞
-- JSON values are converted recursively without touching keys
-- `resource` story scripts are parsed field by field, including `text`, `name`, `title`, and choices
-- Lines containing kana are protected from blanket conversion so mixed Japanese text is not damaged
-- Exact-term and regex rules are applied before and after OpenCC
-- `zhtw_validation_report.json` is generated after build to detect broken protected terms and known Simplified Chinese leftovers
+- 以 OpenCC 為基礎，並結合專案專用規則進行轉換
+- JSON 僅轉換 value；`resource` 依欄位處理 `text`、`name`、`title` 與選項文字
+- 含 kana 的內容會先保護，再套用精確詞與 regex 規則
+- `zhtw_validation_report.json` 用於檢查保護詞與已知簡體殘留
+- Conversion is based on OpenCC with project-specific overrides
+- JSON processing only converts values; `resource` files are handled by field
+- Lines containing kana are protected before exact-term and regex normalization
+- `zhtw_validation_report.json` is used to detect broken protected terms and known Simplified Chinese leftovers
 
 `zhtw_validation_report.json` 是建置診斷檔，已加入 `.gitignore`，不屬於 release 內容。
 `zhtw_validation_report.json` is a generated diagnostic file, ignored by git, and not part of the release payload.
@@ -107,36 +102,9 @@ python build_zhtw.py
 - `./local-files-zhTW`
 - `./GakumasTranslationData_zhTW.zip`
 
-## GitHub Actions
-
-GitHub Actions 仍維持原本的自動同步模型，但測試分支只做 build 與 artifact 上傳。
-GitHub Actions keeps the original sync model, while non-`main` test branches only build and upload artifacts.
-
-- 更新 submodule
-- 重建 merged resources
-- 建立 zhTW package
-- `main` 分支建立或更新 release
-- `main` 分支才會 commit 並 push 生成結果
-- update submodules
-- rebuild merged resources
-- build the zhTW package
-- create or update the release only on `main`
-- commit and push generated results back only on `main`
-
-workflow 入口仍然是：
-
-```bash
-python build_zhtw.py
-```
-
-只要 `build_zhtw.py` 與 zhTW 規則檔有提交，GitHub 上就能照原流程自動跑。
-As long as `build_zhtw.py` and the zhTW rule files are committed, the GitHub workflow can keep running without any local-only path settings.
-
 ## 維護備註 / Maintenance Notes
 
-- `merge.py` 依賴上游資料格式；若 raw 腳本或 CSV 結構變動，可能會在 zhTW 轉換前就先失敗
-- zhTW 修正請優先放在 `name_dictionary_zhTW.json`、`term_dictionary_zhTW.json`、`regex_dictionary_zhTW.json`
-- 不建議把專案特例零散硬寫進其他無關腳本
-- `merge.py` depends on upstream file formats; upstream changes can fail before zhTW conversion starts
-- Put zhTW-specific fixes in `name_dictionary_zhTW.json`, `term_dictionary_zhTW.json`, or `regex_dictionary_zhTW.json`
-- Avoid scattering project-specific fixes into unrelated scripts
+- `merge.py` 依賴上游資料格式；若 raw 腳本或表格結構變動，可能影響建置
+- zhTW 修正請集中維護於 `name_dictionary_zhTW.json`、`term_dictionary_zhTW.json`、`regex_dictionary_zhTW.json`
+- `merge.py` depends on upstream file formats; upstream changes may affect the build
+- Keep zhTW-specific fixes in `name_dictionary_zhTW.json`, `term_dictionary_zhTW.json`, and `regex_dictionary_zhTW.json`
