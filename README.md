@@ -6,6 +6,9 @@ Traditional Chinese build fork for Gakumas translation data.
 這個倉庫維持上游的同步與發布流程，並在 `local-files` 之上增加一層 zhTW 轉換與驗證。
 This repository keeps the upstream sync and release flow, then adds a zhTW conversion and validation layer on top of `local-files`.
 
+更新資源包 API: `https://api.github.com/repos/fullpie/Gakumass/releases/latest`
+Latest package API: `https://api.github.com/repos/fullpie/Gakumass/releases/latest`
+
 ## 專案定位 / Repository Role
 
 - 上游基底倉庫：[`chinosk6/GakumasTranslationData`](https://github.com/chinosk6/GakumasTranslationData)
