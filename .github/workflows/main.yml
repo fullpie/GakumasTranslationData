@@ -23,7 +23,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
           submodules: 'recursive'
@@ -40,13 +40,13 @@ jobs:
 
       - name: Setup Node.js
         if: env.updated == 'true'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '24'
 
       - name: Setup Python
         if: env.updated == 'true'
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
 
@@ -68,7 +68,7 @@ jobs:
 
       - name: Get game resources
         if: env.updated == 'true'
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           repository: DreamGallery/Campus-adv-txts
           ref: main
@@ -95,7 +95,7 @@ jobs:
 
       - name: Upload test artifacts
         if: env.updated == 'true' && github.ref != 'refs/heads/main'
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: GakumasTranslationData_zhTW-${{ github.run_id }}
           path: |
