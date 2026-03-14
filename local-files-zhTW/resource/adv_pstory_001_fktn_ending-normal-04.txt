@@ -23,7 +23,7 @@
 [message text=<r\=そこまで褒めてもらえるような>我總覺得沒有</r>\r\n<r\=デキじゃ～なかったよーな気も……>達到被誇獎的程度……</r> name=琴音 clip=\{"_startTime":15.4848344446,"_duration":6.0200033715,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [voice voice=sud_vo_adv_pstory_001_fktn_ending-normal-04_fktn-003 actorId=fktn channel=1 clip=\{"_startTime":15.5848378161,"_duration":5.92,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [message text=<r\=いいえ、いい模擬練習でしたよ。>不，是一次很好的模擬練習。</r> name={user} se=sud_se_adv_message-01 clip=\{"_startTime":21.7048338724,"_duration":2.1078843436,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
-[choicegroup choices=[choice text=现在的实力\n已经确认了] choices=[choice text=现在，\n感觉怎么样？] clip=\{"_startTime":24.0127182159,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
+[choicegroup choices=[choice text=現在的實力\n已經確認了] choices=[choice text=現在，\n感覺怎麼樣？] clip=\{"_startTime":24.0127182159,"_duration":1.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]
 [branchgroup type=Choice groupLength=2]
 [branch groupLength=11]
 [backgroundsetting id=ryomon_mae clip=\{"_startTime":25.2127182159,"_duration":0.0,"_easeInDuration":0.0,"_easeOutDuration":0.0,"_blendInDuration":-1.0,"_blendOutDuration":-1.0,"_mixInEaseType":1,"_mixOutEaseType":1,"_timeScale":1.0\}]

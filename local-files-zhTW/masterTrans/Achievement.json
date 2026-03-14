@@ -2922,7 +2922,7 @@
     },
     {
       "id": "achieve-o_001",
-      "name": "歡迎來到初星學園",
+      "name": "歡迎來到初星学園",
       "description": "開始培育的證明"
     },
     {
@@ -3772,7 +3772,7 @@
     },
     {
       "id": "achieve-p_idol-fktn-010",
-      "name": "初星學園的看板娘",
+      "name": "初星学園的看板娘",
       "description": "藤田琴音獲得{threshold}粉絲"
     },
     {
@@ -4347,7 +4347,7 @@
     },
     {
       "id": "achieve-p_idol-hume-023",
-      "name": "初星學園的怪物",
+      "name": "初星学園的怪物",
       "description": "使用花海佑芽透過最終考試並獲得{threshold}次SSS以上評價"
     },
     {

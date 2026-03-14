@@ -8121,7 +8121,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "技能卡使用時，未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的時候，"
+          "text": "技能卡使用时，未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的时候，"
         }
       ],
       "playProduceDescriptions": [
@@ -8135,7 +8135,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的時候，可以使用"
+          "text": "未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的时候，可以使用"
         }
       ],
       "playEffectProduceDescriptions": [
@@ -8149,7 +8149,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的時候，"
+          "text": "未定義のパターン(Type: ConditionThresholdMultipleDown, CheckType: , Value: 250)的时候，"
         }
       ]
     },
@@ -14493,7 +14493,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "技能卡使用時，未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的時候，"
+          "text": "技能卡使用时，未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的时候，"
         }
       ],
       "playProduceDescriptions": [
@@ -14507,7 +14507,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的時候，可以使用"
+          "text": "未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的时候，可以使用"
         }
       ],
       "playEffectProduceDescriptions": [
@@ -14521,7 +14521,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的時候，"
+          "text": "未定義のパターン(Type: FullPowerUp, CheckType: , Value: 1)的时候，"
         }
       ]
     },
@@ -22534,7 +22534,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "開始時，未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的時候，"
+          "text": "开始时，未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的时候，"
         }
       ],
       "playProduceDescriptions": [
@@ -22548,7 +22548,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的時候，可以使用"
+          "text": "未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的时候，可以使用"
         }
       ],
       "playEffectProduceDescriptions": [
@@ -22562,7 +22562,7 @@
           "produceStepType": "ProduceStepType_Unknown",
           "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
           "targetId": "",
-          "text": "未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的時候，"
+          "text": "未定義のパターン(Type: ParameterBuff, CheckType: , Value: 1)的时候，"
         }
       ]
     },
