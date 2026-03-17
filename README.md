@@ -39,13 +39,6 @@ This repository keeps the upstream sync and release flow, then adds a zhTW conve
 - `./gakumas-master-translation`: master table 翻譯來源
 - `./local-files`: 合併後的簡中輸出
 - `./local-files-zhTW`: 繁中輸出
-- `./raw`: raw ADV script files (`adv*.txt`), not committed
-- `./gakuen-adapted-translation-data`: adapted story translation source
-- `./GakumasPreTranslation`: fallback pretranslation and localization source
-- `./gakumas-generic-strings-translation`: generic string translation source
-- `./gakumas-master-translation`: master table translation source
-- `./local-files`: merged Simplified Chinese output
-- `./local-files-zhTW`: Traditional Chinese output
 
 ## 重要檔案 / Important Files
 
