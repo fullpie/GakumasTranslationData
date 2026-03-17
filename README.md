@@ -15,20 +15,20 @@ This repository keeps the upstream sync and release flow, then adds a zhTW conve
 - GitHub Actions 仍可自動更新 submodule、重建資源、打包 zhTW release
 - Upstream base repository: [`chinosk6/GakumasTranslationData`](https://github.com/chinosk6/GakumasTranslationData)
 - This fork keeps the original merge/release pipeline and adds a Traditional Chinese output layer
-- GitHub Actions can still update submodules, rebuild resources, and publish the zhTW package automatically
+
 
 ## 資料流程 / Data Flow
 
 1. 更新 submodule，取得最新翻譯資料
    Update submodules to fetch the latest translation data.
 2. 將 ADV 原始腳本放入 `./raw`
-   Put raw ADV script files into `./raw`.
+   
 3. 執行 `merge.py` 產生 `./local-files`
-   Run `merge.py` to generate `./local-files`.
+   
 4. 執行 `build_zhtw.py` 產生 `./local-files-zhTW`
-   Run `build_zhtw.py` to generate `./local-files-zhTW`.
+   
 5. 打包成 `GakumasTranslationData_zhTW.zip`
-   Pack the result into `GakumasTranslationData_zhTW.zip`.
+   
 
 ## 重要資料夾 / Important Folders
 
@@ -55,12 +55,6 @@ This repository keeps the upstream sync and release flow, then adds a zhTW conve
 - `./term_dictionary_zhTW.json`: 專案專用的繁中詞彙補正
 - `./regex_dictionary_zhTW.json`: 以正則規則做後處理與正規化
 - `./version.txt`: release 版本命名用
-- `./merge.py`: merges submodule data and raw ADV files into `./local-files`
-- `./build_zhtw.py`: builds zhTW output from `./local-files`
-- `./name_dictionary_zhTW.json`: exact replacements for names and protected terms
-- `./term_dictionary_zhTW.json`: project-specific zhTW term overrides
-- `./regex_dictionary_zhTW.json`: regex-based zhTW normalization rules
-- `./version.txt`: version used for release naming
 
 ## 繁中轉換策略 / zhTW Build Strategy
 
@@ -84,7 +78,6 @@ This repository keeps the upstream sync and release flow, then adds a zhTW conve
 - `pip install -r requirements.txt`
 - `pip install opencc-python-reimplemented`
 - submodule 已初始化並更新
-- submodules initialized and updated
 
 ### 產生合併輸出 / Build merged source
 
@@ -108,5 +101,3 @@ python build_zhtw.py
 
 - `merge.py` 依賴上游資料格式；若 raw 腳本或表格結構變動，可能影響建置
 - zhTW 修正請集中維護於 `name_dictionary_zhTW.json`、`term_dictionary_zhTW.json`、`regex_dictionary_zhTW.json`
-- `merge.py` depends on upstream file formats; upstream changes may affect the build
-- Keep zhTW-specific fixes in `name_dictionary_zhTW.json`, `term_dictionary_zhTW.json`, and `regex_dictionary_zhTW.json`
