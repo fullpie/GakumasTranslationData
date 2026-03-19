@@ -712,6 +712,41 @@
       "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
     },
     {
+      "characterId": "hski",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至花海咲季的親密度TOP"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hski",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
       "characterId": "hume",
       "dearnessLevel": 1,
       "produceConditionDescription": ""

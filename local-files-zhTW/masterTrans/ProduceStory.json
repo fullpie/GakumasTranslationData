@@ -11223,6 +11223,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-hski-3-017-01",
+      "title": "Wildest Flower 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-017-02",
+      "title": "Wildest Flower 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-017-03",
+      "title": "Wildest Flower 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-hume-3-000-01",
       "title": "The Rolling Riceball 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -12838,6 +12853,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-2-0072-01",
+      "title": "作為演員的重大勝利",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0072-02",
+      "title": "保持真實的你就好",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0000-01",
       "title": "『朋友』午餐",
       "produceEventHintProduceConditionDescriptions": []
@@ -14215,6 +14240,21 @@
     {
       "id": "p_story-s_card-3-0091-03",
       "title": "即使畢業也會幫忙",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0092-01",
+      "title": "另一個妹妹？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0092-02",
+      "title": "可以打個招呼嗎？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0092-03",
+      "title": "讓食物更美味的秘密",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

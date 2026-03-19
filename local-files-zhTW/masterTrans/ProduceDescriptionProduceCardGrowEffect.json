@@ -207,8 +207,8 @@
     {
       "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
       "produceDescriptionLabelId": "Label_CardStatusEnchantChange",
-      "name": "成長效果置換",
-      "produceCardCustomizeDescription": "成長"
+      "name": "成長變更",
+      "produceCardCustomizeDescription": "成長變更"
     },
     {
       "type": "ProduceCardGrowEffectType_PlayTriggerChange",

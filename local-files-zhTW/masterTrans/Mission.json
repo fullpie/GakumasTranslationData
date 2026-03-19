@@ -102,6 +102,38 @@
       "name": "讓姬崎莉波透過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
+      "id": "dearness_event_hski-001",
+      "name": "將花海咲季的視覺能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_hski-002",
+      "name": "在花海咲季的培育中選擇{threshold}次外出吧"
+    },
+    {
+      "id": "dearness_event_hski-003",
+      "name": "在花海咲季的培育中選擇{threshold}次諮詢吧"
+    },
+    {
+      "id": "dearness_event_hski-004",
+      "name": "在花海咲季的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_hski-005",
+      "name": "在花海咲季的培育中選擇{threshold}次活動補給・慰問品吧"
+    },
+    {
+      "id": "dearness_event_hski-006",
+      "name": "花海咲季透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "dearness_event_hski-007",
+      "name": "在花海咲季的培育中選擇{threshold}次特別指導吧"
+    },
+    {
+      "id": "dearness_event_hski-008",
+      "name": "讓花海咲季透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_jsna-001",
       "name": "將十王星南的視覺能力值培養至1800以上並完成培育"
     },
@@ -448,6 +480,26 @@
     {
       "id": "dearness_normal-mission_hrnm-005",
       "name": "在姬崎莉波的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_hski-001",
+      "name": "將花海咲季的視覺能力值培養至2000以上並完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_hski-002",
+      "name": "在花海咲季的培育中累計使用{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_hski-003",
+      "name": "在花海咲季的培育中強化{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_hski-004",
+      "name": "讓花海咲季透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_normal-mission_hski-005",
+      "name": "在花海咲季的培育中自定義{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_jsna-001",
@@ -3275,6 +3327,106 @@
     },
     {
       "id": "mission-highscorerush-event-010-mission_56",
+      "name": "通關第5天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_11",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_12",
+      "name": "將花海咲季的視覺能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_13",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_14",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_16",
+      "name": "通關第1天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_21",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_22",
+      "name": "將葛城莉莉婭的視覺能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_23",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_24",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_26",
+      "name": "通關第2天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_31",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_32",
+      "name": "在花海咲季或葛城莉莉婭的培育中透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_33",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_34",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_36",
+      "name": "通關第3天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_41",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_42",
+      "name": "在花海咲季或葛城莉莉婭的培育中透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_43",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_44",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_46",
+      "name": "通關第4天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_51",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_52",
+      "name": "在花海咲季或葛城莉莉婭的培育中透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_53",
+      "name": "在花海咲季的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_54",
+      "name": "在葛城莉莉婭的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-011-mission_56",
       "name": "通關第5天的全部任務"
     },
     {
@@ -7006,6 +7158,30 @@
       "name": "【全力以赴！】花海咲季的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hski-3-017-01",
+      "name": "【Wildest Flower】花海咲季的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-02",
+      "name": "【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-03",
+      "name": "【Wildest Flower】花海咲季的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-04",
+      "name": "【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-05",
+      "name": "【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-017-06",
+      "name": "【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hume-2-000-01",
       "name": "【偶像，開始！】花海佑芽的培育中透過最終考試"
     },
@@ -9616,6 +9792,10 @@
     {
       "id": "achieve-p_idol-jsna-021",
       "name": "使用十王星南透過最終考試並獲得{threshold}次SS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-jsna-022",
+      "name": "將十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-p_idol-jsna-023",
