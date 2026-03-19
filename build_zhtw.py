@@ -3,6 +3,7 @@
 import json
 import re
 import shutil
+import tempfile
 import zipfile
 from dataclasses import asdict, dataclass
 from pathlib import Path
@@ -153,6 +154,24 @@ def zip_dir(src_dir: Path, zip_path: Path) -> None:
         for path in src_dir.rglob("*"):
             if path.is_file():
                 archive.write(path, path.relative_to(src_dir))
+
+
+def build_release_zip(base: Path, output_root: Path, zip_path: Path) -> None:
+    version_file = base / "version.txt"
+
+    with tempfile.TemporaryDirectory(prefix="zhtw_release_", dir=base) as staging_dir:
+        package_root = Path(staging_dir)
+        package_local_files = package_root / "local-files"
+        shutil.copytree(output_root, package_local_files)
+
+        nested_version = package_local_files / "version.txt"
+        if nested_version.exists():
+            nested_version.unlink()
+
+        if version_file.exists():
+            shutil.copy2(version_file, package_root / "version.txt")
+
+        zip_dir(package_root, zip_path)
 
 
 def has_kana(text: str) -> bool:
@@ -507,7 +526,7 @@ def main() -> int:
         return 1
 
     print("Packing GakumasTranslationData_zhTW.zip...", flush=True)
-    zip_dir(output_root, base / "GakumasTranslationData_zhTW.zip")
+    build_release_zip(base, output_root, base / "GakumasTranslationData_zhTW.zip")
     print("Built GakumasTranslationData_zhTW.zip", flush=True)
     return 0
 
