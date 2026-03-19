@@ -88,6 +88,14 @@ jobs:
           pip install -r requirements.txt
           python merge.py
 
+      - name: Read upstream version
+        if: env.updated == 'true'
+        run: |
+          VERSION=$(curl -fsSL https://raw.githubusercontent.com/chinosk6/GakumasTranslationData/main/version.txt)
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
+          echo "Upstream VERSION: $VERSION"
+          printf '%s\n' "$VERSION" > version.txt
+
       - name: Build zhTW package
         if: env.updated == 'true'
         run: |
@@ -101,13 +109,6 @@ jobs:
           path: |
             GakumasTranslationData_zhTW.zip
             zhtw_validation_report.json
-
-      - name: Read upstream version
-        if: env.updated == 'true' && github.ref == 'refs/heads/main'
-        run: |
-          VERSION=$(curl -fsSL https://raw.githubusercontent.com/chinosk6/GakumasTranslationData/main/version.txt)
-          echo "VERSION=$VERSION" >> $GITHUB_ENV
-          echo "Upstream VERSION: $VERSION"
 
       - name: Create or Update Release
         if: env.updated == 'true' && github.ref == 'refs/heads/main'
