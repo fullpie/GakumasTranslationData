@@ -79,6 +79,12 @@
       "description": "用票據抽取"
     },
     {
+      "id": "gasha_button-00800-free-10-06",
+      "order": 3,
+      "name": "10連無料，最多100連無料扭蛋",
+      "description": "10連扭蛋"
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "10連道具扭蛋",
