@@ -639,36 +639,6 @@
     },
     {
       "helpCategoryId": "help-livetour-event",
-      "id": "tour-event-bonus",
-      "order": 2,
-      "name": "活動獎勵"
-    },
-    {
-      "helpCategoryId": "help-livetour-event",
-      "id": "tour-exchange",
-      "order": 8,
-      "name": "活動兌換所道具"
-    },
-    {
-      "helpCategoryId": "help-livetour-event",
-      "id": "tour-finish",
-      "order": 9,
-      "name": "活動結束後"
-    },
-    {
-      "helpCategoryId": "help-livetour-event",
-      "id": "tour-idol",
-      "order": 5,
-      "name": "活動報酬加成的培育用偶像"
-    },
-    {
-      "helpCategoryId": "help-livetour-event",
-      "id": "tour-play-ticket",
-      "order": 4,
-      "name": "Live挑戰券"
-    },
-    {
-      "helpCategoryId": "help-livetour-event",
       "id": "tour-reward",
       "order": 7,
       "name": "活動報酬"
@@ -689,7 +659,7 @@
       "helpCategoryId": "help-livetour-event",
       "id": "tour-tour",
       "order": 1,
-      "name": "巡演活動"
+      "name": "特別活動"
     },
     {
       "helpCategoryId": "help-main-story-event",

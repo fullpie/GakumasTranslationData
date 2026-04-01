@@ -13,7 +13,7 @@
     {
       "id": "Convert_002",
       "name": "訓練",
-      "swapName": "考試·舞臺"
+      "swapName": "考試・舞臺"
     },
     {
       "id": "Convert_ConditionThreshold",
@@ -47,7 +47,7 @@
     },
     {
       "id": "Convert_StepLessonType_DanceLesson",
-      "name": "【舞蹈訓練·舞蹈回合限定】",
+      "name": "【舞蹈訓練・舞蹈回合限定】",
       "swapName": "如果是舞蹈回合，"
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "id": "Convert_StepLessonType_VisualLesson",
-      "name": "【視覺訓練·視覺回合限定】",
+      "name": "【視覺訓練・視覺回合限定】",
       "swapName": "如果是視覺回合，"
     },
     {
       "id": "Convert_StepLessonType_VocalLesson",
-      "name": "【歌唱訓練·歌唱回合限定】",
+      "name": "【歌唱訓練・歌唱回合限定】",
       "swapName": "如果是歌唱回合，"
     },
     {

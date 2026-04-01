@@ -108,7 +108,7 @@
     {
       "id": "costume_head_amao-hair-0006",
       "name": "初美☆配飾",
-      "description": "高階任務通行證 2025年4月 獲得"
+      "description": "高階任務通行證 2025年4月 等方式獲得"
     },
     {
       "id": "costume_head_amao-hair-0007",
@@ -583,7 +583,7 @@
     {
       "id": "costume_head_hrnm-hair-0006",
       "name": "初美☆配飾",
-      "description": "高階任務通行證 2025年4月 獲得"
+      "description": "高階任務通行證 2025年4月 等方式獲得"
     },
     {
       "id": "costume_head_hrnm-hair-0007",
@@ -886,6 +886,11 @@
       "description": "高階任務通行證 2025年12月 獲得"
     },
     {
+      "id": "costume_head_hume-hair-0023",
+      "name": "兔耳",
+      "description": "高階任務通行證 2026年4月 獲得"
+    },
+    {
       "id": "costume_head_hume-schl-0000",
       "name": "日常髮型",
       "description": "初始持有"
@@ -1151,6 +1156,11 @@
       "description": "【向天空約定】倉本千奈 獲得"
     },
     {
+      "id": "costume_head_kcna-hair-0023",
+      "name": "兔耳",
+      "description": "高階任務通行證 2026年4月 獲得"
+    },
+    {
       "id": "costume_head_kcna-hair-0034",
       "name": "向天空約定（點綴色設計）",
       "description": "【向天空約定】倉本千奈 獲得"
@@ -1231,6 +1241,16 @@
       "description": "【Howling over the World】葛城莉莉婭的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_kllj-cstm-0133",
+      "name": "怦然心動",
+      "description": "【怦然心動】葛城莉莉婭 獲得"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0134",
+      "name": "怦然心動",
+      "description": "【怦然心動】葛城莉莉婭的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_kllj-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高階任務通行證 2024年7月 等方式獲得"
@@ -1253,7 +1273,7 @@
     {
       "id": "costume_head_kllj-hair-0006",
       "name": "初美☆配飾",
-      "description": "高階任務通行證 2025年4月 獲得"
+      "description": "高階任務通行證 2025年4月 等方式獲得"
     },
     {
       "id": "costume_head_kllj-hair-0007",
@@ -1296,9 +1316,19 @@
       "description": ""
     },
     {
+      "id": "costume_head_nasr-hair-0004",
+      "name": "貓耳",
+      "description": "購買貓耳（根緒亞紗裡）"
+    },
+    {
       "id": "costume_head_nasr-hair-0005",
       "name": "方框眼鏡",
       "description": "購買方框眼鏡（根緒亞紗裡）"
+    },
+    {
+      "id": "costume_head_nasr-hair-0007",
+      "name": "淚滴形眼鏡",
+      "description": "購買淚滴形眼鏡（根緒亞紗裡）"
     },
     {
       "id": "costume_head_shro-casl-0000",
@@ -1421,6 +1451,11 @@
       "description": "【褪色】筱澤廣 獲得"
     },
     {
+      "id": "costume_head_shro-hair-0023",
+      "name": "兔耳",
+      "description": "高階任務通行證 2026年4月 獲得"
+    },
+    {
       "id": "costume_head_shro-hair-0031",
       "name": "褪色（點綴色設計）",
       "description": "【褪色】筱澤廣 獲得"
@@ -1481,6 +1516,16 @@
       "description": "【Love & Joy】紫雲清夏的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_ssmk-cstm-0133",
+      "name": "怦然心動",
+      "description": "【怦然心動】紫雲清夏 獲得"
+    },
+    {
+      "id": "costume_head_ssmk-cstm-0134",
+      "name": "怦然心動",
+      "description": "【怦然心動】紫雲清夏的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_ssmk-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高階任務通行證 2024年6月 等方式獲得"
@@ -1503,7 +1548,7 @@
     {
       "id": "costume_head_ssmk-hair-0006",
       "name": "初美☆配飾",
-      "description": "高階任務通行證 2025年4月 獲得"
+      "description": "高階任務通行證 2025年4月 等方式獲得"
     },
     {
       "id": "costume_head_ssmk-hair-0007",

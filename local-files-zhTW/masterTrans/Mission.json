@@ -278,6 +278,38 @@
       "name": "讓姬崎莉波透過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
+      "id": "dearness_event_relaunch_hski-001",
+      "name": "將花海咲季的視覺能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_hski-002",
+      "name": "在花海咲季的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hski-003",
+      "name": "花海咲季透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hski-004",
+      "name": "讓花海咲季透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_relaunch_jsna-001",
+      "name": "將十王星南的視覺能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_jsna-002",
+      "name": "在十王星南的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_jsna-003",
+      "name": "十王星南透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "dearness_event_relaunch_jsna-004",
+      "name": "讓十王星南透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_relaunch_kcna-001",
       "name": "將倉本千奈的舞蹈能力值培養至1800以上並完成培育"
     },
@@ -292,6 +324,22 @@
     {
       "id": "dearness_event_relaunch_kcna-004",
       "name": "讓倉本千奈透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_relaunch_kllj-001",
+      "name": "將葛城莉莉婭的視覺能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_kllj-002",
+      "name": "在葛城莉莉婭的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_kllj-003",
+      "name": "葛城莉莉婭透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "dearness_event_relaunch_kllj-004",
+      "name": "讓葛城莉莉婭透過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_event_relaunch_shro-001",
@@ -324,6 +372,22 @@
     {
       "id": "dearness_event_relaunch_ssmk-004",
       "name": "讓紫雲清夏透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_relaunch_ttmr-001",
+      "name": "將月村手毬的歌唱能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_ttmr-002",
+      "name": "在月村手毬的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_ttmr-003",
+      "name": "月村手毬透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "dearness_event_relaunch_ttmr-004",
+      "name": "讓月村手毬透過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
       "id": "dearness_event_shro-001",
@@ -1204,6 +1268,14 @@
     {
       "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
       "name": "去抽取{threshold}次Story of Re;IRIS放映紀念SSR1.5倍自選PICK UP扭蛋吧"
+    },
+    {
+      "id": "mission-april-event-001-mission_1",
+      "name": "在特別活動中挑戰並通關舞臺{threshold}次吧"
+    },
+    {
+      "id": "mission-april-event-001-mission_2",
+      "name": "在特別活動中解鎖全部活動交流吧"
     },
     {
       "id": "mission-box-gasha-event-001-mission_1",
@@ -5674,6 +5746,30 @@
       "name": "完成{threshold}次SP訓練吧"
     },
     {
+      "id": "mission-story-event-014-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-story-event-014-mission_2",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-story-event-014-mission_3",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-story-event-014-mission_4",
+      "name": "在培育的諮詢中兌換{threshold}次吧"
+    },
+    {
+      "id": "mission-story-event-014-mission_5",
+      "name": "使用{threshold}次P飲料"
+    },
+    {
+      "id": "mission-story-event-014-mission_6",
+      "name": "完成{threshold}次SP訓練吧"
+    },
+    {
       "id": "mission-tour-event-001-mission_1",
       "name": "登入{threshold}天吧"
     },
@@ -7950,6 +8046,30 @@
       "name": "【Atmosphere】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-kllj-3-017-01",
+      "name": "【怦然心動】葛城莉莉婭的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-017-02",
+      "name": "【怦然心動】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-017-03",
+      "name": "【怦然心動】葛城莉莉婭的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-017-04",
+      "name": "【怦然心動】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-017-05",
+      "name": "【怦然心動】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-017-06",
+      "name": "【怦然心動】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-shro-2-000-04",
       "name": "【最不適合的事】筱澤廣的特訓階段提升至{threshold}級"
     },
@@ -8308,6 +8428,30 @@
     {
       "id": "achieve-i_card-ssmk-3-014-06",
       "name": "【奇蹟正是現在(ﾟ∀ﾟ)！】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-017-01",
+      "name": "【怦然心動】紫雲清夏的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-017-02",
+      "name": "【怦然心動】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-017-03",
+      "name": "【怦然心動】紫雲清夏的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-017-04",
+      "name": "【怦然心動】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-017-05",
+      "name": "【怦然心動】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-017-06",
+      "name": "【怦然心動】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-2-000-04",

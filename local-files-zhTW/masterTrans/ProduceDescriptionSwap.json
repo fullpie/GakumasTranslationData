@@ -299,12 +299,12 @@
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Lesson",
-      "text": "牌堆中隨機位置"
+      "text": "牌堆的隨機位置"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_DeckRandom",
       "swapType": "ProduceDescriptionSwapType_Audition",
-      "text": "牌堆中隨機位置"
+      "text": "牌堆的隨機位置"
     },
     {
       "id": "Swap_Label_ProduceCardPositionType_Grave",

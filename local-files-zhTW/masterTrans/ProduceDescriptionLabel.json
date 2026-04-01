@@ -7319,7 +7319,7 @@
     {
       "id": "Label_ProduceCardPositionType_DeckRandom",
       "produceDescriptions": [],
-      "name": "牌堆中隨機位置"
+      "name": "牌堆的隨機位置"
     },
     {
       "id": "Label_ProduceCardPositionType_Grave",

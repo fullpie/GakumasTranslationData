@@ -451,6 +451,11 @@
       "description": "購買初星学園體操服（藤田琴音）"
     },
     {
+      "id": "hmsz-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
       "id": "hmsz-cstm-0000",
       "name": "初始",
       "description": "初始持有"
@@ -961,6 +966,11 @@
       "description": "購買初星学園體操服（花海咲季）"
     },
     {
+      "id": "hume-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
       "id": "hume-cstm-0000",
       "name": "初始",
       "description": "初始持有"
@@ -1316,6 +1326,11 @@
       "description": "初始持有"
     },
     {
+      "id": "kcna-casl-0002",
+      "name": "鐘意的便服",
+      "description": "活動獎勵 獲得"
+    },
+    {
       "id": "kcna-cstm-0000",
       "name": "初始",
       "description": "初始持有"
@@ -1651,6 +1666,16 @@
       "description": "【白線】'26ENDLESS DANCE 葛城莉莉婭 獲得"
     },
     {
+      "id": "kllj-cstm-0133",
+      "name": "怦然心動",
+      "description": "【怦然心動】葛城莉莉婭 獲得"
+    },
+    {
+      "id": "kllj-cstm-0134",
+      "name": "怦然心動",
+      "description": "【怦然心動】葛城莉莉婭的才能開花第4階段 獲得"
+    },
+    {
       "id": "kllj-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（葛城莉莉婭）"
@@ -1689,6 +1714,16 @@
       "id": "nasr-cstm-0081",
       "name": "櫻花相簿",
       "description": ""
+    },
+    {
+      "id": "nasr-cstm-0111",
+      "name": "水手服泳裝",
+      "description": "購買水手服泳裝（根緒亞紗裡）"
+    },
+    {
+      "id": "nasr-cstm-0119",
+      "name": "何時何地簡簡單單",
+      "description": "活動獎勵或閱讀特定活動劇情 獲得"
     },
     {
       "id": "nasr-cstm-0135",
@@ -2029,6 +2064,16 @@
       "id": "ssmk-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【Tame-Lie-One-Step】'26ENDLESS DANCE 紫雲清夏 獲得"
+    },
+    {
+      "id": "ssmk-cstm-0133",
+      "name": "怦然心動",
+      "description": "【怦然心動】紫雲清夏 獲得"
+    },
+    {
+      "id": "ssmk-cstm-0134",
+      "name": "怦然心動",
+      "description": "【怦然心動】紫雲清夏的才能開花第4階段 獲得"
     },
     {
       "id": "ssmk-othr-0002",
