@@ -821,6 +821,16 @@
       "description": "花海佑芽的偶像之路 通關第15關"
     },
     {
+      "id": "costume_head_hume-cstm-0100",
+      "name": "純白畫頁與水彩繪就的主角",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽 獲得"
+    },
+    {
+      "id": "costume_head_hume-cstm-0101",
+      "name": "純白畫頁與水彩繪就的主角",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_hume-cstm-0110",
       "name": "漆黑的光芒",
       "description": "花海佑芽的偶像之路 通關第25關"
@@ -886,9 +896,19 @@
       "description": "高階任務通行證 2025年12月 獲得"
     },
     {
+      "id": "costume_head_hume-hair-0020",
+      "name": "純白畫頁與水彩繪就的主角（簡約設計）",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽 獲得"
+    },
+    {
       "id": "costume_head_hume-hair-0023",
       "name": "兔耳",
       "description": "高階任務通行證 2026年4月 獲得"
+    },
+    {
+      "id": "costume_head_hume-hair-0028",
+      "name": "純白畫頁與水彩繪就的主角（點綴色設計）",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽 獲得"
     },
     {
       "id": "costume_head_hume-schl-0000",

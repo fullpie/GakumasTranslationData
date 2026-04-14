@@ -247,6 +247,21 @@
       "text": "呀！！"
     },
     {
+      "supportCardId": "s_card-2-0017",
+      "number": 1,
+      "text": "請喝水。"
+    },
+    {
+      "supportCardId": "s_card-2-0017",
+      "number": 2,
+      "text": "嗯？　呼啊咕嚕咕嚕——"
+    },
+    {
+      "supportCardId": "s_card-2-0017",
+      "number": 3,
+      "text": "呵呵，請多吃一點哦。"
+    },
+    {
       "supportCardId": "s_card-2-0018",
       "number": 1,
       "text": "誒，已經不行了嗎？"
@@ -2470,6 +2485,21 @@
       "supportCardId": "s_card-3-0093",
       "number": 3,
       "text": "嗯！\n一定要一起合格哦～！"
+    },
+    {
+      "supportCardId": "s_card-3-0094",
+      "number": 1,
+      "text": "副——會——長——！！！"
+    },
+    {
+      "supportCardId": "s_card-3-0094",
+      "number": 2,
+      "text": "這聲音是，花海……在上面嗎！？"
+    },
+    {
+      "supportCardId": "s_card-3-0094",
+      "number": 3,
+      "text": "請——快——躲——開——啊！！！！！"
     },
     {
       "supportCardId": "s_card-3-0095",

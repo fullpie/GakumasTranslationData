@@ -1446,6 +1446,36 @@
       "description": "【ENDLESS DANCE】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hume-3-017-01",
+      "name": "我在這裡哦",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hume-3-017-02",
+      "name": "純白畫頁與水彩繪就的主角",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-017-03",
+      "name": "這就是現在的我",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hume-3-017-04",
+      "name": "純白畫頁與水彩繪就的主角 +",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-017-05",
+      "name": "純白畫頁與水彩繪就的主角 ++",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-017-06",
+      "name": "純白畫頁與水彩繪就的主角 +++",
+      "description": "【純白畫頁與水彩繪就的主角】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-jsna-2-000-01",
       "name": "王者的出場",
       "description": "【一番星】十王星南的培育中透過最終考試"
