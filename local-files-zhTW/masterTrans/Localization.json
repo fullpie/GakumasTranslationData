@@ -22,6 +22,10 @@
       "description": "※可以透過特別指導進行自定義"
     },
     {
+      "id": "common.story_event_point",
+      "description": "亞紗裡老師的培育研討會"
+    },
+    {
       "id": "competition.rehearsal_battle_confirm.label.description",
       "description": "※不會消耗挑戰次數 / 不會獲得評價Pt"
     },
@@ -120,6 +124,10 @@
     {
       "id": "produce_prepare.top.event_icon.high_score_rush.title",
       "description": "十王邦夫的偶像強化月"
+    },
+    {
+      "id": "produce_prepare.top.event_icon.research.description",
+      "description": "現在可透過培育的獎勵獲得亞紗裡老師貼紙、研討狸貓、活動Pt"
     },
     {
       "id": "produce.card.move_position.deckall",

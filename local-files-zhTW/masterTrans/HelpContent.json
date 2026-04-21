@@ -803,7 +803,7 @@
       "helpCategoryId": "help-menu",
       "id": "menu-friend-invite",
       "order": 3,
-      "name": "好友招待功能"
+      "name": "好友邀請功能"
     },
     {
       "helpCategoryId": "help-menu",
@@ -1260,6 +1260,24 @@
       "id": "producer-ranking-season",
       "order": 2,
       "name": "賽季"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-bonus",
+      "order": 6,
+      "name": "活動獎勵"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-coin",
+      "order": 5,
+      "name": "活動兌換所道具"
+    },
+    {
+      "helpCategoryId": "help-research-event",
+      "id": "research-event-event-point",
+      "order": 4,
+      "name": "累計活動Pt報酬"
     },
     {
       "helpCategoryId": "help-research-event",
