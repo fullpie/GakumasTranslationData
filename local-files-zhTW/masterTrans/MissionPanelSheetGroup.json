@@ -14,6 +14,10 @@
       "name": "親密度強化活動"
     },
     {
+      "id": "dearness_panel-mission_hmsz_01",
+      "name": "親密度強化活動"
+    },
+    {
       "id": "dearness_panel-mission_hrnm_01",
       "name": "親密度強化活動"
     },
@@ -112,6 +116,10 @@
     {
       "id": "panel_mission-event-008",
       "name": "十王邦夫的挑戰任務～Step3篇～"
+    },
+    {
+      "id": "panel_mission-event-009",
+      "name": "十王邦夫的挑戰任務～H.I.F應援篇～"
     },
     {
       "id": "panel_mission-event-niv",

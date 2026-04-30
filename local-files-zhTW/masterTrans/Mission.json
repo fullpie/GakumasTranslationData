@@ -70,6 +70,38 @@
       "name": "讓藤田琴音透過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
+      "id": "dearness_event_hmsz-001",
+      "name": "將秦谷美鈴的歌唱能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_hmsz-002",
+      "name": "在秦谷美鈴的培育中選擇{threshold}次外出吧"
+    },
+    {
+      "id": "dearness_event_hmsz-003",
+      "name": "在秦谷美鈴的培育中選擇{threshold}次諮詢吧"
+    },
+    {
+      "id": "dearness_event_hmsz-004",
+      "name": "在秦谷美鈴的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_hmsz-005",
+      "name": "在秦谷美鈴的培育中選擇{threshold}次活動補給・慰問品吧"
+    },
+    {
+      "id": "dearness_event_hmsz-006",
+      "name": "秦谷美鈴透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "dearness_event_hmsz-007",
+      "name": "在秦谷美鈴的培育中選擇{threshold}次特別指導吧"
+    },
+    {
+      "id": "dearness_event_hmsz-008",
+      "name": "讓秦谷美鈴透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_hrnm-001",
       "name": "將姬崎莉波的視覺能力值培養至1800以上並完成培育"
     },
@@ -556,6 +588,26 @@
     {
       "id": "dearness_normal-mission_fktn-005",
       "name": "在藤田琴音的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-001",
+      "name": "將秦谷美鈴的歌唱能力值培養至2000以上並完成培育"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-002",
+      "name": "在秦谷美鈴的培育中累計使用{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-003",
+      "name": "在秦谷美鈴的培育中強化{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-004",
+      "name": "讓秦谷美鈴透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_normal-mission_hmsz-005",
+      "name": "在秦谷美鈴的培育中自定義{threshold}次技能卡吧"
     },
     {
       "id": "dearness_normal-mission_hrnm-001",
@@ -1318,6 +1370,10 @@
       "name": "去抽取{threshold}次新入生應援！最多100連無料！10連無料扭蛋吧"
     },
     {
+      "id": "hidden_mission-view-gasha-00870-free-10-007",
+      "name": "去抽取{threshold}次含有季節限定，最多100連無料！10連無料扭蛋吧"
+    },
+    {
       "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
       "name": "去抽取{threshold}次Story of Re;IRIS放映紀念SSR1.5倍自選PICK UP扭蛋吧"
     },
@@ -2059,7 +2115,7 @@
     },
     {
       "id": "mission-daily-incrementmoneyexchangecount-1",
-      "name": "在金幣兌換所中交換{threshold}次吧"
+      "name": "在金幣兌換所中兌換{threshold}次吧"
     },
     {
       "id": "mission-daily-incrementproduceclearcount-1",
@@ -3654,6 +3710,106 @@
       "name": "通關第5天的全部任務"
     },
     {
+      "id": "mission-highscorerush-event-013-mission_11",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_12",
+      "name": "將秦谷美鈴的歌唱能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_13",
+      "name": "在秦谷美鈴的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_14",
+      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_16",
+      "name": "通關第1天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_21",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_22",
+      "name": "將筱澤廣的歌唱能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_23",
+      "name": "在秦谷美鈴的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_24",
+      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_26",
+      "name": "通關第2天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_31",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_32",
+      "name": "在秦谷美鈴或筱澤廣的培育中透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_33",
+      "name": "在秦谷美鈴的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_34",
+      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_36",
+      "name": "通關第3天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_41",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_42",
+      "name": "在秦谷美鈴或筱澤廣的培育中透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_43",
+      "name": "在秦谷美鈴的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_44",
+      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_46",
+      "name": "通關第4天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_51",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_52",
+      "name": "在秦谷美鈴或筱澤廣的培育中透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_53",
+      "name": "在秦谷美鈴的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_54",
+      "name": "在筱澤廣的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-013-mission_56",
+      "name": "通關第5天的全部任務"
+    },
+    {
       "id": "mission-main-story-event-001-mission_11",
       "name": "消耗{threshold}點AP吧"
     },
@@ -4975,7 +5131,7 @@
     },
     {
       "id": "mission-normal-incrementmoneyexchangecount-1",
-      "name": "在金幣兌換所中交換{threshold}次吧"
+      "name": "在金幣兌換所中兌換{threshold}次吧"
     },
     {
       "id": "mission-normal-incrementproduceclearcount-1",
@@ -6023,7 +6179,7 @@
     },
     {
       "id": "mission-weekly-incrementmoneyexchangecount-1",
-      "name": "在金幣兌換所中交換{threshold}次吧"
+      "name": "在金幣兌換所中兌換{threshold}次吧"
     },
     {
       "id": "mission-weekly-incrementproduceclearcount-1",
@@ -6440,6 +6596,78 @@
     {
       "id": "panel_mission-event-008-mission_9",
       "name": "讓任意一位偶像的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_1",
+      "name": "透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_11",
+      "name": "完成{threshold}次SP訓練吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_12",
+      "name": "以SSS以上得分透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_13",
+      "name": "以SSS+以上得分透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_14",
+      "name": "讓葛城莉莉婭的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_15",
+      "name": "讓紫雲清夏的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_16",
+      "name": "讓花海咲季的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_17",
+      "name": "讓花海佑芽的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_18",
+      "name": "讓藤田琴音的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_19",
+      "name": "讓十王星南的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_2",
+      "name": "透過{threshold}次舞蹈訓練吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_3",
+      "name": "透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_4",
+      "name": "讓有村麻央的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_5",
+      "name": "讓姬崎莉波的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_6",
+      "name": "讓秦谷美鈴的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_7",
+      "name": "讓月村手毬的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_8",
+      "name": "讓倉本千奈的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-009-mission_9",
+      "name": "讓筱澤廣的親密度Lv達到{threshold}吧"
     },
     {
       "id": "panel_mission-event-niv-mission_1",
@@ -7052,6 +7280,30 @@
     {
       "id": "achieve-i_card-hmsz-3-015-06",
       "name": "【ENDLESS DANCE】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-01",
+      "name": "【VEIL】秦谷美鈴的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-02",
+      "name": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-03",
+      "name": "【VEIL】秦谷美鈴的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-04",
+      "name": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-05",
+      "name": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-06",
+      "name": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hrnm-2-000-04",
@@ -10727,7 +10979,7 @@
     },
     {
       "id": "main_task_group-01-01#12",
-      "name": "去金幣兌換所中交換道具吧"
+      "name": "去金幣兌換所中兌換道具吧"
     },
     {
       "id": "main_task_group-01-01#13",

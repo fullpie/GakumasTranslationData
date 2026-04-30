@@ -138,6 +138,12 @@
       "acquisitionRouteDescription": "活動模式的培育等方式"
     },
     {
+      "id": "item-coin-highscorerush-event-013",
+      "name": "星之閃耀",
+      "description": "可以在十王邦夫的偶像強化月～星光璀璨～(秦谷美鈴/筱澤廣)的活動扭蛋中使用的道具",
+      "acquisitionRouteDescription": "活動模式的培育等方式"
+    },
+    {
       "id": "item-common-idol_card-piece-r",
       "name": "R偶像的碎片",
       "description": "可以在R偶像才能開花中使用的道具",
@@ -264,6 +270,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-gacha-coin-hif-001",
+      "name": "H.I.F前夕獎勵硬幣",
+      "description": "可以在H.I.F前夕獎勵硬幣扭蛋中使用的硬幣",
+      "acquisitionRouteDescription": "培育"
+    },
+    {
       "id": "item-gacha-coin-newyear-001",
       "name": "初星福引券 2025",
       "description": "可以在謹賀新年！福引扭蛋中使用的道具",
@@ -278,7 +290,7 @@
     {
       "id": "item-gasha_200limit-exchange",
       "name": "Story of Re;IRIS放映紀念兌換券",
-      "description": "收集20張後，可以在道具兌換所中交換培養用偶像或支援卡的票據",
+      "description": "收集20張後，可以在道具兌換所中兌換培養用偶像或支援卡的票據",
       "acquisitionRouteDescription": "Story of Re;IRIS放映紀念SSR1.5倍自選PICK UP扭蛋"
     },
     {
@@ -500,7 +512,7 @@
     {
       "id": "item-hif-aniv-001",
       "name": "H.I.F前夕獎勵兌換券",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育"
     },
     {
@@ -590,7 +602,7 @@
     {
       "id": "item-medal-circle-battle-event-001",
       "name": "地方巡演獎章",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "地方巡演活動"
     },
     {
@@ -602,13 +614,13 @@
     {
       "id": "item-medal-main-story-event-001",
       "name": "初星標籤",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "在培育中入手"
     },
     {
       "id": "item-medal-main-story-event-002",
       "name": "初星標籤",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
@@ -620,139 +632,139 @@
     {
       "id": "item-medal-main-story-event-004",
       "name": "初星標籤",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-main-story-event-005",
       "name": "初星標籤",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-main-story-event-006",
       "name": "初星標籤",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-main-story-event-007",
       "name": "初星標籤",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-main-story-event-008",
       "name": "初星標籤",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-main-story-event-009",
       "name": "初星標籤",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-main-story-event-010",
       "name": "初星標籤",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-research-event-006",
       "name": "研討狸貓",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-001",
       "name": "友情禮花",
-      "description": "可以在活動兌換所中交換各式報酬",
+      "description": "可以在活動兌換所中兌換各式報酬",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-002",
       "name": "凌冽的牛奶瓶蓋",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-003",
       "name": "團結一致的證明",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-004",
       "name": "新星的閃耀光芒",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-006",
       "name": "羈絆束髮帶",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-007",
       "name": "友情優惠券",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-008",
       "name": "3年級1班的紀念",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-009",
       "name": "野餐的回憶",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-010",
       "name": "星光下的風景",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-011",
       "name": "宿舍全員一起",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-012",
       "name": "生日禮物",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-013",
       "name": "修學旅行的土特產",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-story-event-014",
       "name": "手工彩色紙環",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-medal-tour-event-001",
       "name": "大阪巡演獎章",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "巡演活動"
     },
     {
       "id": "item-medal-tour-event-002",
       "name": "澀谷巡演獎章",
-      "description": "可以在活動兌換所中交換各式報酬的道具",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "巡演活動、培育"
     },
     {
@@ -982,6 +994,12 @@
       "name": "[ENDLESS DANCE]秦谷美鈴的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "活動兌換所等方式"
+    },
+    {
+      "id": "item-piece-idol_hmsz-3-016",
+      "name": "[VEIL]秦谷美鈴的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
       "id": "item-piece-idol_hrnm-1-000",
@@ -1670,26 +1688,32 @@
     {
       "id": "item-selection-ticket-001",
       "name": "半週年自選票據",
-      "description": "可以在票據兌換所中交換培育用偶像以及支援卡的票據",
+      "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
       "acquisitionRouteDescription": "商店等方式"
     },
     {
       "id": "item-selection-ticket-002",
       "name": "1st Anniversary自選票據",
-      "description": "可以在票據兌換所中交換培育用偶像以及支援卡的票據",
+      "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
       "acquisitionRouteDescription": "商店等方式"
     },
     {
       "id": "item-selection-ticket-003",
       "name": "300萬DL紀念自選票據",
-      "description": "可以在票據兌換所中交換培育用偶像以及支援卡的票據",
+      "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
       "acquisitionRouteDescription": "商店等方式"
     },
     {
       "id": "item-selection-ticket-004",
       "name": "1.5th Anniversary自選票據",
-      "description": "可以在票據兌換所中交換培育用偶像以及支援卡的票據",
+      "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
       "acquisitionRouteDescription": "商店等方式"
+    },
+    {
+      "id": "item-selection-ticket-005",
+      "name": "支援卡自選票據",
+      "description": "可以在票據兌換所中兌換支援卡的票據",
+      "acquisitionRouteDescription": "H.I.F前夕獎勵硬幣扭蛋"
     },
     {
       "id": "item-staminaregen-1",

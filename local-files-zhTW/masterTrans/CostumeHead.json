@@ -353,7 +353,7 @@
     {
       "id": "costume_head_fktn-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高階任務通行證 2025年5月 獲得"
+      "description": "高階任務通行證 2025年5月 等方式獲得"
     },
     {
       "id": "costume_head_fktn-hair-0008",
@@ -421,6 +421,16 @@
       "description": "【月之龜】'25萬聖節 秦谷美鈴 獲得"
     },
     {
+      "id": "costume_head_hmsz-cstm-0102",
+      "name": "VEIL",
+      "description": "【VEIL】秦谷美鈴 獲得"
+    },
+    {
+      "id": "costume_head_hmsz-cstm-0103",
+      "name": "VEIL",
+      "description": "【VEIL】秦谷美鈴的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_hmsz-cstm-0114",
       "name": "Star-mine",
       "description": "【Star-mine】秦谷美鈴 獲得"
@@ -469,6 +479,21 @@
       "id": "costume_head_hmsz-hair-0009",
       "name": "大蝴蝶結",
       "description": "高階任務通行證 2026年1月 獲得"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0021",
+      "name": "VEIL（簡約設計）",
+      "description": "【VEIL】秦谷美鈴 獲得"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0023",
+      "name": "兔耳",
+      "description": "高階任務通行證 2026年5月 獲得"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0029",
+      "name": "VEIL（點綴色設計）",
+      "description": "【VEIL】秦谷美鈴 獲得"
     },
     {
       "id": "costume_head_hmsz-schl-0000",
@@ -728,7 +753,7 @@
     {
       "id": "costume_head_hski-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高階任務通行證 2025年5月 獲得"
+      "description": "高階任務通行證 2025年5月 等方式獲得"
     },
     {
       "id": "costume_head_hski-hair-0008",
@@ -1018,7 +1043,7 @@
     {
       "id": "costume_head_jsna-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高階任務通行證 2025年5月 獲得"
+      "description": "高階任務通行證 2025年5月 等方式獲得"
     },
     {
       "id": "costume_head_jsna-hair-0008",
@@ -1321,6 +1346,11 @@
       "description": "【Atmosphere】葛城莉莉婭的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_kllj-hair-0023",
+      "name": "兔耳",
+      "description": "高階任務通行證 2026年5月 獲得"
+    },
+    {
       "id": "costume_head_kllj-hair-0024",
       "name": "Atmosphere（點綴色設計）",
       "description": "【Atmosphere】葛城莉莉婭 獲得"
@@ -1591,6 +1621,11 @@
       "description": "【Love & Joy】紫雲清夏 獲得"
     },
     {
+      "id": "costume_head_ssmk-hair-0023",
+      "name": "兔耳",
+      "description": "高階任務通行證 2026年5月 獲得"
+    },
+    {
       "id": "costume_head_ssmk-hair-0030",
       "name": "Love & Joy（點綴色設計）",
       "description": "【Love & Joy】紫雲清夏 獲得"
@@ -1713,7 +1748,7 @@
     {
       "id": "costume_head_ttmr-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高階任務通行證 2025年5月 獲得"
+      "description": "高階任務通行證 2025年5月 等方式獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0008",

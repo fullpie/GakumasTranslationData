@@ -477,6 +477,41 @@
       "produceConditionDescription": "最終試鏡「FINALE」透過的狀態完成培育"
     },
     {
+      "characterId": "hmsz",
+      "dearnessLevel": 21,
+      "produceConditionDescription": "移動至秦谷美鈴的親密度TOP"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 22,
+      "produceConditionDescription": "累計獲得100親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 23,
+      "produceConditionDescription": "累計獲得200親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 24,
+      "produceConditionDescription": "累計獲得300親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 25,
+      "produceConditionDescription": "累計獲得400親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 26,
+      "produceConditionDescription": "累計獲得500親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "hmsz",
+      "dearnessLevel": 27,
+      "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
       "characterId": "hrnm",
       "dearnessLevel": 1,
       "produceConditionDescription": ""

@@ -102,6 +102,10 @@
       "name": "初美☆配飾（藤田琴音）"
     },
     {
+      "id": "shop_costume_costume_head_fktn-hair-0007",
+      "name": "淚滴形眼鏡（藤田琴音）"
+    },
+    {
       "id": "shop_costume_costume_head_hmsz-hair-0001",
       "name": "紫陽花髮飾（秦谷美鈴）"
     },
@@ -150,6 +154,10 @@
       "name": "初美☆配飾（花海咲季）"
     },
     {
+      "id": "shop_costume_costume_head_hski-hair-0007",
+      "name": "淚滴形眼鏡（花海咲季）"
+    },
+    {
       "id": "shop_costume_costume_head_hume-hair-0001",
       "name": "紫陽花髮飾（花海佑芽）"
     },
@@ -180,6 +188,10 @@
     {
       "id": "shop_costume_costume_head_jsna-hair-0006",
       "name": "初美☆配飾（十王星南）"
+    },
+    {
+      "id": "shop_costume_costume_head_jsna-hair-0007",
+      "name": "淚滴形眼鏡（十王星南）"
     },
     {
       "id": "shop_costume_costume_head_kcna-hair-0001",
@@ -272,6 +284,10 @@
     {
       "id": "shop_costume_costume_head_ttmr-hair-0006",
       "name": "初美☆配飾（月村手毬）"
+    },
+    {
+      "id": "shop_costume_costume_head_ttmr-hair-0007",
+      "name": "淚滴形眼鏡（月村手毬）"
     },
     {
       "id": "shop_costume_fktn-cstm-0063",
@@ -666,6 +682,10 @@
       "name": "【僅限2次優惠！】寶石6000個"
     },
     {
+      "id": "shop_jewel_item-0030",
+      "name": "【僅限1次優惠！】寶石12300個"
+    },
+    {
       "id": "shop_pack_atbm-0001",
       "name": "【72小時限定】培育偶像優勝禮包（燕）"
     },
@@ -976,6 +996,10 @@
     {
       "id": "shop_pass_item-0024",
       "name": "高階任務通行證 2026年4月"
+    },
+    {
+      "id": "shop_pass_item-0025",
+      "name": "高階通行證 2026年5月"
     }
   ]
 }

@@ -726,6 +726,36 @@
       "description": "【ENDLESS DANCE】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hmsz-3-016-01",
+      "name": "讓我告訴你們吧",
+      "description": "【VEIL】秦谷美鈴的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-02",
+      "name": "VEIL",
+      "description": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-03",
+      "name": "揭開它的面紗吧",
+      "description": "【VEIL】秦谷美鈴的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-04",
+      "name": "VEIL +",
+      "description": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-05",
+      "name": "VEIL ++",
+      "description": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-016-06",
+      "name": "VEIL +++",
+      "description": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hrnm-2-000-04",
       "name": "『自我』的開始 +",
       "description": "【『自我』的開始】姬崎莉波的特訓階段提升至{threshold}級"
