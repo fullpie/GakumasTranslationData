@@ -2,6 +2,7 @@
   "rules": {
     "primaryKeys": [
       "tutorialType",
+      "idolCardId",
       "step",
       "subStep"
     ]
@@ -9,60 +10,69 @@
   "data": [
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 2,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 3,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 1,
       "texts": [
-        "訓練完成恭喜！\n達成訓練的目標\n可以獲得獎勵哦"
+        "訓練完成，恭喜！\n達成訓練目標後\n就可以獲得獎勵哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 2,
       "texts": [
-        "看起來可以從中選擇一個呢\n這次就領取這張技能卡\n試試看吧！"
+        "好像可以從這裡面選擇一個呢\n這次就來領取這張技能卡吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 3,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 6,
       "subStep": 4,
       "texts": [
-        "完成訓練目標後，\n可以獲得對培育有用的獎勵。"
+        "完成訓練目標後，\n可以獲得有助於培育的獎勵。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 9,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 1,
       "texts": [
@@ -71,28 +81,32 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 2,
       "texts": [
-        "選擇“休息”\n讓偶像休息一會吧"
+        "選擇「休息」\n讓偶像休息一下吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 3,
       "texts": [
-        "體力變少時，用“休息”恢復體力\n為考試和訓練做好準備吧。"
+        "體力變少時用「休息」恢復體力\n為考試和訓練做準備吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 10,
       "subStep": 4,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 11,
       "subStep": 1,
       "texts": [
@@ -101,374 +115,422 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 1,
       "texts": [
-        "使用與訓練相同的技能卡，\n提升得分進行排名競爭"
+        "使用與訓練相同的技能卡，\n提升得分並競爭排名"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 2,
       "texts": [
-        "這裡可以確認當前的得分與排名"
+        "可以在這裡確認當前的得分和排名"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 3,
       "texts": [
-        "考試結束時，\n若在三位以內即為合格哦"
+        "考試結束時，\n如果在前三名就會合格哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 4,
       "texts": [
-        "立刻使用技能卡\n提升得分吧！"
+        "馬上使用技能卡\n來提升得分吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 5,
       "texts": [
-        "比訓練時大幅上升了呢\n考試時根據分數，\n得分會有加成"
+        "比訓練時提升得更多了呢\n在考試中會根據打分，\n獲得額外的得分獎勵"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 6,
       "texts": [
-        "加成可以在這裡確認\n每回合加成會變化\n請注意哦！"
+        "可以在這裡確認獎勵\n每個回合獎勵都會變化\n請注意哦！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 7,
       "texts": [
-        "那麼還有三回合\n考試加油！"
+        "現在還剩3回合\n考試請繼續加油！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 8,
       "texts": [
-        "考試中每回合得分有加成。\n分數越高得分加成的值就越大。"
+        "考試中每個回合都會獲得得分附加獎勵。\n打分越高則得分獎勵的數值就會越大。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 12,
       "subStep": 9,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 13,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 14,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 15,
       "subStep": 1,
       "texts": [
-        "直播中最多可以拍攝50次\n記錄下偶像的身影吧！"
+        "演唱會中最多可以拍攝50次\n記錄下偶像的身姿吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 1,
       "texts": [
-        "透過培育結果和偶像的成長\n決定可以參與的直播。"
+        "根據培育結果和偶像的成長\n決定可以出場的演唱會。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 2,
       "texts": [
-        "培育的結果\n可以作為“回憶”\n獲得哦"
+        "可以將培育結果\n作為「回憶」獲得哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 3,
       "texts": [
-        "根據培育的評價\n回憶的效能會變化。"
+        "根據培育評價不同\n會改變回憶的效能。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 16,
       "subStep": 4,
       "texts": [
-        "可以選擇成為“回憶”的照片哦！\n選擇你喜歡的照片試試看吧"
+        "可以選擇作為「回憶」的照片哦！\n請選擇喜歡的照片吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 17,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "",
       "step": 17,
       "subStep": 2,
       "texts": [
-        "製作人Lv上升時，會解鎖新的技能卡和\nP飲料等，並在培育中出現。"
+        "製作人Lv提升後，會解鎖新的技能卡、P飲料等，\n並會在培育過程中出現。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 1,
       "texts": [
-        "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
+        "好了，培育已經開始了呢\n這次考試特別只安排最終考試\n我會在旁協助，請放心哦！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 2,
       "texts": [
-        "透過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須透過期中考試和最終考試。",
-        "為了透過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
-        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易透過考試了。"
+        "透過考試，爭取出演演唱會吧。\n想要出演演唱會，\n需要透過期中考試和最終考試。",
+        "要透過考試，\n偶像的能力值非常重要。\n請為了透過考試而提升能力值吧。",
+        "每場考試都有審查標準。\n按照審查標準培養引數，\n會更容易透過考試。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 3,
       "texts": [
-        "在這裡可以確認偶像的分數、建議、\n審查標準"
+        "偶像的能力值、建議\n以及審查標準都可以在這裡確認"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 4,
       "subStep": 4,
       "texts": [
-        "首先進行舞蹈課\n提升舞蹈力吧！"
+        "首先為了透過視覺訓練\n而提升視覺能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 2,
       "texts": [
-        "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
+        "通關所需的能力值和\n偶像當前的能力值\n可以在這裡確認哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 3,
       "texts": [
-        "訓練中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
+        "在訓練中，可以在規定回合數內進行行動\n這次好像還剩3個回合呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 4,
       "texts": [
-        "在訓練中\n可以選擇在這裡的技能卡\n進行使用哦"
+        "訓練中可以選擇\n這裡的技能卡\n並進行使用哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 5,
       "texts": [
-        "趕緊試著使用吧！"
+        "馬上使用看看吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 6,
       "texts": [
-        "舞蹈力的分數上升\n離訓練通關更近了呢！"
+        "視覺能力值上升了，\n離完成訓練更近了呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 7,
       "texts": [
-        "體力在下降呢\n使用技能卡時\n可能需要體力"
+        "體力減少了呢\n使用技能卡時，\n有時會需要消耗體力"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 8,
       "texts": [
-        "接下來試試選擇這張技能卡吧！"
+        "接下來請選擇\n這張技能卡吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 9,
       "texts": [
-        "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
+        "{ExamEffectType.ExamBlock}元氣提升了呢！\n{ExamEffectType.ExamBlock}元氣會在體力減少時，\n優先代替體力被消耗"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 10,
       "texts": [
         "",
-        "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
+        "使用技能卡需要體力。\n有元氣時，可以消耗元氣代替體力\n來使用技能卡。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 5,
       "subStep": 11,
       "texts": [
-        "最後再選擇一張試試吧！"
+        "最後再選擇1張吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 7,
       "subStep": 1,
       "texts": [
-        "接下來選擇歌唱課\n試試看吧"
+        "接下來選擇舞蹈訓練吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 2,
       "texts": [
-        "上次訓練獲得的\n技能卡在手牌裡呢\n試著選擇看看吧！"
+        "上次訓練中獲得的\n技能卡在手牌裡呢\n請選擇它吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 3,
       "texts": [
-        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
+        "由於技能卡的效果，\n獲得了{ExamEffectType.ExamReview}好印象呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 4,
       "texts": [
-        "可以透過點選圖示\n來確認當前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
+        "回合結束時\n打分上升了呢！\n看來是{ExamEffectType.ExamReview}好印象發動了"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 5,
       "texts": [
-        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
+        "當前效果可透過\n點選圖示進行確認\n來看看{ExamEffectType.ExamReview}好印象的效果吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 6,
       "texts": [
-        "所持的P道具效果也可以透過\n點選圖示進行確認哦"
+        "{ExamEffectType.ExamReview}好印象似乎是在回合結束時\n提升打分的效果呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 7,
       "texts": [
-        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
+        "持有的P道具效果\n也可以點選圖示確認哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 8,
       "texts": [
-        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
+        "現在持有的P道具\n似乎和{ExamEffectType.ExamReview}好印象很搭呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 9,
       "texts": [
-        "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
+        "這次請選擇帶有{ExamEffectType.ExamReview}好印象效果的\n技能卡吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 10,
       "texts": [
-        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
+        "多虧{ExamEffectType.ExamReview}好印象增加，\n打分大幅提升了呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 11,
       "texts": [
-        "訓練中的效果可以透過\n點選圖示確認詳細資訊。",
-        "P道具在滿足條件後會生效。\n一開始持有的P道具由培育用偶像決定。"
+        "而且，由於P道具的效果，\n{ExamEffectType.ExamReview}好印象也增加了呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 12,
       "texts": [
-        "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
+        "訓練中的效果可透過點選圖示\n確認詳細資訊。",
+        "P道具會在滿足條件時發揮效果。\n初始持有的P道具\n會由培育用偶像自身決定。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 13,
       "texts": [
-        "沒問題，你一定能做到的！"
+        "請活用至今學到的內容，\n努力儘可能多地在培育中提升能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 14,
       "texts": [
@@ -477,236 +539,266 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-fktn-1-000",
       "step": 8,
       "subStep": 15,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 1,
       "texts": [
-        "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
+        "好了，培育已經開始了呢\n這次考試特別只安排最終考試\n我會在旁協助，請放心哦！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 2,
       "texts": [
-        "透過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須透過期中考試和最終考試。",
-        "為了透過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
-        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易透過考試了。"
+        "透過考試，爭取出演演唱會吧。\n想要出演演唱會，\n需要透過期中考試和最終考試。",
+        "要透過考試，\n偶像的能力值非常重要。\n請為了透過考試而提升能力值吧。",
+        "每場考試都有審查標準。\n按照審查標準培養引數，\n會更容易透過考試。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 3,
       "texts": [
-        "在這裡可以確認偶像的分數、建議、\n審查標準"
+        "偶像的能力值、建議\n以及審查標準都可以在這裡確認"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 4,
       "subStep": 4,
       "texts": [
-        "首先進行舞蹈課\n提升舞蹈力吧！"
+        "首先為了透過視覺訓練\n而提升舞蹈能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 2,
       "texts": [
-        "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
+        "通關所需的能力值和\n偶像當前的能力值\n可以在這裡確認哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 3,
       "texts": [
-        "訓練中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
+        "在訓練中，可以在規定回合數內進行行動\n這次好像還剩3個回合呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 4,
       "texts": [
-        "在訓練中\n可以選擇在這裡的技能卡\n進行使用哦"
+        "訓練中可以選擇\n這裡的技能卡\n並進行使用哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 5,
       "texts": [
-        "趕緊試著使用吧！"
+        "馬上使用看看吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 6,
       "texts": [
-        "舞蹈力的分數上升\n離訓練通關更近了呢！"
+        "舞蹈能力值上升了，\n離完成訓練更近了呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 7,
       "texts": [
-        "體力在下降呢\n使用技能卡時\n可能需要體力"
+        "體力減少了呢\n使用技能卡時，\n有時會需要消耗體力"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 8,
       "texts": [
-        "接下來試試選擇這張技能卡吧！"
+        "接下來請選擇\n這張技能卡吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 9,
       "texts": [
-        "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
+        "{ExamEffectType.ExamBlock}元氣提升了呢！\n{ExamEffectType.ExamBlock}元氣會在體力減少時，\n優先代替體力被消耗"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 10,
       "texts": [
         "",
-        "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
+        "使用技能卡需要體力。\n有元氣時，可以消耗元氣代替體力\n來使用技能卡。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 5,
       "subStep": 11,
       "texts": [
-        "最後再選擇一張試試吧！"
+        "最後再選擇1張吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 7,
       "subStep": 1,
       "texts": [
-        "接下來選擇歌唱課\n試試看吧"
+        "接下來選擇視覺訓練吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 2,
       "texts": [
-        "上次訓練獲得的\n技能卡在手牌裡呢\n試著選擇看看吧！"
+        "上次訓練中獲得的\n技能卡在手牌裡呢\n請選擇它吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 3,
       "texts": [
-        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
+        "由於技能卡的效果，\n獲得了{ExamEffectType.ExamParameterBuff}好調呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 4,
       "texts": [
-        "可以透過點選圖示\n來確認當前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
+        "由於這個P道具的效果，\n打分提升了！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 5,
       "texts": [
-        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
+        "當前效果可透過\n點選圖示進行確認\n來看看{ExamEffectType.ExamParameterBuff}好調的效果吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 6,
       "texts": [
-        "所持的P道具效果也可以透過\n點選圖示進行確認哦"
+        "{ExamEffectType.ExamParameterBuff}好調似乎是增加\n打分提升量的效果呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 7,
       "texts": [
-        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
+        "持有的P道具效果\n也可以點選圖示確認哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 8,
       "texts": [
-        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
+        "現在持有的P道具\n似乎和{ExamEffectType.ExamParameterBuff}好調很搭呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 9,
       "texts": [
-        "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
+        "在獲得{ExamEffectType.ExamParameterBuff}好調的狀態下\n選擇技能卡吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 10,
       "texts": [
-        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
+        "多虧{ExamEffectType.ExamParameterBuff}好調，\n打分大幅提升了呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 11,
       "texts": [
-        "訓練中的效果可以透過\n點選圖示確認詳細資訊。",
-        "P道具在滿足條件後會生效。\n一開始持有的P道具由培育用偶像決定。"
+        "訓練中的效果可透過點選圖示\n確認詳細資訊。",
+        "P道具會在滿足條件時發揮效果。\n初始持有的P道具\n會由培育用偶像自身決定。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 12,
       "texts": [
-        "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
+        "請活用至今學到的內容，\n努力儘可能多地在培育中提升能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 13,
       "texts": [
@@ -715,238 +807,266 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-hski-1-000",
       "step": 8,
       "subStep": 14,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 1,
       "texts": [
-        "好了，培育開始了呢\n這次考試特別的只有最終考試哦\n我會幫你緊跟的，請放心吧！"
+        "好了，培育已經開始了呢\n這次考試特別只安排最終考試\n我會在旁協助，請放心哦！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 2,
       "texts": [
-        "透過考試，爭取參加演唱會吧。\n要參演演唱會，\n必須透過期中考試和最終考試。",
-        "為了透過考試，\n偶像的分數很重要。\n準備考試時培養分數吧。",
-        "每次考試都有審查標準。\n如果能根據審查標準來培養分數，\n就更容易透過考試了。"
+        "透過考試，爭取出演演唱會吧。\n想要出演演唱會，\n需要透過期中考試和最終考試。",
+        "要透過考試，\n偶像的能力值非常重要。\n請為了透過考試而提升能力值吧。",
+        "每場考試都有審查標準。\n按照審查標準培養引數，\n會更容易透過考試。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 3,
       "texts": [
-        "在這裡可以確認偶像的分數、建議、\n審查標準"
+        "偶像的能力值、建議\n以及審查標準都可以在這裡確認"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 4,
       "subStep": 4,
       "texts": [
-        "首先進行舞蹈課\n提升舞蹈力吧！"
+        "首先為了透過視覺訓練\n而提升舞蹈能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 2,
       "texts": [
-        "可以在這裡確認到\n通關所需的分數和\n目前偶像的分數哦"
+        "通關所需的能力值和\n偶像當前的能力值\n可以在這裡確認哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 3,
       "texts": [
-        "訓練中可以在固定的回合數內\n進行行動\n這次似乎還剩下3回合呢！"
+        "在訓練中，可以在規定回合數內進行行動\n這次好像還剩3個回合呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 4,
       "texts": [
-        "在訓練中\n可以選擇在這裡的技能卡\n進行使用哦"
+        "訓練中可以選擇\n這裡的技能卡\n並進行使用哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 5,
       "texts": [
-        "趕緊試著使用吧！"
+        "馬上使用看看吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 6,
       "texts": [
-        "舞蹈力的分數上升\n離訓練通關更近了呢！"
+        "舞蹈能力值上升了，\n離完成訓練更近了呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 7,
       "texts": [
-        "體力在下降呢\n使用技能卡時\n可能需要體力"
+        "體力減少了呢\n使用技能卡時，\n有時會需要消耗體力"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 8,
       "texts": [
-        "接下來試試選擇這張技能卡吧！"
+        "接下來請選擇\n這張技能卡吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 9,
       "texts": [
-        "{ExamEffectType.ExamBlock}元氣上升了呢！\n{ExamEffectType.ExamBlock}元氣在體力下降時，\n會優先作為體力的替代消耗"
+        "{ExamEffectType.ExamBlock}元氣提升了呢！\n{ExamEffectType.ExamBlock}元氣會在體力減少時，\n優先代替體力被消耗"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 10,
       "texts": [
         "",
-        "技能卡的使用需要體力。\n當有元氣時，可以用元氣作為體力的替代消耗\n來使用技能卡。"
+        "使用技能卡需要體力。\n有元氣時，可以消耗元氣代替體力\n來使用技能卡。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 5,
       "subStep": 11,
       "texts": [
-        "最後再選擇一張試試吧！"
+        "最後再選擇1張吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 7,
       "subStep": 1,
       "texts": [
-        "接下來選擇歌唱課\n試試看吧"
+        "接下來選擇歌唱課程吧"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 2,
       "texts": [
-        "上次訓練獲得的\n技能卡在手牌裡呢\n試著選擇看看吧！"
+        "上次訓練中獲得的\n技能卡在手牌裡呢\n請選擇它吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 3,
       "texts": [
-        "受技能卡效果影響\n附加了{ExamEffectType.ExamLessonBuff}集中！"
+        "由於技能卡的效果，\n獲得了{ExamEffectType.ExamLessonBuff}集中呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 4,
       "texts": [
-        "可以透過點選圖示\n來確認當前效果\n讓我們看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
+        "當前效果可透過\n點選圖示進行確認\n來看看{ExamEffectType.ExamLessonBuff}集中的效果吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 5,
       "texts": [
-        "{ExamEffectType.ExamLessonBuff}集中似乎有增加\n上升分數的效果呢"
+        "{ExamEffectType.ExamLessonBuff}集中似乎是增加\n打分提升量的效果呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 6,
       "texts": [
-        "所持的P道具效果也可以透過\n點選圖示進行確認哦"
+        "持有的P道具效果\n也可以點選圖示確認哦"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 7,
       "texts": [
-        "現在持有的P道具\n{ExamEffectType.ExamLessonBuff}集中和似乎很合適呢"
+        "現在持有的P道具\n似乎和{ExamEffectType.ExamLessonBuff}集中很搭呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 8,
       "texts": [
-        "在附帶{ExamEffectType.ExamLessonBuff}集中狀態下\n選擇技能卡試試看吧！"
+        "在獲得{ExamEffectType.ExamLessonBuff}集中的狀態下\n選擇技能卡吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 9,
       "texts": [
-        "多虧了{ExamEffectType.ExamLessonBuff}集中\n分數大大增加了呢"
+        "多虧{ExamEffectType.ExamLessonBuff}集中，\n打分大幅提升了呢"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 10,
       "texts": [
-        "而且，因為P道具的效果\n{ExamEffectType.ExamLessonBuff}集中增加了呢！"
+        "而且，由於P道具的效果，\n{ExamEffectType.ExamLessonBuff}集中也增加了呢！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 11,
       "texts": [
-        "訓練中的效果可以透過\n點選圖示確認詳細資訊。",
-        "P道具在滿足條件後會生效。\n一開始持有的P道具由培育用偶像決定。"
+        "訓練中的效果可透過點選圖示\n確認詳細資訊。",
+        "P道具會在滿足條件時發揮效果。\n初始持有的P道具\n會由培育用偶像自身決定。"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 12,
       "texts": [
-        "活用到目前為止學到的內容\n儘可能多地培養分數\n請加油試試看！"
+        "請活用至今學到的內容，\n努力儘可能多地在培育中提升能力值吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 13,
       "texts": [
@@ -955,467 +1075,609 @@
     },
     {
       "tutorialType": "TutorialType_GameStart",
+      "idolCardId": "i_card-ttmr-1-000",
       "step": 8,
       "subStep": 14,
-      "texts": [
-        "沒問題，你一定能做到的！"
-      ]
+      "texts": []
     },
     {
       "tutorialType": "TutorialType_MainTask",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "透過完成課題可以解鎖新的功能\n和初星交流。\n此外，還可以獲得製作人Exp等的獎勵。"
+        "完成課題後，\n可以解鎖新功能和初星交流。\n此外，還可獲得製作人Exp等獎勵。"
       ]
     },
     {
       "tutorialType": "TutorialType_Work",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "派遣偶像去工作\n可以獲得各種獎勵。",
-        "工作有時會大成功，\n大成功時可以獲得更多獎勵。\n工作開始時好調的偶像\n必定會大成功。"
+        "派遣偶像去工作後，\n可以獲得各種獎勵。",
+        "工作有時會大成功，\n大成功時可獲得的獎勵數量會增加。\n工作開始時處於好調狀態的偶像\n一定會大成功。"
       ]
     },
     {
       "tutorialType": "TutorialType_IdolCard",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "培育用偶像經過才能開花後，\n初期P道具和訓練加成都會加強。"
+        "對培育用偶像進行才能開花後，\n初始P道具和訓練獎勵會得到強化。"
       ]
     },
     {
       "tutorialType": "TutorialType_IdolCardSkin",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "可以與全國的製作人進行對戰。\n競賽中可以使用培育獲得的\n回憶相關的分數、技能卡和\nP道具來進行對戰。",
-        "在每個舞臺進行表演對抗，\n透過得分來競爭勝負。\n贏得最多舞臺比賽的製作人將獲勝。",
-        "競賽有評級。\n排行榜前列可以晉升到\n更高的評級。\n評級越高獎勵越豐富。",
-        "收集競賽獎牌後\n可以在道具交換所\n兌換豐富的獎勵。"
+        "可以與全宇宙的製作人對戰。\n在競技場中，可以使用培養中獲得的\n與回憶繫結的能力值、技能卡、\nP道具進行對戰。",
+        "每個舞臺都會進行表演對決，\n以獲得的分數來決出勝負。\n贏得舞臺數量更多的製作人\n將獲得勝利。",
+        "競技場設有段位。\n排名靠前時，\n可以晉升到更高段位。\n段位越高，獎勵越豪華。",
+        "收集競技場獎牌後，\n可以在道具交換所\n兌換豪華獎勵。"
       ]
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 2,
       "texts": [
-        "為了參加競賽\n來編成組合吧"
+        "為了參加競技場，\n先編成組合吧"
       ]
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 3,
       "texts": [
-        "使用全權委託可以\n一次性編成"
+        "使用自動編成\n可以直接完成編成"
       ]
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 4,
       "texts": [
-        "使用全權委託可以\n一次性編成"
+        "使用自動編成\n可以直接完成編成"
       ]
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 5,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 6,
       "texts": [
-        "回憶在每個舞臺都有\n固定的可編成方案。",
-        "回憶編成分為主和副。\n主和副可以編成同一偶像的回憶。",
-        "編成為主時，回憶所持的效能全部\n反映在表演對抗中。\n編成為副時，只反映部分效能。"
+        "每個舞臺都規定了\n可編成回憶的方案。",
+        "回憶編成分為主位和副位。\n主位和副位可以編入同一偶像的回憶。",
+        "編入主位時，回憶所擁有的全部效能\n都會反映到表演對決中。\n編入副位時，只會反映一部分效能。"
       ]
     },
     {
       "tutorialType": "TutorialType_PvpRate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 7,
       "texts": [
-        "返回去參加競賽吧"
+        "返回並參加競技場吧"
       ]
     },
     {
       "tutorialType": "TutorialType_CoinGasha",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在硬幣扭蛋中可以使用透過培育等獲得的\n硬幣來進行扭蛋。\n可以獲得支援卡和特訓道具等。"
+        "在硬幣扭蛋中，可以使用透過培育等方式\n獲得的硬幣抽取扭蛋。\n可以獲得支援卡和特訓道具等。"
       ]
     },
     {
       "tutorialType": "TutorialType_MoneyReceive",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "隨著時間的推移金幣會累積，可以領取。\n根據製作人Lv，獲取量和儲存上限會增加。"
+        "隨著時間經過，金幣會逐漸積累並可領取。\n隨著製作人Lv的提升，獲得量和保管上限會增加。"
       ]
     },
     {
       "tutorialType": "TutorialType_MissionPass",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在任務通行證中，每當任務通行證Pt\n達到一定值時即可獲得獎勵。\n任務通行證Pt透過完成每日任務和\n每週任務來獲得。"
+        "在任務通行證中，每當任務通行證Pt達到一定數量\n即可獲得獎勵。\n任務通行證Pt可透過完成\n每日任務和每週任務獲得。"
       ]
     },
     {
       "tutorialType": "TutorialType_Profile",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在個人資料中可以設定他人製作人可租借的\n支援卡和回憶。\n依據被租借的次數可以獲得朋友硬幣。"
+        "在個人資料中，可以設定\n可供其他製作人租借的支援卡和回憶。\n根據被租借的次數，可以獲得好友硬幣。"
       ]
     },
     {
       "tutorialType": "TutorialType_Meishi",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "可以製作自己原創的名片，並在SNS上分享名片圖片。可以自定義顯示除了個人資料外，擔當偶像、支援卡、照片等的圖片。"
+        "可以製作只屬於自己的原創名片，並將名片圖片分享到SNS。不僅是個人資料，還可以自定義顯示擔當偶像、支援卡、照片等圖片。\n※DMM GAMES版無法使用SNS分享"
       ]
     },
     {
       "tutorialType": "TutorialType_Friend",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在好友功能中可以檢視關注和粉絲的製作人。關注的好友的支援卡和回憶可以在培育時租借。"
+        "在好友中，可以確認自己的關注和粉絲。已關注好友的支援卡和回憶，可在培育時租借。"
       ]
     },
     {
       "tutorialType": "TutorialType_Achievement",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "成就是透過滿足各種條件來獲得的。可以獲得如提升製作人Lv所需的經驗值等多種獎勵，所以積極收整合就吧。",
-        "獲得成就時，可以獲得一定數量的星星，達到一定數量時可以獲得大師成就。大師成就根據獲得的星星數量進行升級，並可以獲得獎勵。",
-        "True End成就是在達成True End時獲得的。獲得True End成就時，偶像的分數會提高。"
+        "成就可在滿足各種條件後獲得。由於能獲得用於提升製作人Lv的經驗值等各種獎勵，請積極收整合就吧。",
+        "獲得成就時取得的星星達到一定數量後，即可獲得大師成就。大師成就會根據已獲得星星數量提升等級，並可獲得獎勵。",
+        "True End成就可在達成True End後獲得。獲得True End成就後，偶像的能力值會上升。"
       ]
     },
     {
       "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "對培育用偶像進行特訓時，\n初始技能卡和分數會得到強化，\n培育更為有利。此外，\n培育用偶像的形象將解鎖。"
+        "對培育用偶像進行特訓後，\n初始技能卡和能力值會得到強化，\n使培育更加有利。此外，\n培育用偶像的形象也會得到解鎖。"
       ]
     },
     {
       "tutorialType": "TutorialType_SupportCardLevelUpdate",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "提升支援卡的Lv時，\n支援能力和支援事件會被解鎖。\n同時，支援能力會\n隨Lv進行強化。",
-        "支援卡進行上限解鎖時，\n最大Lv會提升。"
+        "提升支援卡Lv後，\n會解鎖支援能力和支援事件。\n此外，支援能力會\n根據Lv得到強化。",
+        "對支援卡進行上限突破後，\n最大Lv會上升。"
       ]
     },
     {
       "tutorialType": "TutorialType_Tower",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_Guild",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在社團中可以與全國的製作人組成社團進行交流。",
-        "在社團中可以向社團成員募集特訓道具，並領取捐贈的道具。此外，捐贈道具時可以獲得好友硬幣。"
+        "在社團中，可以與全宇宙的製作人組成社團並進行交流。",
+        "在社團中，可以向社團成員募集特訓道具，並領取其他成員捐贈的道具。此外，捐贈道具後可以獲得好友硬幣。"
       ]
     },
     {
       "tutorialType": "TutorialType_TutorialReceiveIdolCard",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_PhotoTop",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_PhotoIdol",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_PhotoPrepare",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_Photo",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_MeishiEditCustom",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "自定義名片可以透過【名片 > 新建 > 自定義名片】製作",
-        "在模板名片中只能指定背景，但在自定義名片中可以指定多個",
-        "可以透過拍攝P Live影片，指定拍攝影片的部分作為名片設定\n影片可在指定秒數內剪輯設定",
-        "自定義名片中可以進行各種編輯\n製作只屬於自己的名片吧！\n可從自定義名片左上角的圖示確認操作方法",
-        "在自定義名片中可透過圖層視窗確認現在正在使用的內容\n圖層最多可使用到100個",
-        "分享到SNS時，其他製作人可以從SNS中\n直接進入學園偶像大師中的您的個人資料"
+        "自定義名片可從【名片 > 新建 > 自定義名片】中建立",
+        "模板名片只能指定背景，而自定義名片可以指定多個元素",
+        "動態名片可以拍攝P演唱會影片，並將拍攝影片中的指定部分設定為名片\n影片可以在指定秒數內擷取後進行設定",
+        "自定義名片可以進行各種編輯\n來製作只屬於自己的名片吧！\n操作方法可透過自定義名片左上角的圖示確認",
+        "在自定義名片中，可以透過圖層視窗確認當前使用的內容\n圖層最多可以使用100個",
+        "分享到SNS後，其他製作人可以從SNS\n直接跳轉到你在學園偶像大師中的個人資料\n※DMM GAMES版無法使用"
       ]
     },
     {
       "tutorialType": "TutorialType_MeishiEditCustomManual",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_IdolCardSkinUnit",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_DearnessTop",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_DearnessPoint",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceIdolCardSelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
         "",
-        "每位培育用偶像都有相應的“方案”。\n根據方案在培育中出現的技能卡和P道具種類有所不同。"
+        "每位培育用偶像都有固定的「方案」。\n不同方案在培育過程中出現的技能卡和P道具種類會有所不同。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceSupportCardSelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "支援卡是在培育中可編制的卡片。\n編制後會觸發多種效果，支援培育。\n",
-        "支援卡有型別，\n根據型別在編制時上升的分數與\n觸發的效果會有所不同。"
+        "支援卡是可以在培育中編成的卡牌。\n編成後會發動各種效果，\n對培育過程提供支援。",
+        "支援卡具有型別，\n不同型別會影響編成時提升的能力值\n以及發動的效果。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceMemorySelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "回憶最多可在四張中租借一張\n好友或其他製作人的回憶。\n每天的租借次數有限。"
+        "4張回憶中最多可以租借1張\n好友或其他製作人的回憶。\n每天可租借的次數有限。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceSchedule",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "訓練有歌唱、舞蹈、視覺，分別可提高相應的分數。完成訓練目標可作為獎勵獲得技能卡或P飲料。",
-        "在培養時可以選擇各種日程。根據情況選擇合適的日程吧。",
-        "考試前進行的特別訓練。完成訓練目標會觸發最後衝刺加成，可以均衡地成長歌唱、舞蹈、視覺分數。",
-        "考試前，根據最大體力自動恢復體力。"
+        "訓練分為歌唱、舞蹈、視覺，可以分別提升對應引數。達成訓練目標後，可以獲得技能卡和P飲料作為獎勵。",
+        "在培育中，可以選擇各種日程。請根據狀況選擇合適的日程吧。",
+        "這是在考試前進行的特別訓練。達成訓練目標後會產生衝刺獎勵，使歌唱、舞蹈、視覺能力值均衡成長。",
+        "在考試前，會根據最大體力自動恢復體力。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceEvent",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "上課和外出中，根據選項效果會有所不同。\n確認要消耗的內容和觸發效果，做出適宜的選擇。"
+        "在授課和外出中，\n效果會根據選項而變化。\n請確認消耗內容和發動效果，\n並根據狀況進行選擇。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProducePresentStep",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在活動補給中可以獲得技能卡、P點數、P飲料。"
+        "在活動補給中，可以獲得技能卡、P點數、P飲料。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceShopStep",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在諮詢中使用P點數，可交換技能卡或P飲料。\n每次諮詢中可交換的技能卡和P飲料都會不同。",
-        "使用P飲料可以增加分數或回覆體力等效果。\nP飲料只能在訓練或考試中使用。"
+        "在諮詢中，可以使用P點數\n兌換技能卡和P飲料。\n可兌換的技能卡和P飲料\n每次諮詢都會變化。",
+        "使用P飲料後，會發揮提升打分、\n恢復體力等效果。\nP飲料只能在訓練或考試中使用。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceExamGimmick",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "在指定回合時滿足條件會自動\n觸發的效果。在訓練中顯示的\n圖示可以點選確認觸發條件。"
+        "在指定回合滿足條件時，\n會自動發動的效果。點選訓練中顯示的\n圖示即可確認發動條件。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceExamGimmick",
+      "idolCardId": "",
       "step": 1,
       "subStep": 2,
       "texts": [
-        "援助或干擾的內容可以\n點選此處確認"
+        "應援與干擾的內容\n可以點選這裡確認"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceExamGimmick",
+      "idolCardId": "",
       "step": 1,
       "subStep": 3,
       "texts": [
-        "確認效果內容和觸發條件，\n做好應對措施吧！"
+        "確認效果內容和發動條件，\n好好準備對策吧！"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceExamPerfect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "訓練目標達成後將分數提升至上限時，\n變為完美訓練。\n完美訓練時訓練結束，\n根據剩餘回合回覆體力。"
+        "完成訓練目標後，將打分提升到上限\n就會成為完美訓練。\n成為完美訓練後，訓練會立刻結束，\n並根據剩餘回合恢復體力。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceBeforeLiveEvaluation",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "True End是在獲得特定成就的狀態下，\n最終考試獲得第一名時可以看到的特別結局。",
-        "True End所需的成就可點選“True End條件”確認。"
+        "True End是在獲得特定成就的狀態下，\n最終考試獲得第1名後可以看到的特別結局。",
+        "True End所需成就\n可點選「True End條件」進行確認。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceDifficultySelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "難度“Pro”已解鎖。\n難度“Pro”雖難度較高但\n偶像的分數上升得更快。"
+        "「Pro」難度已解鎖。\n「Pro」難度雖然難易度較高，\n但偶像的能力值會更容易提升。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceCardUpgrade",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "可以使用P點數來強化技能卡。\n強化後技能卡的效果會提升。\n每次諮詢可以強化一張卡，每次強化所需的P點數會增加。"
+        "可以使用P點數強化技能卡。\n強化後，技能卡的效果會提升。\n每次諮詢最多可強化1張，且每次強化後\n所需P點數都會增加。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceCardDelete",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "可以使用P點數來刪除技能卡。\n刪除後會從持有的技能卡中消失。\n每次諮詢可以刪除一張卡，每次刪除所需的P點數會增加。"
+        "可以使用P點數刪除技能卡。\n刪除後，該卡會從持有技能卡中消失。\n每次諮詢最多可刪除1張，且每次刪除後\n所需P點數都會增加。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceChallenge",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": [
-        "難度「Master」已解鎖。\n與「Pro」相比，雖然難度更高，但偶像的分數更容易提高。\n只有親密度達成10的偶像才可挑戰。",
-        "挑戰P道具是在難度「Master」的培育開始前可選擇的P道具。\n透過挑戰P道具的效果，可以提高訓練・SP訓練的PERFECT上限。",
-        "挑戰P道具可以透過滿足偶像的特定條件，最多解鎖3個並選擇。"
+        "「Master」難度已解鎖。\n雖然比「Pro」難度更高，但偶像的能力值會更容易進一步提升。\n只有親密度達到10的偶像才能挑戰。",
+        "挑戰P道具是在「Master」難度的培育開始前可選擇的P道具。\n透過挑戰P道具的效果，可以提高訓練・SP訓練的PERFECT上限。",
+        "挑戰P道具可透過每位偶像滿足特定條件後最多解鎖3個，並可進行選擇。"
       ]
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionTop",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionSchedule",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionSelect",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionStart",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceNextIdolAuditionResult",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceStepBusiness",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceStepCustomize",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceStepFanPresent",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceLegendTop",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_MissionPanel",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_ProduceHighScore",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_StoryEvent",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_StoryEventMainStroy",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_StoryEventBoxGasha",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_StoryEventGuildMission",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
     },
     {
       "tutorialType": "TutorialType_GvgRaid",
+      "idolCardId": "",
       "step": 1,
       "subStep": 1,
       "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        "「N.I.A」的「Master」難度已解鎖。\n雖然比「Pro」難度更高，但能力值會更容易進一步提升，也更容易收集粉絲投票數。\n只有親愛度達到20的偶像才能挑戰。",
+        "挑戰P道具是在「Master」難度的培育開始前可選擇的P道具。\n透過挑戰P道具的效果，可以增加通關試鏡時由試鏡獎勵獲得的能力值。"
+      ]
+    },
+    {
+      "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_Tour",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_Research",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProducerRanking",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_ProduceCardConvert",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": []
+    },
+    {
+      "tutorialType": "TutorialType_CompetitionPreOpen",
+      "idolCardId": "",
+      "step": 1,
+      "subStep": 1,
+      "texts": [
+        "",
+        "選擇1個舞臺進行表演。\n舞臺最多可由3名偶像以接力形式參加，\n最終以獲得的分數來競爭最高分。\n\n※可參加的偶像人數會根據段位變化"
+      ]
     }
   ]
 }
