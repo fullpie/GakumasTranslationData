@@ -1716,6 +1716,12 @@
       "acquisitionRouteDescription": "H.I.F前夕獎勵硬幣扭蛋"
     },
     {
+      "id": "item-selection-ticket-006",
+      "name": "2nd Anniversary自選票據",
+      "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
+      "acquisitionRouteDescription": "商店等方式"
+    },
+    {
       "id": "item-staminaregen-1",
       "name": "AP飲料",
       "description": "可以讓AP回覆20的飲料",

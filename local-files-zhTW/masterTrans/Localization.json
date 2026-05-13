@@ -66,6 +66,10 @@
       "description": "持有數不足"
     },
     {
+      "id": "home.produce.tutorial_reward",
+      "description": "還能領取SSR培育用偶像！"
+    },
+    {
       "id": "home.pvp.contest.out_of_term_toast",
       "description": "不在舉辦期間"
     },
@@ -170,6 +174,26 @@
       "description": "只有活動模式的P偶像才可以挑戰活動模式的培育"
     },
     {
+      "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
+      "description": "準備中"
+    },
+    {
+      "id": "setting.preference.other.produce_growth_panel.level_up_confirm.title",
+      "description": "準備中"
+    },
+    {
+      "id": "setting.preference.other.produce_growth_panel.title",
+      "description": "準備中"
+    },
+    {
+      "id": "setting.produce.custom_item_customize_confirm",
+      "description": "準備中"
+    },
+    {
+      "id": "setting.produce.custom_item_customize_confirm.description",
+      "description": "準備中"
+    },
+    {
       "id": "setting.produce.easy_mode_confirm",
       "description": "顯示輔助模式"
     },
@@ -188,6 +212,30 @@
     {
       "id": "setting.produce.easy_mode.title",
       "description": "【培育】輔助模式"
+    },
+    {
+      "id": "setting.produce.exit_interval_confirm",
+      "description": "準備中"
+    },
+    {
+      "id": "setting.produce.exit_interval_confirm.description",
+      "description": "準備中"
+    },
+    {
+      "id": "setting.produce.reroll_interval_confirm",
+      "description": "準備中"
+    },
+    {
+      "id": "setting.produce.reroll_interval_confirm.description",
+      "description": "準備中"
+    },
+    {
+      "id": "setting.produce.select_change_card_confirm",
+      "description": "準備中"
+    },
+    {
+      "id": "setting.produce.select_change_card_confirm.description",
+      "description": "準備中"
     },
     {
       "id": "shop.web_store.confirm.description",
