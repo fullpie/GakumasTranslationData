@@ -686,6 +686,14 @@
       "name": "【僅限1次優惠！】寶石12300個"
     },
     {
+      "id": "shop_jewel_item-0032",
+      "name": "【僅限1次優惠！】寶石12300個"
+    },
+    {
+      "id": "shop_jewel_item-0033",
+      "name": "【僅限2次優惠！】寶石6000個"
+    },
+    {
       "id": "shop_pack_atbm-0001",
       "name": "【72小時限定】培育偶像優勝禮包（燕）"
     },
@@ -780,6 +788,22 @@
     {
       "id": "shop_pack_item-0064",
       "name": "TVCM放映紀念 養成優惠禮包B"
+    },
+    {
+      "id": "shop_pack_item-0067",
+      "name": "2nd Anniversary偶像禮包"
+    },
+    {
+      "id": "shop_pack_item-0068",
+      "name": "2nd Anniversary支援禮包"
+    },
+    {
+      "id": "shop_pack_item-0069",
+      "name": "2nd Anniversary巡演SSR P偶像必得禮包"
+    },
+    {
+      "id": "shop_pack_item-0071",
+      "name": "The 2nd Period H.I.F選拔考試 舉辦紀念禮包"
     },
     {
       "id": "shop_pack_item-100dl",

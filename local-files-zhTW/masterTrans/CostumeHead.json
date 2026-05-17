@@ -586,6 +586,11 @@
       "description": "姬崎莉波的偶像之路 通關第25關"
     },
     {
+      "id": "costume_head_hrnm-cstm-0136",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】姬崎莉波 獲得"
+    },
+    {
       "id": "costume_head_hrnm-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高階任務通行證 2024年7月 等方式獲得"
@@ -1719,6 +1724,16 @@
       "id": "costume_head_ttmr-cstm-0124",
       "name": "全力以赴！",
       "description": "【全力以赴！】月村手毬的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0136",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】月村手毬 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0137",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】月村手毬的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0001",

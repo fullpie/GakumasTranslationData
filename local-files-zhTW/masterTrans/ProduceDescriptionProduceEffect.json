@@ -31,27 +31,27 @@
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateAddition",
-      "name": "歌唱訓練加成+"
+      "name": "歌唱能力值加成+"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateAddition",
-      "name": "舞蹈訓練加成+"
+      "name": "舞蹈能力值加成+"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateAddition",
-      "name": "視覺訓練加成+"
+      "name": "視覺能力值加成+"
     },
     {
       "type": "ProduceEffectType_VocalGrowthRateDown",
-      "name": "歌唱訓練加成-"
+      "name": "歌唱能力值加成-"
     },
     {
       "type": "ProduceEffectType_DanceGrowthRateDown",
-      "name": "舞蹈訓練加成-"
+      "name": "舞蹈能力值加成-"
     },
     {
       "type": "ProduceEffectType_VisualGrowthRateDown",
-      "name": "視覺訓練加成-"
+      "name": "視覺能力值加成-"
     },
     {
       "type": "ProduceEffectType_StaminaRecoverFix",
@@ -286,6 +286,10 @@
       "name": "初始P點數增加"
     },
     {
+      "type": "ProduceEffectType_ParameterLimitUp",
+      "name": "能力值上限增加"
+    },
+    {
       "type": "ProduceEffectType_ExamTurnUp",
       "name": "回合數增加"
     },
@@ -348,6 +352,26 @@
     {
       "type": "ProduceEffectType_AuditionNpcWeaken",
       "name": "對手的得分"
+    },
+    {
+      "type": "ProduceEffectType_StarPermilUp",
+      "name": "星耀值獲得量增加"
+    },
+    {
+      "type": "ProduceEffectType_StarAddition",
+      "name": "星耀值獲得"
+    },
+    {
+      "type": "ProduceEffectType_ProduceCardChangeSelect",
+      "name": "選擇並變換"
+    },
+    {
+      "type": "ProduceEffectType_ProduceDrinkPossessLimitUp",
+      "name": "P飲料持有上限增加"
+    },
+    {
+      "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiplePermanent",
+      "name": "諮詢的購買技能卡折扣"
     }
   ]
 }

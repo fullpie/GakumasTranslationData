@@ -12,6 +12,12 @@
       "acquisitionRouteDescription": "TVCM放映紀念登入獎勵、TVCM放映紀念任務"
     },
     {
+      "id": "item_gacha-coin-continuous-002",
+      "name": "H.I.F開幕紀念隨心抽硬幣",
+      "description": "可以在H.I.F開幕紀念隨心抽中使用的硬幣",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-coin-box-gasha-event-001",
       "name": "海豹仔",
       "description": "可以在活動扭蛋中使用的道具",
@@ -198,6 +204,12 @@
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
+      "id": "item-dearness-unlock-hmsz",
+      "name": "美鈴的記錄之鑰",
+      "description": "解鎖秦谷美鈴STEP3親密度交流的道具",
+      "acquisitionRouteDescription": "兌換所等方式"
+    },
+    {
       "id": "item-dearness-unlock-hrnm",
       "name": "莉波的記錄之鑰",
       "description": "解鎖姬崎莉波STEP3親密度交流的道具",
@@ -288,6 +300,18 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-gachaticket-2nd-anniv-10-001",
+      "name": "2nd Anniversary10連扭蛋票據",
+      "description": "可以在2nd Anniversary10連票據扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gachaticket-ssr-8",
+      "name": "2nd Anniversary巡演限定SSR P偶像必得10連扭蛋票據",
+      "description": "可以在2nd Anniversary巡演限定SSR P偶像必得10連扭蛋票據扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gasha_200limit-exchange",
       "name": "Story of Re;IRIS放映紀念兌換券",
       "description": "收集20張後，可以在道具兌換所中兌換培養用偶像或支援卡的票據",
@@ -316,6 +340,12 @@
       "name": "白金10連扭蛋票據",
       "description": "可以在白金扭蛋中使用的10連票據",
       "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-200limit-10-2026-01",
+      "name": "2nd Anniversary兌換券",
+      "description": "收集20張後，可以在道具兌換所中兌換支援卡的票據",
+      "acquisitionRouteDescription": "200連限定支援卡自選PICK UP扭蛋"
     },
     {
       "id": "item-gashaticket-aniv-001",
@@ -378,6 +408,18 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-ssr-idol-fix_4",
+      "name": "2nd Anniversary SSR P偶像必得扭蛋票據",
+      "description": "可以在2nd Anniversary SSR P偶像必得扭蛋票據扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-ssr-idol-fix_5",
+      "name": "The 2nd Period 季節限定SSR P偶像必得10連扭蛋票據",
+      "description": "可以在The 2nd Period 季節限定SSR P偶像必得10連扭蛋票據扭蛋中使用的道具",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-idol-season-fix_4",
       "name": "季節限定 SSR P偶像必得扭蛋票據",
       "description": "可以在季節限定 SSR P偶像必得扭蛋中使用的票據",
@@ -405,6 +447,12 @@
       "id": "item-gashaticket-valentine-001",
       "name": "情人節扭蛋10連票據",
       "description": "可以在情人節登入獎勵扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-wednesday-260520",
+      "name": "學馬星期三扭蛋票據",
+      "description": "可以在學馬星期三扭蛋中使用的票據",
       "acquisitionRouteDescription": ""
     },
     {
@@ -1068,6 +1116,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_hrnm-3-017",
+      "name": "[荊棘之路]姬崎莉波的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_hski-1-000",
       "name": "[學園生活]花海咲季的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -1602,6 +1656,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_ttmr-3-018",
+      "name": "[荊棘之路]月村手毬的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-play-ticket_april-001",
       "name": "演唱會挑戰券",
       "description": "可以在特別活動中挑戰舞臺的道具",
@@ -1620,10 +1680,46 @@
       "acquisitionRouteDescription": "巡演活動"
     },
     {
+      "id": "item-primastellamaterial-common-001",
+      "name": "啟明星筆記",
+      "description": "可以在培育用偶像的『啟明星』解鎖時使用的道具",
+      "acquisitionRouteDescription": "道具兌換所等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_amao-001",
+      "name": "麻央的啟明星之光",
+      "description": "可以在有村麻央的『啟明星』解鎖時使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_hmsz-001",
+      "name": "美鈴的啟明星之光",
+      "description": "可以在秦谷美鈴的『啟明星』解鎖時使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_hrnm-001",
+      "name": "莉波的啟明星之光",
+      "description": "可以在姬崎莉波的『啟明星』解鎖時使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_ttmr-001",
+      "name": "手毬的啟明星之光",
+      "description": "可以在月村手毬的『啟明星』解鎖時使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
       "id": "item-produce_continue-1",
       "name": "再挑戰票據",
       "description": "可以在培育的再挑戰時使用的票據",
       "acquisitionRouteDescription": "AP兌換所等方式"
+    },
+    {
+      "id": "item-produce-produce_growth_panel_sheet_point-hif",
+      "name": "H.I.F加成Pt",
+      "description": "可以在H.I.F加成中進行解鎖或強化的Pt",
+      "acquisitionRouteDescription": "培育等方式"
     },
     {
       "id": "item-produce-reroll-memory-001",

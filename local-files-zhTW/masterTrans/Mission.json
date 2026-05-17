@@ -326,6 +326,22 @@
       "name": "讓藤田琴音透過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
+      "id": "dearness_event_relaunch_hmsz-001",
+      "name": "將秦谷美鈴的歌唱能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_relaunch_hmsz-002",
+      "name": "在秦谷美鈴的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hmsz-003",
+      "name": "秦谷美鈴透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "dearness_event_relaunch_hmsz-004",
+      "name": "讓秦谷美鈴透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_relaunch_hrnm-001",
       "name": "將姬崎莉波的視覺能力值培養至1800以上並完成培育"
     },
@@ -1110,6 +1126,22 @@
       "name": "觀看美鈴的C End"
     },
     {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-amao",
+      "name": "麻央達成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-hmsz",
+      "name": "美鈴達成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-hrnm",
+      "name": "莉波達成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-ttmr",
+      "name": "手毬達成A-End"
+    },
+    {
       "id": "hidden_mission-view-ending-normal-a-amao",
       "name": "觀看麻央的A End"
     },
@@ -1350,6 +1382,10 @@
       "name": "手毬達成TrueEnd"
     },
     {
+      "id": "hidden_mission-view-ending-true-produce_group-003",
+      "name": "H.I.F達成TrueEnd"
+    },
+    {
       "id": "hidden_mission-view-ending-true-shro",
       "name": "觀看廣的True End"
     },
@@ -1388,6 +1424,26 @@
     {
       "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
       "name": "去抽取{threshold}次Story of Re;IRIS放映紀念SSR1.5倍自選PICK UP扭蛋吧"
+    },
+    {
+      "id": "hidden_mission-view-gasha-200limit-select-pickup-002",
+      "name": "去抽取{threshold}次SSR1.5倍！200連限定支援卡自選PICK UP扭蛋吧"
+    },
+    {
+      "id": "limited-time-mission-001-mission_1",
+      "name": "在H.I.F中完成{threshold}次方案：感性的培育吧"
+    },
+    {
+      "id": "limited-time-mission-001-mission_2",
+      "name": "在H.I.F中完成{threshold}次方案：理性的培育吧"
+    },
+    {
+      "id": "limited-time-mission-001-mission_3",
+      "name": "在H.I.F中完成{threshold}次方案：非凡的培育吧"
+    },
+    {
+      "id": "limited-time-mission-001-mission_4",
+      "name": "以S4+以上得分透過1次最終考試吧"
     },
     {
       "id": "mission-april-event-001-mission_1",
@@ -1952,6 +2008,42 @@
     {
       "id": "mission-continuous-gasha-mission_001-mission_3",
       "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_11",
+      "name": "完成{threshold}次「H.I.F」：選拔考試的培育吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_12",
+      "name": "有村麻央完成{threshold}次「H.I.F」：正賽的培育吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_15",
+      "name": "秦谷美鈴完成{threshold}次「H.I.F」：正賽的培育吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_16",
+      "name": "姬崎莉波完成{threshold}次「H.I.F」：正賽的培育吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_24",
+      "name": "月村手毬完成{threshold}次「H.I.F」：正賽的培育吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_25",
+      "name": "讓有村麻央的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_28",
+      "name": "讓秦谷美鈴的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_29",
+      "name": "讓姬崎莉波的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_37",
+      "name": "讓月村手毬的親密度Lv達到{threshold}吧"
     },
     {
       "id": "mission-daily_mission_NIA_clear-mission_11",
@@ -7510,6 +7602,30 @@
       "name": "【36℃ U･B･U】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hrnm-3-017-01",
+      "name": "【荊棘之路】姬崎莉波的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-02",
+      "name": "【荊棘之路】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-03",
+      "name": "【荊棘之路】姬崎莉波的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-04",
+      "name": "【荊棘之路】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-05",
+      "name": "【荊棘之路】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-06",
+      "name": "【荊棘之路】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hski-2-000-04",
       "name": "【我是第一名！】花海咲季的特訓階段提升至{threshold}級"
     },
@@ -9118,6 +9234,30 @@
       "name": "【究竟從何時起】月村手毬的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-ttmr-3-018-01",
+      "name": "【荊棘之路】月村手毬的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-02",
+      "name": "【荊棘之路】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-03",
+      "name": "【荊棘之路】月村手毬的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-04",
+      "name": "【荊棘之路】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-05",
+      "name": "【荊棘之路】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-06",
+      "name": "【荊棘之路】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-m_amao-001",
       "name": "獲得{threshold}個有村麻央的成就之★"
     },
@@ -9270,6 +9410,10 @@
       "name": "在競技場Grade 7中進入前100名"
     },
     {
+      "id": "achieve-o_028",
+      "name": "H.I.F加成的加成面板進度達到{threshold}級"
+    },
+    {
       "id": "achieve-p_common-001",
       "name": "累計獲得{threshold}點P點數"
     },
@@ -9386,12 +9530,28 @@
       "name": "以SSS+以上得分透過{threshold}次最終考試吧"
     },
     {
+      "id": "achieve-p_common-030",
+      "name": "以S4以上得分透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "achieve-p_common-031",
+      "name": "以S4+以上得分透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "achieve-p_common-032",
+      "name": "{threshold}人達成『啟明星』解鎖"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "觀看有村麻央的True End"
     },
     {
       "id": "achieve-p_idol-amao-000-1",
       "name": "觀看有村麻央的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-amao-000-2",
+      "name": "觀看有村麻央的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-amao-001",
@@ -9488,6 +9648,18 @@
     {
       "id": "achieve-p_idol-amao-024",
       "name": "使用有村麻央透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-amao-025",
+      "name": "使用有村麻央在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-amao-026",
+      "name": "使用有村麻央在H.I.F中透過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-amao-027",
+      "name": "讓有村麻央透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-atbm-000",
@@ -9588,6 +9760,10 @@
     {
       "id": "achieve-p_idol-atbm-024",
       "name": "使用雨夜燕透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-atbm-027",
+      "name": "讓雨夜燕透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -9910,12 +10086,20 @@
       "name": "使用藤田琴音透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-fktn-027",
+      "name": "讓藤田琴音透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "觀看秦谷美鈴的True End"
     },
     {
       "id": "achieve-p_idol-hmsz-000-1",
       "name": "觀看秦谷美鈴的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-000-2",
+      "name": "觀看秦谷美鈴的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-hmsz-001",
@@ -10010,12 +10194,28 @@
       "name": "使用秦谷美鈴透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-hmsz-025",
+      "name": "使用秦谷美鈴在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-026",
+      "name": "使用秦谷美鈴在H.I.F中透過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-027",
+      "name": "讓秦谷美鈴透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "觀看姬崎莉波的True End"
     },
     {
       "id": "achieve-p_idol-hrnm-000-1",
       "name": "觀看姬崎莉波的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-000-2",
+      "name": "觀看姬崎莉波的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-hrnm-001",
@@ -10112,6 +10312,18 @@
     {
       "id": "achieve-p_idol-hrnm-024",
       "name": "使用姬崎莉波透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-025",
+      "name": "使用姬崎莉波在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-026",
+      "name": "使用姬崎莉波在H.I.F中透過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-027",
+      "name": "讓姬崎莉波透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -10218,6 +10430,10 @@
       "name": "使用花海咲季透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-hski-027",
+      "name": "讓花海咲季透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "觀看花海佑芽的True End"
     },
@@ -10316,6 +10532,10 @@
     {
       "id": "achieve-p_idol-hume-024",
       "name": "使用花海佑芽透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-hume-027",
+      "name": "讓花海佑芽透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -10422,6 +10642,10 @@
       "name": "使用十王星南透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-jsna-027",
+      "name": "讓十王星南透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "觀看倉本千奈的True End"
     },
@@ -10522,6 +10746,10 @@
       "name": "使用倉本千奈透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-kcna-027",
+      "name": "讓倉本千奈透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-kllj-000",
       "name": "觀看葛城莉莉婭的True End"
     },
@@ -10620,6 +10848,10 @@
     {
       "id": "achieve-p_idol-kllj-024",
       "name": "使用葛城莉莉婭透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-kllj-027",
+      "name": "讓葛城莉莉婭透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -10726,6 +10958,10 @@
       "name": "使用筱澤廣透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-shro-027",
+      "name": "讓筱澤廣透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-ssmk-000",
       "name": "觀看紫雲清夏的True End"
     },
@@ -10826,12 +11062,20 @@
       "name": "使用紫雲清夏透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-ssmk-027",
+      "name": "讓紫雲清夏透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "觀看月村手毬的True End"
     },
     {
       "id": "achieve-p_idol-ttmr-000-1",
       "name": "觀看月村手毬的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-000-2",
+      "name": "觀看月村手毬的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-ttmr-001",
@@ -10928,6 +11172,18 @@
     {
       "id": "achieve-p_idol-ttmr-024",
       "name": "使用月村手毬透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-025",
+      "name": "使用月村手毬在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-026",
+      "name": "使用月村手毬在H.I.F中透過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-027",
+      "name": "讓月村手毬透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achievement_char_hume-024",

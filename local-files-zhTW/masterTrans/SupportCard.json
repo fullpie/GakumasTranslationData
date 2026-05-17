@@ -2941,6 +2941,22 @@
       "name": "與你的二人電車"
     },
     {
+      "id": "s_card-3-0097",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 機率高"
+        }
+      ],
+      "name": "……真是個吵鬧的慶典呢"
+    },
+    {
       "id": "s_card-3-0098",
       "upgradeProduceCardProduceDescriptions": [
         {

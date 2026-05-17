@@ -517,7 +517,7 @@
     },
     {
       "id": "achieve-i_card-fktn-3-016-01",
-      "name": "盡情去做吧♪ ",
+      "name": "盡情去做吧♪",
       "description": "【全力以赴！】藤田琴音的培育中透過最終考試"
     },
     {
@@ -994,6 +994,36 @@
       "id": "achieve-i_card-hrnm-3-013-06",
       "name": "36℃ U･B･U +++",
       "description": "【36℃ U･B･U】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-01",
+      "name": "像姐姐一樣的感覺",
+      "description": "【荊棘之路】姬崎莉波的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-02",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-03",
+      "name": "更有姐姐感一點",
+      "description": "【荊棘之路】姬崎莉波的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-04",
+      "name": "荊棘之路 +",
+      "description": "【荊棘之路】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-05",
+      "name": "荊棘之路 ++",
+      "description": "【荊棘之路】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-017-06",
+      "name": "荊棘之路 +++",
+      "description": "【荊棘之路】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-2-000-04",
@@ -3006,6 +3036,36 @@
       "description": "【究竟從何時起】月村手毬的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-ttmr-3-018-01",
+      "name": "過分帥氣的偶像",
+      "description": "【荊棘之路】月村手毬的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-02",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-03",
+      "name": "帥氣偶像的代名詞",
+      "description": "【荊棘之路】月村手毬的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-04",
+      "name": "荊棘之路 +",
+      "description": "【荊棘之路】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-05",
+      "name": "荊棘之路 ++",
+      "description": "【荊棘之路】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-018-06",
+      "name": "荊棘之路 +++",
+      "description": "【荊棘之路】月村手毬的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-m_amao-001",
       "name": "大師成就",
       "description": "獲得{threshold}個有村麻央的成就之★"
@@ -3196,6 +3256,11 @@
       "description": "在競技場Grade 7中進入前100名"
     },
     {
+      "id": "achieve-o_028",
+      "name": "通往H.I.F的道路",
+      "description": "H.I.F加成的加成面板進度達到{threshold}級"
+    },
+    {
       "id": "achieve-p_common-001",
       "name": "幕後的功臣",
       "description": "累計獲得{threshold}點P點數"
@@ -3341,6 +3406,21 @@
       "description": "以SSS+以上得分透過{threshold}次最終考試"
     },
     {
+      "id": "achieve-p_common-030",
+      "name": "陪伴夢想之人",
+      "description": "以S4以上得分透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "achieve-p_common-031",
+      "name": "引向光明之人",
+      "description": "以S4+以上得分透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "achieve-p_common-032",
+      "name": "P科首席",
+      "description": "{threshold}人達成『啟明星』解鎖"
+    },
+    {
       "id": "achieve-p_idol-amao-000",
       "name": "真正的我",
       "description": "觀看有村麻央的True End"
@@ -3349,6 +3429,11 @@
       "id": "achieve-p_idol-amao-000-1",
       "name": "The Little Prince",
       "description": "觀看有村麻央的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-amao-000-2",
+      "name": "還請，看著我",
+      "description": "觀看有村麻央的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-amao-001",
@@ -3469,6 +3554,21 @@
       "id": "achieve-p_idol-amao-024",
       "name": "為同夢而翔",
       "description": "使用有村麻央透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-amao-025",
+      "name": "『0號』的舞臺站位",
+      "description": "使用有村麻央在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-amao-026",
+      "name": "共同追逐夢想的日子",
+      "description": "使用有村麻央在H.I.F中透過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-amao-027",
+      "name": "符合我的選擇",
+      "description": "讓有村麻央透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-atbm-000",
@@ -3594,6 +3694,11 @@
       "id": "achieve-p_idol-atbm-024",
       "name": "點燃心中的火焰",
       "description": "使用雨夜燕透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-atbm-027",
+      "name": "最早的粉絲",
+      "description": "讓雨夜燕透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",
@@ -3996,6 +4101,11 @@
       "description": "使用藤田琴音透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-fktn-027",
+      "name": "借款，全額還清！",
+      "description": "讓藤田琴音透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-hmsz-000",
       "name": "人生最美好的一天",
       "description": "觀看秦谷美鈴的True End"
@@ -4004,6 +4114,11 @@
       "id": "achieve-p_idol-hmsz-000-1",
       "name": "一起準備打哈欠吧",
       "description": "觀看秦谷美鈴的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-000-2",
+      "name": "呼啊～……",
+      "description": "觀看秦谷美鈴的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-hmsz-001",
@@ -4121,6 +4236,21 @@
       "description": "使用秦谷美鈴透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-hmsz-025",
+      "name": "我們的夢想的開始",
+      "description": "使用秦谷美鈴在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-026",
+      "name": "幸福的道路",
+      "description": "使用秦谷美鈴在H.I.F中透過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-hmsz-027",
+      "name": "更進一步的關係",
+      "description": "讓秦谷美鈴透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-hrnm-000",
       "name": "真實的心意",
       "description": "觀看姬崎莉波的True End"
@@ -4129,6 +4259,11 @@
       "id": "achieve-p_idol-hrnm-000-1",
       "name": "是你牽著我的手",
       "description": "觀看姬崎莉波的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-000-2",
+      "name": "無論疾病還是健康",
+      "description": "觀看姬崎莉波的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-hrnm-001",
@@ -4249,6 +4384,21 @@
       "id": "achieve-p_idol-hrnm-024",
       "name": "回望初心",
       "description": "使用姬崎莉波透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-025",
+      "name": "能看見啟明星的景色",
+      "description": "使用姬崎莉波在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-026",
+      "name": "與你一同奔跑的時光",
+      "description": "使用姬崎莉波在H.I.F中透過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-027",
+      "name": "我真實的心意",
+      "description": "讓姬崎莉波透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-hski-000",
@@ -4381,6 +4531,11 @@
       "description": "使用花海咲季透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-hski-027",
+      "name": "嶄新的花海咲季",
+      "description": "讓花海咲季透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-hume-000",
       "name": "人生最精彩的發揮",
       "description": "觀看花海佑芽的True End"
@@ -4504,6 +4659,11 @@
       "id": "achieve-p_idol-hume-024",
       "name": "成為姐姐的目標",
       "description": "使用花海佑芽透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-hume-027",
+      "name": "不是照貓畫虎，而是真本領",
+      "description": "讓花海佑芽透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-jsna-000",
@@ -4636,6 +4796,11 @@
       "description": "使用十王星南透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-jsna-027",
+      "name": "成功實現的野心",
+      "description": "讓十王星南透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-kcna-000",
       "name": "等級1的新人偶像",
       "description": "觀看倉本千奈的True End"
@@ -4761,6 +4926,11 @@
       "description": "使用倉本千奈透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-kcna-027",
+      "name": "下任學生會長，內定！",
+      "description": "讓倉本千奈透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-kllj-000",
       "name": "光",
       "description": "觀看葛城莉莉婭的True End"
@@ -4884,6 +5054,11 @@
       "id": "achieve-p_idol-kllj-024",
       "name": "激動人心的情境",
       "description": "使用葛城莉莉婭透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-kllj-027",
+      "name": "結界系偶像的誕生",
+      "description": "讓葛城莉莉婭透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achieve-p_idol-shro-000",
@@ -5016,6 +5191,11 @@
       "description": "使用筱澤廣透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-shro-027",
+      "name": "作為偶像的神格",
+      "description": "讓筱澤廣透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-ssmk-000",
       "name": "邁出的一步",
       "description": "觀看紫雲清夏的True End"
@@ -5141,6 +5321,11 @@
       "description": "使用紫雲清夏透過最終考試並獲得{threshold}次SSS+以上評價"
     },
     {
+      "id": "achieve-p_idol-ssmk-027",
+      "name": "最初的任性",
+      "description": "讓紫雲清夏透過最終考試並獲得{threshold}次S4以上的評價吧"
+    },
+    {
       "id": "achieve-p_idol-ttmr-000",
       "name": "只屬於我的製作人",
       "description": "觀看月村手毬的True End"
@@ -5149,6 +5334,11 @@
       "id": "achieve-p_idol-ttmr-000-1",
       "name": "比真實飛得更高",
       "description": "觀看月村手毬的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-000-2",
+      "name": "最喜歡今天的自己",
+      "description": "觀看月村手毬的True End : H.I.F"
     },
     {
       "id": "achieve-p_idol-ttmr-001",
@@ -5269,6 +5459,21 @@
       "id": "achieve-p_idol-ttmr-024",
       "name": "我要緊追不放！",
       "description": "使用月村手毬透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-025",
+      "name": "曾經憧憬的寶物",
+      "description": "使用月村手毬在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-026",
+      "name": "朝著目標奔跑的每一天",
+      "description": "使用月村手毬在H.I.F中透過{threshold}次最終考試"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-027",
+      "name": "超越憧憬",
+      "description": "讓月村手毬透過最終考試並獲得{threshold}次S4以上的評價吧"
     },
     {
       "id": "achievement_char_hume-024",

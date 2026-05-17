@@ -1,0 +1,35 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "produceType",
+      "produceSplitType"
+    ]
+  },
+  "data": [
+    {
+      "produceType": "ProduceType_FirstStar",
+      "produceSplitType": "ProduceSplitType_Unknown",
+      "name": "初專用　"
+    },
+    {
+      "produceType": "ProduceType_NextIdolAudition",
+      "produceSplitType": "ProduceSplitType_Unknown",
+      "name": "N.I.A專用　"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "produceSplitType": "ProduceSplitType_Unknown",
+      "name": "H.I.F專用　"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "produceSplitType": "ProduceSplitType_Selection",
+      "name": "H.I.F選拔考試專用　"
+    },
+    {
+      "produceType": "ProduceType_HatsuboshiIdolFestival",
+      "produceSplitType": "ProduceSplitType_Final",
+      "name": "H.I.F正賽專用　"
+    }
+  ]
+}

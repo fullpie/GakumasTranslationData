@@ -66,6 +66,16 @@
       "regexp": "莉莉婭$"
     },
     {
+      "characterId": "krnh",
+      "name": "賀陽 燐羽",
+      "regexp": "燐羽$"
+    },
+    {
+      "characterId": "ktko",
+      "name": "黑井 崇男",
+      "regexp": "崇男"
+    },
+    {
       "characterId": "myu0",
       "name": "真城 優",
       "regexp": "優"
