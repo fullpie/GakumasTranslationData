@@ -3783,7 +3783,7 @@
   "produce.common.select.title": "選擇",
   "produce.common.shortage_point": "P點數不足",
   "produce.common.stamina_max": "體力已滿",
-  "produce.common.steps_label": "第{0}個",
+  "produce.common.steps_label": "{0}目",
   "produce.common.un_receive": "不領取",
   "produce.common.up_value": "+{0}",
   "produce.common.visual": "視覺",
