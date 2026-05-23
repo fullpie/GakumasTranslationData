@@ -140115,7 +140115,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "授課・營業結束時，視覺能力值在700以上的時候，"
+          "text": "授課・營業結束時，視覺能力值在700以上的時候，\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
