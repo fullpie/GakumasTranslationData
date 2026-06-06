@@ -1522,6 +1522,56 @@
       "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
     },
     {
+      "characterId": "kllj",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試中透過第1輪"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試中透過第2輪"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試中透過第3輪"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "透過H.I.F選拔考試"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "kllj",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為啟明星"
+    },
+    {
       "characterId": "shro",
       "dearnessLevel": 1,
       "produceConditionDescription": ""
@@ -1840,6 +1890,56 @@
       "characterId": "ssmk",
       "dearnessLevel": 27,
       "produceConditionDescription": "累計獲得600親密度Pt並透過最終考試/最終試鏡"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 28,
+      "produceConditionDescription": "H.I.F選拔考試的培育開始"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 29,
+      "produceConditionDescription": "H.I.F選拔考試的培育更進一步"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 30,
+      "produceConditionDescription": "在H.I.F選拔考試中透過第1輪"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 31,
+      "produceConditionDescription": "在H.I.F選拔考試中透過第2輪"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 32,
+      "produceConditionDescription": "在H.I.F選拔考試中透過第3輪"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 33,
+      "produceConditionDescription": "透過H.I.F選拔考試"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 34,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 35,
+      "produceConditionDescription": "H.I.F正賽的培育更進一步"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 36,
+      "produceConditionDescription": "H.I.F正賽獲得優勝"
+    },
+    {
+      "characterId": "ssmk",
+      "dearnessLevel": 37,
+      "produceConditionDescription": "成為啟明星"
     },
     {
       "characterId": "ttmr",

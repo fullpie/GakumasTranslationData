@@ -177,7 +177,7 @@
     },
     {
       "id": "costume_head_atbm-cstm-0110",
-      "name": "漆黑的光芒",
+      "name": "漆黑的光輝",
       "description": "雨夜燕的偶像之路 通關第25關"
     },
     {
@@ -312,7 +312,7 @@
     },
     {
       "id": "costume_head_fktn-cstm-0110",
-      "name": "漆黑的光芒",
+      "name": "漆黑的光輝",
       "description": "藤田琴音的偶像之路 通關第25關"
     },
     {
@@ -592,7 +592,7 @@
     },
     {
       "id": "costume_head_hrnm-cstm-0110",
-      "name": "漆黑的光芒",
+      "name": "漆黑的光輝",
       "description": "姬崎莉波的偶像之路 通關第25關"
     },
     {
@@ -732,7 +732,7 @@
     },
     {
       "id": "costume_head_hski-cstm-0110",
-      "name": "漆黑的光芒",
+      "name": "漆黑的光輝",
       "description": "花海咲季的偶像之路 通關第25關"
     },
     {
@@ -877,7 +877,7 @@
     },
     {
       "id": "costume_head_hume-cstm-0110",
-      "name": "漆黑的光芒",
+      "name": "漆黑的光輝",
       "description": "花海佑芽的偶像之路 通關第25關"
     },
     {
@@ -1321,6 +1321,16 @@
       "description": "【怦然心動】葛城莉莉婭的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_kllj-cstm-0136",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】葛城莉莉婭 獲得"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0137",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】葛城莉莉婭的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_kllj-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高階任務通行證 2024年7月 等方式獲得"
@@ -1732,7 +1742,7 @@
     },
     {
       "id": "costume_head_ttmr-cstm-0110",
-      "name": "漆黑的光芒",
+      "name": "漆黑的光輝",
       "description": "月村手毬的偶像之路 通關第25關"
     },
     {

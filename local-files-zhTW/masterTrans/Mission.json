@@ -1142,8 +1142,16 @@
       "name": "千奈達成A-End"
     },
     {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-kllj",
+      "name": "莉莉婭達成A-End"
+    },
+    {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-shro",
       "name": "廣達成A-End"
+    },
+    {
+      "id": "hidden_mission-view-ending-final-a-produce_group-003-ssmk",
+      "name": "清夏達成A-End"
     },
     {
       "id": "hidden_mission-view-ending-final-a-produce_group-003-ttmr",
@@ -2038,8 +2046,16 @@
       "name": "倉本千奈完成{threshold}次「H.I.F」：正賽的培育吧"
     },
     {
+      "id": "mission-daily_mission_HIF_clear-mission_21",
+      "name": "葛城莉莉婭完成{threshold}次「H.I.F」：正賽的培育吧"
+    },
+    {
       "id": "mission-daily_mission_HIF_clear-mission_22",
       "name": "筱澤廣完成{threshold}次「H.I.F」：正賽的培育吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_23",
+      "name": "紫雲清夏完成{threshold}次「H.I.F」：正賽的培育吧"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_24",
@@ -2062,8 +2078,16 @@
       "name": "讓倉本千奈的親密度Lv達到{threshold}吧"
     },
     {
+      "id": "mission-daily_mission_HIF_clear-mission_34",
+      "name": "讓葛城莉莉婭的親密度Lv達到{threshold}吧"
+    },
+    {
       "id": "mission-daily_mission_HIF_clear-mission_35",
       "name": "讓筱澤廣的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "mission-daily_mission_HIF_clear-mission_36",
+      "name": "讓紫雲清夏的親密度Lv達到{threshold}吧"
     },
     {
       "id": "mission-daily_mission_HIF_clear-mission_37",
@@ -8682,6 +8706,30 @@
       "name": "【怦然心動】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-kllj-3-018-01",
+      "name": "【荊棘之路】葛城莉莉婭的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-02",
+      "name": "【荊棘之路】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-03",
+      "name": "【荊棘之路】葛城莉莉婭的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-04",
+      "name": "【荊棘之路】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-05",
+      "name": "【荊棘之路】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-06",
+      "name": "【荊棘之路】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-shro-2-000-04",
       "name": "【最不適合的事】筱澤廣的特訓階段提升至{threshold}級"
     },
@@ -10818,6 +10866,10 @@
       "name": "觀看葛城莉莉婭的True End ：N.I.A"
     },
     {
+      "id": "achieve-p_idol-kllj-000-2",
+      "name": "觀看葛城莉莉婭的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-kllj-001",
       "name": "在葛城莉莉婭的培育中使用技能卡{threshold}次"
     },
@@ -10908,6 +10960,14 @@
     {
       "id": "achieve-p_idol-kllj-024",
       "name": "使用葛城莉莉婭透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-kllj-025",
+      "name": "使用葛城莉莉婭在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-kllj-026",
+      "name": "使用葛城莉莉婭在H.I.F中透過{threshold}次最終考試"
     },
     {
       "id": "achieve-p_idol-kllj-027",
@@ -11042,6 +11102,10 @@
       "name": "觀看紫雲清夏的True End : N.I.A"
     },
     {
+      "id": "achieve-p_idol-ssmk-000-2",
+      "name": "觀看紫雲清夏的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-ssmk-001",
       "name": "在紫雲清夏的培育中使用技能卡{threshold}次"
     },
@@ -11132,6 +11196,14 @@
     {
       "id": "achieve-p_idol-ssmk-024",
       "name": "使用紫雲清夏透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-025",
+      "name": "使用紫雲清夏在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-026",
+      "name": "使用紫雲清夏在H.I.F中透過{threshold}次最終考試"
     },
     {
       "id": "achieve-p_idol-ssmk-027",

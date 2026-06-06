@@ -2590,6 +2590,21 @@
       "supportCardId": "s_card-3-0100",
       "number": 3,
       "text": "是啊。為了能夠幫到學生們！"
+    },
+    {
+      "supportCardId": "s_card-3-0105",
+      "number": 1,
+      "text": "這就是初星的『H.I.F』嗎。\n希望會是一場還看得過去的演出。"
+    },
+    {
+      "supportCardId": "s_card-3-0105",
+      "number": 2,
+      "text": "呵呵……就讓我見識一下你們的本事吧。"
+    },
+    {
+      "supportCardId": "s_card-3-0105",
+      "number": 3,
+      "text": "哦……有不少有趣的雛鳥啊。"
     }
   ]
 }

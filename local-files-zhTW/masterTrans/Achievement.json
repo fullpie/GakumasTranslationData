@@ -2316,6 +2316,36 @@
       "description": "【怦然心動】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-kllj-3-018-01",
+      "name": "支撐我的話語",
+      "description": "【荊棘之路】葛城莉莉婭的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-02",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-03",
+      "name": "我的，原點",
+      "description": "【荊棘之路】葛城莉莉婭的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-04",
+      "name": "荊棘之路 +",
+      "description": "【荊棘之路】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-05",
+      "name": "荊棘之路 ++",
+      "description": "【荊棘之路】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-018-06",
+      "name": "荊棘之路 +++",
+      "description": "【荊棘之路】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-shro-2-000-04",
       "name": "最不適合的事 +",
       "description": "【最不適合的事】筱澤廣的特訓階段提升至{threshold}級"
@@ -4986,6 +5016,11 @@
       "description": "觀看葛城莉莉婭的True End ：N.I.A"
     },
     {
+      "id": "achieve-p_idol-kllj-000-2",
+      "name": "能一直陪在我身邊嗎？",
+      "description": "觀看葛城莉莉婭的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-kllj-001",
       "name": "笑容練習",
       "description": "在葛城莉莉婭的培育中使用技能卡{threshold}次"
@@ -5099,6 +5134,16 @@
       "id": "achieve-p_idol-kllj-024",
       "name": "激動人心的情境",
       "description": "使用葛城莉莉婭透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-kllj-025",
+      "name": "那天憧憬的偶像",
+      "description": "使用葛城莉莉婭在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-kllj-026",
+      "name": "愉快的旅途",
+      "description": "使用葛城莉莉婭在H.I.F中透過{threshold}次最終考試"
     },
     {
       "id": "achieve-p_idol-kllj-027",
@@ -5266,6 +5311,11 @@
       "description": "觀看紫雲清夏的True End : N.I.A"
     },
     {
+      "id": "achieve-p_idol-ssmk-000-2",
+      "name": "幸福的偶像",
+      "description": "觀看紫雲清夏的True End : H.I.F"
+    },
+    {
       "id": "achieve-p_idol-ssmk-001",
       "name": "先從遊戲開始",
       "description": "在紫雲清夏的培育中使用技能卡{threshold}次"
@@ -5379,6 +5429,16 @@
       "id": "achieve-p_idol-ssmk-024",
       "name": "成為想成為的自己",
       "description": "使用紫雲清夏透過最終考試並獲得{threshold}次SSS+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-025",
+      "name": "想成為的自己",
+      "description": "使用紫雲清夏在H.I.F中透過最終考試並獲得S4+以上評價"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-026",
+      "name": "兩人一起走過的一步又一步",
+      "description": "使用紫雲清夏在H.I.F中透過{threshold}次最終考試"
     },
     {
       "id": "achieve-p_idol-ssmk-027",
