@@ -399,6 +399,20 @@
       "appealText": ""
     },
     {
+      "id": "gasha_marge_button-ssr-hif-day1-00912",
+      "order": 1,
+      "name": "有償10連扭蛋",
+      "description": "有償10連扭蛋",
+      "appealText": ""
+    },
+    {
+      "id": "gasha_marge_button-ssr-hif-day2-00914",
+      "order": 1,
+      "name": "有償10連扭蛋",
+      "description": "有償10連扭蛋",
+      "appealText": ""
+    },
+    {
       "id": "gasha_ticket_aniv-001",
       "order": 3,
       "name": "用即將1週年紀念扭蛋10連票據抽取",
