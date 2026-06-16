@@ -12358,6 +12358,21 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-i_card-amao-3-017-01",
+      "title": "SUGAR FLAVOR 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-amao-3-017-02",
+      "title": "SUGAR FLAVOR 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-amao-3-017-03",
+      "title": "SUGAR FLAVOR 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-i_card-atbm-3-000-01",
       "title": "用理論武裝 第1話",
       "produceEventHintProduceConditionDescriptions": []
@@ -12730,6 +12745,21 @@
     {
       "id": "p_story-i_card-hrnm-3-017-03",
       "title": "荊棘之路 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-018-01",
+      "title": "SUGAR FLAVOR 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-018-02",
+      "title": "SUGAR FLAVOR 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hrnm-3-018-03",
+      "title": "SUGAR FLAVOR 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -14613,6 +14643,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-2-0075-01",
+      "title": "意見雖不同，心意卻一致",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0075-02",
+      "title": "兩人一同走過的3年",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0000-01",
       "title": "『朋友』午餐",
       "produceEventHintProduceConditionDescriptions": []
@@ -16110,6 +16150,21 @@
     {
       "id": "p_story-s_card-3-0100-03",
       "title": "時髦又年輕！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0101-01",
+      "title": "珍寶般的心情",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0101-02",
+      "title": "如果結成組合的話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0101-03",
+      "title": "只屬於兩人的空間",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

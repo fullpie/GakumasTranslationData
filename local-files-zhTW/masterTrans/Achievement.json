@@ -216,6 +216,36 @@
       "description": "【看著我】有村麻央的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-amao-3-017-01",
+      "name": "被奪走的心",
+      "description": "【SUGAR FLAVOR】有村麻央的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-02",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-03",
+      "name": "不輸給真正戀愛的心意",
+      "description": "【SUGAR FLAVOR】有村麻央的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-04",
+      "name": "SUGAR FLAVOR +",
+      "description": "【SUGAR FLAVOR】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-05",
+      "name": "SUGAR FLAVOR ++",
+      "description": "【SUGAR FLAVOR】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-017-06",
+      "name": "SUGAR FLAVOR +++",
+      "description": "【SUGAR FLAVOR】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-atbm-2-000-01",
       "name": "紫電一閃",
       "description": "【貫徹初志】雨夜燕的培育中透過最終考試"
@@ -1024,6 +1054,36 @@
       "id": "achieve-i_card-hrnm-3-017-06",
       "name": "荊棘之路 +++",
       "description": "【荊棘之路】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-01",
+      "name": "甜蜜消融的心",
+      "description": "【SUGAR FLAVOR】姬崎莉波的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-02",
+      "name": "SUGAR FLAVOR",
+      "description": "【SUGAR FLAVOR】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-03",
+      "name": "掀起巨大波瀾的預兆",
+      "description": "【SUGAR FLAVOR】姬崎莉波的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-04",
+      "name": "SUGAR FLAVOR +",
+      "description": "【SUGAR FLAVOR】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-05",
+      "name": "SUGAR FLAVOR ++",
+      "description": "【SUGAR FLAVOR】姬崎莉波的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-018-06",
+      "name": "SUGAR FLAVOR +++",
+      "description": "【SUGAR FLAVOR】姬崎莉波的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hski-2-000-04",

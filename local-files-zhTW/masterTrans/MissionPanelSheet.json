@@ -77,6 +77,11 @@
       "name": "親密度任務"
     },
     {
+      "missionPanelSheetGroupId": "dearness_panel-mission_relaunch_hume_01",
+      "number": 1,
+      "name": "親密度任務"
+    },
+    {
       "missionPanelSheetGroupId": "dearness_panel-mission_relaunch_jsna_01",
       "number": 1,
       "name": "親密度任務"

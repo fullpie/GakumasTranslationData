@@ -18,6 +18,14 @@
       "description": "訓練Pt不足。"
     },
     {
+      "id": "card.idol_card.prima_stella.unlock_confirm_sheet.limit_level_condition_text",
+      "description": "特訓階段{0}"
+    },
+    {
+      "id": "card.idol_card.prima_stella.unlock_confirm_sheet.list.empty_label",
+      "description": "沒有目標P偶像"
+    },
+    {
       "id": "card.produce_card_customize.detail_sheet.nia_condition",
       "description": "※可以透過特別指導進行自定義"
     },
@@ -51,7 +59,7 @@
     },
     {
       "id": "home.gasha.continuous_share.title",
-      "description": "TVCM放映紀念隨心抽結果"
+      "description": "H.I.F開幕紀念隨心抽結果"
     },
     {
       "id": "home.gasha.detail.bonus_reward.idol_card.prefix",
@@ -64,6 +72,10 @@
     {
       "id": "home.gasha.item_confirm_sheet.ticket.short_balance_alert",
       "description": "持有數不足"
+    },
+    {
+      "id": "home.gasha.point_detail_overlay.point_limit_time",
+      "description": "兌換pt期限：{0}截止"
     },
     {
       "id": "home.produce.tutorial_reward",
@@ -92,6 +104,10 @@
     {
       "id": "mission.panel.mission_text",
       "description": "{0}"
+    },
+    {
+      "id": "picturebook.live.select.skin.lock",
+      "description": " "
     },
     {
       "id": "produce_prepare.easy_mode_apply",
@@ -126,6 +142,10 @@
       "description": "編成可以針對每個培育進行設定。在不同培育中進行設定時，不會適用於其他培育。"
     },
     {
+      "id": "produce_prepare.produce_character_unit.costume_change_sheet.warning1",
+      "description": "※選擇「{0}」的演出時，無法設定培育用偶像的演唱會服裝\\n※P演唱會不會受到影響"
+    },
+    {
       "id": "produce_prepare.top.event_icon.high_score_rush.description",
       "description": "在培育的報酬中可以獲得星之閃耀"
     },
@@ -146,16 +166,64 @@
       "description": "Legend"
     },
     {
+      "id": "produce.hif.audition.qualify.audition_final.title",
+      "description": "選拔考試3"
+    },
+    {
+      "id": "produce.hif.audition.qualify.audition_mid1.title",
+      "description": "選拔考試1"
+    },
+    {
+      "id": "produce.hif.audition.qualify.audition_mid2.title",
+      "description": "選拔考試2"
+    },
+    {
+      "id": "produce.hif.audition.qualify.description",
+      "description": "與對手進行演出對決。 \\n超過突破線後，即可透過選拔考試。"
+    },
+    {
+      "id": "produce.hif.audition.qualify.title",
+      "description": "H.I.F選拔考試"
+    },
+    {
+      "id": "produce.hif.result.qualify.title",
+      "description": "選拔考試透過"
+    },
+    {
       "id": "produce.high_score_rush.gold.description",
       "description": "「十王邦夫的偶像強化月～星光璀璨～」中可以獲得的道具。可以在活動扭蛋中使用。"
+    },
+    {
+      "id": "produce.interval.reroll_sheet.description",
+      "description": "要使用P點數，重新整理技能卡和P飲料的列表，以及自定義和強化的次數嗎？"
     },
     {
       "id": "produce.lesson.no_effect.stance_over_preservation",
       "description": "由於指標處於悠閒狀態，因此不會觸發將指標變更為溫存的效果。"
     },
     {
+      "id": "produce.schedule.step_exam_final_audition3.qualify",
+      "description": "選拔考試3"
+    },
+    {
+      "id": "produce.schedule.step_exam_mid1_audition3.qualify",
+      "description": "選拔考試1"
+    },
+    {
+      "id": "produce.schedule.step_exam_mid2_audition3.qualify",
+      "description": "選拔考試2"
+    },
+    {
+      "id": "produce.select.restrict.change",
+      "description": "無法進行變換的技能卡"
+    },
+    {
       "id": "produce.server_force_reset.confirm.description",
       "description": "正在遊玩中的培育資料已被清除。"
+    },
+    {
+      "id": "produce.sheet.drink_max.description",
+      "description": "P飲料持有數量已達上限。\n請選擇保留的飲料。"
     },
     {
       "id": "producer_ranking.character_reward.description",
@@ -175,23 +243,23 @@
     },
     {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
-      "description": "準備中"
+      "description": "解鎖・強化H.I.F加成時會顯示確認資訊。"
     },
     {
       "id": "setting.preference.other.produce_growth_panel.level_up_confirm.title",
-      "description": "準備中"
+      "description": "顯示確認資訊"
     },
     {
       "id": "setting.preference.other.produce_growth_panel.title",
-      "description": "準備中"
+      "description": "H.I.F加成設定"
     },
     {
       "id": "setting.produce.custom_item_customize_confirm",
-      "description": "準備中"
+      "description": "自定義P道具選擇確認"
     },
     {
       "id": "setting.produce.custom_item_customize_confirm.description",
-      "description": "準備中"
+      "description": "獲得・強化自定義P道具時會顯示確認資訊。"
     },
     {
       "id": "setting.produce.easy_mode_confirm",
@@ -215,27 +283,27 @@
     },
     {
       "id": "setting.produce.exit_interval_confirm",
-      "description": "準備中"
+      "description": "幕間休息結束確認"
     },
     {
       "id": "setting.produce.exit_interval_confirm.description",
-      "description": "準備中"
+      "description": "幕間休息結束時會顯示確認資訊。"
     },
     {
       "id": "setting.produce.reroll_interval_confirm",
-      "description": "準備中"
+      "description": "重新整理執行確認"
     },
     {
       "id": "setting.produce.reroll_interval_confirm.description",
-      "description": "準備中"
+      "description": "在幕間休息進行重新整理時會顯示確認資訊。"
     },
     {
       "id": "setting.produce.select_change_card_confirm",
-      "description": "準備中"
+      "description": "技能卡變換確認"
     },
     {
       "id": "setting.produce.select_change_card_confirm.description",
-      "description": "準備中"
+      "description": "選擇技能卡進行變換時會顯示確認資訊。"
     },
     {
       "id": "shop.web_store.confirm.description",
@@ -264,6 +332,10 @@
     {
       "id": "tour.top.user_status.point_complete_label",
       "description": " "
+    },
+    {
+      "id": "voice.idol_use_prima_stella_produce_card",
+      "description": "使用P偶像專用傳奇技能卡"
     },
     {
       "id": "voice.idol_use_produce_card",
