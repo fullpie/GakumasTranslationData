@@ -176,6 +176,11 @@
       "description": "【SUGAR FLAVOR】有村麻央的才能開花第4階段 獲得"
     },
     {
+      "id": "amao-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Fluorite】'26GO MY WAY!! 有村麻央 獲得"
+    },
+    {
       "id": "amao-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（有村麻央）"
@@ -264,6 +269,11 @@
       "id": "atbm-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【用理論武裝】'26ENDLESS DANCE 雨夜燕 獲得"
+    },
+    {
+      "id": "atbm-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【用理論武裝】'26GO MY WAY!! 雨夜燕 獲得"
     },
     {
       "id": "atbm-othr-0002",
@@ -456,6 +466,16 @@
       "description": "【世界第一可愛的我】'26ENDLESS DANCE 藤田琴音 獲得"
     },
     {
+      "id": "fktn-cstm-0138",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】藤田琴音 獲得"
+    },
+    {
+      "id": "fktn-cstm-0139",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】藤田琴音的才能開花第4階段 獲得"
+    },
+    {
       "id": "fktn-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（藤田琴音）"
@@ -614,6 +634,11 @@
       "id": "hmsz-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【ENDLESS DANCE】秦谷美鈴 獲得"
+    },
+    {
+      "id": "hmsz-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【月之龜】'26GO MY WAY!! 秦谷美鈴 獲得"
     },
     {
       "id": "hmsz-othr-0002",
@@ -816,6 +841,11 @@
       "description": "【荊棘之路】姬崎莉波的才能開花第4階段 獲得"
     },
     {
+      "id": "hrnm-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【clumsy trick】'26GO MY WAY!! 姬崎莉波 獲得"
+    },
+    {
       "id": "hrnm-othr-0000",
       "name": "溫泉浴巾",
       "description": "無法入手"
@@ -1009,6 +1039,11 @@
       "id": "hski-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【Fighting My Way】'26ENDLESS DANCE 花海咲季 獲得"
+    },
+    {
+      "id": "hski-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】花海咲季 獲得"
     },
     {
       "id": "hski-othr-0002",
@@ -1386,6 +1421,11 @@
       "description": "【ENDLESS DANCE】十王星南的才能開花第4階段 獲得"
     },
     {
+      "id": "jsna-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【小小的野心】'26GO MY WAY!! 十王星南 獲得"
+    },
+    {
       "id": "jsna-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（十王星南）"
@@ -1574,6 +1614,11 @@
       "id": "kcna-cstm-0132",
       "name": "未知萬千 廣闊無限",
       "description": "【未知萬千 廣闊無限】倉本千奈的才能開花第4階段 獲得"
+    },
+    {
+      "id": "kcna-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Wonder Scale】'26GO MY WAY!! 倉本千奈 獲得"
     },
     {
       "id": "kcna-othr-0002",
@@ -1779,6 +1824,11 @@
       "id": "kllj-cstm-0137",
       "name": "荊棘之路",
       "description": "【荊棘之路】葛城莉莉婭的才能開花第4階段 獲得"
+    },
+    {
+      "id": "kllj-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【白線】'26GO MY WAY!! 葛城莉莉婭 獲得"
     },
     {
       "id": "kllj-othr-0002",
@@ -2011,6 +2061,11 @@
       "description": "【荊棘之路】筱澤廣的才能開花第4階段 獲得"
     },
     {
+      "id": "shro-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【光景】'26GO MY WAY!! 筱澤廣 獲得"
+    },
+    {
       "id": "shro-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（筱澤廣）"
@@ -2194,6 +2249,11 @@
       "id": "ssmk-cstm-0134",
       "name": "怦然心動",
       "description": "【怦然心動】紫雲清夏的才能開花第4階段 獲得"
+    },
+    {
+      "id": "ssmk-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Tame-Lie-One-Step】'26GO MY WAY!! 紫雲清夏 獲得"
     },
     {
       "id": "ssmk-othr-0002",
@@ -2394,6 +2454,11 @@
       "id": "ttmr-cstm-0137",
       "name": "荊棘之路",
       "description": "【荊棘之路】月村手毬的才能開花第4階段 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0140",
+      "name": "GO MY WAY!!",
+      "description": "【Luna say maybe】'26GO MY WAY!! 月村手毬 獲得"
     },
     {
       "id": "ttmr-othr-0002",

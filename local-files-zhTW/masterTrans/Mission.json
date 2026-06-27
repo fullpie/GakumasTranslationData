@@ -1666,6 +1666,26 @@
       "name": "完成{threshold}次SP訓練吧"
     },
     {
+      "id": "mission-box-gasha-event-020-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-box-gasha-event-020-mission_2",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-box-gasha-event-020-mission_3",
+      "name": "去抽取{threshold}次活動BOX扭蛋吧"
+    },
+    {
+      "id": "mission-box-gasha-event-020-mission_4",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-box-gasha-event-020-mission_5",
+      "name": "完成{threshold}次SP訓練吧"
+    },
+    {
       "id": "mission-circle-battle-event-001-mission_1",
       "name": "登入{threshold}天吧"
     },
@@ -7430,6 +7450,30 @@
       "name": "【全力以赴！】藤田琴音的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-fktn-3-019-01",
+      "name": "【GO MY WAY!!】藤田琴音的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-02",
+      "name": "【GO MY WAY!!】藤田琴音的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-03",
+      "name": "【GO MY WAY!!】藤田琴音的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-04",
+      "name": "【GO MY WAY!!】藤田琴音的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-05",
+      "name": "【GO MY WAY!!】藤田琴音的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-019-06",
+      "name": "【GO MY WAY!!】藤田琴音的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hmsz-2-000-01",
       "name": "【慢慢地，一步一步來】秦谷美鈴的培育中透過最終考試"
     },
@@ -8052,6 +8096,30 @@
     {
       "id": "achieve-i_card-hski-3-017-06",
       "name": "【Wildest Flower】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-01",
+      "name": "【GO MY WAY!!】花海咲季的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-02",
+      "name": "【GO MY WAY!!】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-03",
+      "name": "【GO MY WAY!!】花海咲季的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-04",
+      "name": "【GO MY WAY!!】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-05",
+      "name": "【GO MY WAY!!】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-019-06",
+      "name": "【GO MY WAY!!】花海咲季的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-hume-2-000-01",

@@ -123,7 +123,7 @@
     {
       "id": "costume_head_amao-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高階任務通行證 2025年7月 獲得"
+      "description": "高階任務通行證 2025年7月 等方式獲得"
     },
     {
       "id": "costume_head_amao-hair-0008",
@@ -346,6 +346,16 @@
       "description": "【全力以赴！】藤田琴音的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_fktn-cstm-0138",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】藤田琴音 獲得"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0139",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】藤田琴音的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_fktn-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高階任務通行證 2024年5月 等方式獲得"
@@ -399,6 +409,11 @@
       "id": "costume_head_fktn-hair-0032",
       "name": "自我肯定感爆棚↑↑超愛琴音之歌（點綴色設計）",
       "description": "【自我肯定感爆棚↑↑超愛琴音之歌】藤田琴音 獲得"
+    },
+    {
+      "id": "costume_head_fktn-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年7月 獲得"
     },
     {
       "id": "costume_head_hmsz-cstm-0011",
@@ -648,7 +663,7 @@
     {
       "id": "costume_head_hrnm-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高階任務通行證 2025年7月 獲得"
+      "description": "高階任務通行證 2025年7月 等方式獲得"
     },
     {
       "id": "costume_head_hrnm-hair-0008",
@@ -814,6 +829,11 @@
       "id": "costume_head_hski-hair-0027",
       "name": "Wildest Flower（點綴色設計）",
       "description": "【Wildest Flower】花海咲季 獲得"
+    },
+    {
+      "id": "costume_head_hski-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年7月 獲得"
     },
     {
       "id": "costume_head_hski-schl-0000",
@@ -1378,7 +1398,7 @@
     {
       "id": "costume_head_kllj-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高階任務通行證 2025年7月 獲得"
+      "description": "高階任務通行證 2025年7月 等方式獲得"
     },
     {
       "id": "costume_head_kllj-hair-0008",
@@ -1668,7 +1688,7 @@
     {
       "id": "costume_head_ssmk-hair-0007",
       "name": "淚滴形眼鏡",
-      "description": "高階任務通行證 2025年7月 獲得"
+      "description": "高階任務通行證 2025年7月 等方式獲得"
     },
     {
       "id": "costume_head_ssmk-hair-0008",
@@ -1844,6 +1864,11 @@
       "id": "costume_head_ttmr-hair-0025",
       "name": "究竟從何時起（點綴色設計）",
       "description": "【究竟從何時起】月村手毬 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年7月 獲得"
     }
   ]
 }
