@@ -1656,6 +1656,36 @@
       "description": "【純白畫頁與水彩繪就的主角】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hume-3-018-01",
+      "name": "這就是偶像！",
+      "description": "【GO MY WAY!!】花海佑芽的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-02",
+      "name": "GO MY WAY!!",
+      "description": "【GO MY WAY!!】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-03",
+      "name": "讓正牌見識一下",
+      "description": "【GO MY WAY!!】花海佑芽的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-04",
+      "name": "GO MY WAY!! +",
+      "description": "【GO MY WAY!!】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-05",
+      "name": "GO MY WAY!! ++",
+      "description": "【GO MY WAY!!】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-06",
+      "name": "GO MY WAY!! +++",
+      "description": "【GO MY WAY!!】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-jsna-2-000-01",
       "name": "王者的出場",
       "description": "【一番星】十王星南的培育中透過最終考試"
@@ -3498,7 +3528,7 @@
     {
       "id": "achieve-p_common-012",
       "name": "有備無患",
-      "description": "在培育中選擇活動補給{threshold}次"
+      "description": "在培育中選擇活動補給・慰問品{threshold}次"
     },
     {
       "id": "achieve-p_common-013",

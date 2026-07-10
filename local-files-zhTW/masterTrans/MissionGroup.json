@@ -1010,6 +1010,14 @@
       "name": "拼圖任務組2"
     },
     {
+      "id": "panel_mission-event-010-group_1",
+      "name": "拼圖任務組1"
+    },
+    {
+      "id": "panel_mission-event-010-group_2",
+      "name": "拼圖任務組2"
+    },
+    {
       "id": "panel_mission-event-niv-group_1",
       "name": "十王邦夫的挑戰任務 〜A+之路〜"
     }

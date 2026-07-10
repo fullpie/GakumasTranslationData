@@ -486,6 +486,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-wednesday-260715",
+      "name": "學馬星期三扭蛋票據",
+      "description": "可以在學馬星期三扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-wednesday-fainal-26-001-1",
       "name": "咲季的特別票據",
       "description": "可以在每日學馬星期三最終季扭蛋中使用的票據",
@@ -1304,6 +1310,12 @@
     {
       "id": "item-piece-idol_hume-3-017",
       "name": "[純白畫頁與水彩繪就的主角]花海佑芽的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hume-3-018",
+      "name": "[GO MY WAY!!]花海佑芽的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },

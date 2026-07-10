@@ -5679,7 +5679,7 @@
     },
     {
       "id": "mission-panel-mission-1-8",
-      "name": "在培育中選擇{threshold}次活動支給吧"
+      "name": "在培育中選擇{threshold}次活動補給・慰問品吧"
     },
     {
       "id": "mission-panel-mission-1-9",
@@ -6555,7 +6555,7 @@
     },
     {
       "id": "panel_mission-event-002-mission_8",
-      "name": "在培育中選擇{threshold}次活動支給吧"
+      "name": "在培育中選擇{threshold}次活動補給・慰問品吧"
     },
     {
       "id": "panel_mission-event-002-mission_9",
@@ -6663,7 +6663,7 @@
     },
     {
       "id": "panel_mission-event-004-mission_8",
-      "name": "在培育中選擇{threshold}次活動支給吧"
+      "name": "在培育中選擇{threshold}次活動補給・慰問品吧"
     },
     {
       "id": "panel_mission-event-004-mission_9",
@@ -6735,7 +6735,7 @@
     },
     {
       "id": "panel_mission-event-006-mission_8",
-      "name": "在培育中選擇{threshold}次活動支給吧"
+      "name": "在培育中選擇{threshold}次活動補給・慰問品吧"
     },
     {
       "id": "panel_mission-event-006-mission_9",
@@ -6956,6 +6956,78 @@
     {
       "id": "panel_mission-event-009-mission_9",
       "name": "讓筱澤廣的親密度Lv達到{threshold}吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_1",
+      "name": "透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_11",
+      "name": "完成{threshold}次方案：感性的培育用偶像的培育吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_12",
+      "name": "完成{threshold}次方案：理性的培育用偶像的培育吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_13",
+      "name": "完成{threshold}次方案：非凡的培育用偶像的培育吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_14",
+      "name": "完成{threshold}次培育吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_15",
+      "name": "在培育中強化{threshold}次技能卡吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_16",
+      "name": "累計獲得{threshold}P飲料吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_17",
+      "name": "累計獲得{threshold}技能卡吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_18",
+      "name": "在培育中消費累計{threshold}體力吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_19",
+      "name": "累計獲得{threshold}P點數吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_2",
+      "name": "透過{threshold}次舞蹈訓練吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_3",
+      "name": "透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_4",
+      "name": "完成{threshold}次SP訓練吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_5",
+      "name": "在培育中選擇{threshold}次外出吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_6",
+      "name": "在培育中選擇{threshold}次活動補給・慰問品吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_7",
+      "name": "在培育中選擇{threshold}次諮詢吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_8",
+      "name": "在培育的諮詢中交換{threshold}次吧"
+    },
+    {
+      "id": "panel_mission-event-010-mission_9",
+      "name": "使用{threshold}次P飲料"
     },
     {
       "id": "panel_mission-event-niv-mission_1",
@@ -8312,6 +8384,30 @@
     {
       "id": "achieve-i_card-hume-3-017-06",
       "name": "【純白畫頁與水彩繪就的主角】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-01",
+      "name": "【GO MY WAY!!】花海佑芽的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-02",
+      "name": "【GO MY WAY!!】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-03",
+      "name": "【GO MY WAY!!】花海佑芽的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-04",
+      "name": "【GO MY WAY!!】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-05",
+      "name": "【GO MY WAY!!】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-018-06",
+      "name": "【GO MY WAY!!】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-2-000-01",
@@ -9787,7 +9883,7 @@
     },
     {
       "id": "achieve-p_common-012",
-      "name": "在培育中選擇活動補給{threshold}次"
+      "name": "在培育中選擇活動補給・慰問品{threshold}次"
     },
     {
       "id": "achieve-p_common-013",
