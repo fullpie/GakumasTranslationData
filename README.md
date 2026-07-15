@@ -8,29 +8,27 @@ Traditional Chinese build fork for Gakumas translation data.
 
 ## Android App
 
-Android 版建議使用本倉庫提供的修正版 app。此 app 修正了原 Android 版部分文字掛載問題，包括 Produce Card 文字缺漏、genericTrans hook 匹配，以及部分數值顯示成重複數字的問題，例如 `+7` 顯示為 `+77`、`+2` 顯示為 `+22`。
+Android 版建議搭配 [`fullpie/Gakumas_apptest`](https://github.com/fullpie/Gakumas_apptest) 提供的修正版 app。此 app 修正了原 Android 版部分文字掛載問題，包括 Produce Card 文字缺漏、genericTrans hook 匹配，以及部分數值顯示成重複數字的問題，例如 `+7` 顯示為 `+77`、`+2` 顯示為 `+22`。
 
 這些問題是在 Android app 端修正，繁中包本身仍維持與 PC/DMM 版共用，不需要在翻譯包內加入 Android 專用資料。
 
 ### 方式一：下載 APK
 
-請到本倉庫的 [Releases](https://github.com/fullpie/GakumasTranslationData/releases) 下載修正版 APK：
+請到 App 倉庫的 [Releases](https://github.com/fullpie/Gakumas_apptest/releases)，在最新的 `app-v...` Release 下載：
 
-- `GakumasLocalify-Android-patched.apk`
+- `GakumasLocalify-app-vX.Y.Z.apk`
 
 ### 方式二：自行編譯
 
-也可以到 [Releases](https://github.com/fullpie/GakumasTranslationData/releases) 下載 app 原始碼壓縮包：
+App 原始碼位於 [`fullpie/Gakumas_apptest`](https://github.com/fullpie/Gakumas_apptest)，也可以直接下載 [main 分支 ZIP](https://github.com/fullpie/Gakumas_apptest/archive/refs/heads/main.zip)。
 
-- `GakumasLocalify-Android-source.zip`
-
-解壓後可上傳到自己的 GitHub repo，使用內建 GitHub Actions 自動編譯 APK，並從 Actions artifact 下載建置結果。
+Fork、clone 或解壓後上傳到自己的 GitHub repo，即可使用內建的 `Android CI` workflow 編譯 APK，並從 Actions artifact 下載建置結果。
 
 ### 安裝注意事項
 
-上述兩種方式產出的 APK 都是透過 GitHub Actions 建置。若沒有使用同一組固定簽名，不同來源或不同次建置的 APK 可能會出現簽名不同的情況。
+第一次從原作者 app、其他人建置的版本，或舊的非固定簽名版本切換到本專案時，請先解除安裝舊的 Gakumas Localify app，再安裝新版，以免 Android 因簽名不同而拒絕安裝。
 
-如果 Android 顯示簽名衝突、套件無法更新，或無法覆蓋安裝，請先解除安裝舊版 app，再安裝新版。
+這項提醒只針對 Localify app。安裝本專案的固定簽名版本後，後續 `app-v...` 新版可以直接覆蓋安裝。
 
 ## Repository Role
 

@@ -14,6 +14,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: zhtw-release-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   check-and-release:
     runs-on: ubuntu-latest
@@ -110,11 +114,29 @@ jobs:
             GakumasTranslationData_zhTW.zip
             zhtw_validation_report.json
 
+      - name: Commit and Push Changes
+        id: commit_changes
+        if: env.updated == 'true' && github.ref == 'refs/heads/main'
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add --all
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update submodules and zhTW package for ${{ env.VERSION }}"
+          fi
+
+          git push origin HEAD:main
+          echo "head_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
       - name: Create or Update Release
         if: env.updated == 'true' && github.ref == 'refs/heads/main'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RELEASE_TAG: zhTW-${{ env.VERSION }}
+          TARGET_SHA: ${{ steps.commit_changes.outputs.head_sha }}
         run: |
           BODY_FILE="$RUNNER_TEMP/release_body.txt"
           cat > "$BODY_FILE" <<'EOF'
@@ -125,6 +147,12 @@ jobs:
           EOF
 
           if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            CURRENT_TAG_SHA="$(git rev-list -n 1 "$RELEASE_TAG" 2>/dev/null || true)"
+            if [ "$CURRENT_TAG_SHA" != "$TARGET_SHA" ]; then
+              git tag --force "$RELEASE_TAG" "$TARGET_SHA"
+              git push origin "refs/tags/$RELEASE_TAG" --force
+            fi
+
             gh release edit "$RELEASE_TAG" \
               --title "$RELEASE_TAG" \
               --notes-file "$BODY_FILE" \
@@ -133,16 +161,8 @@ jobs:
             gh release create "$RELEASE_TAG" \
               --title "$RELEASE_TAG" \
               --notes-file "$BODY_FILE" \
+              --target "$TARGET_SHA" \
               --latest
           fi
 
           gh release upload "$RELEASE_TAG" GakumasTranslationData_zhTW.zip --clobber
-
-      - name: Commit and Push Changes
-        if: env.updated == 'true' && github.ref == 'refs/heads/main'
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add .
-          git commit -m "Update submodules and zhTW package for ${{ env.VERSION }}" || echo "No changes to commit"
-          git push
