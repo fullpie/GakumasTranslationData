@@ -66,6 +66,12 @@
       "routeDescription": "請前往主頁的親密度進行確認"
     },
     {
+      "tutorialType": 32,
+      "name": "P評價等級成績",
+      "description": "「P評價等級成績」功能解鎖",
+      "routeDescription": "可在任務中的普通任務裡確認"
+    },
+    {
       "tutorialType": "TutorialType_ProducerRanking",
       "name": "製作人排行榜",
       "description": "「製作人排行榜」功能解鎖",

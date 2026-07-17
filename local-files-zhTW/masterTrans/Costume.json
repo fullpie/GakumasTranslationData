@@ -266,6 +266,11 @@
       "description": "購買水手服泳裝（雨夜燕）"
     },
     {
+      "id": "atbm-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【用理論武裝】'26Howling over the World 雨夜燕 獲得"
+    },
+    {
       "id": "atbm-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【用理論武裝】'26ENDLESS DANCE 雨夜燕 獲得"
@@ -614,6 +619,11 @@
       "id": "hmsz-cstm-0115",
       "name": "Star-mine",
       "description": "【Star-mine】秦谷美鈴的才能開花第4階段 獲得"
+    },
+    {
+      "id": "hmsz-cstm-0118",
+      "name": "Howling over the World",
+      "description": "【月之龜】'26Howling over the World 秦谷美鈴 獲得"
     },
     {
       "id": "hmsz-cstm-0119",
@@ -1596,6 +1606,11 @@
       "description": "【Howling over the World】倉本千奈的才能開花第4階段 獲得"
     },
     {
+      "id": "kcna-cstm-0118",
+      "name": "傳遞吶喊的套裝",
+      "description": "購買傳遞吶喊的套裝（倉本千奈）"
+    },
+    {
       "id": "kcna-cstm-0119",
       "name": "何時何地簡簡單單",
       "description": "【Wonder Scale】'25Animate 倉本千奈 獲得"
@@ -1794,6 +1809,11 @@
       "id": "kllj-cstm-0117",
       "name": "Howling over the World",
       "description": "【Howling over the World】葛城莉莉婭的才能開花第4階段 獲得"
+    },
+    {
+      "id": "kllj-cstm-0118",
+      "name": "傳遞吶喊的套裝",
+      "description": "購買傳遞吶喊的套裝（葛城莉莉婭）"
     },
     {
       "id": "kllj-cstm-0119",

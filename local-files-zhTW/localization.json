@@ -1657,7 +1657,7 @@
   "exchange.update.button": "更新",
   "exchange.update.count": "剩餘{0}次",
   "exchange.update.count_label": "可更新次數",
-  "exchange.update.day": "{0}天後更新",
+  "exchange.update.day": "{0}天后更新",
   "exchange.update.description": "<color=#u:Negative>消耗{0:N0}個寶石</color>來更新列表嗎？",
   "exchange.update.hour": "{0}小時{1}分鐘後更新",
   "exchange.update.less": "0分鐘後更新",
