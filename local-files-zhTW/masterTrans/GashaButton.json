@@ -273,6 +273,20 @@
       "appealText": ""
     },
     {
+      "id": "gasha_button-00950-free-10-08",
+      "order": 1,
+      "name": "10連扭蛋",
+      "description": "10連扭蛋",
+      "appealText": "必得1張以上SR"
+    },
+    {
+      "id": "gasha_button-00950-wednesday-001",
+      "order": 1,
+      "name": "用學馬星期三扭蛋票據抽取",
+      "description": "用票據抽取",
+      "appealText": ""
+    },
+    {
       "id": "gasha_button-010-item_01",
       "order": 3,
       "name": "10連道具扭蛋",
@@ -365,6 +379,13 @@
     },
     {
       "id": "gasha_button-pickup-001-10-HowlingovertheWorld",
+      "order": 1,
+      "name": "10連扭蛋",
+      "description": "10連扭蛋",
+      "appealText": "必得SSR"
+    },
+    {
+      "id": "gasha_button-pickup-001-10-iwsf2026",
       "order": 1,
       "name": "10連扭蛋",
       "description": "10連扭蛋",

@@ -4038,6 +4038,146 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-003-hski-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-before-selection-01-01",
+      "title": "前往第1次『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-before-selection-02-01",
+      "title": "前往第2次『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-before-selection-03-01",
+      "title": "前往第3次『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-final-failure-01",
+      "title": "我還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-main_match-opening-01",
+      "title": "『H.I.F正賽』，出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-produce-007-after-selection-01-01",
+      "title": "透過第1次『H.I.F選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-produce-007-after-selection-02-01",
+      "title": "透過第2次『H.I.F選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-produce-007-after-selection-03-01",
+      "title": "透過第3次『H.I.F選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-produce-007-selection-ending-a-01",
+      "title": "透過『H.I.F選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』第1輪結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-selection-failure-01",
+      "title": "還不能、就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hski-selection-opening-02",
+      "title": "目標是，透過『選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-after_step_before_audition_mid1-1",
+      "title": "當天",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-before-selection-01-01",
+      "title": "前往第1次『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-before-selection-02-01",
+      "title": "前往第2次『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-before-selection-03-01",
+      "title": "前往第3次『選拔考試』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-final-failure-01",
+      "title": "我還不想、就這樣結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-main_match-opening-01",
+      "title": "『H.I.F正賽』，出發！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-produce-007-after-selection-01-01",
+      "title": "透過第1次『H.I.F選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-produce-007-after-selection-02-01",
+      "title": "透過第2次『H.I.F選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-produce-007-after-selection-03-01",
+      "title": "透過第3次『H.I.F選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-produce-007-selection-ending-a-01",
+      "title": "透過『H.I.F選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-produce-008-after-final-01-01",
+      "title": "『H.I.F正賽』第1輪結束！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-produce-008-final-ending-a-01",
+      "title": "『H.I.F正賽』優勝！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-selection-failure-01",
+      "title": "還不能、就此結束",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-003-hume-selection-opening-02",
+      "title": "目標是，透過『選拔考試』！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-003-kcna-after_step_before_audition_mid1-1",
       "title": "當天",
       "produceEventHintProduceConditionDescriptions": []
@@ -11603,6 +11743,266 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-event-003_hski_activity_021",
+      "title": "不能輸的敵人！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_activity_022",
+      "title": "游泳就要向魚學習！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_014",
+      "title": "今天的歌唱授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_017",
+      "title": "『啟明星』花海佑芽",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_021",
+      "title": "配的上『啟明星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_022",
+      "title": "關於個人偶像和偶像組合",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_028",
+      "title": "如果成為『啟明星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_031",
+      "title": "現在心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_033",
+      "title": "現在心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hski_school_035",
+      "title": "現在心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_activity_021",
+      "title": "引以為傲的身體！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_activity_022",
+      "title": "想和魚兒一起游泳！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_012",
+      "title": "受認可的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_013",
+      "title": "需要注意的歌聲",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_014",
+      "title": "今天的歌唱授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_015",
+      "title": "『H.I.F』所需要的能力",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_016",
+      "title": "關於製作人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_017",
+      "title": "擔當偶像是『啟明星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_018",
+      "title": "受認可的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_019",
+      "title": "需要注意的舞蹈",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_020",
+      "title": "今天的舞蹈授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_021",
+      "title": "配的上『啟明星』的人",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_022",
+      "title": "關於個人偶像和偶像組合",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_023",
+      "title": "關於『H.I.F』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_024",
+      "title": "受認可的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_025",
+      "title": "需要注意的視覺",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_026",
+      "title": "今天的視覺授課",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_027",
+      "title": "關於培育",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_028",
+      "title": "如果成為『啟明星』",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_029",
+      "title": "關於100Pro",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_030",
+      "title": "狀態檢查～",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_031",
+      "title": "現在心情怎麼樣～？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_032",
+      "title": "狀態檢查！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_033",
+      "title": "現在心情如何？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_034",
+      "title": "狀態檢查♪",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-event-003_hume_school_035",
+      "title": "現在心情怎麼樣？",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-event-003_kcna_activity_021",
       "title": "家庭餐廳大滿足",
       "produceEventHintProduceConditionDescriptions": []
@@ -12910,6 +13310,21 @@
     {
       "id": "p_story-i_card-hski-3-017-03",
       "title": "Wildest Flower 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-018-01",
+      "title": "荊棘之路 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-018-02",
+      "title": "荊棘之路 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-018-03",
+      "title": "荊棘之路 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -16260,6 +16675,21 @@
     {
       "id": "p_story-s_card-3-0103-03",
       "title": "滿載心意的應援團扇",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0104-01",
+      "title": "去挑戰頂點吧！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0104-02",
+      "title": "目標是成為『第一』之星",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0104-03",
+      "title": "無理挑戰之後的收穫",
       "produceEventHintProduceConditionDescriptions": []
     },
     {

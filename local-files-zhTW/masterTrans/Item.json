@@ -390,6 +390,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-new-wednesday-26-0729-1",
+      "name": "學馬星期三扭蛋票據",
+      "description": "可以在學馬星期三扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-fix_1",
       "name": "SSR必得扭蛋票據",
       "description": "可以在SSR必得扭蛋中使用的票據",
@@ -1248,6 +1254,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_hski-3-018",
+      "name": "[荊棘之路]花海咲季的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_hski-3-019",
       "name": "[GO MY WAY!!]花海咲季的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -1779,6 +1791,18 @@
       "id": "item-primastellamaterial-idol_hrnm-001",
       "name": "莉波的啟明星之光",
       "description": "可以在姬崎莉波的『啟明星』解鎖時使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_hski-001",
+      "name": "咲季的啟明星之光",
+      "description": "可以在花海咲季的『啟明星』解鎖時使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
+      "id": "item-primastellamaterial-idol_hume-001",
+      "name": "佑芽的啟明星之光",
+      "description": "可以在花海佑芽的『啟明星』解鎖時使用的道具",
       "acquisitionRouteDescription": "成就等方式"
     },
     {
