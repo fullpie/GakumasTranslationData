@@ -10,4 +10,5 @@ raw
 *.zip
 Campus_adv_txts/
 node_modules/
+.venv/
 zhtw_validation_report.json
