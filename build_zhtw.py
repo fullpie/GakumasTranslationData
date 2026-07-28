@@ -14,6 +14,8 @@ from opencc import OpenCC
 
 
 RUBY_RE = re.compile(r"<r\\=(.*?)>(.*?)</r>", re.DOTALL)
+RUBY_GUARD = "\u200b"
+RUBY_GUARD_FILE = "ruby_guard.json"
 KANA_RE = re.compile(r"[ぁ-んァ-ヶヴヷ-ヺ]")
 VALIDATION_REPORT_FILE = "zhtw_validation_report.json"
 EXACT_RULE_FILES = ("name_dictionary_zhTW.json", "term_dictionary_zhTW.json")
@@ -135,6 +137,11 @@ def save_json(path: Path, data: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "w", encoding="utf-8") as handle:
         json.dump(data, handle, ensure_ascii=False, indent=2)
+
+
+def save_ruby_guard_json(path: Path, data: dict[str, str]) -> None:
+    serialized = json.dumps(data, ensure_ascii=False, indent=2).replace(RUBY_GUARD, r"\u200b")
+    write_text(path, serialized)
 
 
 def read_text(path: Path) -> str:
@@ -332,12 +339,17 @@ def validate_resource_file(source_path: Path, output_path: Path, rules: Replacem
         )
     else:
         for index, ((source_jp, _), (output_jp, _)) in enumerate(zip(source_ruby, output_ruby), start=1):
-            if source_jp != output_jp:
+            guard_count = output_jp.count(RUBY_GUARD)
+            guard_position_invalid = (
+                guard_count > 1
+                or (guard_count == 1 and (output_jp.startswith(RUBY_GUARD) or output_jp.endswith(RUBY_GUARD)))
+            )
+            if guard_position_invalid or source_jp != output_jp.replace(RUBY_GUARD, ""):
                 issues.append(
                     ValidationIssue(
                         "resource_japanese_changed",
                         output_path.relative_to(output_path.parents[1]).as_posix(),
-                        f"ruby block {index} japanese text changed",
+                        f"ruby block {index} japanese text or guard position changed unexpectedly",
                     )
                 )
 
@@ -389,6 +401,137 @@ def iter_string_values(value: Any):
         yield value
 
 
+def collect_ruby_source_texts(resource_dir: Path) -> set[str]:
+    """Collect text that the ADV ruby renderer can send to a TMP component."""
+    ruby_texts: set[str] = set()
+    if not resource_dir.exists():
+        return ruby_texts
+
+    for resource_path in resource_dir.glob("adv*.txt"):
+        for entry in parse_messages(read_text(resource_path)):
+            value = entry.get("text")
+            if not isinstance(value, str):
+                continue
+
+            japanese_parts = [japanese for japanese, _ in RUBY_RE.findall(value) if japanese]
+            if not japanese_parts:
+                continue
+
+            # TextMeshProUGUIRuby appends every ruby group and assigns the
+            # composed string to its RubyTMP in one operation.
+            ruby_texts.add("".join(japanese_parts))
+
+    return ruby_texts
+
+
+def load_translated_generic_keys(generic_dir: Path) -> set[str]:
+    keys: set[str] = set()
+    if not generic_dir.exists():
+        return keys
+
+    for json_path in sorted(generic_dir.rglob("*.json")):
+        if json_path.name == RUBY_GUARD_FILE:
+            continue
+        data = load_json(json_path)
+        if isinstance(data, dict):
+            keys.update(key for key, value in data.items() if value != key)
+
+    return keys
+
+
+def find_ruby_generic_mappings(resource_dir: Path, generic_dir: Path) -> list[tuple[Path, str, Any]]:
+    ruby_texts = collect_ruby_source_texts(resource_dir)
+    if not ruby_texts or not generic_dir.exists():
+        return []
+
+    mappings: list[tuple[Path, str, Any]] = []
+    for json_path in sorted(generic_dir.rglob("*.json")):
+        data = load_json(json_path)
+        if not isinstance(data, dict):
+            continue
+
+        for key in sorted(ruby_texts.intersection(data.keys())):
+            mappings.append((json_path, key, data[key]))
+
+    return mappings
+
+
+def guard_ruby_field(value: str, generic_keys: set[str]) -> tuple[str, set[str], set[str], set[str]]:
+    matches = RUBY_RE.findall(value)
+    if not matches:
+        return value, set(), set(), set()
+
+    japanese_parts = [japanese.replace(RUBY_GUARD, "") for japanese, _ in matches]
+    joined = "".join(japanese_parts)
+    collisions = {joined} if joined in generic_keys else set()
+    guard_part_index = next((index for index, part in enumerate(japanese_parts) if len(part) >= 2), None)
+
+    guarded_parts = list(japanese_parts)
+    skipped_collisions: set[str] = set()
+    if collisions and guard_part_index is not None:
+        part = guarded_parts[guard_part_index]
+        guarded_parts[guard_part_index] = f"{part[0]}{RUBY_GUARD}{part[1:]}"
+    elif collisions:
+        skipped_collisions = collisions
+        collisions = set()
+
+    guarded_index = 0
+
+    def repl(match: re.Match[str]) -> str:
+        nonlocal guarded_index
+        guarded_japanese = guarded_parts[guarded_index]
+        guarded_index += 1
+        return f"<r\\={guarded_japanese}>{match.group(2)}</r>"
+
+    guarded_value = RUBY_RE.sub(repl, value)
+    runtime_texts = {"".join(guarded_parts)} if collisions else set()
+    return guarded_value, runtime_texts, collisions, skipped_collisions
+
+
+def protect_ruby_text_from_generic_translation(resource_dir: Path, generic_dir: Path) -> tuple[int, int, int, int]:
+    """Mark only colliding ADV ruby text without changing normal UI mappings.
+
+    The zero-width guard remains part of the Japanese ruby string through any
+    nested TMP hooks. A generated identity map makes exact lookup terminate at
+    every hook while leaving the original, unguarded generic key available for
+    ordinary UI text.
+    """
+    generic_keys = load_translated_generic_keys(generic_dir)
+    guard_mappings: dict[str, str] = {}
+    collision_keys: set[str] = set()
+    skipped_collision_keys: set[str] = set()
+    protected_messages = 0
+
+    if resource_dir.exists():
+        for resource_path in sorted(resource_dir.glob("adv*.txt")):
+            resource_text = read_text(resource_path)
+            replacements: list[Replacement] = []
+
+            for entry in parse_messages(resource_text):
+                if entry.get("__tag__") not in {"message", "narration"}:
+                    continue
+                value = entry.get("text")
+                if not isinstance(value, str):
+                    continue
+
+                guarded_value, runtime_texts, collisions, skipped = guard_ruby_field(value, generic_keys)
+                if guarded_value != value:
+                    add_resource_replacement(replacements, "text", value, guarded_value)
+                if collisions:
+                    guard_mappings.update({text: text for text in runtime_texts})
+                    collision_keys.update(collisions)
+                    protected_messages += 1
+                skipped_collision_keys.update(skipped)
+
+            if replacements:
+                guarded_resource_text = apply_resource_replacements(resource_text, replacements)
+                if guarded_resource_text != resource_text:
+                    write_text(resource_path, guarded_resource_text)
+
+    save_ruby_guard_json(generic_dir / RUBY_GUARD_FILE, dict(sorted(guard_mappings.items())))
+    return protected_messages, len(collision_keys), len(guard_mappings), len(skipped_collision_keys)
+
+
 def scan_forbidden_tokens(root: Path, tokens: list[str]) -> dict[str, dict[str, int]]:
     hits: dict[str, dict[str, int]] = {}
     if not tokens:
@@ -416,6 +559,7 @@ def scan_forbidden_tokens(root: Path, tokens: list[str]) -> dict[str, dict[str, 
 
 def build_validation_report(base: Path, rules: ReplacementRules, source_root: Path, output_root: Path) -> list[ValidationIssue]:
     issues: list[ValidationIssue] = []
+    warnings: list[ValidationIssue] = []
 
     source_localization = source_root / "localization.json"
     output_localization = output_root / "localization.json"
@@ -462,6 +606,29 @@ def build_validation_report(base: Path, rules: ReplacementRules, source_root: Pa
                 continue
             validate_resource_file(source_path, output_path, rules, issues)
 
+    ruby_generic_mappings = find_ruby_generic_mappings(output_resource, output_root / "genericTrans")
+    mapped_ruby_texts = {key for _, key, _ in ruby_generic_mappings}
+    for json_path, key, value in ruby_generic_mappings:
+        if value != key:
+            target = warnings if RUBY_GUARD not in key and len(key) < 2 else issues
+            target.append(
+                ValidationIssue(
+                    "ruby_generic_retranslation",
+                    json_path.relative_to(output_root).as_posix(),
+                    f"ruby source {key!r} maps to {value!r} instead of itself",
+                )
+            )
+
+    for ruby_text in collect_ruby_source_texts(output_resource):
+        if RUBY_GUARD in ruby_text and ruby_text not in mapped_ruby_texts:
+            issues.append(
+                ValidationIssue(
+                    "missing_ruby_guard_mapping",
+                    "genericTrans/" + RUBY_GUARD_FILE,
+                    f"guarded ruby source {ruby_text!r} has no identity mapping",
+                )
+            )
+
     forbidden_hits = scan_forbidden_tokens(output_root, rules.forbidden_tokens)
     for file_path, token_hits in forbidden_hits.items():
         for token, count in token_hits.items():
@@ -469,8 +636,10 @@ def build_validation_report(base: Path, rules: ReplacementRules, source_root: Pa
 
     report = {
         "issue_count": len(issues),
+        "warning_count": len(warnings),
         "forbidden_tokens": rules.forbidden_tokens,
         "issues": [asdict(issue) for issue in issues[:200]],
+        "warnings": [asdict(warning) for warning in warnings[:200]],
         "truncated": len(issues) > 200,
     }
     save_json(base / VALIDATION_REPORT_FILE, report)
@@ -508,6 +677,21 @@ def main() -> int:
     if generic_dir.exists():
         for json_file in generic_dir.rglob("*.json"):
             save_json(json_file, convert_json_value(load_json(json_file), cc, rules))
+
+    protected_messages, protected_keys, guard_mappings, skipped_keys = protect_ruby_text_from_generic_translation(
+        resource_dir,
+        generic_dir,
+    )
+    print(
+        f"Protected {protected_keys} generic collision(s) in {protected_messages} ADV message(s) "
+        f"with {guard_mappings} ruby guard mapping(s).",
+        flush=True,
+    )
+    if skipped_keys:
+        print(
+            f"Warning: skipped {skipped_keys} single-character ruby collision(s) with no safe internal guard position.",
+            flush=True,
+        )
 
     print("Converting masterTrans/*.json...", flush=True)
     master_dir = output_root / "masterTrans"
