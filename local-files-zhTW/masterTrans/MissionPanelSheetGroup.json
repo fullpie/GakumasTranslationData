@@ -10,6 +10,10 @@
       "name": "親密度強化活動"
     },
     {
+      "id": "dearness_panel-mission_atbm_01",
+      "name": "親密度強化活動"
+    },
+    {
       "id": "dearness_panel-mission_fktn_01",
       "name": "親密度強化活動"
     },
@@ -132,6 +136,10 @@
     {
       "id": "panel_mission-event-010",
       "name": "GO MY WAY!! 拼圖任務"
+    },
+    {
+      "id": "panel_mission-event-011",
+      "name": "STEP3全偶像登場紀念拼圖任務"
     },
     {
       "id": "panel_mission-event-niv",
