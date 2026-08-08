@@ -2916,7 +2916,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "增加 \n回合結束時，"
+          "text": "增加\n回合結束時，"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
