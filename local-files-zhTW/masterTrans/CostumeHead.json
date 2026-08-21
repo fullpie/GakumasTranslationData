@@ -166,6 +166,16 @@
       "description": "【Campus mode!!】雨夜燕的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_atbm-cstm-0063",
+      "name": "冠菊",
+      "description": "【用理論武裝】'26祭典 雨夜燕 獲得"
+    },
+    {
+      "id": "costume_head_atbm-cstm-0065",
+      "name": "變裝狂想曲",
+      "description": "【用理論武裝】'26萬聖節 雨夜燕 獲得"
+    },
+    {
       "id": "costume_head_atbm-cstm-0072",
       "name": "黃金光輝",
       "description": "雨夜燕的偶像之路 通關第10關"
@@ -468,7 +478,7 @@
     {
       "id": "costume_head_hmsz-cstm-0063",
       "name": "冠菊",
-      "description": "【月之龜】'25祭 秦谷美鈴 獲得"
+      "description": "【月之龜】'25祭典 秦谷美鈴 獲得"
     },
     {
       "id": "costume_head_hmsz-cstm-0065",
@@ -1073,7 +1083,7 @@
     {
       "id": "costume_head_jsna-cstm-0063",
       "name": "冠菊",
-      "description": "【小小的野心】'25祭 十王星南 獲得"
+      "description": "【小小的野心】'25祭典 十王星南 獲得"
     },
     {
       "id": "costume_head_jsna-cstm-0065",
@@ -1869,6 +1879,16 @@
       "id": "costume_head_ttmr-cstm-0137",
       "name": "荊棘之路",
       "description": "【荊棘之路】月村手毬的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0173",
+      "name": "「喂……我要說了哦。」",
+      "description": "【「喂……我要說了哦。」】月村手毬 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0174",
+      "name": "「喂……我要說了哦。」",
+      "description": "【「喂……我要說了哦。」】月村手毬的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0001",

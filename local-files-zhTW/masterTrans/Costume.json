@@ -181,6 +181,16 @@
       "description": "【Fluorite】'26GO MY WAY!! 有村麻央 獲得"
     },
     {
+      "id": "amao-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【Fluorite】'26泳裝 有村麻央 獲得"
+    },
+    {
+      "id": "amao-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【Fluorite】'26泳裝 有村麻央 獲得"
+    },
+    {
       "id": "amao-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（有村麻央）"
@@ -211,6 +221,11 @@
       "description": "初始持有"
     },
     {
+      "id": "atbm-cstm-0051",
+      "name": "與你共度的湛藍夏日",
+      "description": "【用理論武裝】'26夏 雨夜燕 獲得"
+    },
+    {
       "id": "atbm-cstm-0053",
       "name": "Campus mode!!",
       "description": "【Campus mode!!】雨夜燕 獲得"
@@ -219,6 +234,21 @@
       "id": "atbm-cstm-0054",
       "name": "Campus mode!!",
       "description": "【Campus mode!!】雨夜燕的才能開花第4階段 獲得"
+    },
+    {
+      "id": "atbm-cstm-0063",
+      "name": "冠菊",
+      "description": "【用理論武裝】'26祭典 雨夜燕 獲得"
+    },
+    {
+      "id": "atbm-cstm-0065",
+      "name": "變裝狂想曲",
+      "description": "【用理論武裝】'26萬聖節 雨夜燕 獲得"
+    },
+    {
+      "id": "atbm-cstm-0067",
+      "name": "White Night! White Wish!",
+      "description": "【用理論武裝】'26聖誕節 雨夜燕 獲得"
     },
     {
       "id": "atbm-cstm-0069",
@@ -234,6 +264,11 @@
       "id": "atbm-cstm-0073",
       "name": "白金光輝",
       "description": "雨夜燕的偶像之路 通關第15關"
+    },
+    {
+      "id": "atbm-cstm-0075",
+      "name": "幸福千層酥",
+      "description": "【用理論武裝】'26情人節 雨夜燕 獲得"
     },
     {
       "id": "atbm-cstm-0076",
@@ -271,6 +306,11 @@
       "description": "【用理論武裝】'26Howling over the World 雨夜燕 獲得"
     },
     {
+      "id": "atbm-cstm-0119",
+      "name": "何時何地簡簡單單",
+      "description": "【用理論武裝】'26Animate 雨夜燕 獲得"
+    },
+    {
       "id": "atbm-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【用理論武裝】'26ENDLESS DANCE 雨夜燕 獲得"
@@ -289,6 +329,16 @@
       "id": "atbm-cstm-0146",
       "name": "互噬",
       "description": "【互噬】雨夜燕的才能開花第4階段 獲得"
+    },
+    {
+      "id": "atbm-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【用理論武裝】'26泳裝 雨夜燕 獲得"
+    },
+    {
+      "id": "atbm-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【用理論武裝】'26泳裝 雨夜燕 獲得"
     },
     {
       "id": "atbm-othr-0002",
@@ -491,6 +541,16 @@
       "description": "【GO MY WAY!!】藤田琴音的才能開花第4階段 獲得"
     },
     {
+      "id": "fktn-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【世界第一可愛的我】'26泳裝 藤田琴音 獲得"
+    },
+    {
+      "id": "fktn-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【世界第一可愛的我】'26泳裝 藤田琴音 獲得"
+    },
+    {
       "id": "fktn-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（藤田琴音）"
@@ -558,7 +618,7 @@
     {
       "id": "hmsz-cstm-0063",
       "name": "冠菊",
-      "description": "【月之龜】'25祭 秦谷美鈴 獲得"
+      "description": "【月之龜】'25祭典 秦谷美鈴 獲得"
     },
     {
       "id": "hmsz-cstm-0065",
@@ -727,8 +787,8 @@
     },
     {
       "id": "hrnm-cstm-0051",
-      "name": "連帽衫泳衣",
-      "description": "購買連帽衫泳衣（姬崎莉波）"
+      "name": "連帽衫泳裝",
+      "description": "購買連帽衫泳裝（姬崎莉波）"
     },
     {
       "id": "hrnm-cstm-0053",
@@ -864,6 +924,16 @@
       "id": "hrnm-cstm-0140",
       "name": "GO MY WAY!!",
       "description": "【clumsy trick】'26GO MY WAY!! 姬崎莉波 獲得"
+    },
+    {
+      "id": "hrnm-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【clumsy trick】'26泳裝 姬崎莉波 獲得"
+    },
+    {
+      "id": "hrnm-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【clumsy trick】'26泳裝 姬崎莉波 獲得"
     },
     {
       "id": "hrnm-othr-0000",
@@ -1076,6 +1146,16 @@
       "description": "【GO MY WAY!!】花海咲季 獲得"
     },
     {
+      "id": "hski-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【Fighting My Way】'26泳裝 花海咲季 獲得"
+    },
+    {
+      "id": "hski-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【Fighting My Way】'26泳裝 花海咲季 獲得"
+    },
+    {
       "id": "hski-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（花海咲季）"
@@ -1271,6 +1351,16 @@
       "description": "【GO MY WAY!!】花海佑芽的才能開花第4階段 獲得"
     },
     {
+      "id": "hume-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【The Rolling Riceball】'26泳裝 花海佑芽 獲得"
+    },
+    {
+      "id": "hume-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【The Rolling Riceball】'26泳裝 花海佑芽 獲得"
+    },
+    {
       "id": "hume-othr-0000",
       "name": "溫泉浴巾",
       "description": "無法入手"
@@ -1348,7 +1438,7 @@
     {
       "id": "jsna-cstm-0063",
       "name": "冠菊",
-      "description": "【小小的野心】'25祭 十王星南 獲得"
+      "description": "【小小的野心】'25祭典 十王星南 獲得"
     },
     {
       "id": "jsna-cstm-0065",
@@ -1464,6 +1554,16 @@
       "id": "jsna-cstm-0140",
       "name": "GO MY WAY!!",
       "description": "【小小的野心】'26GO MY WAY!! 十王星南 獲得"
+    },
+    {
+      "id": "jsna-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【「喂……我要說了哦。」】十王星南 獲得"
+    },
+    {
+      "id": "jsna-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【「喂……我要說了哦。」】十王星南 獲得"
     },
     {
       "id": "jsna-othr-0002",
@@ -1664,6 +1764,16 @@
       "id": "kcna-cstm-0140",
       "name": "GO MY WAY!!",
       "description": "【Wonder Scale】'26GO MY WAY!! 倉本千奈 獲得"
+    },
+    {
+      "id": "kcna-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【Wonder Scale】'26泳裝 倉本千奈 獲得"
+    },
+    {
+      "id": "kcna-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【Wonder Scale】'26泳裝 倉本千奈 獲得"
     },
     {
       "id": "kcna-othr-0002",
@@ -1879,6 +1989,16 @@
       "id": "kllj-cstm-0140",
       "name": "GO MY WAY!!",
       "description": "【白線】'26GO MY WAY!! 葛城莉莉婭 獲得"
+    },
+    {
+      "id": "kllj-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【白線】'26泳裝 葛城莉莉婭 獲得"
+    },
+    {
+      "id": "kllj-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【白線】'26泳裝 葛城莉莉婭 獲得"
     },
     {
       "id": "kllj-othr-0002",
@@ -2116,6 +2236,16 @@
       "description": "【光景】'26GO MY WAY!! 筱澤廣 獲得"
     },
     {
+      "id": "shro-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【光景】'26泳裝 筱澤廣 獲得"
+    },
+    {
+      "id": "shro-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【光景】'26泳裝 筱澤廣 獲得"
+    },
+    {
       "id": "shro-othr-0002",
       "name": "溫泉泳裝",
       "description": "購買溫泉泳裝（筱澤廣）"
@@ -2177,8 +2307,8 @@
     },
     {
       "id": "ssmk-cstm-0051",
-      "name": "連帽衫泳衣",
-      "description": "購買連帽衫泳衣（紫雲清夏）"
+      "name": "連帽衫泳裝",
+      "description": "購買連帽衫泳裝（紫雲清夏）"
     },
     {
       "id": "ssmk-cstm-0053",
@@ -2304,6 +2434,16 @@
       "id": "ssmk-cstm-0140",
       "name": "GO MY WAY!!",
       "description": "【Tame-Lie-One-Step】'26GO MY WAY!! 紫雲清夏 獲得"
+    },
+    {
+      "id": "ssmk-cstm-0175",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【Tame-Lie-One-Step】'26泳裝 紫雲清夏 獲得"
+    },
+    {
+      "id": "ssmk-cstm-0176",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【Tame-Lie-One-Step】'26泳裝 紫雲清夏 獲得"
     },
     {
       "id": "ssmk-othr-0002",
@@ -2509,6 +2649,26 @@
       "id": "ttmr-cstm-0140",
       "name": "GO MY WAY!!",
       "description": "【Luna say maybe】'26GO MY WAY!! 月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0173",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【「喂……我要說了哦。」】月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0174",
+      "name": "「喂……我要說了哦。」（泳裝）",
+      "description": "【「喂……我要說了哦。」】月村手毬的才能開花第4階段 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0177",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【「喂……我要說了哦。」】月村手毬 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0178",
+      "name": "「喂……我要說了哦。」（連衣裙）",
+      "description": "【「喂……我要說了哦。」】月村手毬的才能開花第4階段 獲得"
     },
     {
       "id": "ttmr-othr-0002",
