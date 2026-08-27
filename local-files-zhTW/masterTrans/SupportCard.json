@@ -1101,6 +1101,22 @@
       "name": "困難重重時裝秀"
     },
     {
+      "id": "s_card-2-0055",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 機率中等"
+        }
+      ],
+      "name": "熟睡的二人"
+    },
+    {
       "id": "s_card-2-0056",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -3163,6 +3179,22 @@
         }
       ],
       "name": "美食測評，我或許挺擅長的！"
+    },
+    {
+      "id": "s_card-3-0107",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 機率高"
+        }
+      ],
+      "name": "珍貴的回憶、又多了一份"
     },
     {
       "id": "s_card-3-0108",

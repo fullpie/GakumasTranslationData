@@ -846,6 +846,36 @@
       "description": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hmsz-3-020-01",
+      "name": "海浪間搖動的光芒",
+      "description": "【「我要說了哦。」】秦谷美鈴的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-02",
+      "name": "「我要說了哦。」",
+      "description": "【「我要說了哦。」】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-03",
+      "name": "對你來說，是最好的拍攝物件",
+      "description": "【「我要說了哦。」】秦谷美鈴的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-04",
+      "name": "「我要說了哦。」 +",
+      "description": "【「我要說了哦。」】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-05",
+      "name": "「我要說了哦。」 ++",
+      "description": "【「我要說了哦。」】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-020-06",
+      "name": "「我要說了哦。」 +++",
+      "description": "【「我要說了哦。」】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hrnm-2-000-04",
       "name": "『自我』的開始 +",
       "description": "【『自我』的開始】姬崎莉波的特訓階段提升至{threshold}級"
@@ -1988,32 +2018,32 @@
     {
       "id": "achieve-i_card-jsna-3-020-01",
       "name": "令人入迷的側顏",
-      "description": "【「喂……我要說了哦。」】十王星南的培育中透過最終考試"
+      "description": "【「我要說了哦。」】十王星南的培育中透過最終考試"
     },
     {
       "id": "achieve-i_card-jsna-3-020-02",
-      "name": "「喂……我要說了哦。」",
-      "description": "【「喂……我要說了哦。」】十王星南的特訓階段提升至{threshold}級"
+      "name": "「我要說了哦。」",
+      "description": "【「我要說了哦。」】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-020-03",
       "name": "彼此都是討人厭的性子呢",
-      "description": "【「喂……我要說了哦。」】十王星南的培育中獲得{threshold}次A+以上的評價"
+      "description": "【「我要說了哦。」】十王星南的培育中獲得{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-jsna-3-020-04",
-      "name": "「喂……我要說了哦。」 +",
-      "description": "【「喂……我要說了哦。」】十王星南的特訓階段提升至{threshold}級"
+      "name": "「我要說了哦。」 +",
+      "description": "【「我要說了哦。」】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-020-05",
-      "name": "「喂……我要說了哦。」 ++",
-      "description": "【「喂……我要說了哦。」】十王星南的特訓階段提升至{threshold}級"
+      "name": "「我要說了哦。」 ++",
+      "description": "【「我要說了哦。」】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-jsna-3-020-06",
-      "name": "「喂……我要說了哦。」 +++",
-      "description": "【「喂……我要說了哦。」】十王星南的特訓階段提升至{threshold}級"
+      "name": "「我要說了哦。」 +++",
+      "description": "【「我要說了哦。」】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-2-000-04",
@@ -3368,32 +3398,32 @@
     {
       "id": "achieve-i_card-ttmr-3-021-01",
       "name": "夏風的必經之路",
-      "description": "【「喂……我要說了哦。」】月村手毬的培育中透過最終考試"
+      "description": "【「我要說了哦。」】月村手毬的培育中透過最終考試"
     },
     {
       "id": "achieve-i_card-ttmr-3-021-02",
-      "name": "「喂……我要說了哦。」",
-      "description": "【「喂……我要說了哦。」】月村手毬的特訓階段提升至{threshold}級"
+      "name": "「我要說了哦。」",
+      "description": "【「我要說了哦。」】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-021-03",
       "name": "可以盡情誇我一番哦",
-      "description": "【「喂……我要說了哦。」】月村手毬的培育中獲得{threshold}次A+以上的評價"
+      "description": "【「我要說了哦。」】月村手毬的培育中獲得{threshold}次A+以上的評價"
     },
     {
       "id": "achieve-i_card-ttmr-3-021-04",
-      "name": "「喂……我要說了哦。」 +",
-      "description": "【「喂……我要說了哦。」】月村手毬的特訓階段提升至{threshold}級"
+      "name": "「我要說了哦。」 +",
+      "description": "【「我要說了哦。」】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-021-05",
-      "name": "「喂……我要說了哦。」 ++",
-      "description": "【「喂……我要說了哦。」】月村手毬的特訓階段提升至{threshold}級"
+      "name": "「我要說了哦。」 ++",
+      "description": "【「我要說了哦。」】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-3-021-06",
-      "name": "「喂……我要說了哦。」 +++",
-      "description": "【「喂……我要說了哦。」】月村手毬的特訓階段提升至{threshold}級"
+      "name": "「我要說了哦。」 +++",
+      "description": "【「我要說了哦。」】月村手毬的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-m_amao-001",

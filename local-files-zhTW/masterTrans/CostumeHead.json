@@ -506,6 +506,16 @@
       "description": "【Star-mine】秦谷美鈴的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_hmsz-cstm-0173",
+      "name": "「我要說了哦。」",
+      "description": "【「我要說了哦。」】秦谷美鈴 獲得"
+    },
+    {
+      "id": "costume_head_hmsz-cstm-0174",
+      "name": "「我要說了哦。」",
+      "description": "【「我要說了哦。」】秦谷美鈴的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_hmsz-hair-0001",
       "name": "紫陽花髮飾",
       "description": "購買紫陽花髮飾（秦谷美鈴）"
@@ -538,7 +548,7 @@
     {
       "id": "costume_head_hmsz-hair-0008",
       "name": "狗耳",
-      "description": "高階任務通行證 2025年9月 獲得"
+      "description": "高階任務通行證 2025年9月 等方式獲得"
     },
     {
       "id": "costume_head_hmsz-hair-0009",
@@ -559,6 +569,11 @@
       "id": "costume_head_hmsz-hair-0029",
       "name": "VEIL（點綴色設計）",
       "description": "【VEIL】秦谷美鈴 獲得"
+    },
+    {
+      "id": "costume_head_hmsz-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年9月 獲得"
     },
     {
       "id": "costume_head_hmsz-schl-0000",
@@ -1023,7 +1038,7 @@
     {
       "id": "costume_head_hume-hair-0008",
       "name": "狗耳",
-      "description": "高階任務通行證 2025年9月 獲得"
+      "description": "高階任務通行證 2025年9月 等方式獲得"
     },
     {
       "id": "costume_head_hume-hair-0009",
@@ -1308,7 +1323,7 @@
     {
       "id": "costume_head_kcna-hair-0008",
       "name": "狗耳",
-      "description": "高階任務通行證 2025年9月 獲得"
+      "description": "高階任務通行證 2025年9月 等方式獲得"
     },
     {
       "id": "costume_head_kcna-hair-0009",
@@ -1491,6 +1506,11 @@
       "description": "【Atmosphere】葛城莉莉婭 獲得"
     },
     {
+      "id": "costume_head_kllj-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年9月 獲得"
+    },
+    {
       "id": "costume_head_kllj-schl-0000",
       "name": "日常髮型",
       "description": "初始持有"
@@ -1633,7 +1653,7 @@
     {
       "id": "costume_head_shro-hair-0008",
       "name": "狗耳",
-      "description": "高階任務通行證 2025年9月 獲得"
+      "description": "高階任務通行證 2025年9月 等方式獲得"
     },
     {
       "id": "costume_head_shro-hair-0009",
@@ -1781,6 +1801,11 @@
       "description": "【Love & Joy】紫雲清夏 獲得"
     },
     {
+      "id": "costume_head_ssmk-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年9月 獲得"
+    },
+    {
       "id": "costume_head_ssmk-schl-0000",
       "name": "日常髮型",
       "description": "初始持有"
@@ -1882,13 +1907,13 @@
     },
     {
       "id": "costume_head_ttmr-cstm-0173",
-      "name": "「喂……我要說了哦。」",
-      "description": "【「喂……我要說了哦。」】月村手毬 獲得"
+      "name": "「我要說了哦。」",
+      "description": "【「我要說了哦。」】月村手毬 獲得"
     },
     {
       "id": "costume_head_ttmr-cstm-0174",
-      "name": "「喂……我要說了哦。」",
-      "description": "【「喂……我要說了哦。」】月村手毬的才能開花第4階段 獲得"
+      "name": "「我要說了哦。」",
+      "description": "【「我要說了哦。」】月村手毬的才能開花第4階段 獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0001",
