@@ -456,6 +456,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-new-wednesday-26-0909-1",
+      "name": "學馬星期三扭蛋票據",
+      "description": "可以在學馬星期三扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-ssr-fix_1",
       "name": "SSR必得扭蛋票據",
       "description": "可以在SSR必得扭蛋中使用的票據",
@@ -942,6 +948,12 @@
       "acquisitionRouteDescription": "巡演活動、培育"
     },
     {
+      "id": "item-medal-tour-event-006",
+      "name": "初星祭獎章",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
+      "acquisitionRouteDescription": "活動「最棒的文化祭」、培育"
+    },
+    {
       "id": "item-memory_exchange-class1",
       "name": "感性硬幣",
       "description": "可以在感性扭蛋中使用的硬幣",
@@ -1034,6 +1046,12 @@
     {
       "id": "item-piece-idol_amao-3-017",
       "name": "[SUGAR FLAVOR]有村麻央的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_amao-3-018",
+      "name": "[標]有村麻央的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -1566,6 +1584,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_kcna-3-018",
+      "name": "[標]倉本千奈的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_kllj-1-000",
       "name": "[學園生活]葛城莉莉婭的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -1782,6 +1806,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_ssmk-3-018",
+      "name": "[標]紫雲清夏的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_ttmr-1-000",
       "name": "[學園生活]月村手毬的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -1876,6 +1906,12 @@
       "name": "演唱會挑戰券（澀谷）",
       "description": "可以在巡演活動中挑戰舞臺的道具",
       "acquisitionRouteDescription": "巡演活動"
+    },
+    {
+      "id": "item-play-ticket_tour-event-006",
+      "name": "初星祭票據",
+      "description": "可以在活動「最棒的文化祭」中挑戰舞臺的道具",
+      "acquisitionRouteDescription": "活動「最棒的文化祭」"
     },
     {
       "id": "item-primastellamaterial-common-001",

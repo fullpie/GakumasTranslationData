@@ -6734,6 +6734,34 @@
       "name": "完成{threshold}次SP訓練吧"
     },
     {
+      "id": "mission-tour-event-006-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-tour-event-006-mission_2",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-tour-event-006-mission_3",
+      "name": "在活動中挑戰並透過{threshold}次吧"
+    },
+    {
+      "id": "mission-tour-event-006-mission_4",
+      "name": "在活動中挑戰並通關應援共鳴Lv1以上的舞臺{threshold}次吧"
+    },
+    {
+      "id": "mission-tour-event-006-mission_5",
+      "name": "在活動中挑戰並通關應援共鳴Lv2以上的舞臺{threshold}次吧"
+    },
+    {
+      "id": "mission-tour-event-006-mission_6",
+      "name": "在活動中挑戰並通關應援共鳴Lv3以上的舞臺{threshold}次吧"
+    },
+    {
+      "id": "mission-tour-event-006-mission_7",
+      "name": "完成{threshold}次SP訓練吧"
+    },
+    {
       "id": "mission-weekly-competitionplaycount-1",
       "name": "去挑戰{threshold}次聯合競技吧"
     },
@@ -7572,6 +7600,30 @@
     {
       "id": "achieve-i_card-amao-3-017-06",
       "name": "【SUGAR FLAVOR】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-01",
+      "name": "【標】有村麻央的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-02",
+      "name": "【標】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-03",
+      "name": "【標】有村麻央的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-04",
+      "name": "【標】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-05",
+      "name": "【標】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-06",
+      "name": "【標】有村麻央的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-atbm-2-000-01",
@@ -9230,6 +9282,30 @@
       "name": "【未知萬千 廣闊無限】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-kcna-3-018-01",
+      "name": "【標】倉本千奈的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-02",
+      "name": "【標】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-03",
+      "name": "【標】倉本千奈的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-04",
+      "name": "【標】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-05",
+      "name": "【標】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-06",
+      "name": "【標】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-kllj-2-000-04",
       "name": "【邁出第一步的前方】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
@@ -9876,6 +9952,30 @@
     {
       "id": "achieve-i_card-ssmk-3-017-06",
       "name": "【怦然心動】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-01",
+      "name": "【標】紫雲清夏的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-02",
+      "name": "【標】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-03",
+      "name": "【標】紫雲清夏的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-04",
+      "name": "【標】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-05",
+      "name": "【標】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-06",
+      "name": "【標】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-2-000-04",

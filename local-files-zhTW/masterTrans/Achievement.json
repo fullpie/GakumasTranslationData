@@ -246,6 +246,36 @@
       "description": "【SUGAR FLAVOR】有村麻央的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-amao-3-018-01",
+      "name": "承接光芒",
+      "description": "【標】有村麻央的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-02",
+      "name": "標",
+      "description": "【標】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-03",
+      "name": "世界第一帥氣的王子殿下",
+      "description": "【標】有村麻央的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-04",
+      "name": "標 +",
+      "description": "【標】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-05",
+      "name": "標 ++",
+      "description": "【標】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-amao-3-018-06",
+      "name": "標 +++",
+      "description": "【標】有村麻央的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-atbm-2-000-01",
       "name": "紫電一閃",
       "description": "【貫徹初志】雨夜燕的培育中透過最終考試"
@@ -2316,6 +2346,36 @@
       "description": "【未知萬千 廣闊無限】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-kcna-3-018-01",
+      "name": "出發前進了哇～～♪",
+      "description": "【標】倉本千奈的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-02",
+      "name": "標",
+      "description": "【標】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-03",
+      "name": "與之相稱的、我自己",
+      "description": "【標】倉本千奈的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-04",
+      "name": "標 +",
+      "description": "【標】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-05",
+      "name": "標 ++",
+      "description": "【標】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-018-06",
+      "name": "標 +++",
+      "description": "【標】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-kllj-2-000-04",
       "name": "邁出第一步的前方 +",
       "description": "【邁出第一步的前方】葛城莉莉婭的特訓階段提升至{threshold}級"
@@ -3124,6 +3184,36 @@
       "id": "achieve-i_card-ssmk-3-017-06",
       "name": "怦然心動 +++",
       "description": "【怦然心動】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-01",
+      "name": "想要回應的心意",
+      "description": "【標】紫雲清夏的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-02",
+      "name": "標",
+      "description": "【標】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-03",
+      "name": "我要在這個世界裡，實現夢想！",
+      "description": "【標】紫雲清夏的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-04",
+      "name": "標 +",
+      "description": "【標】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-05",
+      "name": "標 ++",
+      "description": "【標】紫雲清夏的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-018-06",
+      "name": "標 +++",
+      "description": "【標】紫雲清夏的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-ttmr-2-000-04",
