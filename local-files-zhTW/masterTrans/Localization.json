@@ -354,6 +354,10 @@
       "description": "可獲得該兌換Pt的扭蛋"
     },
     {
+      "id": "story.idol.others.birthday",
+      "description": "其他"
+    },
+    {
       "id": "story.story_event.section.normal_condition_lock_text",
       "description": "透過獲得活動Pt，並觀看前一段交流解鎖"
     },

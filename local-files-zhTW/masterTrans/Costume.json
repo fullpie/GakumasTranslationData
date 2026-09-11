@@ -92,12 +92,12 @@
     },
     {
       "id": "amao-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "有村麻央的偶像之路 通關第10關"
     },
     {
       "id": "amao-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "有村麻央的偶像之路 通關第15關"
     },
     {
@@ -267,12 +267,12 @@
     },
     {
       "id": "atbm-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "雨夜燕的偶像之路 通關第10關"
     },
     {
       "id": "atbm-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "雨夜燕的偶像之路 通關第15關"
     },
     {
@@ -457,12 +457,12 @@
     },
     {
       "id": "fktn-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "藤田琴音的偶像之路 通關第10關"
     },
     {
       "id": "fktn-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "藤田琴音的偶像之路 通關第15關"
     },
     {
@@ -647,12 +647,12 @@
     },
     {
       "id": "hmsz-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "秦谷美鈴的偶像之路 通關第10關"
     },
     {
       "id": "hmsz-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "秦谷美鈴的偶像之路 通關第15關"
     },
     {
@@ -862,12 +862,12 @@
     },
     {
       "id": "hrnm-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "姬崎莉波的偶像之路 通關第10關"
     },
     {
       "id": "hrnm-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "姬崎莉波的偶像之路 通關第15關"
     },
     {
@@ -1072,12 +1072,12 @@
     },
     {
       "id": "hski-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "花海咲季的偶像之路 通關第10關"
     },
     {
       "id": "hski-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "花海咲季的偶像之路 通關第15關"
     },
     {
@@ -1287,12 +1287,12 @@
     },
     {
       "id": "hume-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "花海佑芽的偶像之路 通關第10關"
     },
     {
       "id": "hume-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "花海佑芽的偶像之路 通關第15關"
     },
     {
@@ -1487,12 +1487,12 @@
     },
     {
       "id": "jsna-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "十王星南的偶像之路 通關第10關"
     },
     {
       "id": "jsna-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "十王星南的偶像之路 通關第15關"
     },
     {
@@ -1579,6 +1579,16 @@
       "id": "jsna-cstm-0127",
       "name": "ENDLESS DANCE",
       "description": "【ENDLESS DANCE】十王星南的才能開花第4階段 獲得"
+    },
+    {
+      "id": "jsna-cstm-0136",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】十王星南 獲得"
+    },
+    {
+      "id": "jsna-cstm-0137",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】十王星南的才能開花第4階段 獲得"
     },
     {
       "id": "jsna-cstm-0140",
@@ -1702,12 +1712,12 @@
     },
     {
       "id": "kcna-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "倉本千奈的偶像之路 通關第10關"
     },
     {
       "id": "kcna-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "倉本千奈的偶像之路 通關第15關"
     },
     {
@@ -1927,12 +1937,12 @@
     },
     {
       "id": "kllj-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "葛城莉莉婭的偶像之路 通關第10關"
     },
     {
       "id": "kllj-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "葛城莉莉婭的偶像之路 通關第15關"
     },
     {
@@ -2177,12 +2187,12 @@
     },
     {
       "id": "shro-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "筱澤廣的偶像之路 通關第10關"
     },
     {
       "id": "shro-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "筱澤廣的偶像之路 通關第15關"
     },
     {
@@ -2382,12 +2392,12 @@
     },
     {
       "id": "ssmk-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "紫雲清夏的偶像之路 通關第10關"
     },
     {
       "id": "ssmk-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "紫雲清夏的偶像之路 通關第15關"
     },
     {
@@ -2602,12 +2612,12 @@
     },
     {
       "id": "ttmr-cstm-0072",
-      "name": "黃金光輝",
+      "name": "黃金的光輝",
       "description": "月村手毬的偶像之路 通關第10關"
     },
     {
       "id": "ttmr-cstm-0073",
-      "name": "白金光輝",
+      "name": "白金的光輝",
       "description": "月村手毬的偶像之路 通關第15關"
     },
     {
