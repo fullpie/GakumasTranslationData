@@ -957,7 +957,7 @@
       "id": "item-medal-tour-event-006",
       "name": "初星祭獎章",
       "description": "可以在活動兌換所中兌換各式報酬的道具",
-      "acquisitionRouteDescription": "活動「最棒的文化祭」、培育"
+      "acquisitionRouteDescription": "活動「最後的文化祭」、培育"
     },
     {
       "id": "item-memory_exchange-class1",
@@ -1922,8 +1922,8 @@
     {
       "id": "item-play-ticket_tour-event-006",
       "name": "初星祭票據",
-      "description": "可以在活動「最棒的文化祭」中挑戰舞臺的道具",
-      "acquisitionRouteDescription": "活動「最棒的文化祭」"
+      "description": "可以在活動「最後的文化祭」中挑戰舞臺的道具",
+      "acquisitionRouteDescription": "活動「最後的文化祭」"
     },
     {
       "id": "item-primastellamaterial-common-001",
