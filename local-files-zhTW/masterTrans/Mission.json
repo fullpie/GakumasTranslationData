@@ -326,6 +326,214 @@
       "name": "讓葛城莉莉婭透過最終考試並獲得{threshold}次SS以上評價吧"
     },
     {
+      "id": "dearness_event_permanent_amao-001",
+      "name": "將有村麻央的歌唱能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_amao-002",
+      "name": "在有村麻央的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_amao-003",
+      "name": "有村麻央透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_amao-004",
+      "name": "讓有村麻央透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_atbm-001",
+      "name": "將雨夜燕的舞蹈能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_atbm-002",
+      "name": "在雨夜燕的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_atbm-003",
+      "name": "雨夜燕透過{threshold}次舞蹈訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_atbm-004",
+      "name": "讓雨夜燕透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_fktn-001",
+      "name": "將藤田琴音的舞蹈能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_fktn-002",
+      "name": "在藤田琴音的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_fktn-003",
+      "name": "藤田琴音透過{threshold}次舞蹈訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_fktn-004",
+      "name": "讓藤田琴音透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_hmsz-001",
+      "name": "將秦谷美鈴的歌唱能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_hmsz-002",
+      "name": "在秦谷美鈴的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_hmsz-003",
+      "name": "秦谷美鈴透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_hmsz-004",
+      "name": "讓秦谷美鈴透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_hrnm-001",
+      "name": "將姬崎莉波的視覺能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_hrnm-002",
+      "name": "在姬崎莉波的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_hrnm-003",
+      "name": "姬崎莉波透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_hrnm-004",
+      "name": "讓姬崎莉波透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_hski-001",
+      "name": "將花海咲季的視覺能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_hski-002",
+      "name": "在花海咲季的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_hski-003",
+      "name": "花海咲季透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_hski-004",
+      "name": "讓花海咲季透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_hume-001",
+      "name": "將花海佑芽的舞蹈能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_hume-002",
+      "name": "在花海佑芽的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_hume-003",
+      "name": "花海佑芽透過{threshold}次舞蹈訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_hume-004",
+      "name": "讓花海佑芽透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_jsna-001",
+      "name": "將十王星南的視覺能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_jsna-002",
+      "name": "在十王星南的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_jsna-003",
+      "name": "十王星南透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_jsna-004",
+      "name": "讓十王星南透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_kcna-001",
+      "name": "將倉本千奈的舞蹈能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_kcna-002",
+      "name": "在倉本千奈的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_kcna-003",
+      "name": "倉本千奈透過{threshold}次舞蹈訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_kcna-004",
+      "name": "讓倉本千奈透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_kllj-001",
+      "name": "將葛城莉莉婭的視覺能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_kllj-002",
+      "name": "在葛城莉莉婭的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_kllj-003",
+      "name": "葛城莉莉婭透過{threshold}次視覺訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_kllj-004",
+      "name": "讓葛城莉莉婭透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_shro-001",
+      "name": "將筱澤廣的歌唱能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_shro-002",
+      "name": "在筱澤廣的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_shro-003",
+      "name": "筱澤廣透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_shro-004",
+      "name": "讓筱澤廣透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_ssmk-001",
+      "name": "將紫雲清夏的舞蹈能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_ssmk-002",
+      "name": "在紫雲清夏的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_ssmk-003",
+      "name": "紫雲清夏透過{threshold}次舞蹈訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_ssmk-004",
+      "name": "讓紫雲清夏透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
+      "id": "dearness_event_permanent_ttmr-001",
+      "name": "將月村手毬的歌唱能力值培養至1800以上並完成培育"
+    },
+    {
+      "id": "dearness_event_permanent_ttmr-002",
+      "name": "在月村手毬的培育中自定義{threshold}次技能卡吧"
+    },
+    {
+      "id": "dearness_event_permanent_ttmr-003",
+      "name": "月村手毬透過{threshold}次歌唱訓練吧"
+    },
+    {
+      "id": "dearness_event_permanent_ttmr-004",
+      "name": "讓月村手毬透過最終考試並獲得{threshold}次SS以上評價吧"
+    },
+    {
       "id": "dearness_event_relaunch_amao-001",
       "name": "將有村麻央的歌唱能力值培養至1800以上並完成培育"
     },
