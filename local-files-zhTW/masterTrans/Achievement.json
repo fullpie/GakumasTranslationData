@@ -2976,6 +2976,36 @@
       "description": "【荊棘之路】筱澤廣的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-shro-3-022-01",
+      "name": "我就是、風！",
+      "description": "【眼】筱澤廣的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-02",
+      "name": "眼",
+      "description": "【眼】筱澤廣的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-03",
+      "name": "再一次、我的初心",
+      "description": "【眼】筱澤廣的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-04",
+      "name": "眼 +",
+      "description": "【眼】筱澤廣的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-05",
+      "name": "眼 ++",
+      "description": "【眼】筱澤廣的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-shro-3-022-06",
+      "name": "眼 +++",
+      "description": "【眼】筱澤廣的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-ssmk-2-000-04",
       "name": "為了夢想的再出發 +",
       "description": "【為了夢想的再出發】紫雲清夏的特訓階段提升至{threshold}級"

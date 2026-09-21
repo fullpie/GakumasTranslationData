@@ -334,6 +334,10 @@
       "name": "好印象追加發動"
     },
     {
+      "type": "ProduceExamEffectType_ExamBuffConsumptionAdd",
+      "name": "強化狀態花費增加"
+    },
+    {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
       "name": "好調增加量追加"
     },

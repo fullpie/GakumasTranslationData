@@ -588,6 +588,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-wednesday-260923",
+      "name": "學馬星期三扭蛋票據",
+      "description": "可以在學馬星期三扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-wednesday-fainal-26-001-1",
       "name": "咲季的特別票據",
       "description": "可以在每日學馬星期三最終季扭蛋中使用的票據",
@@ -859,6 +865,12 @@
     },
     {
       "id": "item-medal-research-event-007",
+      "name": "研討狸貓",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-medal-research-event-008",
       "name": "研討狸貓",
       "description": "可以在活動兌換所中兌換各式報酬的道具",
       "acquisitionRouteDescription": "培育等方式"
@@ -1752,6 +1764,12 @@
       "acquisitionRouteDescription": "扭蛋等方式"
     },
     {
+      "id": "item-piece-idol_shro-3-022",
+      "name": "[眼]筱澤廣的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
       "id": "item-piece-idol_ssmk-1-000",
       "name": "[學園生活]紫雲清夏的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
@@ -2077,6 +2095,12 @@
     },
     {
       "id": "item-research-event-007",
+      "name": "亞紗裡老師貼紙",
+      "description": "可以在亞紗裡老師的培育研討會活動中，重新抽取回憶能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-research-event-008",
       "name": "亞紗裡老師貼紙",
       "description": "可以在亞紗裡老師的培育研討會活動中，重新抽取回憶能力的道具",
       "acquisitionRouteDescription": "培育等方式"
