@@ -1192,6 +1192,21 @@
       "text": "好、好辣～～～～～！！！！！"
     },
     {
+      "supportCardId": "s_card-2-0081",
+      "number": 1,
+      "text": "來吧，公主。請把手給我。"
+    },
+    {
+      "supportCardId": "s_card-2-0081",
+      "number": 2,
+      "text": "好、好的，請手下留情……！"
+    },
+    {
+      "supportCardId": "s_card-2-0081",
+      "number": 3,
+      "text": "說手下留情好像有點不太對……"
+    },
+    {
       "supportCardId": "s_card-3-0000",
       "number": 1,
       "text": "來，給你吃一口！"
@@ -2860,6 +2875,21 @@
       "supportCardId": "s_card-3-0110",
       "number": 3,
       "text": "……居、居然是小食？"
+    },
+    {
+      "supportCardId": "s_card-3-0111",
+      "number": 1,
+      "text": "唔～嗯……選哪個好呢……"
+    },
+    {
+      "supportCardId": "s_card-3-0111",
+      "number": 2,
+      "text": "咲季親，這不是挺適合你的嗎？"
+    },
+    {
+      "supportCardId": "s_card-3-0111",
+      "number": 3,
+      "text": "喂、喂！\n不要擅自給我戴上！"
     }
   ]
 }

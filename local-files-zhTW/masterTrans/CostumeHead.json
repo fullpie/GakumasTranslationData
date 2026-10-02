@@ -91,6 +91,11 @@
       "description": "【SUGAR FLAVOR】有村麻央的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_amao-cstm-0181",
+      "name": "Agitato",
+      "description": "【Fluorite】'26小惡魔 有村麻央 獲得"
+    },
+    {
       "id": "costume_head_amao-hair-0000",
       "name": "真實的螢石",
       "description": "將有村麻央的親密度提升至Lv10"
@@ -128,7 +133,7 @@
     {
       "id": "costume_head_amao-hair-0008",
       "name": "狗耳",
-      "description": "高階任務通行證 2025年10月 獲得"
+      "description": "高階任務通行證 2025年10月 等方式獲得"
     },
     {
       "id": "costume_head_amao-hair-0009",
@@ -149,6 +154,11 @@
       "id": "costume_head_amao-hair-0035",
       "name": "看著我（點綴色設計）",
       "description": "【看著我】有村麻央 獲得"
+    },
+    {
+      "id": "costume_head_amao-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年10月 獲得"
     },
     {
       "id": "costume_head_atbm-cstm-0000",
@@ -211,6 +221,11 @@
       "description": "【互噬】雨夜燕的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_atbm-cstm-0181",
+      "name": "Agitato",
+      "description": "【用理論武裝】'26小惡魔 雨夜燕 獲得"
+    },
+    {
       "id": "costume_head_atbm-hair-0001",
       "name": "紫陽花髮飾",
       "description": "購買紫陽花髮飾（雨夜燕）"
@@ -264,6 +279,11 @@
       "id": "costume_head_atbm-hair-0036",
       "name": "互噬（點綴色設計）",
       "description": "【互噬】雨夜燕 獲得"
+    },
+    {
+      "id": "costume_head_atbm-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年10月 獲得"
     },
     {
       "id": "costume_head_atbm-schl-0000",
@@ -384,6 +404,11 @@
       "id": "costume_head_fktn-cstm-0139",
       "name": "GO MY WAY!!",
       "description": "【GO MY WAY!!】藤田琴音的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_fktn-cstm-0181",
+      "name": "Agitato",
+      "description": "【世界第一可愛的我】'26小惡魔 藤田琴音 獲得"
     },
     {
       "id": "costume_head_fktn-hair-0001",
@@ -514,6 +539,11 @@
       "id": "costume_head_hmsz-cstm-0174",
       "name": "「我要說了哦。」",
       "description": "【「我要說了哦。」】秦谷美鈴的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_hmsz-cstm-0181",
+      "name": "Agitato",
+      "description": "【月之龜】'26小惡魔 秦谷美鈴 獲得"
     },
     {
       "id": "costume_head_hmsz-hair-0001",
@@ -681,6 +711,11 @@
       "description": "【荊棘之路】姬崎莉波 獲得"
     },
     {
+      "id": "costume_head_hrnm-cstm-0181",
+      "name": "Agitato",
+      "description": "【clumsy trick】'26小惡魔 姬崎莉波 獲得"
+    },
+    {
       "id": "costume_head_hrnm-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高階任務通行證 2024年7月 等方式獲得"
@@ -713,7 +748,7 @@
     {
       "id": "costume_head_hrnm-hair-0008",
       "name": "狗耳",
-      "description": "高階任務通行證 2025年10月 獲得"
+      "description": "高階任務通行證 2025年10月 等方式獲得"
     },
     {
       "id": "costume_head_hrnm-hair-0009",
@@ -729,6 +764,11 @@
       "id": "costume_head_hrnm-hair-0033",
       "name": "36℃ U･B･U（點綴色設計）",
       "description": "【36℃ U･B･U】姬崎莉波 獲得"
+    },
+    {
+      "id": "costume_head_hrnm-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年10月 獲得"
     },
     {
       "id": "costume_head_hrnm-schl-0000",
@@ -1006,6 +1046,11 @@
       "description": "【GO MY WAY!!】花海佑芽的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_hume-cstm-0181",
+      "name": "Agitato",
+      "description": "【Agitato】花海佑芽 獲得"
+    },
+    {
       "id": "costume_head_hume-hair-0001",
       "name": "紫陽花髮飾",
       "description": "購買紫陽花髮飾（花海佑芽）"
@@ -1156,6 +1201,11 @@
       "description": "【荊棘之路】十王星南的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_jsna-cstm-0181",
+      "name": "Agitato",
+      "description": "【小小的野心】'26小惡魔 十王星南 獲得"
+    },
+    {
       "id": "costume_head_jsna-hair-0001",
       "name": "紫陽花髮飾",
       "description": "購買紫陽花髮飾（十王星南）"
@@ -1214,6 +1264,11 @@
       "id": "costume_head_jsna-hair-0026",
       "name": "赤裸裸（點綴色設計）",
       "description": "【赤裸裸】十王星南 獲得"
+    },
+    {
+      "id": "costume_head_jsna-hair-0038",
+      "name": "喬裝用眼鏡",
+      "description": "高階任務通行證 2026年10月 獲得"
     },
     {
       "id": "costume_head_jsna-schl-0000",
@@ -1299,6 +1354,11 @@
       "id": "costume_head_kcna-cstm-0132",
       "name": "未知萬千 廣闊無限",
       "description": "【未知萬千 廣闊無限】倉本千奈的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_kcna-cstm-0181",
+      "name": "Agitato",
+      "description": "【Wonder Scale】'26小惡魔 倉本千奈 獲得"
     },
     {
       "id": "costume_head_kcna-hair-0001",
@@ -1456,6 +1516,16 @@
       "description": "【荊棘之路】葛城莉莉婭的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_kllj-cstm-0179",
+      "name": "Agitato",
+      "description": "【Agitato】葛城莉莉婭 獲得"
+    },
+    {
+      "id": "costume_head_kllj-cstm-0180",
+      "name": "Agitato",
+      "description": "【Agitato】葛城莉莉婭的才能開花第4階段 獲得"
+    },
+    {
       "id": "costume_head_kllj-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高階任務通行證 2024年7月 等方式獲得"
@@ -1488,7 +1558,7 @@
     {
       "id": "costume_head_kllj-hair-0008",
       "name": "狗耳",
-      "description": "高階任務通行證 2025年10月 獲得"
+      "description": "高階任務通行證 2025年10月 等方式獲得"
     },
     {
       "id": "costume_head_kllj-hair-0009",
@@ -1641,6 +1711,11 @@
       "description": "【眼】筱澤廣的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_shro-cstm-0181",
+      "name": "Agitato",
+      "description": "【光景】'26小惡魔 筱澤廣 獲得"
+    },
+    {
       "id": "costume_head_shro-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高階任務通行證 2024年6月 等方式獲得"
@@ -1766,6 +1841,11 @@
       "description": "【怦然心動】紫雲清夏的才能開花第4階段 獲得"
     },
     {
+      "id": "costume_head_ssmk-cstm-0181",
+      "name": "Agitato",
+      "description": "【Tame-Lie-One-Step】'26小惡魔 紫雲清夏 獲得"
+    },
+    {
       "id": "costume_head_ssmk-hair-0001",
       "name": "紫陽花髮飾",
       "description": "高階任務通行證 2024年6月 等方式獲得"
@@ -1798,7 +1878,7 @@
     {
       "id": "costume_head_ssmk-hair-0008",
       "name": "狗耳",
-      "description": "高階任務通行證 2025年10月 獲得"
+      "description": "高階任務通行證 2025年10月 等方式獲得"
     },
     {
       "id": "costume_head_ssmk-hair-0009",
@@ -1934,6 +2014,11 @@
       "id": "costume_head_ttmr-cstm-0174",
       "name": "「我要說了哦。」",
       "description": "【「我要說了哦。」】月村手毬的才能開花第4階段 獲得"
+    },
+    {
+      "id": "costume_head_ttmr-cstm-0181",
+      "name": "Agitato",
+      "description": "【Luna say maybe】'26小惡魔 月村手毬 獲得"
     },
     {
       "id": "costume_head_ttmr-hair-0001",

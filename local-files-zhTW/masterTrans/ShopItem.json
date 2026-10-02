@@ -66,6 +66,10 @@
       "name": "淚滴形眼鏡（有村麻央）"
     },
     {
+      "id": "shop_costume_costume_head_amao-hair-0008",
+      "name": "狗耳（有村麻央）"
+    },
+    {
       "id": "shop_costume_costume_head_atbm-hair-0001",
       "name": "紫陽花髮飾（雨夜燕）"
     },
@@ -156,6 +160,10 @@
     {
       "id": "shop_costume_costume_head_hrnm-hair-0007",
       "name": "淚滴形眼鏡（姬崎莉波）"
+    },
+    {
+      "id": "shop_costume_costume_head_hrnm-hair-0008",
+      "name": "狗耳（姬崎莉波）"
     },
     {
       "id": "shop_costume_costume_head_hski-hair-0001",
@@ -274,6 +282,10 @@
       "name": "淚滴形眼鏡（葛城莉莉婭）"
     },
     {
+      "id": "shop_costume_costume_head_kllj-hair-0008",
+      "name": "狗耳（葛城莉莉婭）"
+    },
+    {
       "id": "shop_costume_costume_head_nasr-hair-0004",
       "name": "貓耳（根緒亞紗裡）"
     },
@@ -328,6 +340,10 @@
     {
       "id": "shop_costume_costume_head_ssmk-hair-0007",
       "name": "淚滴形眼鏡（紫雲清夏）"
+    },
+    {
+      "id": "shop_costume_costume_head_ssmk-hair-0008",
+      "name": "狗耳（紫雲清夏）"
     },
     {
       "id": "shop_costume_costume_head_ttmr-hair-0001",
@@ -1124,6 +1140,10 @@
     {
       "id": "shop_pass_item-0029",
       "name": "高階任務通行證 2026年9月"
+    },
+    {
+      "id": "shop_pass_item-0030",
+      "name": "高階任務通行證 2026年10月"
     }
   ]
 }

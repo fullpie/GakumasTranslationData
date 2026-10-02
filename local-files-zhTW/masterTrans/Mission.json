@@ -2082,6 +2082,26 @@
       "name": "完成{threshold}次SP訓練吧"
     },
     {
+      "id": "mission-box-gasha-event-022-mission_1",
+      "name": "登入{threshold}天吧"
+    },
+    {
+      "id": "mission-box-gasha-event-022-mission_2",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-box-gasha-event-022-mission_3",
+      "name": "去抽取{threshold}次活動BOX扭蛋吧"
+    },
+    {
+      "id": "mission-box-gasha-event-022-mission_4",
+      "name": "累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-box-gasha-event-022-mission_5",
+      "name": "完成{threshold}次SP訓練吧"
+    },
+    {
       "id": "mission-circle-battle-event-001-mission_1",
       "name": "登入{threshold}天吧"
     },
@@ -9162,6 +9182,30 @@
       "name": "【GO MY WAY!!】花海佑芽的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hume-3-022-01",
+      "name": "【Agitato】花海佑芽的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-02",
+      "name": "【Agitato】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-03",
+      "name": "【Agitato】花海佑芽的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-04",
+      "name": "【Agitato】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-05",
+      "name": "【Agitato】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hume-3-022-06",
+      "name": "【Agitato】花海佑芽的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-jsna-2-000-01",
       "name": "【一番星】十王星南的培育中透過最終考試"
     },
@@ -9880,6 +9924,30 @@
     {
       "id": "achieve-i_card-kllj-3-018-06",
       "name": "【荊棘之路】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-01",
+      "name": "【Agitato】葛城莉莉婭的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-02",
+      "name": "【Agitato】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-03",
+      "name": "【Agitato】葛城莉莉婭的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-04",
+      "name": "【Agitato】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-05",
+      "name": "【Agitato】葛城莉莉婭的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-022-06",
+      "name": "【Agitato】葛城莉莉婭的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-shro-2-000-04",

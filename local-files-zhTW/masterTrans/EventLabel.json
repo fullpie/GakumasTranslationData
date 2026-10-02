@@ -54,7 +54,7 @@
       "name": "亞紗裡老師的培育研討會"
     },
     {
-      "eventType": 13,
+      "eventType": "EventType_Trail",
       "name": "回憶裡的服裝"
     }
   ]
