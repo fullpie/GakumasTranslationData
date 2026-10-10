@@ -1536,6 +1536,36 @@
       "description": "【GO MY WAY!!】花海咲季的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hski-3-022-01",
+      "name": "甜蜜陷阱♡",
+      "description": "【Agitato】花海咲季的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hski-3-022-02",
+      "name": "Agitato",
+      "description": "【Agitato】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-022-03",
+      "name": "來打造一個巨大的容器吧",
+      "description": "【Agitato】花海咲季的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hski-3-022-04",
+      "name": "Agitato +",
+      "description": "【Agitato】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-022-05",
+      "name": "Agitato ++",
+      "description": "【Agitato】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hski-3-022-06",
+      "name": "Agitato +++",
+      "description": "【Agitato】花海咲季的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hume-2-000-01",
       "name": "打倒姐姐",
       "description": "【偶像，開始！】花海佑芽的培育中透過最終考試"

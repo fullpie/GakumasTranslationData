@@ -12179,7 +12179,7 @@
     },
     {
       "id": "p_story-event-003_hume_school_017",
-      "title": "擔當偶像是『啟明星』",
+      "title": "『啟明星』十王星南",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -13785,6 +13785,21 @@
     {
       "id": "p_story-i_card-hski-3-019-03",
       "title": "GO MY WAY!! 第3話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-022-01",
+      "title": "Agitato 第1話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-022-02",
+      "title": "Agitato 第2話",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-i_card-hski-3-022-03",
+      "title": "Agitato 第3話",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
@@ -15748,6 +15763,16 @@
       "produceEventHintProduceConditionDescriptions": []
     },
     {
+      "id": "p_story-s_card-2-0082-01",
+      "title": "令人期待的服裝準備",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-2-0082-02",
+      "title": "萬聖節快樂！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
       "id": "p_story-s_card-3-0000-01",
       "title": "『朋友』午餐",
       "produceEventHintProduceConditionDescriptions": []
@@ -17425,6 +17450,21 @@
     {
       "id": "p_story-s_card-3-0111-03",
       "title": "先從進入角色開始！",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0112-01",
+      "title": "令人驚喜的萬聖節準備",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0112-02",
+      "title": "萬聖節回憶",
+      "produceEventHintProduceConditionDescriptions": []
+    },
+    {
+      "id": "p_story-s_card-3-0112-03",
+      "title": "保密的公主手毬",
       "produceEventHintProduceConditionDescriptions": []
     },
     {
