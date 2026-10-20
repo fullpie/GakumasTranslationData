@@ -471,6 +471,14 @@
       "highAppealText": ""
     },
     {
+      "id": "gasha_button-free-1-01",
+      "order": 1,
+      "name": "免費1次扭蛋",
+      "description": "免費1次",
+      "appealText": "必得SSR",
+      "highAppealText": ""
+    },
+    {
       "id": "gasha_button-free-10-01",
       "order": 1,
       "name": "10連扭蛋",
