@@ -4646,6 +4646,106 @@
       "name": "通關第5天的全部任務"
     },
     {
+      "id": "mission-highscorerush-event-016-mission_11",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_12",
+      "name": "將十王星南的視覺能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_13",
+      "name": "在十王星南的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_14",
+      "name": "在月村手毬的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_16",
+      "name": "通關第1天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_21",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_22",
+      "name": "將月村手毬的歌唱能力值培養至1000以上並完成培育"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_23",
+      "name": "在十王星南的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_24",
+      "name": "在月村手毬的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_26",
+      "name": "通關第2天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_31",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_32",
+      "name": "在十王星南的培育中透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_33",
+      "name": "在十王星南的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_34",
+      "name": "在月村手毬的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_36",
+      "name": "通關第3天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_41",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_42",
+      "name": "在十王星南的培育中透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_43",
+      "name": "在十王星南的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_44",
+      "name": "在月村手毬的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_46",
+      "name": "通關第4天的全部任務"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_51",
+      "name": "透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_52",
+      "name": "在十王星南的培育中透過{threshold}次最終考試吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_53",
+      "name": "在十王星南的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_54",
+      "name": "在月村手毬的培育中累計獲得{threshold}培育評價吧"
+    },
+    {
+      "id": "mission-highscorerush-event-016-mission_56",
+      "name": "通關第5天的全部任務"
+    },
+    {
       "id": "mission-main-story-event-001-mission_11",
       "name": "消耗{threshold}點AP吧"
     },
@@ -9500,6 +9600,30 @@
     {
       "id": "achieve-i_card-jsna-3-020-06",
       "name": "【「我要說了哦。」】十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-01",
+      "name": "【Roar】十王星南的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-02",
+      "name": "【Roar】十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-03",
+      "name": "【Roar】十王星南的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-04",
+      "name": "【Roar】十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-05",
+      "name": "【Roar】十王星南的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-021-06",
+      "name": "【Roar】十王星南的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kcna-2-000-04",

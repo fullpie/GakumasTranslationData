@@ -1133,6 +1133,22 @@
       "name": "Sparta&Spice"
     },
     {
+      "id": "s_card-2-0057",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 機率中等"
+        }
+      ],
+      "name": "威風凜凜・午睡時間"
+    },
+    {
       "id": "s_card-2-0058",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -3339,6 +3355,22 @@
         }
       ],
       "name": "這就是那種南瓜……"
+    },
+    {
+      "id": "s_card-3-0113",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 機率高"
+        }
+      ],
+      "name": "約、約會的邀約！？"
     }
   ]
 }

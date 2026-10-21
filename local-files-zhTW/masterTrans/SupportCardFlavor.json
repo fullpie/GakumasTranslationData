@@ -847,6 +847,21 @@
       "text": "你怎麼了！　筱澤！"
     },
     {
+      "supportCardId": "s_card-2-0057",
+      "number": 1,
+      "text": "睡在這種地方會著涼的哦。"
+    },
+    {
+      "supportCardId": "s_card-2-0057",
+      "number": 2,
+      "text": "呼……呼…………"
+    },
+    {
+      "supportCardId": "s_card-2-0057",
+      "number": 3,
+      "text": "呵呵，你還真是喜歡睡午覺呢。"
+    },
+    {
       "supportCardId": "s_card-2-0058",
       "number": 1,
       "text": "前陣子啊——，宿舍那邊出現了蟲子……\n要把它消滅可費了老勁啦——！"
@@ -2920,6 +2935,21 @@
       "supportCardId": "s_card-3-0112",
       "number": 3,
       "text": "肚子有點餓了……"
+    },
+    {
+      "supportCardId": "s_card-3-0113",
+      "number": 1,
+      "text": "那個……要不要一起去……？"
+    },
+    {
+      "supportCardId": "s_card-3-0113",
+      "number": 2,
+      "text": "誒！？水族館的門票……！？\n也、也就是說，這是約會……！？"
+    },
+    {
+      "supportCardId": "s_card-3-0113",
+      "number": 3,
+      "text": "約、約會！？"
     }
   ]
 }
