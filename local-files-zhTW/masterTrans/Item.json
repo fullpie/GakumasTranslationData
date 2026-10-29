@@ -618,6 +618,12 @@
       "acquisitionRouteDescription": ""
     },
     {
+      "id": "item-gashaticket-wednesday-261104",
+      "name": "學馬星期三扭蛋票據",
+      "description": "可以在學馬星期三扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
       "id": "item-gashaticket-wednesday-fainal-26-001-1",
       "name": "咲季的特別票據",
       "description": "可以在每日學馬星期三最終季扭蛋中使用的票據",
@@ -906,6 +912,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-medal-research-event-010",
+      "name": "研討狸貓",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-medal-story-event-001",
       "name": "友情禮花",
       "description": "可以在活動兌換所中兌換各式報酬",
@@ -1124,6 +1136,12 @@
     {
       "id": "item-piece-idol_atbm-3-012",
       "name": "[Campus mode!!]雨夜燕的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_atbm-3-015",
+      "name": "[荊棘之路]雨夜燕的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -2010,6 +2028,12 @@
       "acquisitionRouteDescription": "成就等方式"
     },
     {
+      "id": "item-primastellamaterial-idol_atbm-001",
+      "name": "燕的啟明星之光",
+      "description": "可以在雨夜燕的『啟明星』解鎖時使用的道具",
+      "acquisitionRouteDescription": "成就等方式"
+    },
+    {
       "id": "item-primastellamaterial-idol_fktn-001",
       "name": "琴音的啟明星之光",
       "description": "可以在藤田琴音的『啟明星』解鎖時使用的道具",
@@ -2161,6 +2185,12 @@
     },
     {
       "id": "item-research-event-009",
+      "name": "亞紗裡老師貼紙",
+      "description": "可以在亞紗裡老師的培育研討會活動中，重新抽取回憶能力的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
+      "id": "item-research-event-010",
       "name": "亞紗裡老師貼紙",
       "description": "可以在亞紗裡老師的培育研討會活動中，重新抽取回憶能力的道具",
       "acquisitionRouteDescription": "培育等方式"

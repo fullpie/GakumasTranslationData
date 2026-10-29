@@ -336,9 +336,24 @@
       "description": "【用理論武裝】'26奇蹟正是現在(ﾟ∀ﾟ)！ 雨夜燕 獲得"
     },
     {
+      "id": "atbm-cstm-0125",
+      "name": "全力以赴！",
+      "description": "用理論武裝】'26全力以赴！ 雨夜燕 獲得"
+    },
+    {
       "id": "atbm-cstm-0128",
       "name": "ENDLESS DANCE",
       "description": "【用理論武裝】'26ENDLESS DANCE 雨夜燕 獲得"
+    },
+    {
+      "id": "atbm-cstm-0136",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】雨夜燕 獲得"
+    },
+    {
+      "id": "atbm-cstm-0137",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】雨夜燕的才能開花第4階段 獲得"
     },
     {
       "id": "atbm-cstm-0140",
@@ -554,6 +569,11 @@
       "id": "fktn-cstm-0124",
       "name": "全力以赴！",
       "description": "【全力以赴！】藤田琴音的才能開花第4階段 獲得"
+    },
+    {
+      "id": "fktn-cstm-0125",
+      "name": "全力以赴啦啦隊服",
+      "description": "購買全力以赴啦啦隊服（藤田琴音）"
     },
     {
       "id": "fktn-cstm-0128",
@@ -2794,6 +2814,11 @@
       "id": "ttmr-cstm-0124",
       "name": "全力以赴！",
       "description": "【全力以赴！】月村手毬的才能開花第4階段 獲得"
+    },
+    {
+      "id": "ttmr-cstm-0125",
+      "name": "全力以赴啦啦隊服",
+      "description": "購買全力以赴啦啦隊服（月村手毬）"
     },
     {
       "id": "ttmr-cstm-0128",
