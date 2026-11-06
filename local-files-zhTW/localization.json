@@ -738,7 +738,7 @@
   "common.link.text": "<link=\"{0}\">{1}</link>",
   "common.list.before_all_load": "檢視更多",
   "common.live_battle_type.buffer.description": "主要擁有降低對手能力的技能或與體力和精神相關聯的技能",
-  "common.live_battle_type.buffer.name": "精神技能卡牌型別",
+  "common.live_battle_type.buffer.name": "輔助技能卡牌型別",
   "common.live_battle_type.scorer.description": "主要擁有倍率高的得分獲取技能",
   "common.live_battle_type.scorer.name": "得分型別",
   "common.live_battle_type.supporter.description": "主要擁有提升自身或友方能力的技能",

@@ -771,6 +771,16 @@
       "description": "【ENDLESS DANCE】秦谷美鈴 獲得"
     },
     {
+      "id": "hmsz-cstm-0136",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】秦谷美鈴 獲得"
+    },
+    {
+      "id": "hmsz-cstm-0137",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】秦谷美鈴的才能開花第4階段 獲得"
+    },
+    {
       "id": "hmsz-cstm-0140",
       "name": "GO MY WAY!!",
       "description": "【月之龜】'26GO MY WAY!! 秦谷美鈴 獲得"
@@ -1884,6 +1894,16 @@
       "id": "kcna-cstm-0132",
       "name": "未知萬千 廣闊無限",
       "description": "【未知萬千 廣闊無限】倉本千奈的才能開花第4階段 獲得"
+    },
+    {
+      "id": "kcna-cstm-0136",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】倉本千奈 獲得"
+    },
+    {
+      "id": "kcna-cstm-0137",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】倉本千奈的才能開花第4階段 獲得"
     },
     {
       "id": "kcna-cstm-0140",

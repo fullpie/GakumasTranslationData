@@ -114,6 +114,10 @@
       "description": "{0}解鎖"
     },
     {
+      "id": "login_bonus.selectable.cancel_sheet.description",
+      "description": "稍後再選擇的話，可以從【主頁＞禮物＞自選登入獎勵】處進行領取。\n\n確定暫不選擇並返回主頁嗎？\n\\n<color=#u:Strong>※獎勵領取期限：{0}截止</color>\\n※若超過領取期限，在登入獎勵活動期間再次登入時，會自動把『SSR P偶像必得1名！扭蛋票據』傳送至「禮物」中</color>"
+    },
+    {
       "id": "memory.inherit.select_produce_card.before_select.message",
       "description": "請選擇要更換的技能卡"
     },

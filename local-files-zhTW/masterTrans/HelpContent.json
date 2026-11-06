@@ -722,6 +722,18 @@
       "name": "活動概要"
     },
     {
+      "helpCategoryId": "help-loginbonus",
+      "id": "loginbonus-loginbonus",
+      "order": 1,
+      "name": "登入獎勵"
+    },
+    {
+      "helpCategoryId": "help-loginbonus",
+      "id": "loginbonus-select-loginbonus",
+      "order": 2,
+      "name": "自選登入獎勵"
+    },
+    {
       "helpCategoryId": "help-main-story-event",
       "id": "help-main-story-event-bonus",
       "order": 4,

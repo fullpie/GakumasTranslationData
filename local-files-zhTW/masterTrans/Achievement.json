@@ -906,6 +906,36 @@
       "description": "【VEIL】秦谷美鈴的特訓階段提升至{threshold}級"
     },
     {
+      "id": "achieve-i_card-hmsz-3-018-01",
+      "name": "真實的自己",
+      "description": "【荊棘之路】秦谷美鈴的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-02",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-03",
+      "name": "至福的獎勵",
+      "description": "【荊棘之路】秦谷美鈴的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-04",
+      "name": "荊棘之路 +",
+      "description": "【荊棘之路】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-05",
+      "name": "荊棘之路 ++",
+      "description": "【荊棘之路】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-hmsz-3-018-06",
+      "name": "荊棘之路 +++",
+      "description": "【荊棘之路】秦谷美鈴的特訓階段提升至{threshold}級"
+    },
+    {
       "id": "achieve-i_card-hmsz-3-020-01",
       "name": "海浪間搖動的光芒",
       "description": "【「我要說了哦。」】秦谷美鈴的培育中透過最終考試"
@@ -2524,6 +2554,36 @@
       "id": "achieve-i_card-kcna-3-018-06",
       "name": "標 +++",
       "description": "【標】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-01",
+      "name": "堅持一件事的可貴",
+      "description": "【荊棘之路】倉本千奈的培育中透過最終考試"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-02",
+      "name": "荊棘之路",
+      "description": "【荊棘之路】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-03",
+      "name": "堅定向前邁進",
+      "description": "【荊棘之路】倉本千奈的培育中獲得{threshold}次A+以上的評價"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-04",
+      "name": "荊棘之路 +",
+      "description": "【荊棘之路】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-05",
+      "name": "荊棘之路 ++",
+      "description": "【荊棘之路】倉本千奈的特訓階段提升至{threshold}級"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-019-06",
+      "name": "荊棘之路 +++",
+      "description": "【荊棘之路】倉本千奈的特訓階段提升至{threshold}級"
     },
     {
       "id": "achieve-i_card-kllj-2-000-04",
