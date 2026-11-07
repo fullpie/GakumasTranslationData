@@ -84,7 +84,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_amao_home_cmmn-18",
-      "text": "啊，你叫我嗎？"
+      "text": "啊，您叫我了嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_amao_home_cmmn-19",
@@ -92,11 +92,11 @@
     },
     {
       "voiceAssetId": "sud_vo_system_amao_home_cmmn-20",
-      "text": "學園生活也很長呢。"
+      "text": "畢竟在學校也待了這麼久了嘛。"
     },
     {
       "voiceAssetId": "sud_vo_system_amao_home_cmmn-21",
-      "text": "製作人也一起來聊聊嗎？"
+      "text": "製作人也要一起來聊聊嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_amao_home_cmmn-22",
@@ -104,7 +104,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_amao_home_cmmn-23",
-      "text": "果然正式上場前還是會緊張呢。"
+      "text": "果然，正式演出前還是會緊張呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_amao_home_cmmn-24",
@@ -632,7 +632,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-amao-3-015_home_cmmn-01",
-      "text": "請看著我。如今的我"
+      "text": "請你好好看著，如今的我"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-amao-3-015_home_cmmn-02",
@@ -712,7 +712,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-amao-3-022_home_cmmn-03",
-      "text": "[笑]\n抵抗是徒勞的哦。"
+      "text": "呵呵\n抵抗是徒勞的哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-atbm-3-000_home_cmmn-01",
@@ -1416,7 +1416,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hrnm-3-002_home_cmmn-02",
-      "text": "哎，今天一起回去吧？"
+      "text": "吶，今天一起回去吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hrnm-3-002_home_cmmn-03",
@@ -1684,7 +1684,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-002_home_cmmn-03",
-      "text": "我們來比一比誰的仙女棒燃得更久吧！"
+      "text": "我們來比一比\n誰的仙女棒燃得更久吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-003_home_cmmn-01",
@@ -1692,11 +1692,11 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-003_home_cmmn-02",
-      "text": "我來給你做一杯預防苦夏的特製飲料吧！"
+      "text": "我來給你做一杯\n預防苦夏的特製飲料吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-003_home_cmmn-03",
-      "text": "我要創造出有史以來最火熱的夏天哦！製作人！"
+      "text": "我要創造出有史以來\n最火熱的夏天哦！製作人！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-005_home_cmmn-01",
@@ -1756,15 +1756,15 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-009_home_cmmn-03",
-      "text": "哎呀～\n你就那麼想吃我親手做的巧克力嗎？"
+      "text": "真是的～你就那麼想吃\n我親手做的巧克力嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-010_home_cmmn-01",
-      "text": "懷著我和佑芽健康成長的祈願，來過女兒節吧！"
+      "text": "懷著我和佑芽健康與成長的祈願，\n來慶祝女兒節吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-010_home_cmmn-02",
-      "text": "春天快到了呢。說到春天，就是我和佑芽的季節。"
+      "text": "春天快到了呢。說到春天，\n就是我和佑芽的季節。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-010_home_cmmn-03",
@@ -1772,55 +1772,55 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-011_home_cmmn-01",
-      "text": "要去看花的話，便當就交給我吧！"
+      "text": "要去賞櫻的話，\n便當就交給我吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-011_home_cmmn-02",
-      "text": "特別允許你盡情拍我的照片！"
+      "text": "破例准許你盡情拍我的照片哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-011_home_cmmn-03",
-      "text": "比起花、比起糰子，看花時最該看的是我吧？"
+      "text": "不管是浪漫的花還是實在的糰子，\n都比不上我花海咲季對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-012_home_cmmn-01",
-      "text": "你選中的我，才是最強的！"
+      "text": "正是你所選擇的我，\n才是最強的！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-012_home_cmmn-02",
-      "text": "琴音應該多肯定自己。像我一樣。"
+      "text": "琴音應該多肯定肯定自己啊。\n就像我這樣。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-012_home_cmmn-03",
-      "text": "我先跟你說好，不管是誰，最閃耀的人都是我！"
+      "text": "就算和別人組成組合，\n最耀眼的也一定是我！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-013_home_cmmn-01",
-      "text": "我會把對勝利的渴望傾注在這首歌裡，全力展現出來！"
+      "text": "我會把對勝利的渴望\n傾注在這首歌裡，全力展現出來！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-013_home_cmmn-02",
-      "text": "就算是奇蹟，我也要親手創造給你看！"
+      "text": "就算是奇蹟，\n我也要親手創造給你看！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-013_home_cmmn-03",
-      "text": "我想辦一場拼盡一切的全力演唱會！"
+      "text": "好想辦一場傾盡所有、\n全力以赴的演出啊！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-014_home_cmmn-01",
-      "text": "我的笑容無論何時都是最強的！對吧？"
+      "text": "我的笑容無論何時都是最強的！\n對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-014_home_cmmn-02",
-      "text": "交給我吧！就由本小姐來把氣氛炒到最熱！"
+      "text": "交給我吧！\n就由我來把氣氛炒到最火熱！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-014_home_cmmn-03",
-      "text": "感覺能聽到大家很多的聲音，真期待在演唱會上唱歌呢！"
+      "text": "感覺能聽到大家很多的呼聲，\n真期待在現場歌唱啊！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-015_home_cmmn-01",
-      "text": "我也讓你看看我的優點！"
+      "text": "就讓你也來看看我的優點！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-015_home_cmmn-02",
@@ -1828,7 +1828,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-015_home_cmmn-03",
-      "text": "無論怎樣的我，你都願意說很有魅力呢。"
+      "text": "無論怎樣的我，\n你都願意說很有魅力呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-016_home_cmmn-01",
@@ -1836,59 +1836,59 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-016_home_cmmn-02",
-      "text": "我才不會給你讓熱情冷卻的時間！"
+      "text": "我絕不會讓現場的火熱氛圍有半分冷卻！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-016_home_cmmn-03",
-      "text": "所有人，我都會讓你們為我著迷！"
+      "text": "我會讓所有人為我痴狂！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-017_home_cmmn-01",
-      "text": "不管多少次我都會迎難而上。和你一起。"
+      "text": "不管多少次我都會迎難而上。\n和你一起直面挑戰。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-017_home_cmmn-02",
-      "text": "我會把一切都變成我的東西給你看！"
+      "text": "我會將一切都變成我的東西，\n讓你親眼見證！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-017_home_cmmn-03",
-      "text": "我可要比你夢想中的我\n走得更遠！"
+      "text": "我可要跑在你夢想中的我前面！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-018_home_cmmn-01",
-      "text": "那個時候，幸好鼓起勇氣伸出了手。"
+      "text": "那個時候，我能鼓起勇氣\n向你伸出手，真是太好了！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-018_home_cmmn-02",
-      "text": "謝謝。謝謝你相信了我至今為止的人生。"
+      "text": "謝謝你。\n謝謝你相信我過往人生的一切。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-018_home_cmmn-03",
-      "text": "你給我的所有經驗，對我來說都很重要。"
+      "text": "你帶給我的每一段經歷，\n對我來說都是彌足珍貴的。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-019_home_cmmn-01",
-      "text": "你會和我一起挑戰吧？挑戰那首傳說樂曲！"
+      "text": "你會和我一起挑戰的對吧？\n挑戰那首傳說樂曲！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-019_home_cmmn-02",
-      "text": "你總是會帶來最棒的工作呢"
+      "text": "你總是會幫我找到最棒的工作呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-019_home_cmmn-03",
-      "text": "你好好期待吧！\n只屬於我的更高目標！"
+      "text": "你好好期待吧！\n只屬於我的「GO MY WAY!!」！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-021_home_cmmn-01",
-      "text": "這首歌既清爽又帶著傷感，讓人心裡焦急呢。"
+      "text": "這首歌清爽明快卻又帶著傷感，\n使人心緒糾結呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-021_home_cmmn-02",
-      "text": "浮躁的心情，以前的我可不會懂。"
+      "text": "這種心亂的感覺，\n過去的我從沒有體會過呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-021_home_cmmn-03",
-      "text": "你有什麼想說的，就好好說出來。"
+      "text": "你如果有什麼想說……\n就好好說出來吧。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-022_home_cmmn-01",
@@ -1900,7 +1900,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hski-3-022_home_cmmn-03",
-      "text": "你是不是早就已經被我迷住了？"
+      "text": "你是不是早就已經被我迷住啦？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-hume-3-000_home_cmmn-01",
@@ -2396,103 +2396,103 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-000_home_cmmn-01",
-      "text": "本人總有一天要成為像太陽一樣的偶像哇！"
+      "text": "我總有一天要成為\n像太陽一樣的偶像哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-000_home_cmmn-02",
-      "text": "Wonder Scale\n是隻屬於本人的曲子呢？"
+      "text": "Wonder Scale\n這是專屬於我的歌啊。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-000_home_cmmn-03",
-      "text": "與老師共度的日子，就像在偶像的世界裡旅行一樣哇！"
+      "text": "與老師共度的日子，\n就像在偶像的世界裡旅行一樣哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-001_home_cmmn-01",
-      "text": "本人所不知道的事情，請多多告訴本人吧！"
+      "text": "我所不知道的事情，\n請您多多告訴我吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-001_home_cmmn-02",
-      "text": "自從與老師相遇，全世界都閃閃發光哇！"
+      "text": "自從與老師相遇，\n全世界都在閃閃發光哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-001_home_cmmn-03",
-      "text": "自從以偶像為目標，就充滿了新發現哇！"
+      "text": "自從立志成為偶像，\n就到處都是新發現啊！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-002_home_cmmn-01",
-      "text": "萬聖節是能收到好多點心的日子哇！"
+      "text": "萬聖節是能收到好多糖果\n的日子呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-002_home_cmmn-02",
-      "text": "本人也要變成嚇人的妖怪給您看哇！"
+      "text": "我也要變成好～嚇人的怪物\n給您看哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-002_home_cmmn-03",
-      "text": "老師！請教本人怎樣才能看起來嚇人！"
+      "text": "老師！請教教我\n怎樣才能看起來嚇人！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-003_home_cmmn-01",
-      "text": "水槍和游泳圈，\n不準備齊全可不行"
+      "text": "水槍和游泳圈，還有……\n不準備齊全可不行！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-003_home_cmmn-02",
-      "text": "請幫幫本人。暑假作業寫不完了哇！"
+      "text": "請幫幫我……\n暑假作業寫不完了……！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-003_home_cmmn-03",
-      "text": "今年夏天，本人也想和老師一起留下許多回憶哇！"
+      "text": "今年夏天，我想和老師\n一同留下許多回憶哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-004_home_cmmn-01",
-      "text": "老師！\n本人想去夏日祭哇！"
+      "text": "老師！\n我想去夏日祭哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-004_home_cmmn-02",
-      "text": "大大的煙花，\n從本人的家也能看到嗎？"
+      "text": "大大的煙花……\n從我的家也能看到的吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-004_home_cmmn-03",
-      "text": "別看我這樣，本人也能自己穿和服哇！"
+      "text": "別看我這樣，\n和服我自己會穿哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-005_home_cmmn-01",
-      "text": "去溫泉吧！疲勞一定會一掃而空哇！"
+      "text": "我們去溫泉吧！\n疲勞一定會一掃而空哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-005_home_cmmn-02",
-      "text": "本人不會輸給寒冷哦。要好好溫暖身體哇。"
+      "text": "為了抵禦嚴寒，\n我要好好把身體暖起來呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-005_home_cmmn-03",
-      "text": "一泡澡，就會不自覺地哼起歌來哇。"
+      "text": "一泡進浴池，\n總會不自覺地哼起歌來哇。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-006_home_cmmn-01",
-      "text": "聖誕派對，本人也想邀請老師哇！"
+      "text": "聖誕派對，\n我想邀請老師一起來哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-006_home_cmmn-02",
-      "text": "有80閃耀，\n聖誕時節就興奮不已哇！"
+      "text": "到處都閃閃發亮……\n一到聖誕時節，就會興奮不已呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-006_home_cmmn-03",
-      "text": "雪……\n會積到外面一片雪白嗎？"
+      "text": "雪……會積到外面一片雪白嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-007_home_cmmn-01",
-      "text": "只要和老師一起，無論多高都能衝上去哇！"
+      "text": "只要和老師一起，\n無論多高都能衝上去哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-007_home_cmmn-02",
-      "text": "本人願意試著相信。相信老師所信任的本人。"
+      "text": "我願意試著去相信哇。\n相信那個老師所相信的我。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-007_home_cmmn-03",
-      "text": "有老師一起嘛！\n本人，優勝肯定沒問題哇！"
+      "text": "有老師陪在我身邊呢！\n所以我拿下冠軍肯定沒問題哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-008_home_cmmn-01",
-      "text": "做巧克力，能做好嗎？"
+      "text": "做巧克力的話，我能做好嗎……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-008_home_cmmn-02",
@@ -2500,7 +2500,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-008_home_cmmn-03",
-      "text": "誒嘿嘿\n本人想送巧克力的人有很多哇"
+      "text": "誒嘿嘿……\n我想送巧克力的人有很多哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-009_home_cmmn-01",
@@ -2508,55 +2508,55 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-009_home_cmmn-02",
-      "text": "冬天也快結束了，\n真想念暖洋洋的天氣哇"
+      "text": "冬天也快要結束了，\n真是期盼那暖洋洋的好天氣呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-009_home_cmmn-03",
-      "text": "女兒節人偶，真是非常漂亮哇？"
+      "text": "女兒節人偶真的非常漂亮對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-010_home_cmmn-01",
-      "text": "請老師也一定來參加我們家的賞花會哇！"
+      "text": "老師，請您一定要光臨\n我家的賞花會哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-010_home_cmmn-02",
-      "text": "賞花用的便當，\n本人也能做出來嗎？"
+      "text": "賞花用的便當……\n我也能做得出來嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-010_home_cmmn-03",
-      "text": "老師！要不要和櫻花一起拍照呢？"
+      "text": "老師！要不要和櫻花\n一起拍張照呢？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-011_home_cmmn-01",
-      "text": "本人也終於要初次體驗當店員哇！"
+      "text": "我終於，也要初次體驗\n店員的工作了哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-011_home_cmmn-02",
-      "text": "本人會努力成為出色的一日店員哇！"
+      "text": "本人會努力成為\n出色的一日店員的！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-011_home_cmmn-03",
-      "text": "老師！請幫助本人學習動畫吧！"
+      "text": "老師！請幫助我\n學習動畫知識吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-012_home_cmmn-01",
-      "text": "就請您看看強而有力又帥氣的本人哇！"
+      "text": "就請您看看強而有力\n又帥氣的本人哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-012_home_cmmn-02",
-      "text": "請教教本人，直到本人的歌能夠拯救世界。"
+      "text": "請多多磨鍊我吧。\n讓我能以歌聲拯救世界。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-012_home_cmmn-03",
-      "text": "恰恰恰恰——\n真是留在腦海裡的旋律哇"
+      "text": "恰恰恰恰——\n真是令人過耳難忘的旋律哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-013_home_cmmn-01",
-      "text": "本人的微笑如何呢？"
+      "text": "我的微笑，好看嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-013_home_cmmn-02",
-      "text": "本人想和大家分享許多幸福哇！"
+      "text": "我想和大家一同分享許多幸福哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-013_home_cmmn-03",
@@ -2564,71 +2564,71 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-014_home_cmmn-01",
-      "text": "這是由本人創作、為了本人而寫的歌曲哇！"
+      "text": "這是由我所創作、\n為我而誕生的歌曲哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-014_home_cmmn-02",
-      "text": "本人承諾取勝。向這片天空、各位，以及老師！"
+      "text": "我在此許下勝利的約定。\n向這片天空、所有人，以及老師！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-014_home_cmmn-03",
-      "text": "作為頂級偶像唱這首歌。那樣的日子終有一天會到來！"
+      "text": "作為頂級偶像來唱這首歌。\n願那一天終將到來！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-015_home_cmmn-01",
-      "text": "即使每一步都很小，也要全力以赴前進吧！"
+      "text": "哪怕只是小小的每一步，\n我們也拼盡全力前進吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-015_home_cmmn-02",
-      "text": "即使失敗，也會無數次站起來給您看哇！"
+      "text": "即使失敗無數次，\n我也會再站起來給您看哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-015_home_cmmn-03",
-      "text": "如果能和大家一起唱，一定會很開心哇！"
+      "text": "如果能和大家一起唱，\n一定會很開心的！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-016_home_cmmn-01",
-      "text": "筱澤同學是本人的搭檔？\n太棒了哇！"
+      "text": "筱澤同學是我的搭檔？\n太棒了哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-016_home_cmmn-02",
-      "text": "如果也有必要訓斥老師的話，那、本人可要喊“喂——！”了"
+      "text": "要是連老師都該訓的話……\n不……不許這樣！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-016_home_cmmn-03",
-      "text": "不愧是老師！真懂得誰是與本人相配的搭檔哇！"
+      "text": "不愧是老師！您很清楚誰才是\n最合適的搭檔呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-017_home_cmmn-01",
-      "text": "各位，請用充滿活力的眨眼來回應哇！"
+      "text": "各位，請精神滿滿地看著我哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-017_home_cmmn-02",
-      "text": "永遠跳個不停什麼的，體力可不夠哇——！"
+      "text": "永遠地跳下去什麼的，\n體力可不夠哇——！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-017_home_cmmn-03",
-      "text": "老師也一起跳入仙境吧！"
+      "text": "老師也和我一起進入仙境吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-018_home_cmmn-01",
-      "text": "本人會成為給您看哇。\n成為符合本人風格的Prima Stella。"
+      "text": "我會做給您看的哇。\n我會成為符合自己風格的啟明星！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-018_home_cmmn-02",
-      "text": "嶄新的本人形象，會變成什麼樣呢？"
+      "text": "我嶄新的形象，\n會變成什麼樣呢……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-018_home_cmmn-03",
-      "text": "來吧，老師也一起，真想跑起來！"
+      "text": "來吧，老師也一起，齊聲喝彩！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-020_home_cmmn-01",
-      "text": "居然能唱那首歌，真是太了不得了呢！"
+      "text": "居然能唱那首歌，\n實在是不敢想象哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-020_home_cmmn-02",
-      "text": "這是一首一直在背後推動本人的美妙曲子哇！"
+      "text": "這是一首一直在背後推動我前進的\n美妙曲子對吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-020_home_cmmn-03",
@@ -2636,27 +2636,27 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-021_home_cmmn-01",
-      "text": "唱悲傷的戀歌，感覺就像變成了大人哇！"
+      "text": "居然要唱這麼傷感的情歌，\n感覺就像變成了大人哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-021_home_cmmn-02",
-      "text": "冰淇淋一人一半，本人也想試試哇！老師！"
+      "text": "我也想試試一人一半冰淇淋哇！\n老師！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-021_home_cmmn-03",
-      "text": "和老師一起去度假也不錯哇！"
+      "text": "和老師一起去度假也不錯呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-022_home_cmmn-01",
-      "text": "本人要試著當壞孩子哇。因為很可怕嘛。"
+      "text": "我要試著當一下壞孩子哇。\n因為是小惡魔嘛。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-022_home_cmmn-02",
-      "text": "小惡魔的性感魅力，\n本人能學會嗎？"
+      "text": "小惡魔的性感魅力……\n我也能擁有嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kcna-3-022_home_cmmn-03",
-      "text": "所謂真實的愛，老師有一天也會教給本人嗎？"
+      "text": "所謂真實的愛，\n老師有一天也會教給我嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kllj-3-000_home_cmmn-01",
@@ -2840,7 +2840,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kllj-3-016_home_cmmn-01",
-      "text": "葛城莉莉亞\n只有今天，我會無視規則全力以赴！"
+      "text": "葛城莉莉婭\n只有今天，我會無視規則全力以赴！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-kllj-3-016_home_cmmn-02",
@@ -2912,79 +2912,79 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-000_home_cmmn-01",
-      "text": "第一次的曲子。\n裡面滿滿都是打轉的心情。"
+      "text": "這是我的第一首歌。\n傾注了我許多紛亂複雜的心緒。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-000_home_cmmn-02",
-      "text": "我的曲子，可能是我至今人生中最開心的事。"
+      "text": "我的這首歌，可能是我至今人生中\n最開心的收穫。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-000_home_cmmn-03",
-      "text": "我懂那種被熱量或光芒吸引的心情。"
+      "text": "那種被熱量或光芒吸引的心情，\n我懂。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-001_home_cmmn-01",
-      "text": "新歌\n希望粉絲們會開心"
+      "text": "是新歌啊……\n要是能讓粉絲們開心就好了……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-001_home_cmmn-02",
-      "text": "心靈震撼的感覺。現在似乎能稍微明白了。"
+      "text": "心靈為之震撼的感覺。\n我現在好像稍稍能夠體會到了。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-001_home_cmmn-03",
-      "text": "盯——\n正和你對視著。"
+      "text": "盯——\n我正與你四目相對。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-002_home_cmmn-01",
-      "text": "不給我點心的話，我就要惡作劇了哦。"
+      "text": "不給我糖果的話，\n我就要惡作劇了哦——"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-002_home_cmmn-02",
-      "text": "如果我惡作劇了，你會報復我嗎？"
+      "text": "如果我惡作劇了，\n你會，報復我嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-002_home_cmmn-03",
-      "text": "鬼怪不科學。不過，有的話才有趣。"
+      "text": "鬼怪並不符合科學。\n不過，真的存在的話會更有意思。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-003_home_cmmn-01",
-      "text": "想試試去海邊特訓之類的。因為看起來特別辛苦。"
+      "text": "想試試去海邊特訓之類的。\n因為想必相當痛苦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-003_home_cmmn-02",
-      "text": "今年的夏天有點讓人期待。我想一定不會無聊。"
+      "text": "今年的夏天有點讓人期待。\n我想一定不會無聊。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-003_home_cmmn-03",
-      "text": "製作人，和我一起熬過這個夏天吧。好嗎"
+      "text": "製作人……和我一起，\n活過這個夏天，好嗎……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-004_home_cmmn-01",
-      "text": "如果能撐過又熱人又多的祭典，體力好像能變好。"
+      "text": "如果能撐過又熱人又多的祭典，\n應該可以鍛鍊體力……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-004_home_cmmn-02",
-      "text": "夏日祭，一定人很多，會被擠扁的。對吧？"
+      "text": "夏日祭，一定人很多，\n會被擠扁的。對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-004_home_cmmn-03",
-      "text": "夏天要是倒下了，會不會被曬得乾巴巴的呢。"
+      "text": "要是在夏天倒下了，\n會不會被曬得乾巴巴的呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-006_home_cmmn-01",
-      "text": "聖誕禮物，製作人也想要嗎？"
+      "text": "聖誕禮物，\n製作人也想要嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-006_home_cmmn-02",
-      "text": "製作人，來辦聖誕派對吧。"
+      "text": "製作人，聖誕派對，辦一個吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-006_home_cmmn-03",
-      "text": "雪會下很多嗎。"
+      "text": "雪，會不會下得很大呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-007_home_cmmn-01",
-      "text": "和製作人一起的話，我就能贏哦。"
+      "text": "和製作人一起的話，\n我就能贏，哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-007_home_cmmn-02",
@@ -2992,31 +2992,31 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-007_home_cmmn-03",
-      "text": "真不可思議\n會覺得只要和製作人一起或許就能做到。"
+      "text": "真不可思議……只要和製作人\n在一起，我好像就能夠做到。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-008_home_cmmn-01",
-      "text": "製作人，我想要巧克力。"
+      "text": "製作人，想要巧克力……嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-008_home_cmmn-02",
-      "text": "我想試著給喜歡的人們送巧克力。"
+      "text": "我也想試著給喜歡的人送巧克力。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-008_home_cmmn-03",
-      "text": "你知道嗎？聽說還有叫“反向巧克力”的。"
+      "text": "你知道嗎？\n聽說還有反向送巧克力這種事哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-009_home_cmmn-01",
-      "text": "為了不被第一陣春風吹跑，要抓住我哦。"
+      "text": "為了不被第一陣春風吹跑，\n要抓住我哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-009_home_cmmn-02",
-      "text": "春天的陽光下，我可能會和雪一起融化。"
+      "text": "呵呵……春天的陽光下，\n搞不好我會和雪一起融化哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-009_home_cmmn-03",
-      "text": "如果能平安過冬，就一起出門吧。"
+      "text": "如果能平安過冬，\n就一起外出玩吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-010_home_cmmn-01",
@@ -3024,7 +3024,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-010_home_cmmn-02",
-      "text": "暖洋洋的\n讓人犯困呢"
+      "text": "渾身暖洋洋的……\n都讓人犯困了，呢……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-010_home_cmmn-03",
@@ -3032,63 +3032,63 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-011_home_cmmn-01",
-      "text": "我當店員\n能做好嗎"
+      "text": "我來當店員……\n呵呵，能做好嗎……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-011_home_cmmn-02",
-      "text": "能不能在店裡站上一整天，是我的課題。"
+      "text": "能不能在店裡站上一整天，\n是我的課題。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-011_home_cmmn-03",
-      "text": "動畫裡的腳力比我還能動，好厲害。"
+      "text": "動畫裡的角色運動量比我還大，\n好厲害。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-012_home_cmmn-01",
-      "text": "一起去引發奇蹟吧。"
+      "text": "一起去創造奇蹟吧。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-012_home_cmmn-02",
-      "text": "我記得。記得那些願意看著我的人們。"
+      "text": "我還記得。\n記得那些願意來看我的人們。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-012_home_cmmn-03",
-      "text": "和製作人一起度過的時間，將來也一定會想起吧"
+      "text": "和製作人相伴的時光，\n某一天我也一定會回想起來，呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-013_home_cmmn-01",
-      "text": "我也要拼命大喊。"
+      "text": "我也要拼盡全力，放聲吶喊。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-013_home_cmmn-02",
-      "text": "能否發揮出不輸給朧的氣勢，是最大的課題。"
+      "text": "能否唱出不被音響聲壓壓住\n的音量，是最大的課題。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-013_home_cmmn-03",
-      "text": "敬請期待帥氣的我。"
+      "text": "帥氣的我，敬請期待。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-014_home_cmmn-01",
-      "text": "一有開心的事，就會想告訴大家。"
+      "text": "一有開心的事，\n就會想告訴大家。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-014_home_cmmn-02",
-      "text": "下次約會會帶我去哪裡？"
+      "text": "下次約會……\n你會帶我去哪裡？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-014_home_cmmn-03",
-      "text": "今後也一起享受波瀾起伏的人生吧。"
+      "text": "今後也要一起享受\n波瀾起伏的人生，呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-015_home_cmmn-01",
-      "text": "不顧一切地努力，一定又辛苦又快樂。對吧？"
+      "text": "不顧一切地努力，\n一定又辛苦又快樂，對吧。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-015_home_cmmn-02",
-      "text": "唉\n無論發生什麼都沒關係。"
+      "text": "哈哈……\n無論發生什麼都沒關係……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-015_home_cmmn-03",
-      "text": "我會給大家加油的\n加油加油"
+      "text": "我會給大家加油的。\n加油——加油——"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-016_home_cmmn-01",
@@ -3100,91 +3100,91 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-016_home_cmmn-03",
-      "text": "今後我也會給你添很多麻煩，請多關照哦。"
+      "text": "今後我也會給你添很多麻煩，\n還請，多關照哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-017_home_cmmn-01",
-      "text": "我也想試著盡情狂舞。"
+      "text": "我也想……試著盡情狂舞一次。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-017_home_cmmn-02",
-      "text": "讓我聽聽製作人的節奏。"
+      "text": "製作人的節拍……讓我聽一聽吧。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-017_home_cmmn-03",
-      "text": "一起走吧。去我們的烏托邦。"
+      "text": "一起……出發吧？\n去往我們的烏托邦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-018_home_cmmn-01",
-      "text": "今後也一起創造很多屬於我們的回憶吧，好嗎"
+      "text": "今後我們也一起創造許多\n屬於我們的回憶吧，好嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-018_home_cmmn-02",
-      "text": "製作人總是讓我心跳加速。"
+      "text": "製作人總是能讓我心跳加速……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-018_home_cmmn-03",
-      "text": "你最喜歡的夢想\n願意分給我\n謝謝"
+      "text": "你願意把最重要的夢想分給我\n讓我一起實現……謝謝你……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-020_home_cmmn-01",
-      "text": "竟然要唱那首歌\n呵呵呵\n難度太高了"
+      "text": "竟然要唱那首歌……\n呵呵，難度太高了吧……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-020_home_cmmn-02",
-      "text": "非常可愛的歌\n我能唱好嗎？"
+      "text": "非常可愛的歌……\n我能唱好嗎……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-020_home_cmmn-03",
-      "text": "製作人也來一起吧。"
+      "text": "製作人也到這邊來吧。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-021_home_cmmn-01",
-      "text": "我的冰淇淋，分一半給你。好不好？"
+      "text": "我的冰淇淋，\n分你一半，好嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-021_home_cmmn-02",
-      "text": "製作人，我也很耀眼。"
+      "text": "製作人，我也很耀眼？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-021_home_cmmn-03",
-      "text": "即使夏天結束，我們也一直在一起哦。"
+      "text": "即使夏日結束，\n我們也會一直在一起，哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-01",
-      "text": "製作人眼中我新的魅力，我很在意。"
+      "text": "製作人眼中我所展現出的新魅力，\n真令人好奇。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-02",
-      "text": "現在的我滿是不明白的事。\n這讓我很開心。"
+      "text": "如今的我還有許許多多不懂的事。\n這正是樂趣所在。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-022_home_cmmn-03",
-      "text": "我的眼睛，看著我\n“聖”這個字"
+      "text": "看著我的眼睛。\n預備，盯——"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-023_home_cmmn-01",
-      "text": "真實的愛\n我也想知道。"
+      "text": "真實之愛……我也想要明白。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-023_home_cmmn-02",
-      "text": "你已經被我誘惑到了吧。"
+      "text": "你已經……被我誘惑到了吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-shro-3-023_home_cmmn-03",
-      "text": "製作人尤其被我迷住了呢"
+      "text": "製作人，你一定，\n已經被我迷住了……對吧。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-000_home_cmmn-01",
-      "text": "P親的後背也由我“咚——”地推你一把哦！"
+      "text": "我也會從P親的背後「咚」地\n推你一把的哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-000_home_cmmn-02",
-      "text": "如果有誰因為我的歌邁出一步，不是最棒嗎？"
+      "text": "如果有人能借著我的歌勇敢地\n邁出一步，那不是超棒的？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-000_home_cmmn-03",
-      "text": "情緒太高了，感覺一直在唱歌～"
+      "text": "興奮到不行了，好想一直唱下去～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-001_home_cmmn-01",
@@ -3192,35 +3192,35 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-001_home_cmmn-02",
-      "text": "夏天果然想唱讓人情緒高漲的歌吧～"
+      "text": "果然夏天就想唱些\n能讓人嗨起來的歌對吧～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-001_home_cmmn-03",
-      "text": "想讓P親過個怎樣的夏天？\n啊，不許正經回答？"
+      "text": "P親想要什麼樣的夏天？\n啊……不許一本正經回答！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-002_home_cmmn-01",
-      "text": "要是我的歌能給誰帶來勇氣就好了呢"
+      "text": "要是我的歌能給誰帶來勇氣就好了\n對吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-002_home_cmmn-02",
-      "text": "說不定還有連P親都沒見過的我呢"
+      "text": "我還有沒展現給P親看過\n的一面哦——"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-002_home_cmmn-03",
-      "text": "P親也可以把真心話對我傾吐出來哦。"
+      "text": "P親在我面前，儘管把心裡話\n都坦白說出來就好啦～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-003_home_cmmn-01",
-      "text": "夏日祭還是想穿浴衣吧～\n雖然不會穿。"
+      "text": "夏日祭果然還是想穿浴衣對吧～\n雖然我不懂怎麼穿♪"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-003_home_cmmn-02",
-      "text": "今年好想看大大的煙花啊！\n要特別華麗的那種！"
+      "text": "今年好想看大大的煙花啊～\n要超級華麗的那種！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-003_home_cmmn-03",
-      "text": "哎哎，P親看到浴衣打扮也會心跳加速嗎？"
+      "text": "我說我說，P親看到我穿浴衣\n的樣子，會不會一下子心動了呀？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-005_home_cmmn-01",
@@ -3228,15 +3228,15 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-005_home_cmmn-02",
-      "text": "P親也來變裝吧！衣服我來給你挑！"
+      "text": "P親也來變裝吧！\n衣服我來給你挑！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-005_home_cmmn-03",
-      "text": "給我點心！親手做給我也可以哦"
+      "text": "給我點糖嘛！\n親手做給我吃也可以哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-006_home_cmmn-01",
-      "text": "我會期待P親送的聖誕禮物哦～！"
+      "text": "我很期待P親送的聖誕禮物哦～！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-006_home_cmmn-02",
@@ -3244,71 +3244,71 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-006_home_cmmn-03",
-      "text": "等下了雪啊，打雪仗我可不會輸哦？"
+      "text": "等積雪了，我們來打雪仗吧！\n我可不會輸的哦？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-01",
-      "text": "我會繼續跑下去。那孩子前進的路上，不能沒有我。"
+      "text": "我會繼續跑下去。\n那孩子前進的路上，不能沒有我。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-02",
-      "text": "我不會輸的。不輸給自己，也不輸給任何人。"
+      "text": "我不會輸的。\n不管是自己，還是其他任何人！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-007_home_cmmn-03",
-      "text": "雖然煩惱的事也很多啦。但我得更強才行呢。"
+      "text": "雖然煩惱的事也很多啦……\n但我得變得更強才行呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-008_home_cmmn-01",
-      "text": "P親？情人節儘管期待就好了哦。"
+      "text": "P～親～\n情人節儘管期待就好了哦～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-008_home_cmmn-02",
-      "text": "P親是微糖派？還是喜歡甜口的？"
+      "text": "P親是微糖派？\n還是喜歡甜甜——的？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-008_home_cmmn-03",
-      "text": "手工巧克力什麼的，我可不會送給別人哦。"
+      "text": "手工巧克力之類的，\n我才不會送給其他人呢……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-009_home_cmmn-01",
-      "text": "是我把春天叫來的哦～\n春天啊～快來快來！"
+      "text": "由我來召喚春天咯～\n春天啊，快來吧快來吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-009_home_cmmn-02",
-      "text": "天氣暖和起來，心情果然也會變好呢～"
+      "text": "天氣暖和起來，\n心情果然也會變好呢～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-009_home_cmmn-03",
-      "text": "好想去買春裝啊\nP親——！陪我去吧！"
+      "text": "好想去買春裝呀～\nP親——！陪我一起嘛！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-010_home_cmmn-01",
-      "text": "去看櫻花吧！想一起拍照吧？\n想一起拍照吧？"
+      "text": "去看櫻花吧！想和我一起拍照吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-010_home_cmmn-02",
-      "text": "P親！知不知道不錯的賞花地點？"
+      "text": "P親！有沒有不錯的\n賞花地方推薦呀？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-010_home_cmmn-03",
-      "text": "重要的回憶要好好用照片儲存下來才對呢。"
+      "text": "重要的回憶要好好用照片\n儲存下來才對呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-011_home_cmmn-01",
-      "text": "可愛的女孩一大堆，動力都上來了啦～！"
+      "text": "好多可愛的女孩子，\n瞬間就有動力啦——！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-011_home_cmmn-02",
-      "text": "難得有機會，要是有推薦的動畫什麼的就告訴我哦！"
+      "text": "難得有機會，要是有推薦的\n動畫什麼的就告訴我哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-011_home_cmmn-03",
-      "text": "這個動畫周邊，不就是莉莉婭有的那個嗎！"
+      "text": "這個動畫周邊，\n不就是莉莉婭有的那個嗎！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-012_home_cmmn-01",
-      "text": "哎，我現在在想什麼\nP親的話能懂嗎？"
+      "text": "誒，猜猜我現在在想什麼……\nP親能猜到嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-012_home_cmmn-02",
@@ -3316,31 +3316,31 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-012_home_cmmn-03",
-      "text": "我好想再多瞭解P親的喜好啊"
+      "text": "P親的喜好，\n我好想再多瞭解一點啊～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-013_home_cmmn-01",
-      "text": "帥氣地高歌一曲，把大家都嚇一跳吧～"
+      "text": "帥氣地一口氣唱到底，\n讓大家都大吃一驚吧～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-013_home_cmmn-02",
-      "text": "感覺一唱歌就能甩開迷茫，說不定是我喜歡的歌！"
+      "text": "唱起它，就好像能甩開迷茫，\n我說不定會喜歡這首歌！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-013_home_cmmn-03",
-      "text": "要是拼盡全力唱到燃盡，感覺會很痛快吧～"
+      "text": "拼盡全力唱到燃盡為止，\n一定會超痛快的對吧～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-014_home_cmmn-01",
-      "text": "你可以再帶著我到處轉哦。"
+      "text": "下次也再帶我這樣到處玩哦～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-014_home_cmmn-02",
-      "text": "捉弄我也要適可而止哦～"
+      "text": "捉弄我也要適可而止哦——！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-014_home_cmmn-03",
-      "text": "話說P親，你對我的事超瞭解呢？"
+      "text": "話說P親怎麼這麼懂我的啊？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-015_home_cmmn-01",
@@ -3352,7 +3352,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-015_home_cmmn-03",
-      "text": "大家一起搭著肩唱歌的話，一定會很開心吧。"
+      "text": "大家一起搭著肩唱歌的話，\n絕對很好玩！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-016_home_cmmn-01",
@@ -3364,75 +3364,75 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-016_home_cmmn-03",
-      "text": "我會用讓大家都瘋狂的勁頭衝，做好覺悟吧！"
+      "text": "我會拿出讓大家都瘋狂的勁頭來，\n做好覺悟吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-017_home_cmmn-01",
-      "text": "我們兩個能一起站上舞臺，真的像做夢一樣！"
+      "text": "能夠兩人一起站上舞臺，\n真的像做夢一樣！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-017_home_cmmn-02",
-      "text": "有莉莉婭在，也有P親在，我們就是最強的啦！"
+      "text": "有莉莉婭在，還有P親陪著我，\n我們就是最強的啦！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-017_home_cmmn-03",
-      "text": "為了不讓莉莉婭太勉強，P親也一起盯著她哦！"
+      "text": "為了不讓莉莉婭太勉強，\nP親也一起來監視她吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-018_home_cmmn-01",
-      "text": "給大家勇氣！因為我要成為Prima Stella的！"
+      "text": "我要成為能帶給所有人勇氣的\n啟明星哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-018_home_cmmn-02",
-      "text": "和P親說話的時候，總覺得被班裡的同學看著。"
+      "text": "和P親說話的時候，\n總覺得被班裡的同學看著……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-018_home_cmmn-03",
-      "text": "這是初星学園的效果啦。P親也會唱吧？"
+      "text": "畢竟這是初星学園的校歌嘛，\nP親也會唱的對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-020_home_cmmn-01",
-      "text": "我竟然能唱那首歌，真是一點實感都沒有啊——！"
+      "text": "我居然能唱那首歌，\n真是不敢相信——！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-020_home_cmmn-02",
-      "text": "能讓人自然而然地變得積極向上，超棒的曲子呢！"
+      "text": "能讓人自然而然地變得積極向上，\n這曲子超棒對吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-020_home_cmmn-03",
-      "text": "我會成為能讓自己覺得“最喜歡”的我，要看著我哦！"
+      "text": "我會成為能讓我最喜歡的自己，\n要好好看著我哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-021_home_cmmn-01",
-      "text": "夏天是個耀眼又有些感傷的季節呢"
+      "text": "夏天是個既耀眼，\n又有些感傷的季節呢……"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-021_home_cmmn-02",
-      "text": "我是什麼表情，你在好好看嗎？"
+      "text": "我是什麼表情，\n你有好好看著嗎～？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-021_home_cmmn-03",
-      "text": "P親哪裡都不會去吧？"
+      "text": "P親哪兒都不會去的對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-022_home_cmmn-01",
-      "text": "我也來誘惑一下P親哦～什麼的"
+      "text": "我要把P親誘惑到咯～\n開玩笑的！"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-022_home_cmmn-02",
-      "text": "說不定P親也成了我的俘虜？"
+      "text": "說不定P親也成了我的俘虜～？"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ssmk-3-022_home_cmmn-03",
-      "text": "要不要對P親搞點惡作劇呢。反正我才不怕。"
+      "text": "要不要對P親搞點惡作劇呢——\n因為我是小惡魔嘛～"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ttmr-3-000_home_cmmn-01",
-      "text": "傾盡全力的歌\n好好聽著"
+      "text": "我傾盡全力的歌……\n好好聽著。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ttmr-3-000_home_cmmn-02",
-      "text": "膽怯啦自立啦，都跟我正相反呢。"
+      "text": "膽怯啦焦慮啦，都跟我正相反呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ttmr-3-000_home_cmmn-03",
@@ -3440,7 +3440,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ttmr-3-001_home_cmmn-01",
-      "text": "一個人也沒問題。"
+      "text": "我就算一個人也沒問題。"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ttmr-3-001_home_cmmn-02",
@@ -3652,7 +3652,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ttmr-3-020_home_cmmn-03",
-      "text": "GO MY WAY\nGo MY WAY\n（笑）"
+      "text": "GO MY WAY\n勇往直前\n"
     },
     {
       "voiceAssetId": "sud_vo_system_cidol-ttmr-3-021_home_cmmn-01",
@@ -3792,7 +3792,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_cmmn-28",
-      "text": "我一定會成為\n能帶給大家幸福的億萬富翁偶像！"
+      "text": "我一定會成為能帶給大家幸福的\n億萬富翁偶像！"
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_cmmn-29",
@@ -3824,7 +3824,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_transition-04",
-      "text": "用便當補充元氣，下午也要繼續努力！"
+      "text": "用便當補充元氣，\n下午也要繼續努力！"
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_transition-05",
@@ -3832,7 +3832,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_transition-06",
-      "text": "與可愛的擔當偶像共度的時間要開始了哦～"
+      "text": "與可愛的擔當偶像共度的時間\n要開始了哦～"
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_transition-07",
@@ -3856,11 +3856,11 @@
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_transition-12",
-      "text": "誒嘿嘿，\n已經和製作人相伴到聖誕節了呢。"
+      "text": "誒嘿嘿，已經和製作人\n相伴到聖誕節了呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_transition-13",
-      "text": "製作人，\n非常感謝您陪我走過這一整年！"
+      "text": "製作人，非常感謝您\n陪我走過這一整年！"
     },
     {
       "voiceAssetId": "sud_vo_system_fktn_home_transition-14",
@@ -4380,11 +4380,11 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-01",
-      "text": "機會難得，製作人也一起鍛鍊肌肉嗎？"
+      "text": "機會難得，\n製作人也一起鍛鍊肌肉嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-02",
-      "text": "你想活動身體嗎？我可以去跑步嗎？"
+      "text": "你想活動身體嗎？\n去跑步怎麼樣？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-03",
@@ -4392,19 +4392,19 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-04",
-      "text": "未來的頂級偶像！\n花見咲季！"
+      "text": "我是未來的頂級偶像！\n花海咲季！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-05",
-      "text": "手毬真是的，到底對我做的料理哪裡不滿意啊？"
+      "text": "手毬真是的，\n到底對我做的菜哪裡不滿意啊？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-06",
-      "text": "下次休息我和佑芽出去玩，沒問題吧～？"
+      "text": "下次休息我和佑芽出去玩，\n沒問題吧～？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-07",
-      "text": "喂，我是不是很好搞定？才沒有那回事吧？"
+      "text": "喂，我是不是太好搞定了？\n沒有那回事的，對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-08",
@@ -4412,39 +4412,39 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-09",
-      "text": "不是無謂掙扎，而是為了贏，對吧？"
+      "text": "這不是無謂的掙扎，\n而是為了贏，對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-10",
-      "text": "你這種直來直去的性格，我不討厭。"
+      "text": "你這種直言不諱的性格，\n我並不討厭哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-11",
-      "text": "呵呵呵\n下一場比賽定在什麼時候好呢？"
+      "text": "呵呵呵，\n下一場比試定在什麼時候好呢？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-12",
-      "text": "不焦不躁，選擇最優。即使明白，頭腦和內心也還是兩回事呢。"
+      "text": "不焦不躁，力求最優。道理都懂，\n但理智與本心終究是兩回事呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-13",
-      "text": "我可是相信你的，你別跟我客氣。"
+      "text": "我可是相信你的，\n你也別跟我客氣。"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-14",
-      "text": "哎，我還能繼續成長嗎？"
+      "text": "你說，我還能繼續成長嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-15",
-      "text": "就算對手更強，我也不打算輸。一次都別想！"
+      "text": "就算對手更強，我也不打算輸。\n一次都不會！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-16",
-      "text": "唔——，教佑芽學習的人是我！"
+      "text": "嗚嗚——，\n教佑芽學習的人明明是我！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-17",
-      "text": "你要陪著我直到我成為世界第一哦！"
+      "text": "在我成為世界第一之前，\n我都要你陪我走下去！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-18",
@@ -4452,15 +4452,15 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-19",
-      "text": "佑芽想到什麼連勝的秘訣了嗎？"
+      "text": "你該不會想出什麼\n能一直贏佑芽的絕招了？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-20",
-      "text": "之前都發生過什麼事呢？"
+      "text": "一路走來，\n都發生過些什麼事呢？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-21",
-      "text": "聊天？可以啊。"
+      "text": "聊天？可以的哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-22",
@@ -4472,59 +4472,59 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-24",
-      "text": "你可得好好了解我哦。"
+      "text": "你可得好好了解了解我哦？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-25",
-      "text": "我的成長還沒有停止吧。"
+      "text": "我的成長……還沒有停止對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-26",
-      "text": "我就是不屈的頂級偶像，花見咲季！"
+      "text": "我就是不屈的頂級偶像，\n花海咲季！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-27",
-      "text": "無論怎樣的世界，你都會陪我一起跳進去吧？"
+      "text": "無論是什麼樣的世界，\n你都會陪我一同奔赴，對吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-28",
-      "text": "一想到今後要在未知的世界裡戰鬥，就興奮不已呢！"
+      "text": "一想到今後要在未知的世界裡\n戰鬥，就興奮不已呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-29",
-      "text": "你是幾點起床的？\n我一大早就和跑友一起跑步，狀態超好哦！"
+      "text": "你是幾點起床的？我4點開始\n就和跑友一起跑步，狀態超好哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_cmmn-30",
-      "text": "呵呵呵\n你要不要也和我一起四點起床去跑步？"
+      "text": "呵呵呵……你要不要也和我一起\n四點起床去跑步？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_touch-01",
-      "text": "你就那麼在意我嗎？"
+      "text": "你有那麼在意我嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_touch-02",
-      "text": "真是的～～～從剛才開始到底要幹嘛！"
+      "text": "真是的——\n從剛才開始到底要幹嘛！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-01",
-      "text": "早上好。今天看起來也會是個好日子。"
+      "text": "早上好。\n今天看來也會是美好的一天。"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-02",
-      "text": "要把它變成完美又最棒的一天！"
+      "text": "我要把今天變成完美至極的一天！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-03",
-      "text": "你好。午飯，碳水化合物夠嗎？"
+      "text": "中午好。\n午飯補充夠蛋白質了嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-04",
-      "text": "今天還沒有和佑芽一起上的合堂課呢～"
+      "text": "今天還沒有和佑芽一起上的課呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-05",
-      "text": "啊——！下課了？訓練，訓練！"
+      "text": "嗯——！下課！\n訓練，訓練！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-06",
@@ -4536,7 +4536,7 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-08",
-      "text": "今天的課比較輕鬆，我還想再訓練一會兒。"
+      "text": "今天的課比較輕鬆，\n我還想再訓練一會兒。"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-09",
@@ -4548,11 +4548,11 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-11",
-      "text": "不給糖就搗蛋！你想被我搗蛋嗎？"
+      "text": "不給糖就搗蛋！\n想被我惡作劇一下嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-12",
-      "text": "我相信聖誕老人。因為我要成為聖誕老人嘛。"
+      "text": "我相信聖誕老人，\n因為做聖誕老人的都是我嘛。"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-13",
@@ -4560,15 +4560,15 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-14",
-      "text": "這季節晨跑很舒服吧？\n秋天來啦——！"
+      "text": "這個季節晨跑可太舒服啦，對吧？\n整個人都幹勁滿滿！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-15",
-      "text": "不去看花嗎？\n也叫上佑芽吧"
+      "text": "不去看櫻花嗎？也叫上佑芽吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-16",
-      "text": "要不要往SSD裡也加點有春天氣息的東西呢。"
+      "text": "要不要往SSD裡也加點\n有春天氣息的東西呢……"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-17",
@@ -4576,23 +4576,23 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-18",
-      "text": "機會難得，在海邊鍛鍊體力也不錯吧？"
+      "text": "機會難得，\n在沙灘上鍛鍊體力也不錯吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-19",
-      "text": "為了不中暑，我們彼此都注意點吧！"
+      "text": "防止中暑，我們都注意點吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-20",
-      "text": "嗯，真是個適合運動的好天氣呢！"
+      "text": "嗯——\n真是個適合運動的好天氣呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-21",
-      "text": "偶像活動的秋天！我要把大家都超過去！"
+      "text": "偶像活動的秋天！\n我要把大家都超過去！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-22",
-      "text": "山都染紅了，就有種“秋天來了～”的感覺。"
+      "text": "漫山紅遍的時候，\n就滿是“秋天來了！”的感覺呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-23",
@@ -4600,11 +4600,11 @@
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-24",
-      "text": "因為是小孩子嘛，走路時不是會踩雪嗎？嘎吱嘎吱的！"
+      "text": "你小時候會不會踩著積雪走路呀？\n嘎吱嘎吱的！"
     },
     {
       "voiceAssetId": "sud_vo_system_hski_home_transition-25",
-      "text": "打雪仗的連勝紀錄，今年能延長多少呢？"
+      "text": "打雪仗的連勝紀錄，\n今年能延長多少呢？"
     },
     {
       "voiceAssetId": "sud_vo_system_hume_home_birthday-01",
@@ -5076,71 +5076,71 @@
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-01",
-      "text": "老師！\n只是試著叫叫您哇。"
+      "text": "老師！……呵呵。\n只是試著叫叫您哇。"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-02",
-      "text": "老師露出笑容的話，本人也開心哇！"
+      "text": "老師露出笑容的話，\n我也很開心哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-03",
-      "text": "嗚哇，今天又被訓練員訓斥了哇。"
+      "text": "嗚哇……\n今天又被訓練員訓斥了哇……"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-04",
-      "text": "通往出色偶像的道路真是險峻哇"
+      "text": "通往優秀偶像的道路，\n真是佈滿坎坷呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-05",
-      "text": "這所學園裡有本人最喜歡的姐姐大人在哇"
+      "text": "這所學園裡有我最喜歡的\n姐姐大人！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-06",
-      "text": "大家總說本人總是很有精神哇！"
+      "text": "大家都說我總是很有精神呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-07",
-      "text": "禮儀規矩從小時候起就一直在學習哇！"
+      "text": "禮儀規矩我從小時候起\n就一直在學習哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-08",
-      "text": "今天也在保健室和筱澤同學聊天了哇！"
+      "text": "今天也在保健室\n和筱澤同學聊天了呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-09",
-      "text": "本人才是學園最末位的偶像哇！"
+      "text": "我才是學園最後一名的偶像哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-10",
-      "text": "那場嚴格的訓練，是普通的訓練"
+      "text": "那麼嚴苛的訓練，\n居然只是普通課程……？"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-11",
-      "text": "月村同學或許並不只是可怕的人？"
+      "text": "月村同學或許，\n並非只有可怕的一面？"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-12",
-      "text": "無論多麼辛苦，本人都不會放棄哇！"
+      "text": "無論多麼辛苦，\n我都不會放棄哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-13",
-      "text": "哦，本人上雜誌封面了！"
+      "text": "我……我上雜誌封面了？！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-14",
-      "text": "祖父大人強人所難的要求說得太多了哇——！"
+      "text": "爺爺淨給老師提這種強人所難的\n要求，太過分了哇——！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-15",
-      "text": "終於邁出了成為出色偶像的一步哇！"
+      "text": "終於向著成為優秀偶像\n邁出了一步哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-16",
-      "text": "下次可否和本人一起出去呢？"
+      "text": "下次，可否請您陪我一同外出呢？"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-17",
-      "text": "本人還想繼續成就各種各樣的事情哇！"
+      "text": "我還想要完成各種各樣的目標哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-18",
@@ -5148,11 +5148,11 @@
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-19",
-      "text": "難道說，祖父大人又有什麼事了？"
+      "text": "莫非爺爺又要搞出什麼名堂……？"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-20",
-      "text": "真的學到了許多東西哇！"
+      "text": "我真的學到了許多東西哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-21",
@@ -5160,35 +5160,35 @@
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-22",
-      "text": "會讓您看到本人和老師一起努力的成果哇！"
+      "text": "就讓老師看看，\n我們一起努力的成果哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-23",
-      "text": "現在，會以本人能做到的全部去挑戰哇！"
+      "text": "現在，我會以我能做到的全部\n去挑戰哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-24",
-      "text": "本人不會對老師有所隱瞞哇！"
+      "text": "我不會對老師有所隱瞞的哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-25",
-      "text": "本人是否正在向出色的偶像靠近呢？"
+      "text": "我是不是正在慢慢接近\n一名優秀偶像的樣子呢？"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-29",
-      "text": "咲季姐姐大人邀請本人，本人完成了晨跑初體驗哇！"
+      "text": "承蒙咲季姐姐邀約，\n我第一次嘗試晨跑啦！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_cmmn-30",
-      "text": "若是從早上4點開始跑步，\n今天一整天\n都會變得軟綿綿哇"
+      "text": "早上4點開始跑步的話……\n今天一整天都會變得軟綿綿哇……"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_touch-01",
-      "text": "老師！本人就那麼軟乎乎的嗎？"
+      "text": "老師！\n我有那麼軟乎乎的嗎？！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_touch-02",
-      "text": "老師願意陪著本人，本人好開心哇！"
+      "text": "老師願意陪著我，\n我真的好開心哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-01",
@@ -5200,11 +5200,11 @@
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-03",
-      "text": "老師的午餐，本人非常感興趣哇。"
+      "text": "老師的午餐吃什麼……\n我非——常感興趣……"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-04",
-      "text": "即使肚子吃得很飽，也必須注意不要睡著才行"
+      "text": "就算吃得飽飽的，\n也得留神不能睡著了……"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-05",
@@ -5212,27 +5212,27 @@
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-06",
-      "text": "本人在小測驗裡拿到了比以前更好的分數！"
+      "text": "我在小測驗裡拿到了\n比以前更好的分數！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-07",
-      "text": "差不多該回去了，不然會太晚哇"
+      "text": "差不多該回家了，\n不然時間就太晚了哇。"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-08",
-      "text": "老師，今天本人還想再努力一小會兒哇！"
+      "text": "老師，今天我還想\n再努力一小會兒！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-09",
-      "text": "新年快樂！\n老師！"
+      "text": "新年快樂！老師！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-10",
-      "text": "那個……其實，本人試著親手做了巧克力……"
+      "text": "那個……其實，\n我試著親手做了巧克力……"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-11",
-      "text": "請給本人點心！\n不然本人就要惡作劇了哇！"
+      "text": "請給本人糖果！\n不然……我就要惡作劇了哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-12",
@@ -5240,55 +5240,55 @@
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-13",
-      "text": "真的，真的！\n今年承蒙您多多關照了！"
+      "text": "真的，真的非常感謝您！\n這一年承蒙您關照！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-14",
-      "text": "天氣變暖了，去野餐之類的怎麼樣？"
+      "text": "天氣漸漸暖和起來了，\n要不要一起去野餐呢？"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-15",
-      "text": "這個時節每年都會和家人一起賞花……"
+      "text": "這個時節，\n每年都會和家人一起賞花！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-16",
-      "text": "柔和又寧靜，\n真是美妙的季節哇"
+      "text": "柔和又寧靜，\n真是美妙的季節呢……"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-17",
-      "text": "遮陽傘和防曬霜！\n防曬對策萬無一失哇！"
+      "text": "遮陽傘……防曬霜！\n防曬對策萬無一失哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-18",
-      "text": "太熱了哇。好難受哇。"
+      "text": "太熱了哇……好難受哇……"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-19",
-      "text": "與大家一同度過。僅此而已，就能成為特別的夏天哇。"
+      "text": "和大家一同度過……光是這樣，\n就足以成為一個特別的夏天哇！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-20",
-      "text": "天氣變得有些涼，總覺得有些傷感。"
+      "text": "天氣變得有些涼，\n總覺得有些傷感……"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-21",
-      "text": "下次要和班上的大家一起在茶會上做夜宵哇！"
+      "text": "我要和班上的各位，\n在落葉堆那裡烤紅薯哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-22",
-      "text": "老師，請和本人一起去賞紅葉吧！"
+      "text": "老師，請和我一起去賞紅葉吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-23",
-      "text": "要好好管理身體狀態！這是偶像的基本哇！"
+      "text": "要好好管理身體狀態！\n這是偶像的基本呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-24",
-      "text": "嗚嗚……好冷哇。你也不想出門吧？"
+      "text": "嗚嗚……好冷哇……\n不想出門哇……"
     },
     {
       "voiceAssetId": "sud_vo_system_kcna_home_transition-25",
-      "text": "每年一到這個季節，本人就會被穿上毛茸茸的衣服哇"
+      "text": "每年一到這個季節，我就會\n被逼著穿上毛茸茸的衣服呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_kllj_home_birthday-01",
@@ -5528,15 +5528,15 @@
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-01",
-      "text": "你在學習嗎\n我可以教你哦\n我可以教你哦。"
+      "text": "你在學習嗎?\n我可以教你的，哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-02",
-      "text": "你喜歡我嗎？"
+      "text": "你是，喜歡我嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-03",
-      "text": "今天也肌肉痠痛\n呵呵呵呵"
+      "text": "今天也是肌肉痠痛的一天……\n呵呵呵……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-04",
@@ -5544,15 +5544,15 @@
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-05",
-      "text": "千奈和佑芽是朋友。喜歡。"
+      "text": "千奈和佑芽是我的朋友。\n喜歡。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-06",
-      "text": "一直很感謝保健老師。"
+      "text": "我一直都很感謝保健老師。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-07",
-      "text": "我就那麼難懂嗎？"
+      "text": "我有那麼難懂嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-08",
@@ -5560,91 +5560,91 @@
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-09",
-      "text": "你是怎麼把倒下的我帶回來的？\n是公主抱嗎"
+      "text": "你是怎麼把倒下的我帶回來的？\n公主抱？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-10",
-      "text": "尚未掌握。無論嘗試多少次，都只能看到倒下的未來。"
+      "text": "意象訓練……無論嘗試多少次，\n都只能看到倒下的未來。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-11",
-      "text": "偶像連吃飯也是訓練\n必須這樣才行"
+      "text": "偶像連吃飯也是訓練……\n呵呵……必須這樣才行……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-12",
-      "text": "偶像以外的愛好，大概不適合我吧。"
+      "text": "偶像以外的愛好……\n是不是都不適合我呢……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-13",
-      "text": "拉伸非常重要\n呵呵呵呵。"
+      "text": "拉伸非常重要……\n呵呵呵呵……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-14",
-      "text": "佑芽是按摩達人。製作人也讓她幫你按一按吧。"
+      "text": "佑芽是按摩達人。\n製作人也讓她幫你按一按吧。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-15",
-      "text": "我非常喜歡製作人。"
+      "text": "製作人……\n我好喜歡你……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-16",
-      "text": "當偶像真開心啊。"
+      "text": "當偶像……真開心啊。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-17",
-      "text": "製作人和我是同舟共濟\n呵呵呵"
+      "text": "製作人和我是命運共同體……\n呵呵呵……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-18",
-      "text": "嗯，讀過了。"
+      "text": "嗯？你叫我？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-19",
-      "text": "啊，休息結束。"
+      "text": "休息時間已經結束了嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-20",
-      "text": "回顧過去很重要。和研究一樣呢。"
+      "text": "回顧過去很重要。\n和研究一個道理呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-21",
-      "text": "製作人，我要和你說說話。"
+      "text": "製作人，能和我……說說話嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-22",
-      "text": "挑戰現在的我能做到什麼程度。【老婆婆】"
+      "text": "現在的我的極限在哪裡——\n挑戰一下。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-23",
-      "text": "期待站上舞臺\n我會全力以赴哦"
+      "text": "我好期待站上舞臺……\n我會全力以赴哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-24",
-      "text": "看我的成績。"
+      "text": "我的成績，看看嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-25",
-      "text": "全是課題呢。"
+      "text": "呵呵呵……全是課題呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-29",
-      "text": "今天早上4點起床，挑戰了跑步。\n感覺不錯。"
+      "text": "今天早上4點起床……\n挑戰了跑步……哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_cmmn-30",
-      "text": "如果我也像咲季那樣每天早上跑步，也許能變成體力怪物……？"
+      "text": "如果我也像咲季那樣每早上跑步，\n也許能變成體力怪物……的吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_touch-01",
-      "text": "製作人\n你是不是太喜歡我了？"
+      "text": "製作人……\n你是不是太喜歡我了？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_touch-02",
-      "text": "被你那樣盯著看\n我會害羞的。"
+      "text": "被你那樣盯著看……\n我會害羞的……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-01",
-      "text": "早上好\n先休息一下"
+      "text": "早上……好……\n先休息一下……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-02",
@@ -5656,27 +5656,27 @@
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-04",
-      "text": "下午的差額不用補了，所以和製作人一起呢。"
+      "text": "下午的理論課不用去，\n所以就和製作人待在一起呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-05",
-      "text": "地獄般的特訓要開始了\n呵呵呵呵呵呵呵呵"
+      "text": "地獄般的特訓要開始了……\n呵呵……呵呵呵呵……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-06",
-      "text": "會看著我上課嗎？"
+      "text": "你會來看我訓練嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-07",
-      "text": "我已經動不了了。製作人，希望你能送我回宿舍。"
+      "text": "我已經動不了了……\n製作人……送我回宿舍好不好……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-08",
-      "text": "還差一點就達成目標\n把剩下的體力全部用光"
+      "text": "還差一點就達成目標……\n把剩下的體力全部用光……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-09",
-      "text": "新年快樂。今年也請多關照哦。"
+      "text": "新年快樂。\n今年也請多關照，呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-10",
@@ -5684,63 +5684,63 @@
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-11",
-      "text": "點心和惡作劇，你想要哪個？"
+      "text": "給糖和搗蛋，你想選哪個？"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-12",
-      "text": "聖誕快樂\n我想要辛苦又痛苦的禮物呢"
+      "text": "聖誕快樂。好想要一份\n飽含艱辛與痛苦的禮物啊。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-13",
-      "text": "感謝這一年來的一切。真的非常非常辛苦呢。"
+      "text": "謝謝你陪我走過這一整年。\n真的是非常非常不容易呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-14",
-      "text": "賞花我倒不討厭，但脖子會累。"
+      "text": "賞櫻……\n我倒不討厭，但脖子會累。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-15",
-      "text": "適合散步、心情舒暢的季節\n也能消耗體力，一石二鳥"
+      "text": "適合散步、心情舒暢的季節……\n也能消耗體力，一石二鳥。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-16",
-      "text": "好暖和。就算在外面倒下，生命危險也很少呢。"
+      "text": "好暖和……就算在外面倒下，\n性命之憂的風險也比較低呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-17",
-      "text": "啊～好熱\n呵呵呵"
+      "text": "啊……好熱……\n呵呵呵……"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-18",
-      "text": "我覺得我的身體耐不住夏天的炎熱。"
+      "text": "我覺得我的身體耐不住\n夏天的炎熱。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-19",
-      "text": "我喜歡夏天。但它是不適合我的季節。"
+      "text": "我喜歡夏天。\n因為是不適合我的季節。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-20",
-      "text": "雖然到了方便活動的季節，但我的體力還是一樣沒有。"
+      "text": "雖然到了方便活動的季節，\n但我的體力還是老樣子——沒有。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-21",
-      "text": "多虧了落葉，就算摔倒也不太痛哦。"
+      "text": "多虧了落葉，\n就算倒下也不怎麼痛哦。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-22",
-      "text": "秋天有很多營養豐富的食物\n是健康之秋呢"
+      "text": "秋天有很多營養豐富的食物。\n是健康之秋，呢。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-23",
-      "text": "如果討厭靜電，帶上防靜電袋最有效。"
+      "text": "如果討厭靜電的話，\n套上靜電防護袋很有效。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-24",
-      "text": "如果積雪了，可能就到不了學校了。"
+      "text": "如果積雪了，\n我可能就到不了學校了。"
     },
     {
       "voiceAssetId": "sud_vo_system_shro_home_transition-25",
-      "text": "冷得快要凍僵了呢\n所以我喜歡冬天"
+      "text": "冷得快要凍僵了呢……\n所以我喜歡冬天。"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_birthday-01",
@@ -5748,123 +5748,123 @@
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-01",
-      "text": "我可以在這個房間擺毛絨玩偶嗎？是我在藝能戰上拍到的呀"
+      "text": "我可以在這個房間擺毛絨玩偶嗎？\n是我在遊戲廳裡抓到的啦——"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-02",
-      "text": "我差不多想去卡拉OK了，陪我去吧！P親！"
+      "text": "我差不多想去卡拉OK了，\n陪我去吧！P親！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-03",
-      "text": "學習什麼的，沒有獎勵可做不下去呢～"
+      "text": "學習這種事，\n沒有獎勵是堅持不下去的嘛～"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-04",
-      "text": "我的夢想，果然還是支援莉莉婭吧？"
+      "text": "我的夢想，\n大概是支援莉莉婭吧？"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-05",
-      "text": "下次休息天要和莉莉婭去玩哦！"
+      "text": "下次休息天我要和莉莉婭去玩哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-06",
-      "text": "之前拍的大頭貼，超好看的吧？"
+      "text": "之前拍的大頭貼，是不是超上鏡！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-07",
-      "text": "P親太認真了～身體會僵住的哦～"
+      "text": "P 親你也太正經啦～\n身子都要繃得僵硬啦～"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-08",
-      "text": "你忙的話要我幫忙嗎？\n結束後要請我吃肉包哦？"
+      "text": "忙的話我幫你？\n完事請我吃肉包子哈？"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-09",
-      "text": "P親，差不多可以放棄了哦"
+      "text": "P親，差不多可以放棄我了哦～"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-10",
-      "text": "糾纏不休的男人會被討厭的哦"
+      "text": "糾纏不休的男生可是\n會招人討厭的哦～"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-11",
-      "text": "訓練？比起那個，我更想約會呀"
+      "text": "訓練？……\n比起那個，我更想去約會呀～"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-12",
-      "text": "總是會想起受傷時的事呢"
+      "text": "我總是忍不住，\n想起當時受傷的場景……"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-13",
-      "text": "P親也太敏銳了！明明我只是有點消沉而已。"
+      "text": "P親你也太敏銳啦！\n我就只是稍微有點消沉而已……"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-14",
-      "text": "P親真是可靠過頭了！"
+      "text": "我說P親呀，你也太靠譜啦！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-15",
-      "text": "如果一天不夠的話，我會再和你約會的哦！"
+      "text": "要是一天不盡興，\n下次我再陪你約會好啦！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-16",
-      "text": "只要和P親在一起，我覺得自己能成為真正堅強的我！"
+      "text": "只要和P親在一起，我覺得我一定\n能變得更強大！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-17",
-      "text": "今天明天，都要一直請你多關照哦！"
+      "text": "今天也好，明天也好，\n往後一直都請多關照啦！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-18",
-      "text": "你出來了嗎？P親"
+      "text": "怎麼了，P親？"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-19",
-      "text": "是不是想和我聊天了？"
+      "text": "是想和我聊天了？"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-20",
-      "text": "這不就是我們的紀念嗎？"
+      "text": "也就是說，\n這是我們的專屬回憶啦？"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-21",
-      "text": "要一起玩啦。"
+      "text": "來聊一會唄？"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-22",
-      "text": "只能儘自己所能去做了吧！"
+      "text": "儘自己所能去做，\n只能這樣了對吧！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-23",
-      "text": "討厭不甘心，所以我會認真上的哦！"
+      "text": "我才不要留下遺憾，\n這次可要動真格的啦！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-24",
-      "text": "你就那麼想了解我嗎？"
+      "text": "原來你這麼想了解我呀～"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-25",
-      "text": "哎——，成績什麼的怎麼樣都無所謂吧。"
+      "text": "啊——成績什麼的，\n其實也沒那麼重要啦……"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-26",
-      "text": "P親教給我的事，我會好好記住的哦！"
+      "text": "P親教給我的那些，\n我全——都好好記著呢！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-27",
-      "text": "P親現在也幸福嗎？\n是的話就好了啊。"
+      "text": "P親現在，幸福嗎？\n嘿嘿……是的話就好啦——"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-28",
-      "text": "今後也要和P親一起，變得更加幸福哦！"
+      "text": "今後也要和P親一起，\n變得更加幸福哦！"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-29",
-      "text": "我啊，今天一大早就和咲季親一起去跑步了，不厲害嗎？"
+      "text": "我今天一大早就和咲季親一起去\n跑步了，不覺得很厲害嗎？"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_cmmn-30",
-      "text": "啊啊啊啊啊\n因為起了個大早去跑步，好睏啊——P親——"
+      "text": "啊啊啊……起了個大早去跑步，\n好睏啊——P親——"
     },
     {
       "voiceAssetId": "sud_vo_system_ssmk_home_touch-01",
@@ -6205,6 +6205,90 @@
     {
       "voiceAssetId": "sud_vo_system_ttmr_home_transition-25",
       "text": "明明這麼冷，為什麼還那麼有精神？"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-010_home_cmmn-01",
+      "text": "我的製作人就連打Call也必須\n全力以赴。明白了嗎。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-010_home_cmmn-02",
+      "text": "最強的笑容嗎。這樣如何？"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-010_home_cmmn-03",
+      "text": "這首歌我也要唱到完美給你看。因為我是偶像。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-jsna-3-021_home_cmmn-01",
+      "text": "我會用你製作的雷加利亞，去挑戰世界。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-jsna-3-021_home_cmmn-02",
+      "text": "可別忘了，你也是我的獵物。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-jsna-3-021_home_cmmn-03",
+      "text": "我才是獅子先生。明明我很有自信的。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_atbm_home_cmmn-26",
+      "text": "今後也要一起走下去。敢擅自離開，我可不饒你！"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_atbm_home_cmmn-27",
+      "text": "你自己說過的話，可別忘了。那可是確確實實約定好的。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_atbm_home_cmmn-28",
+      "text": "往後的漫長旅途，只要和你這傢伙一起，就不會無聊了吧。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-011_home_cmmn-01",
+      "text": "我就當自己是應援團長，來帶領大家往前衝！"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-011_home_cmmn-02",
+      "text": "無論失敗多少次，我都絕不會屈服。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-011_home_cmmn-03",
+      "text": "全力去唱吧。希望我的歌聲能帶給粉絲一些什麼。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_home_cmmn-01",
+      "text": "我要用自己的方式享受唱歌。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_home_cmmn-02",
+      "text": "你這傢伙一擺出首相的態度，我就亂了步調。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-atbm-3-015_home_cmmn-03",
+      "text": "我能有今天，都是多虧了你這傢伙。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-01",
+      "text": "您要給我的褒獎，\n我很期待哦。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-02",
+      "text": "從今往後也請您一直看著呢，\n最真實的我。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-hmsz-3-018_home_cmmn-03",
+      "text": "小毬也是、您也是，對我而言，\n都是與眾不同的重要之人。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-01",
+      "text": "老師的教誨一直留在我心中的哇。"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-02",
+      "text": "等狗狗們變多了以後，\n我再給老師看哦！"
+    },
+    {
+      "voiceAssetId": "sud_vo_system_cidol-kcna-3-019_home_cmmn-03",
+      "text": "居然說我像鬥牛犬……\n老師您真是的！"
     }
   ]
 }
