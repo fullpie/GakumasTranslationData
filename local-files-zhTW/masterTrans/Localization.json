@@ -30,8 +30,16 @@
       "description": "※可以透過特別指導進行自定義"
     },
     {
+      "id": "card.sort.research_event_consumption_item_bonus",
+      "description": "亞紗裡老師的培育研討會 活動獎勵"
+    },
+    {
+      "id": "card.sort.story_event_point_bonus",
+      "description": "冰渡香名江Episode0 活動獎勵"
+    },
+    {
       "id": "common.story_event_point",
-      "description": "亞紗裡老師的培育研討會"
+      "description": "活動Pt"
     },
     {
       "id": "competition.rehearsal_battle_confirm.label.description",
@@ -368,6 +376,10 @@
     {
       "id": "story.idol.others.birthday",
       "description": "其他"
+    },
+    {
+      "id": "story.story_event.section.main_story_condition_lock_text",
+      "description": "透過獲得任務Pt來解鎖"
     },
     {
       "id": "story.story_event.section.normal_condition_lock_text",

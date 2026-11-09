@@ -918,6 +918,12 @@
       "acquisitionRouteDescription": "培育等方式"
     },
     {
+      "id": "item-medal-story-character-introduction-001",
+      "name": "並肩走過的歲月",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
+      "acquisitionRouteDescription": "培育等方式"
+    },
+    {
       "id": "item-medal-story-event-001",
       "name": "友情禮花",
       "description": "可以在活動兌換所中兌換各式報酬",
@@ -2266,6 +2272,12 @@
       "name": "培育應援支援卡自選票據",
       "description": "可以在票據兌換所中兌換支援卡的票據",
       "acquisitionRouteDescription": "H.I.F挑戰突破1500萬次紀念！培育應援硬幣扭蛋"
+    },
+    {
+      "id": "item-selection-ticket-009",
+      "name": "2.5th Anniversary自選票據",
+      "description": "可以在票據兌換所中兌換培育用偶像以及支援卡的票據",
+      "acquisitionRouteDescription": "商店等方式"
     },
     {
       "id": "item-staminaregen-1",
