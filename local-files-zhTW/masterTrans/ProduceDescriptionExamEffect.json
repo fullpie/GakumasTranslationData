@@ -31,7 +31,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamStaminaReduceFix",
-      "name": "體力消耗"
+      "name": "消耗固定體力"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuff",
@@ -251,19 +251,19 @@
     },
     {
       "type": "ProduceExamEffectType_ExamReviewReduce",
-      "name": "好印象減少"
+      "name": "消耗好印象"
     },
     {
       "type": "ProduceExamEffectType_ExamAggressiveReduce",
-      "name": "幹勁減少"
+      "name": "消耗幹勁"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonBuffReduce",
-      "name": "集中減少"
+      "name": "消耗集中"
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-      "name": "好調減少"
+      "name": "消耗好調"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
@@ -319,7 +319,7 @@
     },
     {
       "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
-      "name": "絕好調減少"
+      "name": "消耗絕好調"
     },
     {
       "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
@@ -346,6 +346,10 @@
       "name": "強化狀態花費增加"
     },
     {
+      "type": "ProduceExamEffectType_ExamFullPowerPointReduceCancellable",
+      "name": "全力值低下"
+    },
+    {
       "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
       "name": "好調增加量追加"
     },
@@ -368,6 +372,18 @@
     {
       "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
       "name": "再演"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamMetamorphose",
+      "name": "蛻變（準備）"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamMetamorphoseAfter",
+      "name": "蛻變（展示）"
+    },
+    {
+      "type": "ProduceExamEffectType_ExamStaminaReduceFixAffected",
+      "name": "體力消耗"
     }
   ]
 }

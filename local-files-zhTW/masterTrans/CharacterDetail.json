@@ -254,6 +254,84 @@
       "content": "以「能賺錢的偶像」為目標的氛圍製造者。\n中等部直升的內部升學組。擁有豐富的舞蹈才能。\n學園評價與自我評價皆低，但似乎未發揮真正實力。\n因同時兼顧多份打工，總是顯得疲憊。"
     },
     {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年級生"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "165"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "50"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "85/55/81"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "獅子座"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "安倍 彩野夏"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "8月20日"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "靜岡縣"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "各類家務、護身術、歷史雜學"
+    },
+    {
+      "characterId": "hkne",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "照顧主人、運營「倉本千奈粉絲俱樂部」"
+    },
+    {
       "characterId": "hmsz",
       "type": "CharacterDetailType_Grade",
       "order": 1,

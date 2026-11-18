@@ -306,6 +306,12 @@
       "acquisitionRouteDescription": "兌換所等方式"
     },
     {
+      "id": "item-exchange-campaign-medal-2026kne-001",
+      "name": "冰渡香名江登場紀念＆2.5th Anniversary獎勵兌換券",
+      "description": "可以在活動兌換所中兌換各式報酬的道具",
+      "acquisitionRouteDescription": "培育"
+    },
+    {
       "id": "item-friend_coin",
       "name": "好友硬幣",
       "description": "可以在好友扭蛋中使用的硬幣",
@@ -358,6 +364,24 @@
       "name": "附帶技能卡皮膚的SSR P偶像必得扭蛋票據兌換券",
       "description": "可以在票據兌換所中兌換附帶技能卡皮膚的培育用偶像的必得扭蛋票據的券",
       "acquisitionRouteDescription": "STEP UP扭蛋的STEP3的附贈獎勵"
+    },
+    {
+      "id": "item-gacha-ticket-2.5th-anniv-ssr-idolcard",
+      "name": "2.5th Anniversary含有季節限定 SSR P偶像必得扭蛋票據",
+      "description": "可以在2.5th Anniversary含有季節限定 SSR P偶像必得扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gacha-ticket-2.5th-anniv-ssr-supportcard",
+      "name": "2.5th Anniversary含有季節限定 SSR 支援卡必得扭蛋票據",
+      "description": "可以在2.5th Anniversary含有季節限定 SSR 支援卡必得扭蛋票據中使用的票據",
+      "acquisitionRouteDescription": "活動兌換所"
+    },
+    {
+      "id": "item-gachaticket-2.5th-anniv-10-001",
+      "name": "2.5th Anniversary10連扭蛋票據",
+      "description": "可以在2.5th Anniversary10連扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
     },
     {
       "id": "item-gachaticket-2nd-anniv-10-001",
@@ -475,6 +499,12 @@
     },
     {
       "id": "item-gashaticket-new-wednesday-26-0909-1",
+      "name": "學馬星期三扭蛋票據",
+      "description": "可以在學馬星期三扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-gashaticket-new-wednesday-26-1118-1",
       "name": "學馬星期三扭蛋票據",
       "description": "可以在學馬星期三扭蛋中使用的票據",
       "acquisitionRouteDescription": ""
@@ -1226,6 +1256,24 @@
     {
       "id": "item-piece-idol_fktn-3-019",
       "name": "[GO MY WAY!!]藤田琴音的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hkne-1-000",
+      "name": "[學園生活]冰渡香名江的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hkne-2-000",
+      "name": "[懷揣憧憬一步步向前]冰渡香名江的碎片",
+      "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
+      "acquisitionRouteDescription": "扭蛋等方式"
+    },
+    {
+      "id": "item-piece-idol_hkne-3-000",
+      "name": "[蛻變]冰渡香名江的碎片",
       "description": "可以在培育用偶像的才能開花以及解鎖中使用的道具",
       "acquisitionRouteDescription": "扭蛋等方式"
     },
@@ -2223,6 +2271,18 @@
       "id": "item-selectgashaticket-gasha-01055-ticket-002",
       "name": "SSR P偶像出現率10倍！5連扭蛋票據",
       "description": "可以在SSR P偶像出現率10倍！5連扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-selectgashaticket-gasha-01070-ticket-001",
+      "name": "SSR P偶像必得2名！2連扭蛋票據",
+      "description": "可以在SSR P偶像必得2名！2連扭蛋中使用的票據",
+      "acquisitionRouteDescription": ""
+    },
+    {
+      "id": "item-selectgashaticket-gasha-01070-ticket-002",
+      "name": "SSR P偶像出現率10倍！10連扭蛋票據",
+      "description": "可以在SSR P偶像出現率10倍！10連扭蛋中使用的票據",
       "acquisitionRouteDescription": ""
     },
     {

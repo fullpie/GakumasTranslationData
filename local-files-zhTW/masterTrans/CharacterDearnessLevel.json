@@ -562,6 +562,56 @@
       "produceConditionDescription": "成為啟明星"
     },
     {
+      "characterId": "hkne",
+      "dearnessLevel": 1,
+      "produceConditionDescription": ""
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 2,
+      "produceConditionDescription": "培育中完成1次以上的訓練"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 3,
+      "produceConditionDescription": "培育中的期中考試合格後經過1周"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 4,
+      "produceConditionDescription": "培育2周目"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 5,
+      "produceConditionDescription": "以第1名透過期中考試"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 6,
+      "produceConditionDescription": "培育中歌唱能力450以上"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 7,
+      "produceConditionDescription": "獲得成就「零扣分表演」"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 8,
+      "produceConditionDescription": "培育中視覺能力1000以上"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 9,
+      "produceConditionDescription": "難易度「Pro」下的培育中以第1名透過最終考試"
+    },
+    {
+      "characterId": "hkne",
+      "dearnessLevel": 10,
+      "produceConditionDescription": "以A＋的評價結束培育，觀看True End"
+    },
+    {
       "characterId": "hmsz",
       "dearnessLevel": 1,
       "produceConditionDescription": ""

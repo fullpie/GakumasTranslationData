@@ -221,6 +221,22 @@
       "name": "嚴謹正直"
     },
     {
+      "id": "s_card-1-0013",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 機率低"
+        }
+      ],
+      "name": "侍奉前的準備運動"
+    },
+    {
       "id": "s_card-2-0000",
       "upgradeProduceCardProduceDescriptions": [
         {
@@ -1547,6 +1563,22 @@
         }
       ],
       "name": "兩個人一起做衣服"
+    },
+    {
+      "id": "s_card-2-0084",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 機率中等"
+        }
+      ],
+      "name": "忙亂大掃除"
     },
     {
       "id": "s_card-3-0000",
@@ -3387,6 +3419,22 @@
         }
       ],
       "name": "大家也來讀讀看！"
+    },
+    {
+      "id": "s_card-3-0115",
+      "upgradeProduceCardProduceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "text": "/ 機率高"
+        }
+      ],
+      "name": "大小姐、失禮了"
     },
     {
       "id": "s_card-3-0122",

@@ -126,6 +126,42 @@
       "name": "大蝴蝶結（藤田琴音）"
     },
     {
+      "id": "shop_costume_costume_head_hkne-hair-0001",
+      "name": "紫陽花髮飾（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0003",
+      "name": "圓框眼鏡（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0004",
+      "name": "貓耳（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0006",
+      "name": "初美☆配飾（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0007",
+      "name": "淚滴形眼鏡（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0008",
+      "name": "狗耳（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0009",
+      "name": "大蝴蝶結（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0023",
+      "name": "兔耳（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_costume_head_hkne-hair-0038",
+      "name": "喬裝用眼鏡（冰渡香名江）"
+    },
+    {
       "id": "shop_costume_costume_head_hmsz-hair-0001",
       "name": "紫陽花髮飾（秦谷美鈴）"
     },
@@ -412,6 +448,22 @@
     {
       "id": "shop_costume_fktn-trng-0002-resale",
       "name": "初星学園體操服（藤田琴音）"
+    },
+    {
+      "id": "shop_costume_hkne-cstm-0069",
+      "name": "兒童罩衫（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_hkne-cstm-0111",
+      "name": "水手服泳裝（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_hkne-othr-0002",
+      "name": "溫泉泳裝（冰渡香名江）"
+    },
+    {
+      "id": "shop_costume_hkne-trng-0002",
+      "name": "初星学園體操服（冰渡香名江）"
     },
     {
       "id": "shop_costume_hmsz-cstm-0069",
@@ -818,12 +870,24 @@
       "name": "【360°Live追加紀念僅限1次優惠！】寶石6000個"
     },
     {
+      "id": "shop_jewel_item-0040",
+      "name": "【僅限1次優惠！】寶石12300個"
+    },
+    {
+      "id": "shop_jewel_item-0041",
+      "name": "【僅限2次優惠！】寶石6000個"
+    },
+    {
       "id": "shop_jewel_item-0045",
       "name": "【僅限1次優惠！】寶石12300個"
     },
     {
       "id": "shop_pack_atbm-0001",
       "name": "【72小時限定】培育偶像優勝禮包（燕）"
+    },
+    {
+      "id": "shop_pack_hkne-0001",
+      "name": "【72小時限定】培育偶像優勝禮包（香名江）"
     },
     {
       "id": "shop_pack_hmsz-0001",
@@ -932,6 +996,14 @@
     {
       "id": "shop_pack_item-0071",
       "name": "The 2nd Period H.I.F選拔考試 舉辦紀念禮包"
+    },
+    {
+      "id": "shop_pack_item-0072",
+      "name": "2.5th Anniversary偶像禮包"
+    },
+    {
+      "id": "shop_pack_item-0073",
+      "name": "2.5th Anniversary支援禮包"
     },
     {
       "id": "shop_pack_item-0075",

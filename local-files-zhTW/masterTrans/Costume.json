@@ -626,6 +626,61 @@
       "description": "購買初星学園體操服（藤田琴音）"
     },
     {
+      "id": "hkne-cstm-0000",
+      "name": "初始",
+      "description": "初始持有"
+    },
+    {
+      "id": "hkne-cstm-0069",
+      "name": "兒童罩衫",
+      "description": "購買兒童罩衫（冰渡香名江）"
+    },
+    {
+      "id": "hkne-cstm-0108",
+      "name": "蛻變",
+      "description": "【蛻變】冰渡香名江 獲得"
+    },
+    {
+      "id": "hkne-cstm-0109",
+      "name": "蛻變",
+      "description": "【蛻變】冰渡香名江的才能開花第4階段 獲得"
+    },
+    {
+      "id": "hkne-cstm-0111",
+      "name": "水手服泳裝",
+      "description": "購買水手服泳裝（冰渡香名江）"
+    },
+    {
+      "id": "hkne-othr-0002",
+      "name": "溫泉泳裝",
+      "description": "購買溫泉泳裝（冰渡香名江）"
+    },
+    {
+      "id": "hkne-othr-0004",
+      "name": "倉本家的女僕裝",
+      "description": "初始持有"
+    },
+    {
+      "id": "hkne-schl-0000",
+      "name": "初星学園制服",
+      "description": "將冰渡香名江的親密度提升至Lv10"
+    },
+    {
+      "id": "hkne-trng-0000",
+      "name": "練習服",
+      "description": "初始持有"
+    },
+    {
+      "id": "hkne-trng-0001",
+      "name": "練習服",
+      "description": "冰渡香名江的大師成就達到Rank3"
+    },
+    {
+      "id": "hkne-trng-0002",
+      "name": "初星学園體操服",
+      "description": "購買初星学園體操服（冰渡香名江）"
+    },
+    {
       "id": "hmsz-casl-0002",
       "name": "鐘意的便服",
       "description": "活動獎勵 獲得"

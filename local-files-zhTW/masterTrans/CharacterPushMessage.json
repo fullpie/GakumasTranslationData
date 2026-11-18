@@ -281,6 +281,97 @@
       "message": "開心完成直播！\n有在做偶像工作的實感\n好幸福♡"
     },
     {
+      "characterId": "hkne",
+      "type": "PushType_ApFull",
+      "number": 1,
+      "title": "冰渡香名江",
+      "message": "疲勞消除了嗎？\n等大小姐結束後再安排我也沒關係，\n還請您指導我訓練"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_ApFull",
+      "number": 2,
+      "title": "冰渡香名江",
+      "message": "我的身體狀態非常好。\n差不多該開始訓練了，\n還請您多多指教"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_MoneyFull",
+      "number": 1,
+      "title": "冰渡香名江",
+      "message": "似乎可以領取金幣了。\n我們一起去領取吧"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_MoneyFull",
+      "number": 2,
+      "title": "冰渡香名江",
+      "message": "您好像忘記領取金幣了呢\n還請儘早領取"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_DailyMission",
+      "number": 1,
+      "title": "冰渡香名江",
+      "message": "……今天的任務\n似乎還沒有完成吧？\n建議您儘早完成"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_Login",
+      "number": 1,
+      "title": "冰渡香名江",
+      "message": "……那個，請您快點回來吧"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_PvpRateRemainingPlayCount",
+      "number": 1,
+      "title": "冰渡香名江",
+      "message": "今天的競賽\n似乎還沒有參加。\n讓我們儘早參加吧"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 1,
+      "title": "冰渡香名江",
+      "message": "雖、雖然非常緊張，\n但我覺得自己已經盡力\n呈現了一場不錯的迷你Live……"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 2,
+      "title": "冰渡香名江",
+      "message": "迷你Live已經結束了。\n我想馬上進行復盤，\n還請您陪我一起"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkMiniLiveFinish",
+      "number": 3,
+      "title": "冰渡香名江",
+      "message": "迷你Live已經結束了，\n還請您領取獎勵"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 1,
+      "title": "冰渡香名江",
+      "message": "直播已經結束了，\n請先領取獎勵。\n之後還請您陪我進行復盤"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 2,
+      "title": "冰渡香名江",
+      "message": "那個……\n雖然有很多讓我不知所措的地方，\n但這次直播真的很開心"
+    },
+    {
+      "characterId": "hkne",
+      "type": "PushType_WorkLiveStreamingFinish",
+      "number": 3,
+      "title": "冰渡香名江",
+      "message": "直播已經結束了。\n真希望有一天，\n也能和大小姐一起參加……！"
+    },
+    {
       "characterId": "hmsz",
       "type": "PushType_ApFull",
       "number": 1,

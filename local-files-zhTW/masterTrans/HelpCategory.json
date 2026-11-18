@@ -203,9 +203,21 @@
       "texts": []
     },
     {
+      "id": "help-refine",
+      "order": 101,
+      "name": "　",
+      "texts": []
+    },
+    {
       "id": "help-research-event",
       "order": 28,
       "name": "亞紗裡老師的培育研討會",
+      "texts": []
+    },
+    {
+      "id": "help-selectloginbonus",
+      "order": 102,
+      "name": "自選登入獎勵",
       "texts": []
     },
     {
@@ -248,6 +260,12 @@
       "id": "help-trail",
       "order": 30,
       "name": "回憶裡的服裝",
+      "texts": []
+    },
+    {
+      "id": "help-unitstoryevent",
+      "order": 103,
+      "name": "　",
       "texts": []
     }
   ]

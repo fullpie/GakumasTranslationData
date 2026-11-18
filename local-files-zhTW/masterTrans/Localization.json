@@ -123,7 +123,7 @@
     },
     {
       "id": "login_bonus.selectable.cancel_sheet.description",
-      "description": "稍後再選擇的話，可以從【主頁＞禮物＞自選登入獎勵】處進行領取。\n\n確定暫不選擇並返回主頁嗎？\n\\n<color=#u:Strong>※獎勵領取期限：{0}截止</color>\\n※若超過領取期限，在登入獎勵活動期間再次登入時，會自動把『SSR P偶像必得1名！扭蛋票據』傳送至「禮物」中</color>"
+      "description": "稍後再選擇的話，可以從【主頁＞禮物＞自選登入獎勵】處進行領取。\\n\\n確定暫不選擇並返回主頁嗎？\n\\n<color=#u:Strong>※獎勵領取期限：{0}截止\\n※若超過領取期限，在登入獎勵活動期間再次登入時，會自動把『SSR P偶像必得2名！扭蛋票據』傳送至「禮物」中</color>"
     },
     {
       "id": "memory.inherit.select_produce_card.before_select.message",
@@ -264,6 +264,10 @@
     {
       "id": "produce.sheet.drink_max.description",
       "description": "P飲料持有數量已達上限。\n請選擇保留的飲料。"
+    },
+    {
+      "id": "producer_ranking.character_detail_sheet.tower_no_layers",
+      "description": "預計在今後進行追加"
     },
     {
       "id": "producer_ranking.character_reward.description",

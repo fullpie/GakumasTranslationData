@@ -2798,6 +2798,41 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-017-01-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回覆最大體力的10%\n100%的機率，選擇1張技能卡"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "強化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n可降低成功率再次挑戰"
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-017-01-hmsz",
       "produceDescriptions": [
         {
@@ -2883,6 +2918,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-017-02-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "直接返回培育"
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-017-02-hmsz",
       "produceDescriptions": [
         {
@@ -2914,6 +2964,41 @@
     },
     {
       "id": "p_s_e_s-event-detail-activity-001-017-1-01-atbm",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回覆最大體力的10%\n70%的機率成功，可以選擇1張技能卡"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "Label_ProduceCardUpgrade",
+          "text": "強化"
+        },
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "\n30%的機率失敗，什麼也不會發生"
+        }
+      ]
+    },
+    {
+      "id": "p_s_e_s-event-detail-activity-001-017-1-01-hkne",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3033,6 +3118,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-017-1-02-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "直接返回培育"
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-017-1-02-hmsz",
       "produceDescriptions": [
         {
@@ -3064,6 +3164,21 @@
     },
     {
       "id": "p_s_e_s-event-detail-activity-001-018-01-atbm",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回覆最大體力的40%\n100%機率成功，選擇並獲得技能卡（大機率SSR）\n可降低成功率再次挑戰"
+        }
+      ]
+    },
+    {
+      "id": "p_s_e_s-event-detail-activity-001-018-01-hkne",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -3123,6 +3238,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-018-02-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "直接返回培育"
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-018-02-hmsz",
       "produceDescriptions": [
         {
@@ -3168,6 +3298,21 @@
       ]
     },
     {
+      "id": "p_s_e_s-event-detail-activity-001-018-1-01-hkne",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "回覆最大體力的40%\n70%的機率成功，選擇並獲得技能卡（大機率SSR）\n30%的機率失敗，獲得干擾卡「睡意」"
+        }
+      ]
+    },
+    {
       "id": "p_s_e_s-event-detail-activity-001-018-1-01-hmsz",
       "produceDescriptions": [
         {
@@ -3199,6 +3344,21 @@
     },
     {
       "id": "p_s_e_s-event-detail-activity-001-018-1-02-atbm",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "直接返回培育"
+        }
+      ]
+    },
+    {
+      "id": "p_s_e_s-event-detail-activity-001-018-1-02-hkne",
       "produceDescriptions": [
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
